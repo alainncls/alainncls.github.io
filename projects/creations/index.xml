@@ -12,30 +12,31 @@
     
     
     <item>
-      <title>BOSH release for Bamboo &amp; Remote Agents</title>
-      <link>alainncls.github.io/projects/creations/bosh-agents/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <title>Documentaire radio</title>
+      <link>alainncls.github.io/projects/creations/documentaire-radio/</link>
+      <pubDate>Tue, 07 Jan 2020 15:00:28 +0000</pubDate>
       
-      <guid>alainncls.github.io/projects/creations/bosh-agents/</guid>
-      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip;is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
+      <guid>alainncls.github.io/projects/creations/documentaire-radio/</guid>
+      <description>Documentaire réalisé pour Radio Mille-Pattes dans le cadre de l&amp;rsquo;émission Soul Brothers.</description>
     </item>
     
     <item>
-      <title>Atlassian Marketplace Plugins</title>
-      <link>alainncls.github.io/projects/creations/marketplace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Installation interactive</title>
+      <link>alainncls.github.io/projects/creations/installation-interactive/</link>
+      <pubDate>Thu, 07 Nov 2019 15:00:28 +0000</pubDate>
       
-      <guid>alainncls.github.io/projects/creations/marketplace/</guid>
-      <description>Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.</description>
+      <guid>alainncls.github.io/projects/creations/installation-interactive/</guid>
+      <description>CONTACT est le projet d’installation clôturant la spécialité &amp;ldquo;Scénographie sonore&amp;rdquo; des étudiants de la promotion Son 2020 de l’École nationale supérieure Louis-Lumière. Il a été présenté en novembre 2019 à la Muse en Circuit, centre national de création musicale à Alfortville (94, France).
+Présentation PDF</description>
     </item>
     
     <item>
-      <title>Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</title>
-      <link>alainncls.github.io/projects/creations/docker-marketplace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Enregistrement Clarinette</title>
+      <link>alainncls.github.io/projects/creations/enregistrement-clarinette/</link>
+      <pubDate>Mon, 10 Jun 2019 15:00:28 +0000</pubDate>
       
-      <guid>alainncls.github.io/projects/creations/docker-marketplace/</guid>
-      <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace.Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
+      <guid>alainncls.github.io/projects/creations/enregistrement-clarinette/</guid>
+      <description>Enregistré à l&amp;rsquo;ENS Louis-Lumière en juin 2019 Ingénieur du Son : Vincent Nicolas Assistant Ingénieur du Son : Martin Guesney Cette vidéo est à usage exclusivement non-commercial Audio MP3 haute qualité 320 kbps</description>
     </item>
     
   </channel>
