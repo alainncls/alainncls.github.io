@@ -3,39 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>alainncls.github.io/publications/</loc>
-    <lastmod>2020-01-07T16:47:30+00:00</lastmod>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>alainncls.github.io/projects/creations/documentaire-radio/</loc>
+    <loc>alainncls.github.io/projects/documentaire-radio/</loc>
     <lastmod>2020-01-07T15:00:28+00:00</lastmod>
     <priority>1</priority>
   </url>
   
   <url>
-    <loc>alainncls.github.io/projects/creations/</loc>
-    <lastmod>2020-01-07T15:00:28+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>alainncls.github.io/projects/creations/installation-interactive/</loc>
+    <loc>alainncls.github.io/projects/installation-interactive/</loc>
     <lastmod>2019-11-07T15:00:28+00:00</lastmod>
     <priority>1</priority>
   </url>
   
   <url>
-    <loc>alainncls.github.io/projects/creations/enregistrement-clarinette/</loc>
+    <loc>alainncls.github.io/projects/enregistrement-clarinette/</loc>
     <lastmod>2019-06-10T15:00:28+00:00</lastmod>
     <priority>1</priority>
-  </url>
-  
-  <url>
-    <loc>alainncls.github.io/projects/contributions/</loc>
-    <lastmod>2020-01-07T16:49:15+00:00</lastmod>
-    <priority>0.5</priority>
   </url>
   
   <url>
@@ -45,14 +27,14 @@
   </url>
   
   <url>
-    <loc>alainncls.github.io/projects/</loc>
-    <lastmod>2020-01-07T16:49:15+00:00</lastmod>
-    <priority>0.9</priority>
+    <loc>alainncls.github.io/tags/documentaire/</loc>
+    <lastmod>2020-01-07T15:00:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>alainncls.github.io/tags/documentaire/</loc>
+    <loc>alainncls.github.io/projects/</loc>
     <lastmod>2020-01-07T15:00:28+00:00</lastmod>
+    <priority>0.9</priority>
   </url>
   
   <url>

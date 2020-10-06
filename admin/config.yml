@@ -29,7 +29,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Date de publication", name: "date", widget: "datetime" }
       - { label: "Affiché ?", name: "featured", widget: "boolean", default: true }
       - { label: "Lien vers le projet", name: "link", widget: "string" }
-      - { label: "Image", name: image, widget: 'image', required: false}
+      - { label: "Image", name: image, widget: 'image', required: false }
       - { label: "Description courte (affichée sur la page principale)", name: "description", widget: "string" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Poids (plus petit est mis en avant)", name: "weight", widget: "number", valueType: float, step: 10, min: 0, max: 1000 }
