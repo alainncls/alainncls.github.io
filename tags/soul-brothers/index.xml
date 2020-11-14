@@ -2,21 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>soul brothers on Vincent Nicolas</title>
-    <link>alainncls.github.io/tags/soul-brothers/</link>
+    <link>https://alainncls.github.io/tags/soul-brothers/</link>
     <description>Recent content in soul brothers on Vincent Nicolas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate>
-    
-	<atom:link href="alainncls.github.io/tags/soul-brothers/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://alainncls.github.io/tags/soul-brothers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Documentaire radio</title>
-      <link>alainncls.github.io/projects/documentaire-radio/</link>
+      <link>https://alainncls.github.io/projects/documentaire-radio/</link>
       <pubDate>Tue, 07 Jan 2020 15:00:28 +0000</pubDate>
       
-      <guid>alainncls.github.io/projects/documentaire-radio/</guid>
+      <guid>https://alainncls.github.io/projects/documentaire-radio/</guid>
       <description>Documentaire réalisé pour Radio Mille-Pattes dans le cadre de l&amp;rsquo;émission Soul Brothers.</description>
     </item>
     
