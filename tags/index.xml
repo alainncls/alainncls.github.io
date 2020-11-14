@@ -2,147 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Vincent Nicolas</title>
-    <link>alainncls.github.io/tags/</link>
+    <link>https://alainncls.github.io/tags/</link>
     <description>Recent content in Tags on Vincent Nicolas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate>
-    
-	<atom:link href="alainncls.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://alainncls.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>documentaire</title>
-      <link>alainncls.github.io/tags/documentaire/</link>
+      <link>https://alainncls.github.io/tags/documentaire/</link>
       <pubDate>Tue, 07 Jan 2020 15:00:28 +0000</pubDate>
       
-      <guid>alainncls.github.io/tags/documentaire/</guid>
+      <guid>https://alainncls.github.io/tags/documentaire/</guid>
       <description></description>
     </item>
     
     <item>
       <title>radio</title>
-      <link>alainncls.github.io/tags/radio/</link>
+      <link>https://alainncls.github.io/tags/radio/</link>
       <pubDate>Tue, 07 Jan 2020 15:00:28 +0000</pubDate>
       
-      <guid>alainncls.github.io/tags/radio/</guid>
+      <guid>https://alainncls.github.io/tags/radio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>radio mille-pattes</title>
-      <link>alainncls.github.io/tags/radio-mille-pattes/</link>
+      <link>https://alainncls.github.io/tags/radio-mille-pattes/</link>
       <pubDate>Tue, 07 Jan 2020 15:00:28 +0000</pubDate>
       
-      <guid>alainncls.github.io/tags/radio-mille-pattes/</guid>
+      <guid>https://alainncls.github.io/tags/radio-mille-pattes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>soul brothers</title>
-      <link>alainncls.github.io/tags/soul-brothers/</link>
+      <link>https://alainncls.github.io/tags/soul-brothers/</link>
       <pubDate>Tue, 07 Jan 2020 15:00:28 +0000</pubDate>
       
-      <guid>alainncls.github.io/tags/soul-brothers/</guid>
+      <guid>https://alainncls.github.io/tags/soul-brothers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>collectif LaClim</title>
-      <link>alainncls.github.io/tags/collectif-laclim/</link>
+      <link>https://alainncls.github.io/tags/collectif-laclim/</link>
       <pubDate>Thu, 07 Nov 2019 15:00:28 +0000</pubDate>
       
-      <guid>alainncls.github.io/tags/collectif-laclim/</guid>
+      <guid>https://alainncls.github.io/tags/collectif-laclim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>contact</title>
-      <link>alainncls.github.io/tags/contact/</link>
+      <link>https://alainncls.github.io/tags/contact/</link>
       <pubDate>Thu, 07 Nov 2019 15:00:28 +0000</pubDate>
       
-      <guid>alainncls.github.io/tags/contact/</guid>
+      <guid>https://alainncls.github.io/tags/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>installation interactive</title>
-      <link>alainncls.github.io/tags/installation-interactive/</link>
+      <link>https://alainncls.github.io/tags/installation-interactive/</link>
       <pubDate>Thu, 07 Nov 2019 15:00:28 +0000</pubDate>
       
-      <guid>alainncls.github.io/tags/installation-interactive/</guid>
+      <guid>https://alainncls.github.io/tags/installation-interactive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>clarinette</title>
-      <link>alainncls.github.io/tags/clarinette/</link>
+      <link>https://alainncls.github.io/tags/clarinette/</link>
       <pubDate>Mon, 10 Jun 2019 15:00:28 +0000</pubDate>
       
-      <guid>alainncls.github.io/tags/clarinette/</guid>
+      <guid>https://alainncls.github.io/tags/clarinette/</guid>
       <description></description>
     </item>
     
     <item>
       <title>enregistrement</title>
-      <link>alainncls.github.io/tags/enregistrement/</link>
+      <link>https://alainncls.github.io/tags/enregistrement/</link>
       <pubDate>Mon, 10 Jun 2019 15:00:28 +0000</pubDate>
       
-      <guid>alainncls.github.io/tags/enregistrement/</guid>
+      <guid>https://alainncls.github.io/tags/enregistrement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joséphine Besançon</title>
-      <link>alainncls.github.io/tags/jos%C3%A9phine-besan%C3%A7on/</link>
+      <link>https://alainncls.github.io/tags/jos%C3%A9phine-besan%C3%A7on/</link>
       <pubDate>Mon, 10 Jun 2019 15:00:28 +0000</pubDate>
       
-      <guid>alainncls.github.io/tags/jos%C3%A9phine-besan%C3%A7on/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>apache</title>
-      <link>alainncls.github.io/tags/apache/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>alainncls.github.io/tags/apache/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>redirect</title>
-      <link>alainncls.github.io/tags/redirect/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>alainncls.github.io/tags/redirect/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rewrite</title>
-      <link>alainncls.github.io/tags/rewrite/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>alainncls.github.io/tags/rewrite/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ssl</title>
-      <link>alainncls.github.io/tags/ssl/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>alainncls.github.io/tags/ssl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>web development</title>
-      <link>alainncls.github.io/tags/web-development/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>alainncls.github.io/tags/web-development/</guid>
+      <guid>https://alainncls.github.io/tags/jos%C3%A9phine-besan%C3%A7on/</guid>
       <description></description>
     </item>
     
