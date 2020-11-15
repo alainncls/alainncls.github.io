@@ -3,92 +3,457 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://alainncls.github.io/projects/documentaire-radio/</loc>
-    <lastmod>2020-01-07T15:00:28+00:00</lastmod>
+    <loc>https://alainnicolas.fr/projects/2020-09-futurmaster-master-data/</loc>
+    <lastmod>2020-09-01T15:00:28+00:00</lastmod>
     <priority>1</priority>
   </url>
   
   <url>
-    <loc>https://alainncls.github.io/projects/installation-interactive/</loc>
-    <lastmod>2019-11-07T15:00:28+00:00</lastmod>
+    <loc>https://alainnicolas.fr/projects/2019-07-futurmaster-calibrate-model/</loc>
+    <lastmod>2019-07-01T15:00:28+00:00</lastmod>
     <priority>1</priority>
   </url>
   
   <url>
-    <loc>https://alainncls.github.io/projects/enregistrement-clarinette/</loc>
-    <lastmod>2019-06-10T15:00:28+00:00</lastmod>
+    <loc>https://alainnicolas.fr/projects/2018-09-bnp-blockchain/</loc>
+    <lastmod>2018-09-01T15:00:28+00:00</lastmod>
     <priority>1</priority>
   </url>
   
   <url>
-    <loc>https://alainncls.github.io/</loc>
+    <loc>https://alainnicolas.fr/projects/2016-12-talan-talancoin/</loc>
+    <lastmod>2018-06-01T15:00:28+00:00</lastmod>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/projects/2018-06-vct-vcoin/</loc>
+    <lastmod>2018-06-01T15:00:28+00:00</lastmod>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/projects/2016-01-coface/</loc>
+    <lastmod>2016-01-01T15:00:28+00:00</lastmod>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/projects/2015-10-epaye/</loc>
+    <lastmod>2015-10-01T15:00:28+00:00</lastmod>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/projects/2015-07-gefco/</loc>
+    <lastmod>2015-07-01T15:00:28+00:00</lastmod>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/docker-docker/</loc>
+    <lastmod>2020-09-01T15:00:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/oracledb-fas-fa-database/</loc>
+    <lastmod>2020-09-01T15:00:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/projects/</loc>
+    <lastmod>2020-09-01T15:00:28+00:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/react-react/</loc>
+    <lastmod>2020-09-01T15:00:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/spring-boot-java/</loc>
+    <lastmod>2020-09-01T15:00:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/</loc>
+    <lastmod>2020-09-01T15:00:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/</loc>
     <lastmod>2020-08-16T18:56:13-05:00</lastmod>
     <priority>1</priority>
   </url>
   
   <url>
-    <loc>https://alainncls.github.io/tags/documentaire/</loc>
-    <lastmod>2020-01-07T15:00:28+00:00</lastmod>
+    <loc>https://alainnicolas.fr/tags/blockchain/</loc>
+    <lastmod>2020-03-04T07:18:05+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alainncls.github.io/projects/</loc>
-    <lastmod>2020-01-07T15:00:28+00:00</lastmod>
-    <priority>0.9</priority>
+    <loc>https://alainnicolas.fr/blog/blockchain-projet-scolaire-monde-entreprise/</loc>
+    <lastmod>2020-03-04T07:18:05+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alainncls.github.io/tags/radio/</loc>
-    <lastmod>2020-01-07T15:00:28+00:00</lastmod>
+    <loc>https://alainnicolas.fr/blog/</loc>
+    <lastmod>2020-03-04T07:18:05+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alainncls.github.io/tags/radio-mille-pattes/</loc>
-    <lastmod>2020-01-07T15:00:28+00:00</lastmod>
+    <loc>https://alainnicolas.fr/tags/epf/</loc>
+    <lastmod>2020-03-04T07:18:05+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alainncls.github.io/tags/soul-brothers/</loc>
-    <lastmod>2020-01-07T15:00:28+00:00</lastmod>
+    <loc>https://alainnicolas.fr/tags/formation/</loc>
+    <lastmod>2020-03-04T07:18:05+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alainncls.github.io/tags/</loc>
-    <lastmod>2020-01-07T15:00:28+00:00</lastmod>
+    <loc>https://alainnicolas.fr/blog/blockchain-former-les-ingenieurs-de-demain/</loc>
+    <lastmod>2020-01-18T17:52:05+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alainncls.github.io/tags/collectif-laclim/</loc>
-    <lastmod>2019-11-07T15:00:28+00:00</lastmod>
+    <loc>https://alainnicolas.fr/tags/mongodb-mongodb/</loc>
+    <lastmod>2019-07-01T15:00:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alainncls.github.io/tags/contact/</loc>
-    <lastmod>2019-11-07T15:00:28+00:00</lastmod>
+    <loc>https://alainnicolas.fr/tags/corda/</loc>
+    <lastmod>2019-04-15T16:22:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alainncls.github.io/tags/installation-interactive/</loc>
-    <lastmod>2019-11-07T15:00:28+00:00</lastmod>
+    <loc>https://alainnicolas.fr/tags/dlt/</loc>
+    <lastmod>2019-04-15T16:22:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alainncls.github.io/tags/clarinette/</loc>
-    <lastmod>2019-06-10T15:00:28+00:00</lastmod>
+    <loc>https://alainnicolas.fr/tags/r3/</loc>
+    <lastmod>2019-04-15T16:22:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alainncls.github.io/tags/enregistrement/</loc>
-    <lastmod>2019-06-10T15:00:28+00:00</lastmod>
+    <loc>https://alainnicolas.fr/blog/r3-corda-limites/</loc>
+    <lastmod>2019-04-15T16:22:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alainncls.github.io/tags/jos%C3%A9phine-besan%C3%A7on/</loc>
-    <lastmod>2019-06-10T15:00:28+00:00</lastmod>
+    <loc>https://alainnicolas.fr/blog/r3-corda-presentation/</loc>
+    <lastmod>2019-03-11T14:51:37+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alainncls.github.io/search/</loc>
+    <loc>https://alainnicolas.fr/tags/asseth/</loc>
+    <lastmod>2019-03-01T10:00:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/meetup/</loc>
+    <lastmod>2019-03-01T10:00:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/blog/asseth-meetup-fevrier/</loc>
+    <lastmod>2019-03-01T10:00:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/blog/meetup-lasseth-recoit-tribute/</loc>
+    <lastmod>2018-11-09T18:08:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/tribute/</loc>
+    <lastmod>2018-11-09T18:08:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/quorum/</loc>
+    <lastmod>2018-09-01T15:00:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/shell-fas-fa-terminal/</loc>
+    <lastmod>2018-09-01T15:00:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/android-android/</loc>
+    <lastmod>2018-06-01T15:00:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/angular-angularjs/</loc>
+    <lastmod>2018-06-01T15:00:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/ethereum-fab-fa-ethereum/</loc>
+    <lastmod>2018-06-01T15:00:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/ios-apple/</loc>
+    <lastmod>2018-06-01T15:00:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/colony/</loc>
+    <lastmod>2018-02-13T12:05:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/blog/meetup-asseth-janvier/</loc>
+    <lastmod>2018-02-13T12:05:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/ethereum/</loc>
+    <lastmod>2018-02-01T14:31:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/ganache/</loc>
+    <lastmod>2018-02-01T14:31:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/blog/presentation-ganache/</loc>
+    <lastmod>2018-02-01T14:31:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/truffle/</loc>
+    <lastmod>2018-02-01T14:31:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/collision/</loc>
+    <lastmod>2017-12-07T08:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/blog/collision-sha-1-securite/</loc>
+    <lastmod>2017-12-07T08:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/concentration/</loc>
+    <lastmod>2017-12-07T08:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/blog/concentration-musique-developpement/</loc>
+    <lastmod>2017-12-07T08:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/d%C3%A9veloppement-logiciel/</loc>
+    <lastmod>2017-12-07T08:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/google/</loc>
+    <lastmod>2017-12-07T08:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/hachage/</loc>
+    <lastmod>2017-12-07T08:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/musique/</loc>
+    <lastmod>2017-12-07T08:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/sha-1/</loc>
+    <lastmod>2017-12-07T08:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/s%C3%A9curit%C3%A9/</loc>
+    <lastmod>2017-12-07T08:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/microsoft/</loc>
+    <lastmod>2017-11-30T08:24:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/onedrive/</loc>
+    <lastmod>2017-11-30T08:24:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/publicit%C3%A9/</loc>
+    <lastmod>2017-11-30T08:24:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/blog/windows-10-publicite-explorateur/</loc>
+    <lastmod>2017-11-30T08:24:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/devcon3/</loc>
+    <lastmod>2017-11-16T16:10:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/blog/meetup-asseth-devcon3-talan-ethereum/</loc>
+    <lastmod>2017-11-16T16:10:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/css/</loc>
+    <lastmod>2017-10-24T09:21:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/https/</loc>
+    <lastmod>2017-10-24T09:21:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/humantalks/</loc>
+    <lastmod>2017-10-24T09:21:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/blog/humantalks-talan/</loc>
+    <lastmod>2017-10-24T09:21:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/cryptomonnaie/</loc>
+    <lastmod>2017-10-17T15:39:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/blog/quest-ce-que-talancoin/</loc>
+    <lastmod>2017-10-17T15:39:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/talancoin/</loc>
+    <lastmod>2017-10-17T15:39:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/angular/</loc>
+    <lastmod>2017-03-02T09:01:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/angularjs/</loc>
+    <lastmod>2017-03-02T09:01:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/javascript/</loc>
+    <lastmod>2017-03-02T09:01:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/blog/oubliez-angular-3-voici-angular-4/</loc>
+    <lastmod>2017-03-02T09:01:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/d%C3%A9veloppement/</loc>
+    <lastmod>2017-02-23T13:08:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/java/</loc>
+    <lastmod>2017-02-23T13:08:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/java-ee/</loc>
+    <lastmod>2017-02-23T13:08:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/blog/resultats-sondage-java-ee/</loc>
+    <lastmod>2017-02-23T13:08:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/javaone/</loc>
+    <lastmod>2017-02-23T13:08:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/oracle/</loc>
+    <lastmod>2017-02-23T13:08:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/human-coders/</loc>
+    <lastmod>2017-02-01T13:34:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/human-talks/</loc>
+    <lastmod>2017-02-01T13:34:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/blog/presentation-meetup-human-talks/</loc>
+    <lastmod>2017-02-01T13:34:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/r%C3%A9seautage/</loc>
+    <lastmod>2017-02-01T13:34:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/blog/java-ee-nouvelle-orientation-bonne-nouvelle/</loc>
+    <lastmod>2016-11-16T09:00:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/sun/</loc>
+    <lastmod>2016-11-16T09:00:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/jquery-jquery/</loc>
+    <lastmod>2016-01-01T15:00:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/jsp-java/</loc>
+    <lastmod>2016-01-01T15:00:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/spring-mvc-java/</loc>
+    <lastmod>2016-01-01T15:00:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/mysql-mysql/</loc>
+    <lastmod>2015-10-01T15:00:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/tags/java-swing-java/</loc>
+    <lastmod>2015-07-01T15:00:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/search/</loc>
     <priority>0.1</priority>
   </url>
   
