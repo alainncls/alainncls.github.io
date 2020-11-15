@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>corda on Alain Nicolas</title>
-    <link>alainnicolas.fr/tags/corda/</link>
+    <link>http://alainnicolas.fr/tags/corda/</link>
     <description>Recent content in corda on Alain Nicolas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 15 Apr 2019 16:22:37 +0200</lastBuildDate><atom:link href="alainnicolas.fr/tags/corda/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Apr 2019 16:22:37 +0200</lastBuildDate><atom:link href="http://alainnicolas.fr/tags/corda/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BNP CIB - Blockchain-as-a-Service</title>
-      <link>alainnicolas.fr/projects/2018-09-bnp-blockchain/</link>
+      <link>http://alainnicolas.fr/projects/2018-09-bnp-blockchain/</link>
       <pubDate>Sat, 01 Sep 2018 15:00:28 +0000</pubDate>
       
-      <guid>alainnicolas.fr/projects/2018-09-bnp-blockchain/</guid>
+      <guid>http://alainnicolas.fr/projects/2018-09-bnp-blockchain/</guid>
       <description>Création d&amp;rsquo;une solution &amp;ldquo;Blockchain as a Service&amp;rdquo; : hébergement &amp;ldquo;on premises&amp;rdquo; de nœuds Corda Enterprise, Quorum et Fabric.</description>
     </item>
     
     <item>
       <title>R3 Corda : Limites</title>
-      <link>alainnicolas.fr/blog/r3-corda-limites/</link>
+      <link>http://alainnicolas.fr/blog/r3-corda-limites/</link>
       <pubDate>Mon, 15 Apr 2019 16:22:37 +0200</pubDate>
       
-      <guid>alainnicolas.fr/blog/r3-corda-limites/</guid>
+      <guid>http://alainnicolas.fr/blog/r3-corda-limites/</guid>
       <description>Nous avons vu dans un article précédent la présentation des grands principes de Corda, le DLT (Distributed Ledger Technology) développé par le consortium R3. Utilisé en très grande majorité par des banques, Corda semble répondre à de nombreux besoins non assouvis par les blockchains publiques. Nous allons désormais tâcher d’explorer les limites de Corda.
    Est-ce que c’est une blockchain ? A question directe … réponse directe : non.</description>
     </item>
     
     <item>
       <title>R3 Corda : Presentation</title>
-      <link>alainnicolas.fr/blog/r3-corda-presentation/</link>
+      <link>http://alainnicolas.fr/blog/r3-corda-presentation/</link>
       <pubDate>Mon, 11 Mar 2019 14:51:37 +0100</pubDate>
       
-      <guid>alainnicolas.fr/blog/r3-corda-presentation/</guid>
+      <guid>http://alainnicolas.fr/blog/r3-corda-presentation/</guid>
       <description>Les technologies Blockchain &amp;amp; DLT (Distributed Ledger Technology) sont nombreuses. Nous allons ici nous concentrer sur Corda, un DLT développé par le consortium R3.
    Genèse du projet A l’origine de Corda : cinq problématiques des blockchains publiques les rendent inadaptées à l’utilisation en entreprise. Nous allons commencer par détailler ces problématiques.
  Manque de confidentialité Les blockchains classiques telles qu’Ethereum proposent un registre complet distribué entre tous les participants (les ‘nœuds’).</description>
