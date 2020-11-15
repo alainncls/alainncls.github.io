@@ -7,11 +7,10 @@
     vertical-align: sub;
 }
 
-/* ensure items with short summarues push date over image */
+/* ensure items with short summaries push date over image */
 .publication-content {
     width: 90%;
 }
-
 
 h3 {
     margin-top: 40px;
@@ -25,7 +24,6 @@ div.skills-heading {
     margin-top: 1em;
     margin-bottom: 0 !important;
 }
-
 
 /* From https://codepen.io/wbeeftink/pen/dIaDH */
 
@@ -79,19 +77,19 @@ div.skills-heading {
 }
 
 .tag:hover {
-    background-color: crimson;
+    background-color: #676767;
     color: white;
+    text-decoration: none;
 }
 
 .tag:hover::after {
-    border-left-color: crimson;
+    border-left-color: #676767;
 }
 
 .project-fact {
     font-size: 80%;
     font-style: italic;
 }
-
 
 .resume-section blockquote {
     border-left: 4px solid #3874bd;
