@@ -63,12 +63,318 @@
   </url>
   
   <url>
-    <loc>https://alainncls.github.io/portfolio-alain/search/</loc>
-    <priority>0.1</priority>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/blockchain/</loc>
+    <lastmod>2020-03-04T07:18:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/blog/blockchain-projet-scolaire-monde-entreprise/</loc>
+    <lastmod>2020-03-04T07:18:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/blog/</loc>
+    <lastmod>2020-03-04T07:18:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/epf/</loc>
+    <lastmod>2020-03-04T07:18:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/formation/</loc>
+    <lastmod>2020-03-04T07:18:05+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainncls.github.io/portfolio-alain/tags/</loc>
+    <lastmod>2020-03-04T07:18:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/blog/blockchain-former-les-ingenieurs-de-demain/</loc>
+    <lastmod>2020-01-18T17:52:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/corda/</loc>
+    <lastmod>2019-04-15T16:22:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/dlt/</loc>
+    <lastmod>2019-04-15T16:22:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/r3/</loc>
+    <lastmod>2019-04-15T16:22:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/blog/r3-corda-limites/</loc>
+    <lastmod>2019-04-15T16:22:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/blog/r3-corda-presentation/</loc>
+    <lastmod>2019-03-11T14:51:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/asseth/</loc>
+    <lastmod>2019-03-01T10:00:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/meetup/</loc>
+    <lastmod>2019-03-01T10:00:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/blog/asseth-meetup-fevrier/</loc>
+    <lastmod>2019-03-01T10:00:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/blog/meetup-lasseth-recoit-tribute/</loc>
+    <lastmod>2018-11-09T18:08:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/tribute/</loc>
+    <lastmod>2018-11-09T18:08:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/colony/</loc>
+    <lastmod>2018-02-13T12:05:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/blog/meetup-asseth-janvier/</loc>
+    <lastmod>2018-02-13T12:05:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/ethereum/</loc>
+    <lastmod>2018-02-01T14:31:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/ganache/</loc>
+    <lastmod>2018-02-01T14:31:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/blog/presentation-ganache/</loc>
+    <lastmod>2018-02-01T14:31:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/truffle/</loc>
+    <lastmod>2018-02-01T14:31:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/collision/</loc>
+    <lastmod>2017-12-07T08:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/blog/collision-sha-1-securite/</loc>
+    <lastmod>2017-12-07T08:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/concentration/</loc>
+    <lastmod>2017-12-07T08:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/blog/concentration-musique-developpement/</loc>
+    <lastmod>2017-12-07T08:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/d%C3%A9veloppement-logiciel/</loc>
+    <lastmod>2017-12-07T08:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/google/</loc>
+    <lastmod>2017-12-07T08:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/hachage/</loc>
+    <lastmod>2017-12-07T08:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/musique/</loc>
+    <lastmod>2017-12-07T08:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/sha-1/</loc>
+    <lastmod>2017-12-07T08:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/s%C3%A9curit%C3%A9/</loc>
+    <lastmod>2017-12-07T08:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/microsoft/</loc>
+    <lastmod>2017-11-30T08:24:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/onedrive/</loc>
+    <lastmod>2017-11-30T08:24:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/publicit%C3%A9/</loc>
+    <lastmod>2017-11-30T08:24:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/blog/windows-10-publicite-explorateur/</loc>
+    <lastmod>2017-11-30T08:24:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/devcon3/</loc>
+    <lastmod>2017-11-16T16:10:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/blog/meetup-asseth-devcon3-talan-ethereum/</loc>
+    <lastmod>2017-11-16T16:10:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/css/</loc>
+    <lastmod>2017-10-24T09:21:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/https/</loc>
+    <lastmod>2017-10-24T09:21:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/humantalks/</loc>
+    <lastmod>2017-10-24T09:21:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/blog/humantalks-talan/</loc>
+    <lastmod>2017-10-24T09:21:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/cryptomonnaie/</loc>
+    <lastmod>2017-10-17T15:39:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/blog/quest-ce-que-talancoin/</loc>
+    <lastmod>2017-10-17T15:39:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/talancoin/</loc>
+    <lastmod>2017-10-17T15:39:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/angular/</loc>
+    <lastmod>2017-03-02T09:01:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/angularjs/</loc>
+    <lastmod>2017-03-02T09:01:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/javascript/</loc>
+    <lastmod>2017-03-02T09:01:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/blog/oubliez-angular-3-voici-angular-4/</loc>
+    <lastmod>2017-03-02T09:01:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/d%C3%A9veloppement/</loc>
+    <lastmod>2017-02-23T13:08:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/java/</loc>
+    <lastmod>2017-02-23T13:08:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/java-ee/</loc>
+    <lastmod>2017-02-23T13:08:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/blog/resultats-sondage-java-ee/</loc>
+    <lastmod>2017-02-23T13:08:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/javaone/</loc>
+    <lastmod>2017-02-23T13:08:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/oracle/</loc>
+    <lastmod>2017-02-23T13:08:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/human-coders/</loc>
+    <lastmod>2017-02-01T13:34:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/human-talks/</loc>
+    <lastmod>2017-02-01T13:34:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/blog/presentation-meetup-human-talks/</loc>
+    <lastmod>2017-02-01T13:34:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/r%C3%A9seautage/</loc>
+    <lastmod>2017-02-01T13:34:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/blog/java-ee-nouvelle-orientation-bonne-nouvelle/</loc>
+    <lastmod>2016-11-16T09:00:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/tags/sun/</loc>
+    <lastmod>2016-11-16T09:00:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainncls.github.io/portfolio-alain/search/</loc>
+    <priority>0.1</priority>
   </url>
   
 </urlset>

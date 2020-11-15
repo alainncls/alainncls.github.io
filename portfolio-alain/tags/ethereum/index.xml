@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ethereum on Alain Nicolas</title>
+    <link>https://alainncls.github.io/portfolio-alain/tags/ethereum/</link>
+    <description>Recent content in ethereum on Alain Nicolas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 01 Feb 2018 14:31:12 +0100</lastBuildDate><atom:link href="https://alainncls.github.io/portfolio-alain/tags/ethereum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Présentation de Ganache</title>
+      <link>https://alainncls.github.io/portfolio-alain/blog/presentation-ganache/</link>
+      <pubDate>Thu, 01 Feb 2018 14:31:12 +0100</pubDate>
+      
+      <guid>https://alainncls.github.io/portfolio-alain/blog/presentation-ganache/</guid>
+      <description>A l’heure où tout le monde parle de blockchain, peut-être vous êtes-vous intéressés à l’aspect technique du développement sur Ethereum. Et peut-être vous êtes-vous dits que c’était compliqué… Des technologies très nouvelles, peu de documentation à jour, peu d’outils à disposition…
+ Mais ça, c’était avant ! Il y a au moins un outil qui sort du lot : Truffle. Framework de développement sur Ethereum créé par Consensys, il se présente tout simplement comme le couteau suisse Ethereum.</description>
+    </item>
+    
+    <item>
+      <title>Meetup Asseth chez Talan : retour sur Devcon3</title>
+      <link>https://alainncls.github.io/portfolio-alain/blog/meetup-asseth-devcon3-talan-ethereum/</link>
+      <pubDate>Thu, 16 Nov 2017 16:10:55 +0000</pubDate>
+      
+      <guid>https://alainncls.github.io/portfolio-alain/blog/meetup-asseth-devcon3-talan-ethereum/</guid>
+      <description>Lundi 13 novembre 2017 avait lieu le meetup de l’Asseth (Association Ethereum française). Sponsorisé et hébergé par Talan Labs, il s’agit de l’un des rassemblements les plus importants autour de la blockchain en France.
+ Au programme de la soirée : le débriefing de la Devcon3, la conférence annuelle des développeurs Ethereum qui avait lieu début novembre, à Cancún au Mexique.
+  Devcon3 - La conférence annuelle des développeurs Ethereum  Environ 85 &amp;#34;blockchainers&amp;#34; se sont déplacés pour profiter des retours de Jérôme de Tychey, président de l’Asseth.</description>
+    </item>
+    
+    <item>
+      <title>Qu’est-ce que TalanCoin ?</title>
+      <link>https://alainncls.github.io/portfolio-alain/blog/quest-ce-que-talancoin/</link>
+      <pubDate>Tue, 17 Oct 2017 15:39:11 +0000</pubDate>
+      
+      <guid>https://alainncls.github.io/portfolio-alain/blog/quest-ce-que-talancoin/</guid>
+      <description>_Présentée pour la première fois le 4 octobre au 1er Forum Parlementaire de la Blockchain, la monnaie virtuelle du groupe Talan est en passe de rentrer en phase de production. L’occasion de présenter en détails les tenants et les aboutissants d’un projet et d’une initiative pas comme les autres : [TalanCoin](https://www.talancoin.com) !
+   La blockchain, tout le monde en parle, depuis les médias généralistes jusqu’aux startups les plus innovantes.</description>
+    </item>
+    
+  </channel>
+</rss>
