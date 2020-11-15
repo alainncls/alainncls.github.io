@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>colony on Alain Nicolas</title>
-    <link>https://alainncls.github.io/portfolio-alain/tags/colony/</link>
+    <link>https://alainnicolas.fr/tags/colony/</link>
     <description>Recent content in colony on Alain Nicolas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 13 Feb 2018 12:05:59 +0100</lastBuildDate><atom:link href="https://alainncls.github.io/portfolio-alain/tags/colony/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Feb 2018 12:05:59 +0100</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/colony/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meetup Asseth chez Talan : présentation de Colony</title>
-      <link>https://alainncls.github.io/portfolio-alain/blog/meetup-asseth-janvier/</link>
+      <link>https://alainnicolas.fr/blog/meetup-asseth-janvier/</link>
       <pubDate>Tue, 13 Feb 2018 12:05:59 +0100</pubDate>
       
-      <guid>https://alainncls.github.io/portfolio-alain/blog/meetup-asseth-janvier/</guid>
+      <guid>https://alainnicolas.fr/blog/meetup-asseth-janvier/</guid>
       <description>Vendredi 19 janvier 2018 avait lieu le meetup de l’Asseth (Association Ethereum française), sponsorisé et hébergé par Talan Labs. Il s’agit de l’un des rassemblements les plus importants autour de la blockchain en France.
  Au programme de la soirée : une présentation du projet Colony par Aron Fischer.
  Le speaker  Aron Fischer  Plus de 70 « blockchainers » se sont déplacés pour profiter de la présence d’Aron Fischer, core dev Ethereum.</description>
