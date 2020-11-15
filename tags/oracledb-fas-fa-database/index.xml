@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OracleDB - fas fa-database on Alain Nicolas</title>
-    <link>https://alainnicolas.fr/tags/oracledb-fas-fa-database/</link>
+    <link>alainnicolas.fr/tags/oracledb-fas-fa-database/</link>
     <description>Recent content in OracleDB - fas fa-database on Alain Nicolas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 01 Sep 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/oracledb-fas-fa-database/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Sep 2020 15:00:28 +0000</lastBuildDate><atom:link href="alainnicolas.fr/tags/oracledb-fas-fa-database/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FuturMaster - Master Data</title>
-      <link>https://alainnicolas.fr/projects/2020-09-futurmaster-master-data/</link>
+      <link>alainnicolas.fr/projects/2020-09-futurmaster-master-data/</link>
       <pubDate>Tue, 01 Sep 2020 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/projects/2020-09-futurmaster-master-data/</guid>
+      <guid>alainnicolas.fr/projects/2020-09-futurmaster-master-data/</guid>
       <description>Développement du module Master Data. Stack : React + Spring Boot.</description>
     </item>
     
     <item>
       <title>Coface</title>
-      <link>https://alainnicolas.fr/projects/2016-01-coface/</link>
+      <link>alainnicolas.fr/projects/2016-01-coface/</link>
       <pubDate>Fri, 01 Jan 2016 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/projects/2016-01-coface/</guid>
+      <guid>alainnicolas.fr/projects/2016-01-coface/</guid>
       <description>Application de gestion de contrats d&amp;rsquo;assurance.</description>
     </item>
     
     <item>
       <title>Gefco</title>
-      <link>https://alainnicolas.fr/projects/2015-07-gefco/</link>
+      <link>alainnicolas.fr/projects/2015-07-gefco/</link>
       <pubDate>Wed, 01 Jul 2015 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/projects/2015-07-gefco/</guid>
+      <guid>alainnicolas.fr/projects/2015-07-gefco/</guid>
       <description>Développement d&amp;rsquo;un système de génération de plannings sous contraintes.</description>
     </item>
     
