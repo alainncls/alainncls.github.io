@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sun on Alain Nicolas</title>
-    <link>https://alainncls.github.io/portfolio-alain/tags/sun/</link>
+    <link>https://alainnicolas.fr/tags/sun/</link>
     <description>Recent content in sun on Alain Nicolas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 16 Nov 2016 09:00:23 +0000</lastBuildDate><atom:link href="https://alainncls.github.io/portfolio-alain/tags/sun/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Nov 2016 09:00:23 +0000</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/sun/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java EE, nouvelle orientation : une bonne nouvelle ?</title>
-      <link>https://alainncls.github.io/portfolio-alain/blog/java-ee-nouvelle-orientation-bonne-nouvelle/</link>
+      <link>https://alainnicolas.fr/blog/java-ee-nouvelle-orientation-bonne-nouvelle/</link>
       <pubDate>Wed, 16 Nov 2016 09:00:23 +0000</pubDate>
       
-      <guid>https://alainncls.github.io/portfolio-alain/blog/java-ee-nouvelle-orientation-bonne-nouvelle/</guid>
+      <guid>https://alainnicolas.fr/blog/java-ee-nouvelle-orientation-bonne-nouvelle/</guid>
       <description>Peut-être que pour vous la série de l’été était Stranger Things, la petite pépite aux couleurs années 80-90 de Netflix. Mais dans le vaste monde du Java, une toute autre série aux multiples rebondissements a retenu toutes les attentions.
  Pour introduire le récit de cet été de toutes les surprises, un petit historique s’impose…
  Java, Sun et Oracle L’entreprise Sun est fondée en 1982, et lance Java en 1995.</description>
