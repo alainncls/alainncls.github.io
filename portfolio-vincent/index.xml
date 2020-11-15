@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accueil on Vincent Nicolas</title>
+    <link>https://alainnicolas.fr/portfolio-vincent/</link>
+    <description>Recent content in Accueil on Vincent Nicolas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 16 Aug 2020 18:56:13 -0500</lastBuildDate><atom:link href="https://alainnicolas.fr/portfolio-vincent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Documentaire radio</title>
+      <link>https://alainnicolas.fr/portfolio-vincent/projects/documentaire-radio/</link>
+      <pubDate>Tue, 07 Jan 2020 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/portfolio-vincent/projects/documentaire-radio/</guid>
+      <description>Documentaire réalisé pour Radio Mille-Pattes dans le cadre de l&amp;rsquo;émission Soul Brothers.</description>
+    </item>
+    
+    <item>
+      <title>Installation interactive</title>
+      <link>https://alainnicolas.fr/portfolio-vincent/projects/installation-interactive/</link>
+      <pubDate>Thu, 07 Nov 2019 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/portfolio-vincent/projects/installation-interactive/</guid>
+      <description>CONTACT est le projet d’installation clôturant la spécialité &amp;ldquo;Scénographie sonore&amp;rdquo; des étudiants de la promotion Son 2020 de l’École nationale supérieure Louis-Lumière. Il a été présenté en novembre 2019 à la Muse en Circuit, centre national de création musicale à Alfortville (94, France).
+Présentation PDF</description>
+    </item>
+    
+    <item>
+      <title>Enregistrement Clarinette</title>
+      <link>https://alainnicolas.fr/portfolio-vincent/projects/enregistrement-clarinette/</link>
+      <pubDate>Mon, 10 Jun 2019 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/portfolio-vincent/projects/enregistrement-clarinette/</guid>
+      <description>Enregistré à l&amp;rsquo;ENS Louis-Lumière en juin 2019 Ingénieur du Son : Vincent Nicolas Assistant Ingénieur du Son : Martin Guesney Cette vidéo est à usage exclusivement non-commercial Audio MP3 haute qualité 320 kbps</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://alainnicolas.fr/portfolio-vincent/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/portfolio-vincent/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>
