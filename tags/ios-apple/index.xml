@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iOS - apple on Alain Nicolas</title>
-    <link>alainnicolas.fr/tags/ios-apple/</link>
+    <link>http://alainnicolas.fr/tags/ios-apple/</link>
     <description>Recent content in iOS - apple on Alain Nicolas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 01 Jun 2018 15:00:28 +0000</lastBuildDate><atom:link href="alainnicolas.fr/tags/ios-apple/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jun 2018 15:00:28 +0000</lastBuildDate><atom:link href="http://alainnicolas.fr/tags/ios-apple/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Talan - Talan Coin</title>
-      <link>alainnicolas.fr/projects/2016-12-talan-talancoin/</link>
+      <link>http://alainnicolas.fr/projects/2016-12-talan-talancoin/</link>
       <pubDate>Fri, 01 Jun 2018 15:00:28 +0000</pubDate>
       
-      <guid>alainnicolas.fr/projects/2016-12-talan-talancoin/</guid>
+      <guid>http://alainnicolas.fr/projects/2016-12-talan-talancoin/</guid>
       <description>Création d&amp;rsquo;un token interne à Talan et d&amp;rsquo;un écosystème d&amp;rsquo;applications clientes.</description>
     </item>
     
     <item>
       <title>VINCI Construction Terrassement - VCoin</title>
-      <link>alainnicolas.fr/projects/2018-06-vct-vcoin/</link>
+      <link>http://alainnicolas.fr/projects/2018-06-vct-vcoin/</link>
       <pubDate>Fri, 01 Jun 2018 15:00:28 +0000</pubDate>
       
-      <guid>alainnicolas.fr/projects/2018-06-vct-vcoin/</guid>
+      <guid>http://alainnicolas.fr/projects/2018-06-vct-vcoin/</guid>
       <description>Déploiement, développement spécifique et maintenance de VCoin, la version VINCI de Talan Coin, token RH.</description>
     </item>
     
