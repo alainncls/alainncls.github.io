@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DLT on Alain Nicolas</title>
-    <link>https://alainnicolas.fr/tags/dlt/</link>
+    <link>alainnicolas.fr/tags/dlt/</link>
     <description>Recent content in DLT on Alain Nicolas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 15 Apr 2019 16:22:37 +0200</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/dlt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Apr 2019 16:22:37 +0200</lastBuildDate><atom:link href="alainnicolas.fr/tags/dlt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>R3 Corda : Limites</title>
-      <link>https://alainnicolas.fr/blog/r3-corda-limites/</link>
+      <link>alainnicolas.fr/blog/r3-corda-limites/</link>
       <pubDate>Mon, 15 Apr 2019 16:22:37 +0200</pubDate>
       
-      <guid>https://alainnicolas.fr/blog/r3-corda-limites/</guid>
+      <guid>alainnicolas.fr/blog/r3-corda-limites/</guid>
       <description>Nous avons vu dans un article précédent la présentation des grands principes de Corda, le DLT (Distributed Ledger Technology) développé par le consortium R3. Utilisé en très grande majorité par des banques, Corda semble répondre à de nombreux besoins non assouvis par les blockchains publiques. Nous allons désormais tâcher d’explorer les limites de Corda.
    Est-ce que c’est une blockchain ? A question directe … réponse directe : non.</description>
     </item>
     
     <item>
       <title>R3 Corda : Presentation</title>
-      <link>https://alainnicolas.fr/blog/r3-corda-presentation/</link>
+      <link>alainnicolas.fr/blog/r3-corda-presentation/</link>
       <pubDate>Mon, 11 Mar 2019 14:51:37 +0100</pubDate>
       
-      <guid>https://alainnicolas.fr/blog/r3-corda-presentation/</guid>
+      <guid>alainnicolas.fr/blog/r3-corda-presentation/</guid>
       <description>Les technologies Blockchain &amp;amp; DLT (Distributed Ledger Technology) sont nombreuses. Nous allons ici nous concentrer sur Corda, un DLT développé par le consortium R3.
    Genèse du projet A l’origine de Corda : cinq problématiques des blockchains publiques les rendent inadaptées à l’utilisation en entreprise. Nous allons commencer par détailler ces problématiques.
  Manque de confidentialité Les blockchains classiques telles qu’Ethereum proposent un registre complet distribué entre tous les participants (les ‘nœuds’).</description>
