@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>radio on Vincent Nicolas</title>
+    <link>https://alainnicolas.fr/portfolio-vincent/tags/radio/</link>
+    <description>Recent content in radio on Vincent Nicolas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://alainnicolas.fr/portfolio-vincent/tags/radio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Documentaire radio</title>
+      <link>https://alainnicolas.fr/portfolio-vincent/projects/documentaire-radio/</link>
+      <pubDate>Tue, 07 Jan 2020 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/portfolio-vincent/projects/documentaire-radio/</guid>
+      <description>Documentaire réalisé pour Radio Mille-Pattes dans le cadre de l&amp;rsquo;émission Soul Brothers.</description>
+    </item>
+    
+  </channel>
+</rss>
