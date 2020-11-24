@@ -1,22 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Human Coders on Alain Nicolas</title>
-    <link>https://alainnicolas.fr/tags/human-coders/</link>
-    <description>Recent content in Human Coders on Alain Nicolas</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Wed, 01 Feb 2017 13:34:27 +0000</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/human-coders/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Présentation d&#39;&#39;un meetup : les Human Talks</title>
-      <link>https://alainnicolas.fr/blog/presentation-meetup-human-talks/</link>
-      <pubDate>Wed, 01 Feb 2017 13:34:27 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/blog/presentation-meetup-human-talks/</guid>
-      <description>Parce que la vie d’un développeur ce n’est pas qu’un quotidien routinier face à un écran rempli de code, il est parfois important d’élargir ses idées et de se confronter au travail et aux passions d’autres acteurs de la communauté. C’est ainsi que je vous propose aujourd’hui de découvrir un meetup, les Human Talks.
- Mais au fait, qu’est-ce qu’un meetup ?
- Qu’est-ce qu’un meetup ?   Logo Meetup.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Human Coders on Alain Nicolas</title><link>https://alainnicolas.fr/tags/human-coders/</link><description>Recent content in Human Coders on Alain Nicolas</description><generator>Hugo -- gohugo.io</generator><language>fr-fr</language><lastBuildDate>Wed, 01 Feb 2017 13:34:27 +0000</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/human-coders/index.xml" rel="self" type="application/rss+xml"/><item><title>Présentation d''un meetup : les Human Talks</title><link>https://alainnicolas.fr/blog/presentation-meetup-human-talks/</link><pubDate>Wed, 01 Feb 2017 13:34:27 +0000</pubDate><guid>https://alainnicolas.fr/blog/presentation-meetup-human-talks/</guid><description>Parce que la vie d’un développeur ce n’est pas qu’un quotidien routinier face à un écran rempli de code, il est parfois important d’élargir ses idées et de se confronter au travail et aux passions d’autres acteurs de la communauté. C’est ainsi que je vous propose aujourd’hui de découvrir un meetup, les Human Talks.
+Mais au fait, qu’est-ce qu’un meetup ?
+Qu’est-ce qu’un meetup ? Logo Meetup.</description></item></channel></rss>

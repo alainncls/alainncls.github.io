@@ -1,22 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>hachage on Alain Nicolas</title>
-    <link>https://alainnicolas.fr/tags/hachage/</link>
-    <description>Recent content in hachage on Alain Nicolas</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Thu, 07 Dec 2017 08:31:48 +0000</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/hachage/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Collision SHA-1 et sécurité</title>
-      <link>https://alainnicolas.fr/blog/collision-sha-1-securite/</link>
-      <pubDate>Thu, 07 Dec 2017 08:31:48 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/blog/collision-sha-1-securite/</guid>
-      <description>Google a annoncé le 23 février dernier avoir réussi à casser la fonction de « hachage » SHA-1. Il s’agit là d’un événement majeur affectant la sécurité de nombreux systèmes allant de la signature de documents aux certificats de sécurité d’un site internet.
- Qu’est-ce que la fonction de « hachage » SHA-1 ? SHA-1 (Secure Hash Algorithm) est une fonction de « hachage » cryptographique.
- Il s’agit d’un algorithme qui associe à une donnée de taille quelconque, une image de taille fixe.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hachage on Alain Nicolas</title><link>https://alainnicolas.fr/tags/hachage/</link><description>Recent content in hachage on Alain Nicolas</description><generator>Hugo -- gohugo.io</generator><language>fr-fr</language><lastBuildDate>Thu, 07 Dec 2017 08:31:48 +0000</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/hachage/index.xml" rel="self" type="application/rss+xml"/><item><title>Collision SHA-1 et sécurité</title><link>https://alainnicolas.fr/blog/collision-sha-1-securite/</link><pubDate>Thu, 07 Dec 2017 08:31:48 +0000</pubDate><guid>https://alainnicolas.fr/blog/collision-sha-1-securite/</guid><description>Google a annoncé le 23 février dernier avoir réussi à casser la fonction de « hachage » SHA-1. Il s’agit là d’un événement majeur affectant la sécurité de nombreux systèmes allant de la signature de documents aux certificats de sécurité d’un site internet.
+Qu’est-ce que la fonction de « hachage » SHA-1 ? SHA-1 (Secure Hash Algorithm) est une fonction de « hachage » cryptographique.
+Il s’agit d’un algorithme qui associe à une donnée de taille quelconque, une image de taille fixe.</description></item></channel></rss>

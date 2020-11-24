@@ -1,53 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>asseth on Alain Nicolas</title>
-    <link>https://alainnicolas.fr/tags/asseth/</link>
-    <description>Recent content in asseth on Alain Nicolas</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Fri, 01 Mar 2019 10:00:59 +0100</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/asseth/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Meetup Asseth : CryptoBooks &amp; DAI</title>
-      <link>https://alainnicolas.fr/blog/asseth-meetup-fevrier/</link>
-      <pubDate>Fri, 01 Mar 2019 10:00:59 +0100</pubDate>
-      
-      <guid>https://alainnicolas.fr/blog/asseth-meetup-fevrier/</guid>
-      <description>Une nouvelle fois Talan Labs a accueilli l’Asseth pour son meetup du jeudi 28 février. Au programme : 2 présentations pour une soirée bien remplie !
- CryptoBooks : l’édition transparente Jean-René Krasucki et Thibault Verbiest présentaient leur création : une application permettant d’acheter des livres en Ether, mais aussi en une vingtaine de tokens ERC20. Partant du principe que le milieu de l’édition a tout d’une &amp;#34;boîte noire&amp;#34;, ils ont créé une ÐApp qui rend transparente la répartition du prix d’achat d’un livre entre les différents acteurs (éditeurs, auteur, ayant-droits, illustrateurs, etc.</description>
-    </item>
-    
-    <item>
-      <title>Meetup - L&#39;Asseth reçoit Tribute</title>
-      <link>https://alainnicolas.fr/blog/meetup-lasseth-recoit-tribute/</link>
-      <pubDate>Fri, 09 Nov 2018 18:08:18 +0100</pubDate>
-      
-      <guid>https://alainnicolas.fr/blog/meetup-lasseth-recoit-tribute/</guid>
-      <description>Le mercredi 17 octobre 2018, Talan Labs accueillait un meetup de l’Asseth dans les locaux de Talan. L’Asseth est une association organisant notamment des meetups, connus comme étant l&amp;#39;un des rassemblements les plus importants autour de la blockchain Ethereum en France.
- Les speakers 50 blockchainers ont fait le déplacement pour profiter de la présence de Philippe Honigman et Nicolas Danjean, fondateurs de la startup Tribute. Tribute a pour but d’aider les organisations au sens large (associations, entreprises, etc.</description>
-    </item>
-    
-    <item>
-      <title>Meetup Asseth chez Talan : présentation de Colony</title>
-      <link>https://alainnicolas.fr/blog/meetup-asseth-janvier/</link>
-      <pubDate>Tue, 13 Feb 2018 12:05:59 +0100</pubDate>
-      
-      <guid>https://alainnicolas.fr/blog/meetup-asseth-janvier/</guid>
-      <description>Vendredi 19 janvier 2018 avait lieu le meetup de l’Asseth (Association Ethereum française), sponsorisé et hébergé par Talan Labs. Il s’agit de l’un des rassemblements les plus importants autour de la blockchain en France.
- Au programme de la soirée : une présentation du projet Colony par Aron Fischer.
- Le speaker   Aron Fischer     Plus de 70 « blockchainers » se sont déplacés pour profiter de la présence d’Aron Fischer, core dev Ethereum.</description>
-    </item>
-    
-    <item>
-      <title>Meetup Asseth chez Talan : retour sur Devcon3</title>
-      <link>https://alainnicolas.fr/blog/meetup-asseth-devcon3-talan-ethereum/</link>
-      <pubDate>Thu, 16 Nov 2017 16:10:55 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/blog/meetup-asseth-devcon3-talan-ethereum/</guid>
-      <description>Lundi 13 novembre 2017 avait lieu le meetup de l’Asseth (Association Ethereum française). Sponsorisé et hébergé par Talan Labs, il s’agit de l’un des rassemblements les plus importants autour de la blockchain en France.
- Au programme de la soirée : le débriefing de la Devcon3, la conférence annuelle des développeurs Ethereum qui avait lieu début novembre, à Cancún au Mexique.
-   Devcon3 - La conférence annuelle des développeurs Ethereum     Environ 85 &amp;#34;blockchainers&amp;#34; se sont déplacés pour profiter des retours de Jérôme de Tychey, président de l’Asseth.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>asseth on Alain Nicolas</title><link>https://alainnicolas.fr/tags/asseth/</link><description>Recent content in asseth on Alain Nicolas</description><generator>Hugo -- gohugo.io</generator><language>fr-fr</language><lastBuildDate>Fri, 01 Mar 2019 10:00:59 +0100</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/asseth/index.xml" rel="self" type="application/rss+xml"/><item><title>Meetup Asseth : CryptoBooks &amp; DAI</title><link>https://alainnicolas.fr/blog/asseth-meetup-fevrier/</link><pubDate>Fri, 01 Mar 2019 10:00:59 +0100</pubDate><guid>https://alainnicolas.fr/blog/asseth-meetup-fevrier/</guid><description>Une nouvelle fois Talan Labs a accueilli l’Asseth pour son meetup du jeudi 28 février. Au programme : 2 présentations pour une soirée bien remplie !
+CryptoBooks : l’édition transparente Jean-René Krasucki et Thibault Verbiest présentaient leur création : une application permettant d’acheter des livres en Ether, mais aussi en une vingtaine de tokens ERC20. Partant du principe que le milieu de l’édition a tout d’une &amp;#34;boîte noire&amp;#34;, ils ont créé une ÐApp qui rend transparente la répartition du prix d’achat d’un livre entre les différents acteurs (éditeurs, auteur, ayant-droits, illustrateurs, etc.</description></item><item><title>Meetup - L'Asseth reçoit Tribute</title><link>https://alainnicolas.fr/blog/meetup-lasseth-recoit-tribute/</link><pubDate>Fri, 09 Nov 2018 18:08:18 +0100</pubDate><guid>https://alainnicolas.fr/blog/meetup-lasseth-recoit-tribute/</guid><description>Le mercredi 17 octobre 2018, Talan Labs accueillait un meetup de l’Asseth dans les locaux de Talan. L’Asseth est une association organisant notamment des meetups, connus comme étant l&amp;#39;un des rassemblements les plus importants autour de la blockchain Ethereum en France.
+Les speakers 50 blockchainers ont fait le déplacement pour profiter de la présence de Philippe Honigman et Nicolas Danjean, fondateurs de la startup Tribute. Tribute a pour but d’aider les organisations au sens large (associations, entreprises, etc.</description></item><item><title>Meetup Asseth chez Talan : présentation de Colony</title><link>https://alainnicolas.fr/blog/meetup-asseth-janvier/</link><pubDate>Tue, 13 Feb 2018 12:05:59 +0100</pubDate><guid>https://alainnicolas.fr/blog/meetup-asseth-janvier/</guid><description>Vendredi 19 janvier 2018 avait lieu le meetup de l’Asseth (Association Ethereum française), sponsorisé et hébergé par Talan Labs. Il s’agit de l’un des rassemblements les plus importants autour de la blockchain en France.
+Au programme de la soirée : une présentation du projet Colony par Aron Fischer.
+Le speaker Aron Fischer Plus de 70 « blockchainers » se sont déplacés pour profiter de la présence d’Aron Fischer, core dev Ethereum.</description></item><item><title>Meetup Asseth chez Talan : retour sur Devcon3</title><link>https://alainnicolas.fr/blog/meetup-asseth-devcon3-talan-ethereum/</link><pubDate>Thu, 16 Nov 2017 16:10:55 +0000</pubDate><guid>https://alainnicolas.fr/blog/meetup-asseth-devcon3-talan-ethereum/</guid><description>Lundi 13 novembre 2017 avait lieu le meetup de l’Asseth (Association Ethereum française). Sponsorisé et hébergé par Talan Labs, il s’agit de l’un des rassemblements les plus importants autour de la blockchain en France.
+Au programme de la soirée : le débriefing de la Devcon3, la conférence annuelle des développeurs Ethereum qui avait lieu début novembre, à Cancún au Mexique.
+Devcon3 - La conférence annuelle des développeurs Ethereum Environ 85 &amp;#34;blockchainers&amp;#34; se sont déplacés pour profiter des retours de Jérôme de Tychey, président de l’Asseth.</description></item></channel></rss>

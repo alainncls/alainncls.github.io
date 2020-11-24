@@ -1,21 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Angular on Alain Nicolas</title>
-    <link>https://alainnicolas.fr/tags/angular/</link>
-    <description>Recent content in Angular on Alain Nicolas</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Thu, 02 Mar 2017 09:01:06 +0000</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/angular/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Oubliez Angular 3, voici la version 4</title>
-      <link>https://alainnicolas.fr/blog/oubliez-angular-3-voici-angular-4/</link>
-      <pubDate>Thu, 02 Mar 2017 09:01:06 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/blog/oubliez-angular-3-voici-angular-4/</guid>
-      <description>Parmi les nombreux frameworks JavaScript, AngularJS est indéniablement celui qui a connu le plus de succès. Mis en ligne en 2010 et avec une première version publiée en 2012, Angular n’a eu de cesse de s’améliorer avec une communauté croissante, des besoins qui évoluent et une équipe de développement soutenue par Google. Et puis l’an dernier, tout a changé…
-   Oubliez Angular 3,voici la version 4     AngularJS devient Angular 2   AngularJS devient Angular 2     Les annonces autour de la nouvelle version majeure d’AngularJS, désormais appelée Angular 2, surprennent.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Angular on Alain Nicolas</title><link>https://alainnicolas.fr/tags/angular/</link><description>Recent content in Angular on Alain Nicolas</description><generator>Hugo -- gohugo.io</generator><language>fr-fr</language><lastBuildDate>Thu, 02 Mar 2017 09:01:06 +0000</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/angular/index.xml" rel="self" type="application/rss+xml"/><item><title>Oubliez Angular 3, voici la version 4</title><link>https://alainnicolas.fr/blog/oubliez-angular-3-voici-angular-4/</link><pubDate>Thu, 02 Mar 2017 09:01:06 +0000</pubDate><guid>https://alainnicolas.fr/blog/oubliez-angular-3-voici-angular-4/</guid><description>Parmi les nombreux frameworks JavaScript, AngularJS est indéniablement celui qui a connu le plus de succès. Mis en ligne en 2010 et avec une première version publiée en 2012, Angular n’a eu de cesse de s’améliorer avec une communauté croissante, des besoins qui évoluent et une équipe de développement soutenue par Google. Et puis l’an dernier, tout a changé…
+Oubliez Angular 3,voici la version 4 AngularJS devient Angular 2 AngularJS devient Angular 2 Les annonces autour de la nouvelle version majeure d’AngularJS, désormais appelée Angular 2, surprennent.</description></item></channel></rss>
