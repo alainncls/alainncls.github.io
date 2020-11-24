@@ -1,33 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>développement on Alain Nicolas</title>
-    <link>https://alainnicolas.fr/tags/d%C3%A9veloppement/</link>
-    <description>Recent content in développement on Alain Nicolas</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Thu, 23 Feb 2017 13:08:10 +0000</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/d%C3%A9veloppement/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Java EE, nouvelle orientation : les résultats du sondage</title>
-      <link>https://alainnicolas.fr/blog/resultats-sondage-java-ee/</link>
-      <pubDate>Thu, 23 Feb 2017 13:08:10 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/blog/resultats-sondage-java-ee/</guid>
-      <description>Résumé des épisodes précédents…
- Depuis plusieurs mois la communauté Java est en émoi. Oracle semble se désintéresser de Java EE. Au terme d’une saga résumée dans un article de novembre, c’est finalement lors de la grande conférence annuelle JavaOne que l’entreprise annonce une nouvelle feuille de route pour Java EE, ainsi que le lancement d’un sondage visant à mieux cerner les aspirations et attentes de la communauté.
- Présentation du sondage Oracle Nous l’évoquions : Oracle tente de se réconcilier avec la communauté Java, tout en faisant avancer ses travaux sur Java EE.</description>
-    </item>
-    
-    <item>
-      <title>Java EE, nouvelle orientation : une bonne nouvelle ?</title>
-      <link>https://alainnicolas.fr/blog/java-ee-nouvelle-orientation-bonne-nouvelle/</link>
-      <pubDate>Wed, 16 Nov 2016 09:00:23 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/blog/java-ee-nouvelle-orientation-bonne-nouvelle/</guid>
-      <description>Peut-être que pour vous la série de l’été était Stranger Things, la petite pépite aux couleurs années 80-90 de Netflix. Mais dans le vaste monde du Java, une toute autre série aux multiples rebondissements a retenu toutes les attentions.
- Pour introduire le récit de cet été de toutes les surprises, un petit historique s’impose…
- Java, Sun et Oracle L’entreprise Sun est fondée en 1982, et lance Java en 1995.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>développement on Alain Nicolas</title><link>https://alainnicolas.fr/tags/d%C3%A9veloppement/</link><description>Recent content in développement on Alain Nicolas</description><generator>Hugo -- gohugo.io</generator><language>fr-fr</language><lastBuildDate>Thu, 23 Feb 2017 13:08:10 +0000</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/d%C3%A9veloppement/index.xml" rel="self" type="application/rss+xml"/><item><title>Java EE, nouvelle orientation : les résultats du sondage</title><link>https://alainnicolas.fr/blog/resultats-sondage-java-ee/</link><pubDate>Thu, 23 Feb 2017 13:08:10 +0000</pubDate><guid>https://alainnicolas.fr/blog/resultats-sondage-java-ee/</guid><description>Résumé des épisodes précédents…
+Depuis plusieurs mois la communauté Java est en émoi. Oracle semble se désintéresser de Java EE. Au terme d’une saga résumée dans un article de novembre, c’est finalement lors de la grande conférence annuelle JavaOne que l’entreprise annonce une nouvelle feuille de route pour Java EE, ainsi que le lancement d’un sondage visant à mieux cerner les aspirations et attentes de la communauté.
+Présentation du sondage Oracle Nous l’évoquions : Oracle tente de se réconcilier avec la communauté Java, tout en faisant avancer ses travaux sur Java EE.</description></item><item><title>Java EE, nouvelle orientation : une bonne nouvelle ?</title><link>https://alainnicolas.fr/blog/java-ee-nouvelle-orientation-bonne-nouvelle/</link><pubDate>Wed, 16 Nov 2016 09:00:23 +0000</pubDate><guid>https://alainnicolas.fr/blog/java-ee-nouvelle-orientation-bonne-nouvelle/</guid><description>Peut-être que pour vous la série de l’été était Stranger Things, la petite pépite aux couleurs années 80-90 de Netflix. Mais dans le vaste monde du Java, une toute autre série aux multiples rebondissements a retenu toutes les attentions.
+Pour introduire le récit de cet été de toutes les surprises, un petit historique s’impose…
+Java, Sun et Oracle L’entreprise Sun est fondée en 1982, et lance Java en 1995.</description></item></channel></rss>
