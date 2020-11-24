@@ -109,3 +109,7 @@ div.skills-heading {
 .imageblock > .title {
     margin-top: 8px;
 }
+
+iframe {
+    text-align: center;
+}
