@@ -1,21 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Microsoft on Alain Nicolas</title>
-    <link>https://alainnicolas.fr/tags/microsoft/</link>
-    <description>Recent content in Microsoft on Alain Nicolas</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Thu, 30 Nov 2017 08:24:32 +0000</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Windows 10 : de la publicité dans l&#39;explorateur</title>
-      <link>https://alainnicolas.fr/blog/windows-10-publicite-explorateur/</link>
-      <pubDate>Thu, 30 Nov 2017 08:24:32 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/blog/windows-10-publicite-explorateur/</guid>
-      <description>Les mises à jour successives de Windows apportent de la sécurité et parfois de nouvelles fonctionnalités. Globalement, elles apportent une meilleure expérience pour l’utilisateur, rarement des retours en arrière.
- Windows 10 se met à jour automatiquement mais introduit de la publicité dans le navigateur Le système de mise à jour a lui aussi étélo modifié avec le passage à Windows 10, puisqu’il est désormais plus contrôlable par l’utilisateur (les mises à jour se font d’elles-mêmes).</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Microsoft on Alain Nicolas</title><link>https://alainnicolas.fr/tags/microsoft/</link><description>Recent content in Microsoft on Alain Nicolas</description><generator>Hugo -- gohugo.io</generator><language>fr-fr</language><lastBuildDate>Thu, 30 Nov 2017 08:24:32 +0000</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/microsoft/index.xml" rel="self" type="application/rss+xml"/><item><title>Windows 10 : de la publicité dans l'explorateur</title><link>https://alainnicolas.fr/blog/windows-10-publicite-explorateur/</link><pubDate>Thu, 30 Nov 2017 08:24:32 +0000</pubDate><guid>https://alainnicolas.fr/blog/windows-10-publicite-explorateur/</guid><description>Les mises à jour successives de Windows apportent de la sécurité et parfois de nouvelles fonctionnalités. Globalement, elles apportent une meilleure expérience pour l’utilisateur, rarement des retours en arrière.
+Windows 10 se met à jour automatiquement mais introduit de la publicité dans le navigateur Le système de mise à jour a lui aussi étélo modifié avec le passage à Windows 10, puisqu’il est désormais plus contrôlable par l’utilisateur (les mises à jour se font d’elles-mêmes).</description></item></channel></rss>
