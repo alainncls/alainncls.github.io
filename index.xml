@@ -96,7 +96,7 @@
       
       <guid>https://alainnicolas.fr/blog/blockchain-former-les-ingenieurs-de-demain/</guid>
       <description>Depuis deux ans j’ai la chance et le plaisir d’intervenir auprès des étudiants de l’EPF, école d’ingénieurs généraliste dont j’ai été diplômé en 2015. Passer de l’autre côté de l’enseignement n’est pas une mince affaire, surtout sans expérience, mais revenir dans «son» école facilite largement le changement de posture.
-   Une école d’ingénieurs a la lourde responsabilité de maintenir sa formation à jour, pour préparer les étudiants du mieux possible à leur entrée dans le monde du travail.</description>
+   Une école d’ingénieurs a la lourde responsabilité de maintenir sa formation à jour, pour préparer les étudiants du mieux possible à leur entrée dans le monde du travail.</description>
     </item>
     
     <item>
@@ -106,7 +106,7 @@
       
       <guid>https://alainnicolas.fr/blog/r3-corda-limites/</guid>
       <description>Nous avons vu dans un article précédent la présentation des grands principes de Corda, le DLT (Distributed Ledger Technology) développé par le consortium R3. Utilisé en très grande majorité par des banques, Corda semble répondre à de nombreux besoins non assouvis par les blockchains publiques. Nous allons désormais tâcher d’explorer les limites de Corda.
-   Est-ce que c’est une blockchain ? A question directe … réponse directe : non.</description>
+   Est-ce que c’est une blockchain ? A question directe … réponse directe : non.</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       
       <guid>https://alainnicolas.fr/blog/r3-corda-presentation/</guid>
       <description>Les technologies Blockchain &amp;amp; DLT (Distributed Ledger Technology) sont nombreuses. Nous allons ici nous concentrer sur Corda, un DLT développé par le consortium R3.
-   Genèse du projet A l’origine de Corda : cinq problématiques des blockchains publiques les rendent inadaptées à l’utilisation en entreprise. Nous allons commencer par détailler ces problématiques.
+   Genèse du projet A l’origine de Corda : cinq problématiques des blockchains publiques les rendent inadaptées à l’utilisation en entreprise. Nous allons commencer par détailler ces problématiques.
  Manque de confidentialité Les blockchains classiques telles qu’Ethereum proposent un registre complet distribué entre tous les participants (les ‘nœuds’).</description>
     </item>
     
@@ -148,7 +148,7 @@
       <guid>https://alainnicolas.fr/blog/meetup-asseth-janvier/</guid>
       <description>Vendredi 19 janvier 2018 avait lieu le meetup de l’Asseth (Association Ethereum française), sponsorisé et hébergé par Talan Labs. Il s’agit de l’un des rassemblements les plus importants autour de la blockchain en France.
  Au programme de la soirée : une présentation du projet Colony par Aron Fischer.
- Le speaker Aron Fischer  Plus de 70 « blockchainers » se sont déplacés pour profiter de la présence d’Aron Fischer, core dev Ethereum.</description>
+ Le speaker  Aron Fischer  Plus de 70 « blockchainers » se sont déplacés pour profiter de la présence d’Aron Fischer, core dev Ethereum.</description>
     </item>
     
     <item>
@@ -173,6 +173,16 @@
     </item>
     
     <item>
+      <title>Concentration, musique &amp; développement</title>
+      <link>https://alainnicolas.fr/blog/concentration-musique-developpement/</link>
+      <pubDate>Thu, 07 Dec 2017 08:31:48 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/blog/concentration-musique-developpement/</guid>
+      <description>Tous les développeurs le savent, leur métier ne consiste pas juste à produire du code, mais plus globalement à penser un système, imaginer des algorithmes ou réfléchir à l’intégration de leur projet dans un cadre plus vaste, tout en prenant en compte les besoins réels du client, le ressenti des utilisateurs et des budgets parfois serrés.
+ L’état de concentration nécessaire pour être efficace, créatif et apporter les meilleures réponses possibles aux problèmes soulevés fait du développement un métier à part entière, loin de l’image véhiculée par les médias ou même Tim Cook (CEO d’Apple) qui considère que c’est &amp;#34;marrant et interactif&amp;#34;.</description>
+    </item>
+    
+    <item>
       <title>Windows 10 : de la publicité dans l&#39;explorateur</title>
       <link>https://alainnicolas.fr/blog/windows-10-publicite-explorateur/</link>
       <pubDate>Thu, 30 Nov 2017 08:24:32 +0000</pubDate>
@@ -183,16 +193,6 @@
     </item>
     
     <item>
-      <title>Concentration, musique &amp; développement</title>
-      <link>https://alainnicolas.fr/blog/concentration-musique-developpement/</link>
-      <pubDate>Thu, 23 Nov 2017 08:31:48 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/blog/concentration-musique-developpement/</guid>
-      <description>Tous les développeurs le savent, leur métier ne consiste pas juste à produire du code, mais plus globalement à penser un système, imaginer des algorithmes ou réfléchir à l’intégration de leur projet dans un cadre plus vaste, tout en prenant en compte les besoins réels du client, le ressenti des utilisateurs et des budgets parfois serrés.
- L’état de concentration nécessaire pour être efficace, créatif et apporter les meilleures réponses possibles aux problèmes soulevés fait du développement un métier à part entière, loin de l’image véhiculée par les médias ou même Tim Cook (CEO d’Apple) qui considère que c’est &amp;#34;marrant et interactif&amp;#34;.</description>
-    </item>
-    
-    <item>
       <title>Meetup Asseth chez Talan : retour sur Devcon3</title>
       <link>https://alainnicolas.fr/blog/meetup-asseth-devcon3-talan-ethereum/</link>
       <pubDate>Thu, 16 Nov 2017 16:10:55 +0000</pubDate>
@@ -200,7 +200,7 @@
       <guid>https://alainnicolas.fr/blog/meetup-asseth-devcon3-talan-ethereum/</guid>
       <description>Lundi 13 novembre 2017 avait lieu le meetup de l’Asseth (Association Ethereum française). Sponsorisé et hébergé par Talan Labs, il s’agit de l’un des rassemblements les plus importants autour de la blockchain en France.
  Au programme de la soirée : le débriefing de la Devcon3, la conférence annuelle des développeurs Ethereum qui avait lieu début novembre, à Cancún au Mexique.
- Devcon3 - La conférence annuelle des développeurs Ethereum  Environ 85 &amp;#34;blockchainers&amp;#34; se sont déplacés pour profiter des retours de Jérôme de Tychey, président de l’Asseth.</description>
+  Devcon3 - La conférence annuelle des développeurs Ethereum  Environ 85 &amp;#34;blockchainers&amp;#34; se sont déplacés pour profiter des retours de Jérôme de Tychey, président de l’Asseth.</description>
     </item>
     
     <item>
@@ -221,7 +221,7 @@
       
       <guid>https://alainnicolas.fr/blog/quest-ce-que-talancoin/</guid>
       <description>_Présentée pour la première fois le 4 octobre au 1er Forum Parlementaire de la Blockchain, la monnaie virtuelle du groupe Talan est en passe de rentrer en phase de production. L’occasion de présenter en détails les tenants et les aboutissants d’un projet et d’une initiative pas comme les autres : [TalanCoin](https://www.talancoin.com) !
- Bannière TalanCoin  La blockchain, tout le monde en parle, depuis les médias généralistes jusqu’aux startups les plus innovantes.</description>
+   La blockchain, tout le monde en parle, depuis les médias généralistes jusqu’aux startups les plus innovantes.</description>
     </item>
     
     <item>
@@ -231,7 +231,7 @@
       
       <guid>https://alainnicolas.fr/blog/oubliez-angular-3-voici-angular-4/</guid>
       <description>Parmi les nombreux frameworks JavaScript, AngularJS est indéniablement celui qui a connu le plus de succès. Mis en ligne en 2010 et avec une première version publiée en 2012, Angular n’a eu de cesse de s’améliorer avec une communauté croissante, des besoins qui évoluent et une équipe de développement soutenue par Google. Et puis l’an dernier, tout a changé…
- Oubliez Angular 3,voici la version 4  AngularJS devient Angular 2 AngularJS devient Angular 2  Les annonces autour de la nouvelle version majeure d’AngularJS, désormais appelée Angular 2, surprennent.</description>
+   AngularJS devient Angular 2   Les annonces autour de la nouvelle version majeure d’AngularJS, désormais appelée Angular 2, surprennent.</description>
     </item>
     
     <item>
@@ -253,7 +253,7 @@
       <guid>https://alainnicolas.fr/blog/presentation-meetup-human-talks/</guid>
       <description>Parce que la vie d’un développeur ce n’est pas qu’un quotidien routinier face à un écran rempli de code, il est parfois important d’élargir ses idées et de se confronter au travail et aux passions d’autres acteurs de la communauté. C’est ainsi que je vous propose aujourd’hui de découvrir un meetup, les Human Talks.
  Mais au fait, qu’est-ce qu’un meetup ?
- Qu’est-ce qu’un meetup ? Logo Meetup.</description>
+ Qu’est-ce qu’un meetup ?   C’est avant tout un événement de réseautage, autour d’un intérêt commun.</description>
     </item>
     
     <item>
