@@ -1,36 +1,762 @@
-<!doctype html><html lang=fr><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta http-equiv=last-modified content="2020-11-23"><meta http-equiv=cache-control content="Private"><meta http-equiv=expires content="600"><title>Alain Nicolas | Blockchain : former les ingénieurs de demain</title><meta property="og:title" content="Alain Nicolas | Blockchain : former les ingénieurs de demain"><meta property="og:image" content="https://alainnicolas.fr/profile.jpg"><meta name=description content><meta property="og:description" content><meta name=author content="Alain Nicolas"><style>/*!* Bootstrap v4.5.3 (https://getbootstrap.com/)
-* Copyright 2011-2020 The Bootstrap Authors
-* Copyright 2011-2020 Twitter, Inc.
-* Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)*/:root{--blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#dc3545;--orange:#fd7e14;--yellow:#ffc107;--green:#28a745;--teal:#20c997;--cyan:#17a2b8;--white:#fff;--gray:#6c757d;--gray-dark:#343a40;--primary:#007bff;--secondary:#6c757d;--success:#28a745;--info:#17a2b8;--warning:#ffc107;--danger:#dc3545;--light:#f8f9fa;--dark:#343a40;--breakpoint-xs:0;--breakpoint-sm:576px;--breakpoint-md:768px;--breakpoint-lg:992px;--breakpoint-xl:1200px;--font-family-sans-serif:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--font-family-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}*,:after,:before{box-sizing:border-box}html{font-family:sans-serif;line-height:1.15;-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent}figcaption,figure,main,nav,section{display:block}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;font-size:1rem;font-weight:400;line-height:1.5;color:#212529;text-align:left;background-color:#fff}[tabindex="-1"]:focus:not(:focus-visible){outline:0!important}h1,h2,h3,h4{margin-top:0;margin-bottom:.5rem}p{margin-top:0}address,p{margin-bottom:1rem}address{font-style:normal;line-height:inherit}ol,ul{margin-top:0;margin-bottom:1rem}ol ol,ol ul,ul ol,ul ul{margin-bottom:0}small{font-size:80%}a{color:#007bff;text-decoration:none;background-color:transparent}a:hover{color:#0056b3;text-decoration:underline}a:not([href]):not([class]),a:not([href]):not([class]):hover{color:inherit;text-decoration:none}code,pre{font-family:SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;font-size:1em}pre{margin-top:0;margin-bottom:1rem;overflow:auto;-ms-overflow-style:scrollbar}figure{margin:0 0 1rem}img{vertical-align:middle;border-style:none}button{border-radius:0}button:focus{outline:1px dotted;outline:5px auto -webkit-focus-ring-color}button,input{margin:0;font-family:inherit;font-size:inherit;line-height:inherit;overflow:visible}button{text-transform:none}[role=button]{cursor:pointer}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}[type=button]:not(:disabled),[type=reset]:not(:disabled),[type=submit]:not(:disabled),button:not(:disabled){cursor:pointer}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{padding:0;border-style:none}input[type=checkbox],input[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{outline-offset:-2px;-webkit-appearance:none}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{font:inherit;-webkit-appearance:button}summary{display:list-item;cursor:pointer}template{display:none}[hidden]{display:none!important}.h1,.h2,.h3,.h4,h1,h2,h3,h4{margin-bottom:.5rem;font-weight:500;line-height:1.2}.h1,h1{font-size:2.5rem}.h2,h2{font-size:2rem}.h3,h3{font-size:1.75rem}.h4,h4{font-size:1.5rem}.lead{font-size:1.25rem;font-weight:300}.small,small{font-size:80%;font-weight:400}.mark,mark{padding:.2em;background-color:#fcf8e3}.list-inline{padding-left:0;list-style:none}.list-inline-item{display:inline-block}.list-inline-item:not(:last-child){margin-right:.5rem}.img-fluid{max-width:100%;height:auto}.figure{display:inline-block}code{font-size:87.5%;color:#e83e8c;word-wrap:break-word}a>code{color:inherit}pre{display:block;font-size:87.5%;color:#212529}pre code{font-size:inherit;color:inherit;word-break:normal}.container-fluid{width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}.collapse:not(.show){display:none}.nav{display:flex;flex-wrap:wrap;padding-left:0;margin-bottom:0;list-style:none}.nav-link{display:block;padding:.5rem 1rem}.nav-link:focus,.nav-link:hover{text-decoration:none}.navbar{position:relative;padding:.5rem 1rem}.navbar,.navbar .container-fluid{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between}.navbar-brand{display:inline-block;padding-top:.3125rem;padding-bottom:.3125rem;margin-right:1rem;font-size:1.25rem;line-height:inherit;white-space:nowrap}.navbar-brand:focus,.navbar-brand:hover{text-decoration:none}.navbar-nav{display:flex;flex-direction:column;padding-left:0;margin-bottom:0;list-style:none}.navbar-nav .nav-link{padding-right:0;padding-left:0}.navbar-collapse{flex-basis:100%;flex-grow:1;align-items:center}.navbar-toggler{padding:.25rem .75rem;font-size:1.25rem;line-height:1;background-color:transparent;border:1px solid transparent;border-radius:.25rem}.navbar-toggler:focus,.navbar-toggler:hover{text-decoration:none}.navbar-toggler-icon{display:inline-block;width:1.5em;height:1.5em;vertical-align:middle;content:"";background:no-repeat 50%;background-size:100% 100%}@media(max-width:991.98px){.navbar-expand-lg>.container-fluid{padding-right:0;padding-left:0}}@media(min-width:992px){.navbar-expand-lg{flex-flow:row nowrap;justify-content:flex-start}.navbar-expand-lg .navbar-nav{flex-direction:row}.navbar-expand-lg .navbar-nav .nav-link{padding-right:.5rem;padding-left:.5rem}.navbar-expand-lg>.container-fluid{flex-wrap:nowrap}.navbar-expand-lg .navbar-collapse{display:flex!important;flex-basis:auto}.navbar-expand-lg .navbar-toggler{display:none}}.navbar-dark .navbar-brand,.navbar-dark .navbar-brand:focus,.navbar-dark .navbar-brand:hover{color:#fff}.navbar-dark .navbar-nav .nav-link{color:hsla(0,0%,100%,.5)}.navbar-dark .navbar-nav .nav-link:focus,.navbar-dark .navbar-nav .nav-link:hover{color:hsla(0,0%,100%,.75)}.navbar-dark .navbar-nav .active>.nav-link,.navbar-dark .navbar-nav .nav-link.active{color:#fff}.navbar-dark .navbar-toggler{color:hsla(0,0%,100%,.5);border-color:hsla(0,0%,100%,.1)}.navbar-dark .navbar-toggler-icon{background-image:url(data:image/svg+xml;charset=utf-8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMCIgaGVpZ2h0PSIzMCI+PHBhdGggc3Ryb2tlPSJyZ2JhKDI1NSwgMjU1LCAyNTUsIDAuNSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik00IDdoMjJNNCAxNWgyMk00IDIzaDIyIi8+PC9zdmc+)}.card-text:last-child{margin-bottom:0}.card-img-top{flex-shrink:0;width:100%;border-top-left-radius:calc(.25rem - 1px);border-top-right-radius:calc(.25rem - 1px)}.breadcrumb{flex-wrap:wrap;padding:.75rem 1rem;margin-bottom:1rem;list-style:none;background-color:#e9ecef;border-radius:.25rem}.breadcrumb,.breadcrumb-item{display:flex}.breadcrumb-item+.breadcrumb-item{padding-left:.5rem}.breadcrumb-item+.breadcrumb-item:before{display:inline-block;padding-right:.5rem;color:#6c757d;content:"/"}.breadcrumb-item+.breadcrumb-item:hover:before{text-decoration:underline;text-decoration:none}.breadcrumb-item.active{color:#6c757d}@keyframes progress-bar-stripes{0%{background-position:1rem 0}to{background-position:0 0}}@keyframes spinner-border{to{transform:rotate(1turn)}}@keyframes spinner-grow{0%{transform:scale(0)}50%{opacity:1;transform:none}}.bg-primary{background-color:#007bff!important}a.bg-primary:focus,a.bg-primary:hover,button.bg-primary:focus,button.bg-primary:hover{background-color:#0062cc!important}.rounded-circle{border-radius:50%!important}.d-none{display:none!important}.d-block{display:block!important}.d-flex{display:flex!important}@media(min-width:992px){.d-lg-none{display:none!important}.d-lg-block{display:block!important}}.flex-column{flex-direction:column!important}@media(min-width:768px){.flex-md-row{flex-direction:row!important}}.fixed-top{position:fixed;top:0;right:0;left:0;z-index:1030}.mb-0{margin-bottom:0!important}.mb-2{margin-bottom:.5rem!important}.mt-3{margin-top:1rem!important}.mb-3{margin-bottom:1rem!important}.mb-5{margin-bottom:3rem!important}.p-0{padding:0!important}.pb-2{padding-bottom:.5rem!important}.p-3{padding:1rem!important}.pt-3{padding-top:1rem!important}.my-auto{margin-top:auto!important}.mr-auto,.mx-auto{margin-right:auto!important}.my-auto{margin-bottom:auto!important}.mx-auto{margin-left:auto!important}@media(min-width:992px){.p-lg-5{padding:3rem!important}}.text-center{text-align:center!important}@media(min-width:768px){.text-md-right{text-align:right!important}}.text-primary{color:#007bff!important}a.text-primary:focus,a.text-primary:hover{color:#0056b3!important}@media print{*,:after,:before{text-shadow:none!important;box-shadow:none!important}a:not(.btn){text-decoration:underline}pre{white-space:pre-wrap!important;border:1px solid #adb5bd}img,pre{page-break-inside:avoid}h2,h3,p{orphans:3;widows:3}h2,h3{page-break-after:avoid}@page{size:a3}body{min-width:992px!important}.navbar{display:none}}</style><link rel=preload href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900&display=swap" as=style><link rel=stylesheet href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900&display=swap" type=text/css><link rel=preload href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap" as=style><link rel=stylesheet href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap" type=text/css><style>/*!* Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com
-* License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)*/.fa,.fab,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}@keyframes fa-spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.fa-stack{display:inline-block;height:2em;line-height:2em;position:relative;vertical-align:middle;width:2.5em}.fa-stack-1x,.fa-stack-2x{left:0;position:absolute;text-align:center;width:100%}.fa-stack-1x{line-height:inherit}.fa-stack-2x{font-size:2em}.fa-inverse{color:#fff}.fa-circle:before{content:"\f111"}.fa-database:before{content:"\f1c0"}.fa-ethereum:before{content:"\f42e"}.fa-github:before{content:"\f09b"}.fa-linkedin:before{content:"\f08c"}.fa-terminal:before{content:"\f120"}.fa-twitter:before{content:"\f099"}@font-face{font-family:Font Awesome\ 5 Brands;font-style:normal;font-weight:400;font-display:block;src:url(webfonts/fa-brands-400.eot);src:url(webfonts/fa-brands-400.eot?#iefix)format("embedded-opentype"),url(webfonts/fa-brands-400.woff2)format("woff2"),url(webfonts/fa-brands-400.woff)format("woff"),url(webfonts/fa-brands-400.ttf)format("truetype"),url(webfonts/fa-brands-400.svg#fontawesome)format("svg")}.fab{font-family:Font Awesome\ 5 Brands;font-weight:400}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:400;font-display:block;src:url(webfonts/fa-regular-400.eot);src:url(webfonts/fa-regular-400.eot?#iefix)format("embedded-opentype"),url(webfonts/fa-regular-400.woff2)format("woff2"),url(webfonts/fa-regular-400.woff)format("woff"),url(webfonts/fa-regular-400.ttf)format("truetype"),url(webfonts/fa-regular-400.svg#fontawesome)format("svg")}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:900;font-display:block;src:url(webfonts/fa-solid-900.eot);src:url(webfonts/fa-solid-900.eot?#iefix)format("embedded-opentype"),url(webfonts/fa-solid-900.woff2)format("woff2"),url(webfonts/fa-solid-900.woff)format("woff"),url(webfonts/fa-solid-900.ttf)format("truetype"),url(webfonts/fa-solid-900.svg#fontawesome)format("svg")}.fa,.fas{font-family:Font Awesome\ 5 Free;font-weight:900}</style><link rel=preload href=https://alainnicolas.fr/css/devicon.min.css as=style><link rel=stylesheet href=https://alainnicolas.fr/css/devicon.min.css type=text/css><link rel=preload href=https://alainnicolas.fr/css/resume.css as=style><link rel=stylesheet href=https://alainnicolas.fr/css/resume.css type=text/css><link rel=preload href=https://alainnicolas.fr/css/tweaks.css as=style><link rel=stylesheet href=https://alainnicolas.fr/css/tweaks.css type=text/css><link rel=icon href=https://alainnicolas.fr/favicon.ico><link rel=canonical href=https://medium.com/@Alain_Ncls/blockchain-former-les-ing%C3%A9nieurs-de-demain-e0044e9a2e8c><meta name=generator content="Hugo 0.78.2"></head><body id=page-top><nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id=sideNav><a class="navbar-brand js-scroll-trigger" href=https://alainnicolas.fr/#page-top><span class="d-block d-lg-none">Alain Nicolas</span>
-<span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src=https://alainnicolas.fr/profile_hu49120346477431f5f0f40355d51987a9_25969_400x0_resize_q85_box.jpg alt="Photo de profil" width=400 height=400></span></a>
-<button class=navbar-toggler type=button data-toggle=collapse data-target=#navbarSupportedContent aria-controls=navbarSupportedContent aria-expanded=false aria-label="Toggle navigation">
-<span class=navbar-toggler-icon></span></button><div class="collapse navbar-collapse" id=navbarSupportedContent><ul class=navbar-nav><li class=nav-item><a class="nav-link js-scroll-trigger" href=https://alainnicolas.fr/#about>A propos</a></li><li class=nav-item><a class="nav-link js-scroll-trigger" href=https://alainnicolas.fr/#blog>Blog</a></li><li class=nav-item><a class="nav-link js-scroll-trigger" href=https://alainnicolas.fr/#skills>Compétences</a></li><li class=nav-item><a class="nav-link js-scroll-trigger" href=https://alainnicolas.fr/#projects>Portfolio</a></li><li class=nav-item><a class="nav-link js-scroll-trigger" href=https://alainnicolas.fr/#experience>Expérience</a></li><li class=nav-item><a class="nav-link js-scroll-trigger" href=https://alainnicolas.fr/#education>Formation</a></li></ul></div></nav><div class="container-fluid p-0"><nav aria-label=breadcrumb><ol class=breadcrumb><li class=breadcrumb-item><a href=https://alainnicolas.fr/>Accueil</a></li><li class=breadcrumb-item><a href=https://alainnicolas.fr/blog/>Blog</a></li><li class="breadcrumb-item active"><a href=https://alainnicolas.fr/blog/blockchain-former-les-ingenieurs-de-demain/>Blockchain : former les ingénieurs de demain</a></li></ol></nav><section class="resume-section p-3 p-lg-5 d-flex d-column"><div class=my-auto><h2 class=mb-0><span class=text-primary>Blockchain : former les ingénieurs de demain</span></h2><span class=text-primary>January 18, 2020</span><div class=paragraph><p>Depuis deux ans j’ai la chance et le plaisir d’intervenir auprès des étudiants de l’EPF, école d’ingénieurs généraliste dont j’ai été diplômé en 2015. Passer de l’autre côté de l’enseignement n’est pas une mince affaire, surtout sans expérience, mais revenir dans «son» école facilite largement le changement de posture.</p></div><div class=paragraph><figure style=text-align:center><img sizes="(min-width: 35em) 720px, 100vw" srcset="/posts/bc_epf_logo_hu53e99c774ed20e38a6d5d7233a235fdd_59456_500x0_resize_box_2.png 500w
-, /posts/bc_epf_logo_hu53e99c774ed20e38a6d5d7233a235fdd_59456_800x0_resize_box_2.png 800w
-, /posts/bc_epf_logo_hu53e99c774ed20e38a6d5d7233a235fdd_59456_1200x0_resize_box_2.png 1200w" src=https://alainnicolas.fr/posts/bc_epf_logo.png alt="Logo EPF"><figcaption><small></small></figcaption></figure></div><div class=paragraph><p>Une école d’ingénieurs a la lourde responsabilité de maintenir sa formation à jour, pour préparer les étudiants du mieux possible à leur entrée dans le monde du travail.
-C’est ainsi que Talan a développé un partenariat avec l’EPF, pour un cycle de formations sur le thème de la Blockchain pour ses 4ème et 5ème années de la filière informatique.</p></div><div class=sect1><h2 id=_faire_passer_ses_idées>Faire passer ses idées</h2><div class=sectionbody><div class=paragraph><p>Notre premier challenge était de créer une formation théorique.
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="last-modified" content="2020-11-23" />
+    <meta http-equiv="cache-control" content="Private" />
+    <meta http-equiv="Expires" content="600" />
+    <title>Alain Nicolas | Blockchain : former les ingénieurs de demain</title>
+    <meta property="og:title" content="Alain Nicolas | Blockchain : former les ingénieurs de demain"/>
+    <meta property="og:image" content="https://alainnicolas.fr/profile.jpg"/>
+    <meta name="description" content="">
+    <meta property="og:description" content=""/>
+    <meta name="author" content="Alain Nicolas">
+
+    
+    
+    <style>/*!
+ * Bootstrap v4.5.3 (https://getbootstrap.com/)
+ * Copyright 2011-2020 The Bootstrap Authors
+ * Copyright 2011-2020 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ */:root{--blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#dc3545;--orange:#fd7e14;--yellow:#ffc107;--green:#28a745;--teal:#20c997;--cyan:#17a2b8;--white:#fff;--gray:#6c757d;--gray-dark:#343a40;--primary:#007bff;--secondary:#6c757d;--success:#28a745;--info:#17a2b8;--warning:#ffc107;--danger:#dc3545;--light:#f8f9fa;--dark:#343a40;--breakpoint-xs:0;--breakpoint-sm:576px;--breakpoint-md:768px;--breakpoint-lg:992px;--breakpoint-xl:1200px;--font-family-sans-serif:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--font-family-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}*,:after,:before{box-sizing:border-box}html{font-family:sans-serif;line-height:1.15;-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent}figcaption,figure,main,nav,section{display:block}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;font-size:1rem;font-weight:400;line-height:1.5;color:#212529;text-align:left;background-color:#fff}[tabindex="-1"]:focus:not(:focus-visible){outline:0!important}h1,h2,h3,h4{margin-top:0;margin-bottom:.5rem}p{margin-top:0}address,p{margin-bottom:1rem}address{font-style:normal;line-height:inherit}ol,ul{margin-top:0;margin-bottom:1rem}ol ol,ol ul,ul ol,ul ul{margin-bottom:0}small{font-size:80%}a{color:#007bff;text-decoration:none;background-color:transparent}a:hover{color:#0056b3;text-decoration:underline}a:not([href]):not([class]),a:not([href]):not([class]):hover{color:inherit;text-decoration:none}code,pre{font-family:SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;font-size:1em}pre{margin-top:0;margin-bottom:1rem;overflow:auto;-ms-overflow-style:scrollbar}figure{margin:0 0 1rem}img{vertical-align:middle;border-style:none}button{border-radius:0}button:focus{outline:1px dotted;outline:5px auto -webkit-focus-ring-color}button,input{margin:0;font-family:inherit;font-size:inherit;line-height:inherit;overflow:visible}button{text-transform:none}[role=button]{cursor:pointer}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}[type=button]:not(:disabled),[type=reset]:not(:disabled),[type=submit]:not(:disabled),button:not(:disabled){cursor:pointer}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{padding:0;border-style:none}input[type=checkbox],input[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{outline-offset:-2px;-webkit-appearance:none}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{font:inherit;-webkit-appearance:button}summary{display:list-item;cursor:pointer}template{display:none}[hidden]{display:none!important}.h1,.h2,.h3,.h4,h1,h2,h3,h4{margin-bottom:.5rem;font-weight:500;line-height:1.2}.h1,h1{font-size:2.5rem}.h2,h2{font-size:2rem}.h3,h3{font-size:1.75rem}.h4,h4{font-size:1.5rem}.lead{font-size:1.25rem;font-weight:300}.small,small{font-size:80%;font-weight:400}.mark,mark{padding:.2em;background-color:#fcf8e3}.list-inline{padding-left:0;list-style:none}.list-inline-item{display:inline-block}.list-inline-item:not(:last-child){margin-right:.5rem}.img-fluid{max-width:100%;height:auto}.figure{display:inline-block}code{font-size:87.5%;color:#e83e8c;word-wrap:break-word}a>code{color:inherit}pre{display:block;font-size:87.5%;color:#212529}pre code{font-size:inherit;color:inherit;word-break:normal}.container-fluid{width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}.collapse:not(.show){display:none}.nav{display:flex;flex-wrap:wrap;padding-left:0;margin-bottom:0;list-style:none}.nav-link{display:block;padding:.5rem 1rem}.nav-link:focus,.nav-link:hover{text-decoration:none}.navbar{position:relative;padding:.5rem 1rem}.navbar,.navbar .container-fluid{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between}.navbar-brand{display:inline-block;padding-top:.3125rem;padding-bottom:.3125rem;margin-right:1rem;font-size:1.25rem;line-height:inherit;white-space:nowrap}.navbar-brand:focus,.navbar-brand:hover{text-decoration:none}.navbar-nav{display:flex;flex-direction:column;padding-left:0;margin-bottom:0;list-style:none}.navbar-nav .nav-link{padding-right:0;padding-left:0}.navbar-collapse{flex-basis:100%;flex-grow:1;align-items:center}.navbar-toggler{padding:.25rem .75rem;font-size:1.25rem;line-height:1;background-color:transparent;border:1px solid transparent;border-radius:.25rem}.navbar-toggler:focus,.navbar-toggler:hover{text-decoration:none}.navbar-toggler-icon{display:inline-block;width:1.5em;height:1.5em;vertical-align:middle;content:"";background:no-repeat 50%;background-size:100% 100%}@media (max-width:991.98px){.navbar-expand-lg>.container-fluid{padding-right:0;padding-left:0}}@media (min-width:992px){.navbar-expand-lg{flex-flow:row nowrap;justify-content:flex-start}.navbar-expand-lg .navbar-nav{flex-direction:row}.navbar-expand-lg .navbar-nav .nav-link{padding-right:.5rem;padding-left:.5rem}.navbar-expand-lg>.container-fluid{flex-wrap:nowrap}.navbar-expand-lg .navbar-collapse{display:flex!important;flex-basis:auto}.navbar-expand-lg .navbar-toggler{display:none}}.navbar-dark .navbar-brand,.navbar-dark .navbar-brand:focus,.navbar-dark .navbar-brand:hover{color:#fff}.navbar-dark .navbar-nav .nav-link{color:hsla(0,0%,100%,.5)}.navbar-dark .navbar-nav .nav-link:focus,.navbar-dark .navbar-nav .nav-link:hover{color:hsla(0,0%,100%,.75)}.navbar-dark .navbar-nav .active>.nav-link,.navbar-dark .navbar-nav .nav-link.active{color:#fff}.navbar-dark .navbar-toggler{color:hsla(0,0%,100%,.5);border-color:hsla(0,0%,100%,.1)}.navbar-dark .navbar-toggler-icon{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30'%3E%3Cpath stroke='rgba(255, 255, 255, 0.5)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E")}.card-text:last-child{margin-bottom:0}.card-img-top{flex-shrink:0;width:100%;border-top-left-radius:calc(.25rem - 1px);border-top-right-radius:calc(.25rem - 1px)}.breadcrumb{flex-wrap:wrap;padding:.75rem 1rem;margin-bottom:1rem;list-style:none;background-color:#e9ecef;border-radius:.25rem}.breadcrumb,.breadcrumb-item{display:flex}.breadcrumb-item+.breadcrumb-item{padding-left:.5rem}.breadcrumb-item+.breadcrumb-item:before{display:inline-block;padding-right:.5rem;color:#6c757d;content:"/"}.breadcrumb-item+.breadcrumb-item:hover:before{text-decoration:underline;text-decoration:none}.breadcrumb-item.active{color:#6c757d}@keyframes progress-bar-stripes{0%{background-position:1rem 0}to{background-position:0 0}}@keyframes spinner-border{to{transform:rotate(1turn)}}@keyframes spinner-grow{0%{transform:scale(0)}50%{opacity:1;transform:none}}.bg-primary{background-color:#007bff!important}a.bg-primary:focus,a.bg-primary:hover,button.bg-primary:focus,button.bg-primary:hover{background-color:#0062cc!important}.rounded-circle{border-radius:50%!important}.d-none{display:none!important}.d-block{display:block!important}.d-flex{display:flex!important}@media (min-width:992px){.d-lg-none{display:none!important}.d-lg-block{display:block!important}}.flex-column{flex-direction:column!important}@media (min-width:768px){.flex-md-row{flex-direction:row!important}}.fixed-top{position:fixed;top:0;right:0;left:0;z-index:1030}.mb-0{margin-bottom:0!important}.mb-2{margin-bottom:.5rem!important}.mt-3{margin-top:1rem!important}.mb-3{margin-bottom:1rem!important}.mb-5{margin-bottom:3rem!important}.p-0{padding:0!important}.pb-2{padding-bottom:.5rem!important}.p-3{padding:1rem!important}.pt-3{padding-top:1rem!important}.my-auto{margin-top:auto!important}.mr-auto,.mx-auto{margin-right:auto!important}.my-auto{margin-bottom:auto!important}.mx-auto{margin-left:auto!important}@media (min-width:992px){.p-lg-5{padding:3rem!important}}.text-center{text-align:center!important}@media (min-width:768px){.text-md-right{text-align:right!important}}.text-primary{color:#007bff!important}a.text-primary:focus,a.text-primary:hover{color:#0056b3!important}@media print{*,:after,:before{text-shadow:none!important;box-shadow:none!important}a:not(.btn){text-decoration:underline}pre{white-space:pre-wrap!important;border:1px solid #adb5bd}img,pre{page-break-inside:avoid}h2,h3,p{orphans:3;widows:3}h2,h3{page-break-after:avoid}@page{size:a3}body{min-width:992px!important}.navbar{display:none}}</style>
+    
+
+    
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900&display=swap" as="style">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900&display=swap" type="text/css">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap" as="style">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap" type="text/css">
+    
+    <style>/*!
+ * Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */.fa,.fab,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}@keyframes fa-spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.fa-stack{display:inline-block;height:2em;line-height:2em;position:relative;vertical-align:middle;width:2.5em}.fa-stack-1x,.fa-stack-2x{left:0;position:absolute;text-align:center;width:100%}.fa-stack-1x{line-height:inherit}.fa-stack-2x{font-size:2em}.fa-inverse{color:#fff}.fa-circle:before{content:"\f111"}.fa-database:before{content:"\f1c0"}.fa-ethereum:before{content:"\f42e"}.fa-github:before{content:"\f09b"}.fa-linkedin:before{content:"\f08c"}.fa-terminal:before{content:"\f120"}.fa-twitter:before{content:"\f099"}@font-face{font-family:Font Awesome\ 5 Brands;font-style:normal;font-weight:400;font-display:block;src:url(webfonts/fa-brands-400.eot);src:url(webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),url(webfonts/fa-brands-400.woff2) format("woff2"),url(webfonts/fa-brands-400.woff) format("woff"),url(webfonts/fa-brands-400.ttf) format("truetype"),url(webfonts/fa-brands-400.svg#fontawesome) format("svg")}.fab{font-family:Font Awesome\ 5 Brands;font-weight:400}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:400;font-display:block;src:url(webfonts/fa-regular-400.eot);src:url(webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),url(webfonts/fa-regular-400.woff2) format("woff2"),url(webfonts/fa-regular-400.woff) format("woff"),url(webfonts/fa-regular-400.ttf) format("truetype"),url(webfonts/fa-regular-400.svg#fontawesome) format("svg")}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:900;font-display:block;src:url(webfonts/fa-solid-900.eot);src:url(webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),url(webfonts/fa-solid-900.woff2) format("woff2"),url(webfonts/fa-solid-900.woff) format("woff"),url(webfonts/fa-solid-900.ttf) format("truetype"),url(webfonts/fa-solid-900.svg#fontawesome) format("svg")}.fa,.fas{font-family:Font Awesome\ 5 Free;font-weight:900}</style>
+    
+    <link rel="preload" href="https://alainnicolas.fr/css/devicon.min.css" as="style">
+    <link rel="stylesheet" href="https://alainnicolas.fr/css/devicon.min.css" type="text/css">
+
+    
+    <link rel="preload" href="https://alainnicolas.fr/css/resume.css" as="style">
+    <link rel="stylesheet" href="https://alainnicolas.fr/css/resume.css" type="text/css">
+    <link rel="preload" href="https://alainnicolas.fr/css/tweaks.css" as="style">
+    <link rel="stylesheet" href="https://alainnicolas.fr/css/tweaks.css" type="text/css">
+    <link rel="icon" href="https://alainnicolas.fr/favicon.ico"/>
+    
+    <link rel="canonical" href="https://medium.com/@Alain_Ncls/blockchain-former-les-ing%C3%A9nieurs-de-demain-e0044e9a2e8c">
+    
+    <meta name="generator" content="Hugo 0.78.2" />
+    
+    
+    
+</head>
+<body id="page-top">
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+  <a class="navbar-brand js-scroll-trigger" href="https://alainnicolas.fr/#page-top">
+    <span class="d-block d-lg-none">Alain Nicolas</span>
+    <span class="d-none d-lg-block">
+        
+        
+        
+      <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="https://alainnicolas.fr/profile_hu49120346477431f5f0f40355d51987a9_25969_400x0_resize_q85_box.jpg" alt="Photo de profil" width="400" height="400">
+    </span>
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="https://alainnicolas.fr/#about">A propos</a>
+      </li>
+        
+        <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="https://alainnicolas.fr/#blog">Blog</a>
+        </li>
+        
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="https://alainnicolas.fr/#skills">Compétences</a>
+          </li>
+      
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="https://alainnicolas.fr/#projects">Portfolio</a>
+          </li>
+      
+      
+      
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="https://alainnicolas.fr/#experience">Expérience</a>
+          </li>
+      
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="https://alainnicolas.fr/#education">Formation</a>
+          </li>
+      
+    </ul>
+  </div>
+</nav>
+
+<div class="container-fluid p-0">
+    
+<nav aria-label="breadcrumb">
+  <ol  class="breadcrumb">
+    
+
+
+
+
+
+<li class="breadcrumb-item">
+  <a href="https://alainnicolas.fr/"> Accueil </a>
+</li>
+
+
+<li class="breadcrumb-item">
+  <a href="https://alainnicolas.fr/blog/"> Blog </a>
+</li>
+
+
+<li class="breadcrumb-item active">
+  <a href="https://alainnicolas.fr/blog/blockchain-former-les-ingenieurs-de-demain/"> Blockchain : former les ingénieurs de demain </a>
+</li>
+
+  </ol>
+</nav>
+
+
+
+
+<section class="resume-section p-3 p-lg-5 d-flex d-column">
+  <div class="my-auto">
+    <h2 class="mb-0"><span class="text-primary">Blockchain : former les ingénieurs de demain</span></h2>
+    <span class="text-primary">January 18, 2020</span>
+    <div class="paragraph">
+<p>Depuis deux ans j’ai la chance et le plaisir d’intervenir auprès des étudiants de l’EPF, école d’ingénieurs généraliste dont j’ai été diplômé en 2015. Passer de l’autre côté de l’enseignement n’est pas une mince affaire, surtout sans expérience, mais revenir dans «son» école facilite largement le changement de posture.</p>
+</div>
+<div class="paragraph">
+
+
+
+<figure style="text-align: center;">
+
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+
+    
+    <img
+            
+    sizes="(min-width: 35em) 720px, 100vw"
+    srcset='
+    
+    /posts/bc_epf_logo_hu53e99c774ed20e38a6d5d7233a235fdd_59456_500x0_resize_box_2.png 500w
+    
+    
+    , /posts/bc_epf_logo_hu53e99c774ed20e38a6d5d7233a235fdd_59456_800x0_resize_box_2.png 800w
+    
+    
+    , /posts/bc_epf_logo_hu53e99c774ed20e38a6d5d7233a235fdd_59456_1200x0_resize_box_2.png 1200w
+    '
+    
+    src="https://alainnicolas.fr/posts/bc_epf_logo.png"
+    
+    alt="Logo EPF">
+    
+    
+    <figcaption>
+        <small>
+            
+        </small>
+    </figcaption>
+</figure>
+</div>
+<div class="paragraph">
+<p>Une école d’ingénieurs a la lourde responsabilité de maintenir sa formation à jour, pour préparer les étudiants du mieux possible à leur entrée dans le monde du travail.
+C’est ainsi que Talan a développé un partenariat avec l’EPF, pour un cycle de formations sur le thème de la Blockchain pour ses 4ème et 5ème années de la filière informatique.</p>
+</div>
+<div class="sect1">
+<h2 id="_faire_passer_ses_idées">Faire passer ses idées</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Notre premier challenge était de créer une formation théorique.
 Travailler sur cette technologie relativement jeune et aux applications disruptives apporte des convictions et des idées fortes sur ce que la blockchain peut faire, mais aussi et surtout sur ce qu’elle ne peut pas faire.
 Les implications de la mise en place d’un tel système distribué ont plus d’impacts sur les organisations et les personnes que la technologie en elle-même sur les systèmes d’information.
-Pour autant, face à un public étudiant, il convient de regarder de près les composantes techniques de la blockchain pour en saisir l’intérêt.</p></div><div class=paragraph><p>De nombreuses idées à faire passer, sur des thèmes très vastes et variés, de la plus petite brique technique à la conduite du changement, en passant par des concepts complexes, la gouvernance…</p></div><div class=paragraph><p>Formaliser et organiser ces idées en thèmes, les articuler de manière logique et fluide, en détaillant les concepts sans forcément entrer trop en détails dans l’implémentation, s’adapter aux connaissances supposées d’étudiants que l’on ne connaît pas… Autant de challenges à relever, mais non sans intérêt : c’est bel et bien le meilleur moyen de se rendre compte des concepts que l’on maitrise et de ceux qui méritent que l’on s’y attarde.</p></div><div class=paragraph><figure style=text-align:center><img sizes="(min-width: 35em) 720px, 100vw" srcset="/posts/bc_epf_definition_hufe299401bc07203649bf3262af2b2042_261064_500x0_resize_box_2.png 500w
-, /posts/bc_epf_definition_hufe299401bc07203649bf3262af2b2042_261064_800x0_resize_box_2.png 800w
-, /posts/bc_epf_definition_hufe299401bc07203649bf3262af2b2042_261064_1200x0_resize_box_2.png 1200w" src=https://alainnicolas.fr/posts/bc_epf_definition.png alt="Définition des Blockchain & DLT en 5 mots"><figcaption><small>Définition des Blockchain & DLT en 5 mots</small></figcaption></figure></div><div class=paragraph><p>Grâce à de nombreuses présentations «à blanc» du support face aux collègues, on fait émerger les questions qui subsistent, les passages trop rapides sur des points complexes et, surtout, il devient possible de roder une première version du discours qui se doit de rester interactif et illustré pour intéresser.</p></div></div></div><div class=sect1><h2 id=_du_baptême_du_feu_au_discours_rodé>Du baptême du feu au discours rodé</h2><div class=sectionbody><div class=paragraph><p>Après une première édition de la formation en conditions réelles, face à des étudiants qui semblent intéressés et posent des dizaines de questions, nous ne comptions pas en rester là.
-L’objectif était de passer d’une formation basique à un parcours complet couvrant plusieurs technologies Blockchain, à destination de nos clients.</p></div><div class=paragraph><p>Il est clair qu’une formation sur un sujet aussi mouvant doit rester vivante et évolutive, même si cela suppose un investissement constant.</p></div><div class=paragraph><figure style=text-align:center><img sizes="(min-width: 35em) 720px, 100vw" srcset="/posts/bc_epf_theorie_huba733fa9ce2c2acf720b616960580281_754081_500x0_resize_box_2.png 500w
-, /posts/bc_epf_theorie_huba733fa9ce2c2acf720b616960580281_754081_800x0_resize_box_2.png 800w
-, /posts/bc_epf_theorie_huba733fa9ce2c2acf720b616960580281_754081_1200x0_resize_box_2.png 1200w" src=https://alainnicolas.fr/posts/bc_epf_theorie.png alt="Formation théorique @ EPF — 04/06/2019"><figcaption><small>Formation théorique @ EPF — 04/06/2019</small></figcaption></figure></div><div class=paragraph><p>C’est ainsi que les étudiants de la promotion 2020 ont bénéficié d’une formation largement revue, telle que nous la délivrons à nos clients ou lors de BBL.</p></div><div class=paragraph><p>Pour éviter la perte de spontanéité et la routine, j’essaye de changer au moins un slide par présentation, de toujours adapter le contenu au public ou à la durée, voire de prendre des angles très différents, comme à l’https://www.esgi.fr/[ESGI] (une école d’informatique) où le thème était « <strong>Blockchain : des métiers pour tous</strong> ».</p></div><div class=paragraph><figure style=text-align:center><img sizes="(min-width: 35em) 720px, 100vw" srcset src=https://alainnicolas.fr/posts/bc_epf_logo_esgi.png alt="Formation théorique @ EPF — 04/06/2019"><figcaption><small></small></figcaption></figure></div><div class=paragraph><p>Adapter son discours au public est indispensable : face à un public très haut niveau et fonctionnel on survole les aspects techniques, tandis que face à des développeurs il convient souvent de descendre dans les entrailles de la blockchain, pour évoquer les algorithmes de consensus, etc.</p></div></div></div><div class=sect1><h2 id=_de_la_théorie_à_la_pratique_il_ny_a_que_la_création_dun_tp>De la théorie à la pratique, il n’y a que la création d’un TP</h2><div class=sectionbody><div class=paragraph><p>Sans en avoir la consigne directe de la part de l’EPF, nous souhaitions limiter le temps de présentation théorique pour accorder du temps à la pratique.</p></div><div class=paragraph><p>De manière à rester relativement abordables et en accord avec une idée de réelle décentralisation, nous avons choisi dans un premier temps de nous concentrer sur Ethereum, probablement la blockchain la plus accessible.</p></div><div class=paragraph><p>Mais par où commencer ?</p></div><div class=sect2><h3 id=_cryptozombies>CryptoZombies</h3><div class=paragraph><p>Nos premières expérimentations sur Ethereum remontent à fin 2016, avant qu’un écosystème ne se mette parfaitement en place.
-Mais en gardant un œil sur les nouveautés nous ne pouvions rater la franche réussite de <a href=https://cryptozombies.io/fr/>CryptoZombies</a>, sûrement le meilleur moyen de découvrir le langage Solidity des <em>smart contracts</em> Ethereum.</p></div><div class=paragraph><figure style=text-align:center><img sizes="(min-width: 35em) 720px, 100vw" srcset="/posts/bc_epf_cryptozombies_hu6992c4289d376fb2708dddd350cf03b7_112424_500x0_resize_q75_box.jpeg 500w
-, /posts/bc_epf_cryptozombies_hu6992c4289d376fb2708dddd350cf03b7_112424_800x0_resize_q75_box.jpeg 800w
-, /posts/bc_epf_cryptozombies_hu6992c4289d376fb2708dddd350cf03b7_112424_1200x0_resize_q75_box.jpeg 1200w" src=https://alainnicolas.fr/posts/bc_epf_cryptozombies.jpeg alt="Logo Cryptozombies"><figcaption><small></small></figcaption></figure></div><div class=paragraph><p>CryptoZombies a été créé par <a href=https://loomx.io/>Loom Network</a> afin de rendre plus facile l’apprentissage de Solidity.
+Pour autant, face à un public étudiant, il convient de regarder de près les composantes techniques de la blockchain pour en saisir l’intérêt.</p>
+</div>
+<div class="paragraph">
+<p>De nombreuses idées à faire passer, sur des thèmes très vastes et variés, de la plus petite brique technique à la conduite du changement, en passant par des concepts complexes, la gouvernance…</p>
+</div>
+<div class="paragraph">
+<p>Formaliser et organiser ces idées en thèmes, les articuler de manière logique et fluide, en détaillant les concepts sans forcément entrer trop en détails dans l’implémentation, s’adapter aux connaissances supposées d’étudiants que l’on ne connaît pas… Autant de challenges à relever, mais non sans intérêt : c’est bel et bien le meilleur moyen de se rendre compte des concepts que l’on maitrise et de ceux qui méritent que l’on s’y attarde.</p>
+</div>
+<div class="paragraph">
+
+
+
+<figure style="text-align: center;">
+
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+
+    
+    <img
+            
+    sizes="(min-width: 35em) 720px, 100vw"
+    srcset='
+    
+    /posts/bc_epf_definition_hufe299401bc07203649bf3262af2b2042_261064_500x0_resize_box_2.png 500w
+    
+    
+    , /posts/bc_epf_definition_hufe299401bc07203649bf3262af2b2042_261064_800x0_resize_box_2.png 800w
+    
+    
+    , /posts/bc_epf_definition_hufe299401bc07203649bf3262af2b2042_261064_1200x0_resize_box_2.png 1200w
+    '
+    
+    src="https://alainnicolas.fr/posts/bc_epf_definition.png"
+    
+    alt="Définition des Blockchain &amp; DLT en 5 mots">
+    
+    
+    <figcaption>
+        <small>
+            
+            
+            
+            Définition des Blockchain &amp; DLT en 5 mots
+            
+            
+            
+        </small>
+    </figcaption>
+</figure>
+</div>
+<div class="paragraph">
+<p>Grâce à de nombreuses présentations «à blanc» du support face aux collègues, on fait émerger les questions qui subsistent, les passages trop rapides sur des points complexes et, surtout, il devient possible de roder une première version du discours qui se doit de rester interactif et illustré pour intéresser.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_du_baptême_du_feu_au_discours_rodé">Du baptême du feu au discours rodé</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Après une première édition de la formation en conditions réelles, face à des étudiants qui semblent intéressés et posent des dizaines de questions, nous ne comptions pas en rester là.
+L’objectif était de passer d’une formation basique à un parcours complet couvrant plusieurs technologies Blockchain, à destination de nos clients.</p>
+</div>
+<div class="paragraph">
+<p>Il est clair qu’une formation sur un sujet aussi mouvant doit rester vivante et évolutive, même si cela suppose un investissement constant.</p>
+</div>
+<div class="paragraph">
+
+
+
+<figure style="text-align: center;">
+
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+
+    
+    <img
+            
+    sizes="(min-width: 35em) 720px, 100vw"
+    srcset='
+    
+    /posts/bc_epf_theorie_huba733fa9ce2c2acf720b616960580281_754081_500x0_resize_box_2.png 500w
+    
+    
+    , /posts/bc_epf_theorie_huba733fa9ce2c2acf720b616960580281_754081_800x0_resize_box_2.png 800w
+    
+    
+    , /posts/bc_epf_theorie_huba733fa9ce2c2acf720b616960580281_754081_1200x0_resize_box_2.png 1200w
+    '
+    
+    src="https://alainnicolas.fr/posts/bc_epf_theorie.png"
+    
+    alt="Formation théorique @ EPF — 04/06/2019">
+    
+    
+    <figcaption>
+        <small>
+            
+            
+            
+            Formation théorique @ EPF — 04/06/2019
+            
+            
+            
+        </small>
+    </figcaption>
+</figure>
+</div>
+<div class="paragraph">
+<p>C’est ainsi que les étudiants de la promotion 2020 ont bénéficié d’une formation largement revue, telle que nous la délivrons à nos clients ou lors de BBL.</p>
+</div>
+<div class="paragraph">
+<p>Pour éviter la perte de spontanéité et la routine, j’essaye de changer au moins un slide par présentation, de toujours adapter le contenu au public ou à la durée, voire de prendre des angles très différents, comme à l’https://www.esgi.fr/[ESGI] (une école d’informatique) où le thème était « <strong>Blockchain : des métiers pour tous</strong> ».</p>
+</div>
+<div class="paragraph">
+
+
+
+<figure style="text-align: center;">
+
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+
+    
+    <img
+            
+    sizes="(min-width: 35em) 720px, 100vw"
+    srcset='
+    
+    
+    '
+    
+    src="https://alainnicolas.fr/posts/bc_epf_logo_esgi.png"
+    
+    alt="Formation théorique @ EPF — 04/06/2019">
+    
+    
+    <figcaption>
+        <small>
+            
+        </small>
+    </figcaption>
+</figure>
+</div>
+<div class="paragraph">
+<p>Adapter son discours au public est indispensable : face à un public très haut niveau et fonctionnel on survole les aspects techniques, tandis que face à des développeurs il convient souvent de descendre dans les entrailles de la blockchain, pour évoquer les algorithmes de consensus, etc.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_de_la_théorie_à_la_pratique_il_ny_a_que_la_création_dun_tp">De la théorie à la pratique, il n’y a que la création d’un TP</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Sans en avoir la consigne directe de la part de l’EPF, nous souhaitions limiter le temps de présentation théorique pour accorder du temps à la pratique.</p>
+</div>
+<div class="paragraph">
+<p>De manière à rester relativement abordables et en accord avec une idée de réelle décentralisation, nous avons choisi dans un premier temps de nous concentrer sur Ethereum, probablement la blockchain la plus accessible.</p>
+</div>
+<div class="paragraph">
+<p>Mais par où commencer ?</p>
+</div>
+<div class="sect2">
+<h3 id="_cryptozombies">CryptoZombies</h3>
+<div class="paragraph">
+<p>Nos premières expérimentations sur Ethereum remontent à fin 2016, avant qu’un écosystème ne se mette parfaitement en place.
+Mais en gardant un œil sur les nouveautés nous ne pouvions rater la franche réussite de <a href="https://cryptozombies.io/fr/">CryptoZombies</a>, sûrement le meilleur moyen de découvrir le langage Solidity des <em>smart contracts</em> Ethereum.</p>
+</div>
+<div class="paragraph">
+
+
+
+<figure style="text-align: center;">
+
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+
+    
+    <img
+            
+    sizes="(min-width: 35em) 720px, 100vw"
+    srcset='
+    
+    /posts/bc_epf_cryptozombies_hu6992c4289d376fb2708dddd350cf03b7_112424_500x0_resize_q75_box.jpeg 500w
+    
+    
+    , /posts/bc_epf_cryptozombies_hu6992c4289d376fb2708dddd350cf03b7_112424_800x0_resize_q75_box.jpeg 800w
+    
+    
+    , /posts/bc_epf_cryptozombies_hu6992c4289d376fb2708dddd350cf03b7_112424_1200x0_resize_q75_box.jpeg 1200w
+    '
+    
+    src="https://alainnicolas.fr/posts/bc_epf_cryptozombies.jpeg"
+    
+    alt="Logo Cryptozombies">
+    
+    
+    <figcaption>
+        <small>
+            
+        </small>
+    </figcaption>
+</figure>
+</div>
+<div class="paragraph">
+<p>CryptoZombies a été créé par <a href="https://loomx.io/">Loom Network</a> afin de rendre plus facile l’apprentissage de Solidity.
 Persuadés de leur pertinence, nous estimons qu’il faut faire profiter de ces excellents exercices à nos étudiants.
-Au-delà de la facilité que cela représente pour nous, il faut reconnaitre que CryptoZombies est bien pensé et surtout très ergonomique, il serait dommage de créer une formation dédiée alors que la communauté s’accorde à l’utiliser.</p></div><div class=paragraph><p>En créant une armée de zombies, les étudiants acquièrent les bases techniques du développement de <em>smart contracts</em>, il est ensuite temps de passer aux choses encore plus sérieuses !</p></div></div><div class=sect2><h3 id=_vote_décentralisé>Vote décentralisé</h3><div class=paragraph><p>Pour le saut dans le grand bain, nous avons choisi de mettre en place un TP visant à développer une application de vote décentralisée.</p></div><div class=paragraph><p>De manière à ne laisser personne en chemin, mais aussi pour faciliter l’encadrement de ce TP, nous avons choisi de rédiger un support le plus complet possible, ainsi que de proposer un jeu de tests unitaires qui valident étape par étape les développements.</p></div><div class=paragraph><figure style=text-align:center><img sizes="(min-width: 35em) 720px, 100vw" srcset="/posts/bc_epf_pdf_hub32f89fa2894bdcac0ea7b6046f480bb_248290_500x0_resize_box_2.png 500w
-, /posts/bc_epf_pdf_hub32f89fa2894bdcac0ea7b6046f480bb_248290_800x0_resize_box_2.png 800w" src=https://alainnicolas.fr/posts/bc_epf_pdf.png alt="Page de garde du support de TP"><figcaption><small>Page de garde du support de TP</small></figcaption></figure></div><div class=paragraph><p>Cette préparation en amont est loin d’être anodine, et s’est déroulée sur plusieurs semaines :</p></div><div class=ulist><ul><li><p>Réalisation du système de vote minimal (possibilité de créer une élection avec des candidats et de voter pour l’un d’entre eux à chaque élection) et validation des développements par des tests unitaires</p></li><li><p>Rédaction d’un premier jet du support, basé sur des souvenirs des développements qui venaient d’avoir lieu</p></li><li><p>Réalisation du TP par 10 de nos collègues, sur la base du support uniquement, afin d’obtenir un maximum de retours</p></li><li><p>Correction et amélioration du support, mais aussi des exercices à réaliser (trouver la bonne balance entre le guidage total et l’incompréhension des consignes, établir la liste exhaustive des pré-requis, etc.)</p></li><li><p>Nouveaux tests en conditions quasi-réelles, etc.</p></li></ul></div><div class=paragraph><p>Et puis le jour J arrive.
+Au-delà de la facilité que cela représente pour nous, il faut reconnaitre que CryptoZombies est bien pensé et surtout très ergonomique, il serait dommage de créer une formation dédiée alors que la communauté s’accorde à l’utiliser.</p>
+</div>
+<div class="paragraph">
+<p>En créant une armée de zombies, les étudiants acquièrent les bases techniques du développement de <em>smart contracts</em>, il est ensuite temps de passer aux choses encore plus sérieuses !</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_vote_décentralisé">Vote décentralisé</h3>
+<div class="paragraph">
+<p>Pour le saut dans le grand bain, nous avons choisi de mettre en place un TP visant à développer une application de vote décentralisée.</p>
+</div>
+<div class="paragraph">
+<p>De manière à ne laisser personne en chemin, mais aussi pour faciliter l’encadrement de ce TP, nous avons choisi de rédiger un support le plus complet possible, ainsi que de proposer un jeu de tests unitaires qui valident étape par étape les développements.</p>
+</div>
+<div class="paragraph">
+
+
+
+<figure style="text-align: center;">
+
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+
+    
+    <img
+            
+    sizes="(min-width: 35em) 720px, 100vw"
+    srcset='
+    
+    /posts/bc_epf_pdf_hub32f89fa2894bdcac0ea7b6046f480bb_248290_500x0_resize_box_2.png 500w
+    
+    
+    , /posts/bc_epf_pdf_hub32f89fa2894bdcac0ea7b6046f480bb_248290_800x0_resize_box_2.png 800w
+    
+    '
+    
+    src="https://alainnicolas.fr/posts/bc_epf_pdf.png"
+    
+    alt="Page de garde du support de TP">
+    
+    
+    <figcaption>
+        <small>
+            
+            
+            
+            Page de garde du support de TP
+            
+            
+            
+        </small>
+    </figcaption>
+</figure>
+</div>
+<div class="paragraph">
+<p>Cette préparation en amont est loin d’être anodine, et s’est déroulée sur plusieurs semaines :</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Réalisation du système de vote minimal (possibilité de créer une élection avec des candidats et de voter pour l’un d’entre eux à chaque élection) et validation des développements par des tests unitaires</p>
+</li>
+<li>
+<p>Rédaction d’un premier jet du support, basé sur des souvenirs des développements qui venaient d’avoir lieu</p>
+</li>
+<li>
+<p>Réalisation du TP par 10 de nos collègues, sur la base du support uniquement, afin d’obtenir un maximum de retours</p>
+</li>
+<li>
+<p>Correction et amélioration du support, mais aussi des exercices à réaliser (trouver la bonne balance entre le guidage total et l’incompréhension des consignes, établir la liste exhaustive des pré-requis, etc.)</p>
+</li>
+<li>
+<p>Nouveaux tests en conditions quasi-réelles, etc.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Et puis le jour J arrive.
 Une soixantaine d’étudiants doivent suivre nos instructions, à commencer par la mise en place du poste de développement.
-Et c’est bien là que les premières difficultés apparaissent.</p></div><div class=paragraph><figure style=text-align:center><img sizes="(min-width: 35em) 720px, 100vw" srcset="/posts/bc_epf_pratique_huec2d4ca0e2cab827d5d2d602dcdd270d_861477_500x0_resize_box_2.png 500w
-, /posts/bc_epf_pratique_huec2d4ca0e2cab827d5d2d602dcdd270d_861477_800x0_resize_box_2.png 800w
-, /posts/bc_epf_pratique_huec2d4ca0e2cab827d5d2d602dcdd270d_861477_1200x0_resize_box_2.png 1200w" src=https://alainnicolas.fr/posts/bc_epf_pratique.png alt="TP @ EPF — 04/06/2019"><figcaption><small>TP @ EPF — 04/06/2019</small></figcaption></figure></div><div class=paragraph><p>Évidement, sur le PC d’un développeur, la majorité des pré-requis est déjà présente (variables d’environnement maîtrisées, outils installés et maîtrisés, etc.).
+Et c’est bien là que les premières difficultés apparaissent.</p>
+</div>
+<div class="paragraph">
+
+
+
+<figure style="text-align: center;">
+
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+
+    
+    <img
+            
+    sizes="(min-width: 35em) 720px, 100vw"
+    srcset='
+    
+    /posts/bc_epf_pratique_huec2d4ca0e2cab827d5d2d602dcdd270d_861477_500x0_resize_box_2.png 500w
+    
+    
+    , /posts/bc_epf_pratique_huec2d4ca0e2cab827d5d2d602dcdd270d_861477_800x0_resize_box_2.png 800w
+    
+    
+    , /posts/bc_epf_pratique_huec2d4ca0e2cab827d5d2d602dcdd270d_861477_1200x0_resize_box_2.png 1200w
+    '
+    
+    src="https://alainnicolas.fr/posts/bc_epf_pratique.png"
+    
+    alt="TP @ EPF — 04/06/2019">
+    
+    
+    <figcaption>
+        <small>
+            
+            
+            
+            TP @ EPF — 04/06/2019
+            
+            
+            
+        </small>
+    </figcaption>
+</figure>
+</div>
+<div class="paragraph">
+<p>Évidement, sur le PC d’un développeur, la majorité des pré-requis est déjà présente (variables d’environnement maîtrisées, outils installés et maîtrisés, etc.).
 Mais sur des postes aux performances et systèmes d’exploitation variables, avec des niveaux de maîtrise très hétérogènes et des consignes parfois survolées, les premières salves de questions surprennent.
 Tout ce qui nous paraît évident ne l’est pas pour tout le monde, c’est bien là notre première leçon.
-Ce qui nous paraît complexe ne l’est pas pour tout le monde non plus, et c’est là notre meilleure surprise.</p></div><div class=paragraph><p>Si nous attendions des difficultés dans la compréhension et la rédaction des <em>smart contracts</em> par exemple, le gros des problématiques rencontrées est finalement au niveau de leurs appels depuis une page web.
-Ces notions de <em>smart contracts</em> et leur langage (Solidity) ont beau être relativement novatrices, pour des débutants le developpement web l’est tout autant.</p></div></div></div></div><div class=sect1><h2 id=_retour_dexpérience>Retour d’expérience</h2><div class=sectionbody><div class=paragraph><p>Nous étions venus pour transmettre des connaissances, mais aussi pour bénéficier des enseignements que des étudiants ont à transmettre.
-En mettant en place un climat de confiance (facilité lorsque l’on sort de la même école), il devient possible de récolter des avis francs et des idées d’amélioration au plus près du terrain.</p></div><div class=paragraph><p>Sur ces journées de formation, si la balance théorie / pratique a paru bonne, les difficultés rencontrées dans le développement web ont plombé le ressenti des étudiants.</p></div><div class=paragraph><p>Nul doute que nous prenons en compte ces problèmes pour tenter de les effacer lors de la prochaine session.
-Par exemple en fournissant plus de tests unitaires qui guident de manière plus stricte, ou une interface web attrayante plus satisfaisante pour tous.</p></div><div class=paragraph><p><br></p></div><hr><div class=paragraph><p><br></p></div><div class=paragraph><p>Retrouvez la vidéo de présentation de ces formations auprès des étudiants de l’EPF réalisée par Talan :</p></div><div class="videoblock text-center"><div class=content><iframe width=720 height=400 src="https://www.youtube.com/embed/PQ1Vc80qLZ4?rel=0" frameborder=0 allowfullscreen></iframe></div></div><div class=paragraph><p><br></p></div><hr><div class=paragraph><p><br></p></div><div class=paragraph><p><em>Au-delà de ces formations ponctuelles de quelques jours en 4ème et 5ème années, Talan Labs s’est aussi lancé dans l’accompagnement d’un groupe de projet plus restreint (5 en 2018/2019 puis 8 en 2019/2020), toujours sur la thématique de la blockchain.</em></p></div><div class=paragraph><p><em>C’est l’objet d’un <a href="https://medium.com/@Alain_Ncls/blockchain-du-projet-scolaire-au-monde-de-lentreprise-1ba3de9bc255?source=friends_link&sk=7cace238c7a64debde0c5010760557ec">autre article</a> !</em></p></div><div class=paragraph><p><br></p></div><hr><div class=paragraph><p><br><em>Cet article a initialement été publié sur <a href="https://medium.com/@Alain_Ncls/blockchain-former-les-ing%C3%A9nieurs-de-demain-e0044e9a2e8c?source=friends_link&sk=e750e36ac6c0411048cfad9179560be8">Medium</a>.</em></p></div></div></div><ul class=tags><li><a class=tag href=https://alainnicolas.fr/tags/blockchain>blockchain</a></li><li><a class=tag href=https://alainnicolas.fr/tags/epf>EPF</a></li><li><a class=tag href=https://alainnicolas.fr/tags/formation>formation</a></li></ul></div></section></div><script src=https://alainnicolas.fr/js/jquery-3.5.1.min.js></script><script async src=https://alainnicolas.fr/js/bootstrap.min.js></script><script async src=https://alainnicolas.fr/js/jquery.easing.min.js></script><script async src=https://alainnicolas.fr/js/resume.js></script><script async src="https://www.googletagmanager.com/gtag/js?id=UA-179597057-1"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
-gtag('js',new Date());gtag('config','UA-179597057-1');</script></body></html>
+Ce qui nous paraît complexe ne l’est pas pour tout le monde non plus, et c’est là notre meilleure surprise.</p>
+</div>
+<div class="paragraph">
+<p>Si nous attendions des difficultés dans la compréhension et la rédaction des <em>smart contracts</em> par exemple, le gros des problématiques rencontrées est finalement au niveau de leurs appels depuis une page web.
+Ces notions de <em>smart contracts</em> et leur langage (Solidity) ont beau être relativement novatrices, pour des débutants le developpement web l’est tout autant.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_retour_dexpérience">Retour d’expérience</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Nous étions venus pour transmettre des connaissances, mais aussi pour bénéficier des enseignements que des étudiants ont à transmettre.
+En mettant en place un climat de confiance (facilité lorsque l’on sort de la même école), il devient possible de récolter des avis francs et des idées d’amélioration au plus près du terrain.</p>
+</div>
+<div class="paragraph">
+<p>Sur ces journées de formation, si la balance théorie / pratique a paru bonne, les difficultés rencontrées dans le développement web ont plombé le ressenti des étudiants.</p>
+</div>
+<div class="paragraph">
+<p>Nul doute que nous prenons en compte ces problèmes pour tenter de les effacer lors de la prochaine session.
+Par exemple en fournissant plus de tests unitaires qui guident de manière plus stricte, ou une interface web attrayante plus satisfaisante pour tous.</p>
+</div>
+<div class="paragraph">
+<p><br/></p>
+</div>
+<hr/>
+<div class="paragraph">
+<p><br/></p>
+</div>
+<div class="paragraph">
+<p>Retrouvez la vidéo de présentation de ces formations auprès des étudiants de l’EPF réalisée par Talan :</p>
+</div>
+<div class="videoblock text-center">
+<div class="content">
+<iframe width="720" height="400" src="https://www.youtube.com/embed/PQ1Vc80qLZ4?rel=0" frameborder="0" allowfullscreen=""></iframe>
+</div>
+</div>
+<div class="paragraph">
+<p><br/></p>
+</div>
+<hr/>
+<div class="paragraph">
+<p><br/></p>
+</div>
+<div class="paragraph">
+<p><em>Au-delà de ces formations ponctuelles de quelques jours en 4ème et 5ème années, Talan Labs s’est aussi lancé dans l’accompagnement d’un groupe de projet plus restreint (5 en 2018/2019 puis 8 en 2019/2020), toujours sur la thématique de la blockchain.</em></p>
+</div>
+<div class="paragraph">
+<p><em>C’est l’objet d’un <a href="https://medium.com/@Alain_Ncls/blockchain-du-projet-scolaire-au-monde-de-lentreprise-1ba3de9bc255?source=friends_link&amp;sk=7cace238c7a64debde0c5010760557ec">autre article</a> !</em></p>
+</div>
+<div class="paragraph">
+<p><br/></p>
+</div>
+<hr/>
+<div class="paragraph">
+<p><br/>
+<em>Cet article a initialement été publié sur <a href="https://medium.com/@Alain_Ncls/blockchain-former-les-ing%C3%A9nieurs-de-demain-e0044e9a2e8c?source=friends_link&amp;sk=e750e36ac6c0411048cfad9179560be8">Medium</a>.</em></p>
+</div>
+</div>
+</div>
+
+    
+    <ul class="tags">
+    
+    
+    
+    
+    <li><a class="tag" href="https://alainnicolas.fr/tags/blockchain">
+        
+        blockchain</a></li>
+    
+    
+    
+    
+    <li><a class="tag" href="https://alainnicolas.fr/tags/epf">
+        
+        EPF</a></li>
+    
+    
+    
+    
+    <li><a class="tag" href="https://alainnicolas.fr/tags/formation">
+        
+        formation</a></li>
+    
+</ul>
+
+  </div>
+</section>
+
+</div>
+
+<script src="https://alainnicolas.fr/js/jquery-3.5.1.min.js"></script>
+<script async src="https://alainnicolas.fr/js/bootstrap.min.js"></script>
+
+
+<script async src="https://alainnicolas.fr/js/jquery.easing.min.js"></script>
+
+<script async src="https://alainnicolas.fr/js/resume.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179597057-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-179597057-1');
+</script>
+
+
+
+</body>
+</html>

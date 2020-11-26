@@ -1,3 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>React - react on Alain Nicolas</title><link>https://alainnicolas.fr/tags/react-react/</link><description>Recent content in React - react on Alain Nicolas</description><generator>Hugo -- gohugo.io</generator><language>fr-fr</language><lastBuildDate>Tue, 01 Sep 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/react-react/index.xml" rel="self" type="application/rss+xml"/><item><title>FuturMaster - Master Data</title><link>https://alainnicolas.fr/projects/2020-09-futurmaster-master-data/</link><pubDate>Tue, 01 Sep 2020 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/2020-09-futurmaster-master-data/</guid><description>Développement du module Master Data. Stack : React + Spring Boot.
-Logo FuturMaster</description></item><item><title>FuturMaster - Calibrate Model</title><link>https://alainnicolas.fr/projects/2019-07-futurmaster-calibrate-model/</link><pubDate>Mon, 01 Jul 2019 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/2019-07-futurmaster-calibrate-model/</guid><description>Développement du module Demand Planning. Stack : React + Spring Boot.
-Logo FuturMaster</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React - react on Alain Nicolas</title>
+    <link>https://alainnicolas.fr/tags/react-react/</link>
+    <description>Recent content in React - react on Alain Nicolas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 01 Sep 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/react-react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FuturMaster - Master Data</title>
+      <link>https://alainnicolas.fr/projects/2020-09-futurmaster-master-data/</link>
+      <pubDate>Tue, 01 Sep 2020 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/projects/2020-09-futurmaster-master-data/</guid>
+      <description>Développement du module Master Data. Stack : React + Spring Boot.
+  Logo FuturMaster    </description>
+    </item>
+    
+    <item>
+      <title>FuturMaster - Calibrate Model</title>
+      <link>https://alainnicolas.fr/projects/2019-07-futurmaster-calibrate-model/</link>
+      <pubDate>Mon, 01 Jul 2019 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/projects/2019-07-futurmaster-calibrate-model/</guid>
+      <description>Développement du module Demand Planning. Stack : React + Spring Boot.
+  Logo FuturMaster    </description>
+    </item>
+    
+  </channel>
+</rss>
