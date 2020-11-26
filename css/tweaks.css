@@ -113,3 +113,7 @@ div.skills-heading {
 iframe {
     text-align: center;
 }
+
+.list-inline-item{
+    margin-top: 0.5rem;
+}
