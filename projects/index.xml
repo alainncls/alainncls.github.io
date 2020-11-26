@@ -1,9 +1,90 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projets on Alain Nicolas</title><link>https://alainnicolas.fr/projects/</link><description>Recent content in Projets on Alain Nicolas</description><generator>Hugo -- gohugo.io</generator><language>fr-fr</language><atom:link href="https://alainnicolas.fr/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>FuturMaster - Master Data</title><link>https://alainnicolas.fr/projects/2020-09-futurmaster-master-data/</link><pubDate>Tue, 01 Sep 2020 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/2020-09-futurmaster-master-data/</guid><description>Développement du module Master Data. Stack : React + Spring Boot.
-Logo FuturMaster</description></item><item><title>FuturMaster - Calibrate Model</title><link>https://alainnicolas.fr/projects/2019-07-futurmaster-calibrate-model/</link><pubDate>Mon, 01 Jul 2019 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/2019-07-futurmaster-calibrate-model/</guid><description>Développement du module Demand Planning. Stack : React + Spring Boot.
-Logo FuturMaster</description></item><item><title>BNP CIB - Blockchain-as-a-Service</title><link>https://alainnicolas.fr/projects/2018-09-bnp-blockchain/</link><pubDate>Sat, 01 Sep 2018 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/2018-09-bnp-blockchain/</guid><description>Création d&amp;rsquo;une solution &amp;ldquo;Blockchain as a Service&amp;rdquo; : hébergement &amp;ldquo;on premises&amp;rdquo; de nœuds Corda Enterprise, Quorum et Fabric.
-Logo BNP</description></item><item><title>Talan - Talan Coin</title><link>https://alainnicolas.fr/projects/2016-12-talan-talancoin/</link><pubDate>Fri, 01 Jun 2018 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/2016-12-talan-talancoin/</guid><description>Création d&amp;rsquo;un token interne à Talan et d&amp;rsquo;un écosystème d&amp;rsquo;applications clientes.
-Logo Talan</description></item><item><title>VINCI Construction Terrassement - VCoin</title><link>https://alainnicolas.fr/projects/2018-06-vct-vcoin/</link><pubDate>Fri, 01 Jun 2018 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/2018-06-vct-vcoin/</guid><description>Déploiement, développement spécifique et maintenance de VCoin, la version VINCI de Talan Coin, token RH.
-Logo VINCI</description></item><item><title>Coface</title><link>https://alainnicolas.fr/projects/2016-01-coface/</link><pubDate>Fri, 01 Jan 2016 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/2016-01-coface/</guid><description>Application de gestion de contrats d&amp;rsquo;assurance.
-Logo Coface</description></item><item><title>e-Paye</title><link>https://alainnicolas.fr/projects/2015-10-epaye/</link><pubDate>Thu, 01 Oct 2015 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/2015-10-epaye/</guid><description>Refonte d&amp;rsquo;une application web de gestion de paye.
-Logo e-Paye</description></item><item><title>Gefco</title><link>https://alainnicolas.fr/projects/2015-07-gefco/</link><pubDate>Wed, 01 Jul 2015 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/2015-07-gefco/</guid><description>Développement d&amp;rsquo;un système de génération de plannings sous contraintes.
-Logo Gefco</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projets on Alain Nicolas</title>
+    <link>https://alainnicolas.fr/projects/</link>
+    <description>Recent content in Projets on Alain Nicolas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language><atom:link href="https://alainnicolas.fr/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FuturMaster - Master Data</title>
+      <link>https://alainnicolas.fr/projects/2020-09-futurmaster-master-data/</link>
+      <pubDate>Tue, 01 Sep 2020 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/projects/2020-09-futurmaster-master-data/</guid>
+      <description>Développement du module Master Data. Stack : React + Spring Boot.
+  Logo FuturMaster    </description>
+    </item>
+    
+    <item>
+      <title>FuturMaster - Calibrate Model</title>
+      <link>https://alainnicolas.fr/projects/2019-07-futurmaster-calibrate-model/</link>
+      <pubDate>Mon, 01 Jul 2019 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/projects/2019-07-futurmaster-calibrate-model/</guid>
+      <description>Développement du module Demand Planning. Stack : React + Spring Boot.
+  Logo FuturMaster    </description>
+    </item>
+    
+    <item>
+      <title>BNP CIB - Blockchain-as-a-Service</title>
+      <link>https://alainnicolas.fr/projects/2018-09-bnp-blockchain/</link>
+      <pubDate>Sat, 01 Sep 2018 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/projects/2018-09-bnp-blockchain/</guid>
+      <description>Création d&amp;rsquo;une solution &amp;ldquo;Blockchain as a Service&amp;rdquo; : hébergement &amp;ldquo;on premises&amp;rdquo; de nœuds Corda Enterprise, Quorum et Fabric.
+  Logo BNP    </description>
+    </item>
+    
+    <item>
+      <title>Talan - Talan Coin</title>
+      <link>https://alainnicolas.fr/projects/2016-12-talan-talancoin/</link>
+      <pubDate>Fri, 01 Jun 2018 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/projects/2016-12-talan-talancoin/</guid>
+      <description>Création d&amp;rsquo;un token interne à Talan et d&amp;rsquo;un écosystème d&amp;rsquo;applications clientes.
+  Logo Talan    </description>
+    </item>
+    
+    <item>
+      <title>VINCI Construction Terrassement - VCoin</title>
+      <link>https://alainnicolas.fr/projects/2018-06-vct-vcoin/</link>
+      <pubDate>Fri, 01 Jun 2018 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/projects/2018-06-vct-vcoin/</guid>
+      <description>Déploiement, développement spécifique et maintenance de VCoin, la version VINCI de Talan Coin, token RH.
+  Logo VINCI    </description>
+    </item>
+    
+    <item>
+      <title>Coface</title>
+      <link>https://alainnicolas.fr/projects/2016-01-coface/</link>
+      <pubDate>Fri, 01 Jan 2016 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/projects/2016-01-coface/</guid>
+      <description>Application de gestion de contrats d&amp;rsquo;assurance.
+  Logo Coface    </description>
+    </item>
+    
+    <item>
+      <title>e-Paye</title>
+      <link>https://alainnicolas.fr/projects/2015-10-epaye/</link>
+      <pubDate>Thu, 01 Oct 2015 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/projects/2015-10-epaye/</guid>
+      <description>Refonte d&amp;rsquo;une application web de gestion de paye.
+  Logo e-Paye    </description>
+    </item>
+    
+    <item>
+      <title>Gefco</title>
+      <link>https://alainnicolas.fr/projects/2015-07-gefco/</link>
+      <pubDate>Wed, 01 Jul 2015 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/projects/2015-07-gefco/</guid>
+      <description>Développement d&amp;rsquo;un système de génération de plannings sous contraintes.
+  Logo Gefco    </description>
+    </item>
+    
+  </channel>
+</rss>
