@@ -8,38 +8,38 @@
     <language>fr-fr</language>
     <lastBuildDate>Tue, 01 Sep 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Docker - docker</title>
-      <link>https://alainnicolas.fr/tags/docker-docker/</link>
+      <title>Docker</title>
+      <link>https://alainnicolas.fr/tags/docker/</link>
       <pubDate>Tue, 01 Sep 2020 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/tags/docker-docker/</guid>
+      <guid>https://alainnicolas.fr/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>OracleDB - fas fa-database</title>
-      <link>https://alainnicolas.fr/tags/oracledb-fas-fa-database/</link>
+      <title>OracleDB</title>
+      <link>https://alainnicolas.fr/tags/oracledb/</link>
       <pubDate>Tue, 01 Sep 2020 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/tags/oracledb-fas-fa-database/</guid>
+      <guid>https://alainnicolas.fr/tags/oracledb/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>React - react</title>
-      <link>https://alainnicolas.fr/tags/react-react/</link>
+      <title>React</title>
+      <link>https://alainnicolas.fr/tags/react/</link>
       <pubDate>Tue, 01 Sep 2020 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/tags/react-react/</guid>
+      <guid>https://alainnicolas.fr/tags/react/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Spring Boot - java</title>
-      <link>https://alainnicolas.fr/tags/spring-boot-java/</link>
+      <title>Spring Boot</title>
+      <link>https://alainnicolas.fr/tags/spring-boot/</link>
       <pubDate>Tue, 01 Sep 2020 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/tags/spring-boot-java/</guid>
+      <guid>https://alainnicolas.fr/tags/spring-boot/</guid>
       <description></description>
     </item>
     
@@ -71,11 +71,11 @@
     </item>
     
     <item>
-      <title>MongoDB - mongodb</title>
-      <link>https://alainnicolas.fr/tags/mongodb-mongodb/</link>
+      <title>MongoDB</title>
+      <link>https://alainnicolas.fr/tags/mongodb/</link>
       <pubDate>Mon, 01 Jul 2019 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/tags/mongodb-mongodb/</guid>
+      <guid>https://alainnicolas.fr/tags/mongodb/</guid>
       <description></description>
     </item>
     
@@ -143,47 +143,47 @@
     </item>
     
     <item>
-      <title>Shell - fas fa-terminal</title>
-      <link>https://alainnicolas.fr/tags/shell-fas-fa-terminal/</link>
+      <title>Shell</title>
+      <link>https://alainnicolas.fr/tags/shell/</link>
       <pubDate>Sat, 01 Sep 2018 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/tags/shell-fas-fa-terminal/</guid>
+      <guid>https://alainnicolas.fr/tags/shell/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Android - android</title>
-      <link>https://alainnicolas.fr/tags/android-android/</link>
+      <title>Android</title>
+      <link>https://alainnicolas.fr/tags/android/</link>
       <pubDate>Fri, 01 Jun 2018 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/tags/android-android/</guid>
+      <guid>https://alainnicolas.fr/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Angular - angularjs</title>
-      <link>https://alainnicolas.fr/tags/angular-angularjs/</link>
+      <title>Angular</title>
+      <link>https://alainnicolas.fr/tags/angular/</link>
       <pubDate>Fri, 01 Jun 2018 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/tags/angular-angularjs/</guid>
+      <guid>https://alainnicolas.fr/tags/angular/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ethereum - fab fa-ethereum</title>
-      <link>https://alainnicolas.fr/tags/ethereum-fab-fa-ethereum/</link>
+      <title>ethereum</title>
+      <link>https://alainnicolas.fr/tags/ethereum/</link>
       <pubDate>Fri, 01 Jun 2018 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/tags/ethereum-fab-fa-ethereum/</guid>
+      <guid>https://alainnicolas.fr/tags/ethereum/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>iOS - apple</title>
-      <link>https://alainnicolas.fr/tags/ios-apple/</link>
+      <title>iOS</title>
+      <link>https://alainnicolas.fr/tags/ios/</link>
       <pubDate>Fri, 01 Jun 2018 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/tags/ios-apple/</guid>
+      <guid>https://alainnicolas.fr/tags/ios/</guid>
       <description></description>
     </item>
     
@@ -193,15 +193,6 @@
       <pubDate>Tue, 13 Feb 2018 12:05:59 +0100</pubDate>
       
       <guid>https://alainnicolas.fr/tags/colony/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ethereum</title>
-      <link>https://alainnicolas.fr/tags/ethereum/</link>
-      <pubDate>Thu, 01 Feb 2018 14:31:12 +0100</pubDate>
-      
-      <guid>https://alainnicolas.fr/tags/ethereum/</guid>
       <description></description>
     </item>
     
@@ -377,15 +368,6 @@
     </item>
     
     <item>
-      <title>Angular</title>
-      <link>https://alainnicolas.fr/tags/angular/</link>
-      <pubDate>Thu, 02 Mar 2017 09:01:06 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/tags/angular/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>AngularJS</title>
       <link>https://alainnicolas.fr/tags/angularjs/</link>
       <pubDate>Thu, 02 Mar 2017 09:01:06 +0000</pubDate>
@@ -485,47 +467,47 @@
     </item>
     
     <item>
-      <title>jQuery - jquery</title>
-      <link>https://alainnicolas.fr/tags/jquery-jquery/</link>
+      <title>jQuery</title>
+      <link>https://alainnicolas.fr/tags/jquery/</link>
       <pubDate>Fri, 01 Jan 2016 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/tags/jquery-jquery/</guid>
+      <guid>https://alainnicolas.fr/tags/jquery/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>JSP - java</title>
-      <link>https://alainnicolas.fr/tags/jsp-java/</link>
+      <title>JSP</title>
+      <link>https://alainnicolas.fr/tags/jsp/</link>
       <pubDate>Fri, 01 Jan 2016 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/tags/jsp-java/</guid>
+      <guid>https://alainnicolas.fr/tags/jsp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Spring MVC - java</title>
-      <link>https://alainnicolas.fr/tags/spring-mvc-java/</link>
+      <title>Spring MVC</title>
+      <link>https://alainnicolas.fr/tags/spring-mvc/</link>
       <pubDate>Fri, 01 Jan 2016 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/tags/spring-mvc-java/</guid>
+      <guid>https://alainnicolas.fr/tags/spring-mvc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>mySQL - mysql</title>
-      <link>https://alainnicolas.fr/tags/mysql-mysql/</link>
+      <title>mySQL</title>
+      <link>https://alainnicolas.fr/tags/mysql/</link>
       <pubDate>Thu, 01 Oct 2015 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/tags/mysql-mysql/</guid>
+      <guid>https://alainnicolas.fr/tags/mysql/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Java Swing - java</title>
-      <link>https://alainnicolas.fr/tags/java-swing-java/</link>
+      <title>Java Swing</title>
+      <link>https://alainnicolas.fr/tags/java-swing/</link>
       <pubDate>Wed, 01 Jul 2015 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/tags/java-swing-java/</guid>
+      <guid>https://alainnicolas.fr/tags/java-swing/</guid>
       <description></description>
     </item>
     

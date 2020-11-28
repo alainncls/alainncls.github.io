@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JSP on Alain Nicolas</title>
+    <link>https://alainnicolas.fr/tags/jsp/</link>
+    <description>Recent content in JSP on Alain Nicolas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 01 Jan 2016 15:00:28 +0000</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/jsp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coface</title>
+      <link>https://alainnicolas.fr/projects/2016-01-coface/</link>
+      <pubDate>Fri, 01 Jan 2016 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/projects/2016-01-coface/</guid>
+      <description>Application de gestion de contrats d&amp;rsquo;assurance.
+Logo Coface </description>
+    </item>
+    
+    <item>
+      <title>e-Paye</title>
+      <link>https://alainnicolas.fr/projects/2015-10-epaye/</link>
+      <pubDate>Thu, 01 Oct 2015 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/projects/2015-10-epaye/</guid>
+      <description>Refonte d&amp;rsquo;une application web de gestion de paye.
+Logo e-Paye </description>
+    </item>
+    
+  </channel>
+</rss>
