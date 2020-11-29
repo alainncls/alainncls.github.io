@@ -77,11 +77,6 @@
   
   <url>
     <loc>https://alainnicolas.fr/tags/</loc>
-    <lastmod>2020-11-29T00:18:34+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/</loc>
     <lastmod>2020-11-29T01:30:54+01:00</lastmod>
   </url>
   
@@ -552,8 +547,8 @@
   </url>
   
   <url>
-    <loc>https://alainnicolas.fr/projects/</loc>
-    <lastmod>2020-10-24T19:52:27+02:00</lastmod>
+    <loc>https://alainnicolas.fr/tags/</loc>
+    <lastmod>2020-11-29T01:30:54+01:00</lastmod>
     <priority>0.9</priority>
   </url>
   
@@ -591,6 +586,12 @@
   <url>
     <loc>https://alainnicolas.fr/tags/spring-mvc/</loc>
     <lastmod>2020-11-28T01:50:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alainnicolas.fr/projects/</loc>
+    <lastmod>2020-11-29T01:30:54+01:00</lastmod>
+    <priority>0.9</priority>
   </url>
   
   <url>
