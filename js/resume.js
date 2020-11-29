@@ -1,5 +1,5 @@
 (function ($) {
-    "use strict"; // Start of use strict
+    'use strict'; // Start of use strict
 
     // Smooth scrolling using jQuery easing
     $('a.js-scroll-trigger[href*="#"]:not([href="#"])').click(function () {
@@ -9,7 +9,7 @@
             if (target.length) {
                 $('html, body').animate({
                     scrollTop: (target.offset().top)
-                }, 1000, "easeInOutExpo");
+                }, 1000, 'easeInOutExpo');
                 return false;
             }
         }
@@ -32,7 +32,8 @@
     $(document).keydown(function (e) {
         if (e.keyCode === k[n++]) {
             if (n === k.length) {
-                $('.img-profile').attr('src', "img/baby-yoda.webp");
+                const profilPicture = $('.img-profile');
+                profilPicture.attr('src', profilPicture.attr('src').slice(0, profilPicture.attr('src').lastIndexOf('/')) + '/baby-yoda.webp');
                 n = 0;
                 return false;
             }
