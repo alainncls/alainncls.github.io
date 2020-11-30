@@ -3,12 +3,12 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="last-modified" content="2020-11-23" />
+    <meta http-equiv="last-modified" content="2020-11-29" />
     <meta http-equiv="cache-control" content="Private" />
     <meta http-equiv="Expires" content="600" />
     <title>Alain Nicolas | Java EE, nouvelle orientation : une bonne nouvelle ?</title>
 
-    <meta name="description" content="">
+    <meta name="description" content="Peut-être que pour vous la série de l’été était Stranger Things, la petite pépite aux couleurs années 80-90 de Netflix. Mais dans le vaste monde du Java, une toute autre série aux multiples rebondissements a retenu toutes les attentions.">
     <meta name="author" content="Alain Nicolas">
 
     
@@ -18,7 +18,7 @@
     <meta property="og:url" content="https://alainnicolas.fr/blog/java-ee-nouvelle-orientation-bonne-nouvelle/" />
     
     <meta property="og:description" content="Peut-être que pour vous la série de l’été était Stranger Things, la petite pépite aux couleurs années 80-90 de Netflix. Mais dans le vaste monde du Java, une toute autre série aux multiples rebondissements a retenu toutes les attentions.
- Pour introduire le récit de cet été de toutes les surprises, un petit historique s’impose…
+ Pour introduire le récit de cet été de toutes les surprises, un petit historique s’impose…​
  Java, Sun et Oracle L’entreprise Sun est fondée en 1982, et lance Java en 1995."/>
 
      
@@ -40,7 +40,7 @@
     <style>/*!
  * Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
- */.fa,.fab,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}@keyframes fa-spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.fa-stack{display:inline-block;height:2em;line-height:2em;position:relative;vertical-align:middle;width:2.5em}.fa-stack-1x,.fa-stack-2x{left:0;position:absolute;text-align:center;width:100%}.fa-stack-1x{line-height:inherit}.fa-stack-2x{font-size:2em}.fa-inverse{color:#fff}.fa-circle:before{content:"\f111"}.fa-database:before{content:"\f1c0"}.fa-ethereum:before{content:"\f42e"}.fa-github:before{content:"\f09b"}.fa-linkedin:before{content:"\f08c"}.fa-terminal:before{content:"\f120"}.fa-twitter:before{content:"\f099"}@font-face{font-family:Font Awesome\ 5 Brands;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-brands-400.eot);src:url(/webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-brands-400.woff2) format("woff2"),url(/webfonts/fa-brands-400.woff) format("woff"),url(/webfonts/fa-brands-400.ttf) format("truetype"),url(/webfonts/fa-brands-400.svg#fontawesome) format("svg")}.fab{font-family:Font Awesome\ 5 Brands;font-weight:400}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-regular-400.eot);src:url(/webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-regular-400.woff2) format("woff2"),url(/webfonts/fa-regular-400.woff) format("woff"),url(/webfonts/fa-regular-400.ttf) format("truetype"),url(/webfonts/fa-regular-400.svg#fontawesome) format("svg")}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:900;font-display:block;src:url(/webfonts/fa-solid-900.eot);src:url(/webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-solid-900.woff2) format("woff2"),url(/webfonts/fa-solid-900.woff) format("woff"),url(/webfonts/fa-solid-900.ttf) format("truetype"),url(/webfonts/fa-solid-900.svg#fontawesome) format("svg")}.fa,.fas{font-family:Font Awesome\ 5 Free;font-weight:900}</style>
+ */.fa,.fab,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}@keyframes fa-spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.fa-stack{display:inline-block;height:2em;line-height:2em;position:relative;vertical-align:middle;width:2.5em}.fa-stack-1x,.fa-stack-2x{left:0;position:absolute;text-align:center;width:100%}.fa-stack-1x{line-height:inherit}.fa-stack-2x{font-size:2em}.fa-inverse{color:#fff}.fa-circle:before{content:"\f111"}.fa-database:before{content:"\f1c0"}.fa-ethereum:before{content:"\f42e"}.fa-github:before{content:"\f09b"}.fa-linkedin:before{content:"\f08c"}.fa-medium:before{content:"\f23a"}.fa-terminal:before{content:"\f120"}.fa-twitter:before{content:"\f099"}@font-face{font-family:Font Awesome\ 5 Brands;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-brands-400.eot);src:url(/webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-brands-400.woff2) format("woff2"),url(/webfonts/fa-brands-400.woff) format("woff"),url(/webfonts/fa-brands-400.ttf) format("truetype"),url(/webfonts/fa-brands-400.svg#fontawesome) format("svg")}.fab{font-family:Font Awesome\ 5 Brands;font-weight:400}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-regular-400.eot);src:url(/webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-regular-400.woff2) format("woff2"),url(/webfonts/fa-regular-400.woff) format("woff"),url(/webfonts/fa-regular-400.ttf) format("truetype"),url(/webfonts/fa-regular-400.svg#fontawesome) format("svg")}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:900;font-display:block;src:url(/webfonts/fa-solid-900.eot);src:url(/webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-solid-900.woff2) format("woff2"),url(/webfonts/fa-solid-900.woff) format("woff"),url(/webfonts/fa-solid-900.ttf) format("truetype"),url(/webfonts/fa-solid-900.svg#fontawesome) format("svg")}.fa,.fas{font-family:Font Awesome\ 5 Free;font-weight:900}</style>
     
     <link rel="preload" href="https://alainnicolas.fr/css/devicon.min.css" as="style">
     <link rel="stylesheet" href="https://alainnicolas.fr/css/devicon.min.css" type="text/css">
@@ -148,7 +148,7 @@
 Mais dans le vaste monde du Java, une toute autre série aux multiples rebondissements a retenu toutes les attentions.</p>
 </div>
 <div class="paragraph">
-<p><em>Pour introduire le récit de cet été de toutes les surprises, un petit historique s’impose…</em></p>
+<p><em>Pour introduire le récit de cet été de toutes les surprises, un petit historique s’impose…​</em></p>
 </div>
 <div class="sect1">
 <h2 id="_java_sun_et_oracle">Java, Sun et Oracle</h2>
@@ -221,7 +221,7 @@ Pour rappel, Oracle c’est 110 milliards de chiffre d’affaires, et des produi
 <p>Les craintes de la communauté Open Source sont vite confirmées, Oracle abandonnant par exemple le développement d’OpenSolaris (un système d’exploitation de Sun).
 L’open n’est pas la priorité d’Oracle, et l’on commence à craindre pour Java.
 Le procès intenté par Oracle à Google pour son utilisation de Java dans Android laisse à penser que le monde du Java va se refermer sur lui-même et que sa communauté va se réduire.
-En mai 2016, la Cour Suprême des Etats-Unis se prononce en faveur de Google, jugeant que son utilisation de Java est licite.</p>
+En mai 2016, la Cour Suprême des États-Unis se prononce en faveur de Google, jugeant que son utilisation de Java est licite.</p>
 </div>
 </div>
 </div>
@@ -299,7 +299,7 @@ L’annonce reste vague et ne convainc pas vraiment.</p>
 </div>
 <div class="paragraph">
 <p>Une semaine plus tard, Oracle communique de nouveau sur Java EE 8, en expliquant que cette version sera équipée pour le déploiement dans le cloud, adaptée aux microservices et au multi-tenant (la capacité d’une application à servir plusieurs organisations clientes).
-Encore une fois, et même si l’effet d’annonce est plus important, les Guardians demandent des détails…</p>
+Encore une fois, et même si l’effet d’annonce est plus important, les Guardians demandent des détails…​</p>
 </div>
 </div>
 </div>
@@ -441,11 +441,11 @@ Quel intérêt aurait une entreprise à migrer ses projets de Java EE 7 à 8 pui
 </div>
 </div>
 <div class="sect1">
-<h2 id="_la_suite">La suite…</h2>
+<h2 id="_la_suite">La suite…​</h2>
 <div class="sectionbody">
 <div class="paragraph">
 <p>La réorientation stratégique des objectifs de Java EE vers des problématiques très actuelles (micro-services, cloud, etc.), les échéances resserrées et toutes ces annonces en quelques mois seulement ne sont pas sans soulever de nombreuses questions.
-Et en réalité non sans laisser planer de nombreuses incertitudes…</p>
+Et en réalité non sans laisser planer de nombreuses incertitudes…​</p>
 </div>
 <div class="paragraph">
 <p>Alors, bonnes ou mauvaises nouvelles ?

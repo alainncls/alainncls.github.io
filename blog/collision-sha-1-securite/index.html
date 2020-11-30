@@ -3,12 +3,12 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="last-modified" content="2020-11-23" />
+    <meta http-equiv="last-modified" content="2020-11-29" />
     <meta http-equiv="cache-control" content="Private" />
     <meta http-equiv="Expires" content="600" />
     <title>Alain Nicolas | Collision SHA-1 et sécurité</title>
 
-    <meta name="description" content="">
+    <meta name="description" content="Google a annoncé le 23 février 2017 avoir réussi à casser la fonction de hachage SHA-1. Il s&#39;agit là d&#39;un événement majeur affectant la sécurité de nombreux systèmes allant de la signature de documents aux certificats de sécurité d&#39;un site internet.">
     <meta name="author" content="Alain Nicolas">
 
     
@@ -17,7 +17,7 @@
           content="https://alainnicolas.fr/posts/sha1_collision.png"/>
     <meta property="og:url" content="https://alainnicolas.fr/blog/collision-sha-1-securite/" />
     
-    <meta property="og:description" content="Google a annoncé le 23 février dernier avoir réussi à casser la fonction de « hachage » SHA-1. Il s’agit là d’un événement majeur affectant la sécurité de nombreux systèmes allant de la signature de documents aux certificats de sécurité d’un site internet.
+    <meta property="og:description" content="Google a annoncé le 23 février 2017 avoir réussi à casser la fonction de « hachage » SHA-1. Il s’agit là d’un événement majeur affectant la sécurité de nombreux systèmes allant de la signature de documents aux certificats de sécurité d’un site internet.
  Qu’est-ce que la fonction de « hachage » SHA-1 ? SHA-1 (Secure Hash Algorithm) est une fonction de « hachage » cryptographique.
  Il s’agit d’un algorithme qui associe à une donnée de taille quelconque, une image de taille fixe."/>
 
@@ -40,7 +40,7 @@
     <style>/*!
  * Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
- */.fa,.fab,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}@keyframes fa-spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.fa-stack{display:inline-block;height:2em;line-height:2em;position:relative;vertical-align:middle;width:2.5em}.fa-stack-1x,.fa-stack-2x{left:0;position:absolute;text-align:center;width:100%}.fa-stack-1x{line-height:inherit}.fa-stack-2x{font-size:2em}.fa-inverse{color:#fff}.fa-circle:before{content:"\f111"}.fa-database:before{content:"\f1c0"}.fa-ethereum:before{content:"\f42e"}.fa-github:before{content:"\f09b"}.fa-linkedin:before{content:"\f08c"}.fa-terminal:before{content:"\f120"}.fa-twitter:before{content:"\f099"}@font-face{font-family:Font Awesome\ 5 Brands;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-brands-400.eot);src:url(/webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-brands-400.woff2) format("woff2"),url(/webfonts/fa-brands-400.woff) format("woff"),url(/webfonts/fa-brands-400.ttf) format("truetype"),url(/webfonts/fa-brands-400.svg#fontawesome) format("svg")}.fab{font-family:Font Awesome\ 5 Brands;font-weight:400}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-regular-400.eot);src:url(/webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-regular-400.woff2) format("woff2"),url(/webfonts/fa-regular-400.woff) format("woff"),url(/webfonts/fa-regular-400.ttf) format("truetype"),url(/webfonts/fa-regular-400.svg#fontawesome) format("svg")}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:900;font-display:block;src:url(/webfonts/fa-solid-900.eot);src:url(/webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-solid-900.woff2) format("woff2"),url(/webfonts/fa-solid-900.woff) format("woff"),url(/webfonts/fa-solid-900.ttf) format("truetype"),url(/webfonts/fa-solid-900.svg#fontawesome) format("svg")}.fa,.fas{font-family:Font Awesome\ 5 Free;font-weight:900}</style>
+ */.fa,.fab,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}@keyframes fa-spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.fa-stack{display:inline-block;height:2em;line-height:2em;position:relative;vertical-align:middle;width:2.5em}.fa-stack-1x,.fa-stack-2x{left:0;position:absolute;text-align:center;width:100%}.fa-stack-1x{line-height:inherit}.fa-stack-2x{font-size:2em}.fa-inverse{color:#fff}.fa-circle:before{content:"\f111"}.fa-database:before{content:"\f1c0"}.fa-ethereum:before{content:"\f42e"}.fa-github:before{content:"\f09b"}.fa-linkedin:before{content:"\f08c"}.fa-medium:before{content:"\f23a"}.fa-terminal:before{content:"\f120"}.fa-twitter:before{content:"\f099"}@font-face{font-family:Font Awesome\ 5 Brands;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-brands-400.eot);src:url(/webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-brands-400.woff2) format("woff2"),url(/webfonts/fa-brands-400.woff) format("woff"),url(/webfonts/fa-brands-400.ttf) format("truetype"),url(/webfonts/fa-brands-400.svg#fontawesome) format("svg")}.fab{font-family:Font Awesome\ 5 Brands;font-weight:400}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-regular-400.eot);src:url(/webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-regular-400.woff2) format("woff2"),url(/webfonts/fa-regular-400.woff) format("woff"),url(/webfonts/fa-regular-400.ttf) format("truetype"),url(/webfonts/fa-regular-400.svg#fontawesome) format("svg")}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:900;font-display:block;src:url(/webfonts/fa-solid-900.eot);src:url(/webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-solid-900.woff2) format("woff2"),url(/webfonts/fa-solid-900.woff) format("woff"),url(/webfonts/fa-solid-900.ttf) format("truetype"),url(/webfonts/fa-solid-900.svg#fontawesome) format("svg")}.fa,.fas{font-family:Font Awesome\ 5 Free;font-weight:900}</style>
     
     <link rel="preload" href="https://alainnicolas.fr/css/devicon.min.css" as="style">
     <link rel="stylesheet" href="https://alainnicolas.fr/css/devicon.min.css" type="text/css">
@@ -144,7 +144,7 @@
     <h2 class="mb-0"><span class="text-primary">Collision SHA-1 et sécurité</span></h2>
     <span class="text-primary">December 7, 2017</span>
     <div class="paragraph">
-<p>Google a annoncé le 23 février dernier avoir réussi à <strong>casser la fonction de « hachage » SHA-1</strong>.
+<p>Google a annoncé le 23 février 2017 avoir réussi à <strong>casser la fonction de « hachage » SHA-1</strong>.
 Il s’agit là d’un événement majeur affectant la <strong>sécurité de nombreux systèmes</strong> allant de la signature de documents aux certificats de sécurité d’un site internet.</p>
 </div>
 <div class="sect1">
@@ -175,7 +175,7 @@ En revanche, &#34;Talanlabs&#34; devient &#34;25f51e7cbd92b575adf321cc3b149e76d4
 <div class="sectionbody">
 <div class="paragraph">
 <p>Depuis sa sortie en 1995, de nombreux chercheurs ont tenté de <strong>compromettre SHA-1</strong>, a minima dans des démonstrations mathématiques.
-C’est ainsi que depuis 2005, nous savons qu’il est en théorie possible d’obtenir une <strong>même empreinte pour 2 données différentes</strong> en réalisant 263 calculs (soit plus de 9 milliards de milliards…).
+C’est ainsi que depuis 2005, nous savons qu’il est en théorie possible d’obtenir une <strong>même empreinte pour 2 données différentes</strong> en réalisant 263 calculs (soit plus de 9 milliards de milliards…​).
 Ce nombre astronomique d’opérations est encore à la limite des capacités des super-ordinateurs actuels.
 Il semblerait que seul un <strong>immense réseau distribué à l’échelle mondiale</strong> (à l’image du réseau Bitcoin) soit capable de délivrer suffisamment de puissance de calcul pour obtenir une « collision » (deux données d’entrée différentes avec la même empreinte).</p>
 </div>
@@ -257,7 +257,7 @@ Autrement dit de <strong>faire passer une donnée potentiellement biaisée comme
 </div>
 <div class="paragraph">
 <p>Alors, quels sont les systèmes potentiellement rendus vulnérables ?
-<strong>Tous ceux qui utilisent SHA-1</strong> comme algorithme de « hachage » pour certifier leurs données… Et ils sont nombreux !
+<strong>Tous ceux qui utilisent SHA-1</strong> comme algorithme de « hachage » pour certifier leurs données…​ Et ils sont nombreux !
 SHA-1 est utilisé pour certifier une connexion HTTPS, signer numériquement des documents, authentifier les informations contenues dans un système de sauvegarde (cloud par exemple), mais aussi par un outil de gestion de versions comme Git.</p>
 </div>
 <div class="paragraph">
@@ -341,7 +341,7 @@ Et la responsabilité en incombe en grande partie aux développeurs, mais aussi 
 </div>
 <div class="paragraph">
 <p>SHA-1 n’est pas la seule fonction disponible. <strong>bcrypt</strong> (présentée en 1999), <strong>SHA-2</strong> (conçue par elle aussi par la NSA en 2001) et plus récemment <strong>SHA-3</strong> (issue d’une compétition en 2012) n’ont pas été compromises.
-Même si l’on peut imaginer qu’il ne s’agit là encore que d’une question de temps…</p>
+Même si l’on peut imaginer qu’il ne s’agit là encore que d’une question de temps…​</p>
 </div>
 <div class="paragraph">
 

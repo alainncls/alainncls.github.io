@@ -93,7 +93,7 @@
       <pubDate>Wed, 04 Mar 2020 07:18:05 +0100</pubDate>
       
       <guid>https://alainnicolas.fr/blog/blockchain-projet-scolaire-monde-entreprise/</guid>
-      <description>Comme je l’ai déjà évoqué dans mon dernier article, le partenariat entre Talan et l’EPF m’a fait découvrir le rôle du formateur. Mais nous sommes allés plus loin, en proposant un projet sur le long terme à un groupe d’étudiants de 5ème année.
+      <description>Comme je l’ai déjà évoqué dans un article précédent, le partenariat entre Talan et l’EPF m’a fait découvrir le rôle du formateur. Mais nous sommes allés plus loin, en proposant un projet sur le long terme à un groupe d’étudiants de 5ème année.
  Des attentes qui se rejoignent Avant le grand saut dans la vie active en passant par le stage de fin d’études, les étudiants doivent se confronter au monde de l’entreprise au travers d’un projet de 5 mois.</description>
     </item>
     
@@ -114,7 +114,7 @@
       
       <guid>https://alainnicolas.fr/blog/r3-corda-limites/</guid>
       <description>Nous avons vu dans un article précédent la présentation des grands principes de Corda, le DLT (Distributed Ledger Technology) développé par le consortium R3. Utilisé en très grande majorité par des banques, Corda semble répondre à de nombreux besoins non assouvis par les blockchains publiques. Nous allons désormais tâcher d’explorer les limites de Corda.
-       Est-ce que c’est une blockchain ? A question directe … réponse directe : non.</description>
+       Est-ce que c’est une blockchain ? À question directe …​ réponse directe : non.</description>
     </item>
     
     <item>
@@ -124,7 +124,7 @@
       
       <guid>https://alainnicolas.fr/blog/r3-corda-presentation/</guid>
       <description>Les technologies Blockchain &amp;amp; DLT (Distributed Ledger Technology) sont nombreuses. Nous allons ici nous concentrer sur Corda, un DLT développé par le consortium R3.
-       Genèse du projet A l’origine de Corda : cinq problématiques des blockchains publiques les rendent inadaptées à l’utilisation en entreprise. Nous allons commencer par détailler ces problématiques.
+       Genèse du projet À l’origine de Corda : cinq problématiques des blockchains publiques les rendent inadaptées à l’utilisation en entreprise. Nous allons commencer par détailler ces problématiques.
  Manque de confidentialité Les blockchains classiques telles qu’Ethereum proposent un registre complet distribué entre tous les participants (les ‘nœuds’).</description>
     </item>
     
@@ -165,7 +165,7 @@
       <pubDate>Thu, 01 Feb 2018 14:31:12 +0100</pubDate>
       
       <guid>https://alainnicolas.fr/blog/presentation-ganache/</guid>
-      <description>A l’heure où tout le monde parle de blockchain, peut-être vous êtes-vous intéressés à l’aspect technique du développement sur Ethereum. Et peut-être vous êtes-vous dits que c’était compliqué… Des technologies très nouvelles, peu de documentation à jour, peu d’outils à disposition…
+      <description>A l’heure où tout le monde parle de blockchain, peut-être vous êtes-vous intéressés à l’aspect technique du développement sur Ethereum. Et peut-être vous êtes-vous dits que c’était compliqué…​ Des technologies très nouvelles, peu de documentation à jour, peu d’outils à disposition…​
  Mais ça, c’était avant ! Il y a au moins un outil qui sort du lot : Truffle. Framework de développement sur Ethereum créé par Consensys, il se présente tout simplement comme le couteau suisse Ethereum.</description>
     </item>
     
@@ -175,7 +175,7 @@
       <pubDate>Thu, 07 Dec 2017 08:31:48 +0000</pubDate>
       
       <guid>https://alainnicolas.fr/blog/collision-sha-1-securite/</guid>
-      <description>Google a annoncé le 23 février dernier avoir réussi à casser la fonction de « hachage » SHA-1. Il s’agit là d’un événement majeur affectant la sécurité de nombreux systèmes allant de la signature de documents aux certificats de sécurité d’un site internet.
+      <description>Google a annoncé le 23 février 2017 avoir réussi à casser la fonction de « hachage » SHA-1. Il s’agit là d’un événement majeur affectant la sécurité de nombreux systèmes allant de la signature de documents aux certificats de sécurité d’un site internet.
  Qu’est-ce que la fonction de « hachage » SHA-1 ? SHA-1 (Secure Hash Algorithm) est une fonction de « hachage » cryptographique.
  Il s’agit d’un algorithme qui associe à une donnée de taille quelconque, une image de taille fixe.</description>
     </item>
@@ -187,7 +187,7 @@
       
       <guid>https://alainnicolas.fr/blog/windows-10-publicite-explorateur/</guid>
       <description>Les mises à jour successives de Windows apportent de la sécurité et parfois de nouvelles fonctionnalités. Globalement, elles apportent une meilleure expérience pour l’utilisateur, rarement des retours en arrière.
- Windows 10 se met à jour automatiquement mais introduit de la publicité dans le navigateur Le système de mise à jour a lui aussi étélo modifié avec le passage à Windows 10, puisqu’il est désormais plus contrôlable par l’utilisateur (les mises à jour se font d’elles-mêmes).</description>
+ Windows 10 se met à jour automatiquement mais introduit de la publicité dans le navigateur Le système de mise à jour a lui aussi été modifié avec le passage à Windows 10, puisqu’il est désormais plus contrôlable par l’utilisateur (les mises à jour se font d’elles-mêmes).</description>
     </item>
     
     <item>
@@ -223,13 +223,13 @@
     </item>
     
     <item>
-      <title>Qu’est-ce que TalanCoin ?</title>
+      <title>Qu’est-ce que Talan Coin ?</title>
       <link>https://alainnicolas.fr/blog/quest-ce-que-talancoin/</link>
       <pubDate>Tue, 17 Oct 2017 15:39:11 +0000</pubDate>
       
       <guid>https://alainnicolas.fr/blog/quest-ce-que-talancoin/</guid>
-      <description>_Présentée pour la première fois le 4 octobre au 1er Forum Parlementaire de la Blockchain, la monnaie virtuelle du groupe Talan est en passe de rentrer en phase de production. L’occasion de présenter en détails les tenants et les aboutissants d’un projet et d’une initiative pas comme les autres : [TalanCoin](https://www.talancoin.com) !
-   Bannière TalanCoin     La blockchain, tout le monde en parle, depuis les médias généralistes jusqu’aux startups les plus innovantes.</description>
+      <description>_Présentée pour la première fois le 4 octobre au 1er Forum Parlementaire de la Blockchain, la monnaie virtuelle du groupe Talan est en passe de rentrer en phase de production. L’occasion de présenter en détails les tenants et les aboutissants d’un projet et d’une initiative pas comme les autres : [Talan Coin](https://www.talancoin.com) !
+   Bannière Talan Coin     La blockchain, tout le monde en parle, depuis les médias généralistes jusqu’aux startups les plus innovantes.</description>
     </item>
     
     <item>
@@ -238,7 +238,7 @@
       <pubDate>Thu, 02 Mar 2017 09:01:06 +0000</pubDate>
       
       <guid>https://alainnicolas.fr/blog/oubliez-angular-3-voici-angular-4/</guid>
-      <description>Parmi les nombreux frameworks JavaScript, AngularJS est indéniablement celui qui a connu le plus de succès. Mis en ligne en 2010 et avec une première version publiée en 2012, Angular n’a eu de cesse de s’améliorer avec une communauté croissante, des besoins qui évoluent et une équipe de développement soutenue par Google. Et puis l’an dernier, tout a changé…
+      <description>Parmi les nombreux frameworks JavaScript, AngularJS est indéniablement celui qui a connu le plus de succès. Mis en ligne en 2010 et avec une première version publiée en 2012, Angular n’a eu de cesse de s’améliorer avec une communauté croissante, des besoins qui évoluent et une équipe de développement soutenue par Google. Et puis l’an dernier, tout a changé…​
    Oubliez Angular 3,voici la version 4     AngularJS devient Angular 2   AngularJS devient Angular 2     Les annonces autour de la nouvelle version majeure d’AngularJS, désormais appelée Angular 2, surprennent.</description>
     </item>
     
@@ -248,7 +248,7 @@
       <pubDate>Thu, 23 Feb 2017 13:08:10 +0000</pubDate>
       
       <guid>https://alainnicolas.fr/blog/resultats-sondage-java-ee/</guid>
-      <description>Résumé des épisodes précédents…
+      <description>Résumé des épisodes précédents…​
  Depuis plusieurs mois la communauté Java est en émoi. Oracle semble se désintéresser de Java EE. Au terme d’une saga résumée dans un article de novembre, c’est finalement lors de la grande conférence annuelle JavaOne que l’entreprise annonce une nouvelle feuille de route pour Java EE, ainsi que le lancement d’un sondage visant à mieux cerner les aspirations et attentes de la communauté.
  Présentation du sondage Oracle Nous l’évoquions : Oracle tente de se réconcilier avec la communauté Java, tout en faisant avancer ses travaux sur Java EE.</description>
     </item>
@@ -271,7 +271,7 @@
       
       <guid>https://alainnicolas.fr/blog/java-ee-nouvelle-orientation-bonne-nouvelle/</guid>
       <description>Peut-être que pour vous la série de l’été était Stranger Things, la petite pépite aux couleurs années 80-90 de Netflix. Mais dans le vaste monde du Java, une toute autre série aux multiples rebondissements a retenu toutes les attentions.
- Pour introduire le récit de cet été de toutes les surprises, un petit historique s’impose…
+ Pour introduire le récit de cet été de toutes les surprises, un petit historique s’impose…​
  Java, Sun et Oracle L’entreprise Sun est fondée en 1982, et lance Java en 1995.</description>
     </item>
     
