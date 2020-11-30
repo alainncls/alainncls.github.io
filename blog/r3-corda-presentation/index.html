@@ -3,12 +3,12 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="last-modified" content="2020-11-23" />
+    <meta http-equiv="last-modified" content="2020-11-29" />
     <meta http-equiv="cache-control" content="Private" />
     <meta http-equiv="Expires" content="600" />
     <title>Alain Nicolas | R3 Corda : Presentation</title>
 
-    <meta name="description" content="">
+    <meta name="description" content="Les technologies Blockchain &amp; DLT (Distributed Ledger Technology) sont nombreuses. Nous allons ici nous concentrer sur Corda, un DLT développé par le consortium R3.">
     <meta name="author" content="Alain Nicolas">
 
     
@@ -18,7 +18,7 @@
     <meta property="og:url" content="https://alainnicolas.fr/blog/r3-corda-presentation/" />
     
     <meta property="og:description" content="Les technologies Blockchain &amp; DLT (Distributed Ledger Technology) sont nombreuses. Nous allons ici nous concentrer sur Corda, un DLT développé par le consortium R3.
-       Genèse du projet A l’origine de Corda : cinq problématiques des blockchains publiques les rendent inadaptées à l’utilisation en entreprise. Nous allons commencer par détailler ces problématiques.
+       Genèse du projet À l’origine de Corda : cinq problématiques des blockchains publiques les rendent inadaptées à l’utilisation en entreprise. Nous allons commencer par détailler ces problématiques.
  Manque de confidentialité Les blockchains classiques telles qu’Ethereum proposent un registre complet distribué entre tous les participants (les ‘nœuds’)."/>
 
      
@@ -40,7 +40,7 @@
     <style>/*!
  * Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
- */.fa,.fab,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}@keyframes fa-spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.fa-stack{display:inline-block;height:2em;line-height:2em;position:relative;vertical-align:middle;width:2.5em}.fa-stack-1x,.fa-stack-2x{left:0;position:absolute;text-align:center;width:100%}.fa-stack-1x{line-height:inherit}.fa-stack-2x{font-size:2em}.fa-inverse{color:#fff}.fa-circle:before{content:"\f111"}.fa-database:before{content:"\f1c0"}.fa-ethereum:before{content:"\f42e"}.fa-github:before{content:"\f09b"}.fa-linkedin:before{content:"\f08c"}.fa-terminal:before{content:"\f120"}.fa-twitter:before{content:"\f099"}@font-face{font-family:Font Awesome\ 5 Brands;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-brands-400.eot);src:url(/webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-brands-400.woff2) format("woff2"),url(/webfonts/fa-brands-400.woff) format("woff"),url(/webfonts/fa-brands-400.ttf) format("truetype"),url(/webfonts/fa-brands-400.svg#fontawesome) format("svg")}.fab{font-family:Font Awesome\ 5 Brands;font-weight:400}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-regular-400.eot);src:url(/webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-regular-400.woff2) format("woff2"),url(/webfonts/fa-regular-400.woff) format("woff"),url(/webfonts/fa-regular-400.ttf) format("truetype"),url(/webfonts/fa-regular-400.svg#fontawesome) format("svg")}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:900;font-display:block;src:url(/webfonts/fa-solid-900.eot);src:url(/webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-solid-900.woff2) format("woff2"),url(/webfonts/fa-solid-900.woff) format("woff"),url(/webfonts/fa-solid-900.ttf) format("truetype"),url(/webfonts/fa-solid-900.svg#fontawesome) format("svg")}.fa,.fas{font-family:Font Awesome\ 5 Free;font-weight:900}</style>
+ */.fa,.fab,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}@keyframes fa-spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.fa-stack{display:inline-block;height:2em;line-height:2em;position:relative;vertical-align:middle;width:2.5em}.fa-stack-1x,.fa-stack-2x{left:0;position:absolute;text-align:center;width:100%}.fa-stack-1x{line-height:inherit}.fa-stack-2x{font-size:2em}.fa-inverse{color:#fff}.fa-circle:before{content:"\f111"}.fa-database:before{content:"\f1c0"}.fa-ethereum:before{content:"\f42e"}.fa-github:before{content:"\f09b"}.fa-linkedin:before{content:"\f08c"}.fa-medium:before{content:"\f23a"}.fa-terminal:before{content:"\f120"}.fa-twitter:before{content:"\f099"}@font-face{font-family:Font Awesome\ 5 Brands;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-brands-400.eot);src:url(/webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-brands-400.woff2) format("woff2"),url(/webfonts/fa-brands-400.woff) format("woff"),url(/webfonts/fa-brands-400.ttf) format("truetype"),url(/webfonts/fa-brands-400.svg#fontawesome) format("svg")}.fab{font-family:Font Awesome\ 5 Brands;font-weight:400}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-regular-400.eot);src:url(/webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-regular-400.woff2) format("woff2"),url(/webfonts/fa-regular-400.woff) format("woff"),url(/webfonts/fa-regular-400.ttf) format("truetype"),url(/webfonts/fa-regular-400.svg#fontawesome) format("svg")}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:900;font-display:block;src:url(/webfonts/fa-solid-900.eot);src:url(/webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-solid-900.woff2) format("woff2"),url(/webfonts/fa-solid-900.woff) format("woff"),url(/webfonts/fa-solid-900.ttf) format("truetype"),url(/webfonts/fa-solid-900.svg#fontawesome) format("svg")}.fa,.fas{font-family:Font Awesome\ 5 Free;font-weight:900}</style>
     
     <link rel="preload" href="https://alainnicolas.fr/css/devicon.min.css" as="style">
     <link rel="stylesheet" href="https://alainnicolas.fr/css/devicon.min.css" type="text/css">
@@ -205,14 +205,14 @@ Nous allons ici nous concentrer sur Corda, un DLT développé par le consortium 
 <h2 id="_genèse_du_projet">Genèse du projet</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>A l’origine de Corda : cinq problématiques des blockchains publiques les rendent inadaptées à l’utilisation en entreprise.
+<p>À l’origine de Corda : cinq problématiques des blockchains publiques les rendent inadaptées à l’utilisation en entreprise.
 Nous allons commencer par détailler ces problématiques.</p>
 </div>
 <div class="sect2">
 <h3 id="_manque_de_confidentialité">Manque de confidentialité</h3>
 <div class="paragraph">
 <p>Les blockchains classiques telles qu’Ethereum proposent un registre complet distribué entre tous les participants (les ‘nœuds’).
-Or, pour des raisons de compétition voire de régulation, il est difficilement envisageable de donner accès à toutes à les transactions réalisées par une entreprise à ses concurrents directs.</p>
+Or, pour des raisons de compétition voire de régulation, il est difficilement envisageable de donner accès à toutes les transactions réalisées par une entreprise à ses concurrents directs.</p>
 </div>
 </div>
 <div class="sect2">
@@ -228,7 +228,7 @@ En effet, pour entériner une transaction dans le registre, il faut attendre le 
 <p>Si l’inscription sur un réseau tel qu’Ethereum est très facile, par exemple en créant son portefeuille via <a href="https://www.myetherwallet.com">MyEtherWallet</a>, à aucun moment dans le processus il n’est demandé de fournir son identité.
 Alors, anonymat complet ?
 Non, pas complètement.
-A travers des pratiques de crawling on peut assez aisément relier de nombreuses adresses de portefeuilles à des individus précis.
+À travers des pratiques de crawling on peut assez aisément relier de nombreuses adresses de portefeuilles à des individus précis.
 On parle de ‘pseudonymat’.</p>
 </div>
 <div class="paragraph">
@@ -240,7 +240,7 @@ Plutôt que de masquer l’identité des participants, il faut bien au contraire
 <h3 id="_faible_scalabilité">Faible scalabilité</h3>
 <div class="paragraph">
 <p>On recense plusieurs milliards de transactions de type ‘paiement’ dans le monde chaque jour.
-A l’inverse, Bitcoin ne traite qu’environ 300 000 transactions dans une journée.
+À l’inverse, Bitcoin ne traite qu’environ 300 000 transactions dans une journée.
 Pour qu’un système actuel puisse être remplacé par un système blockchain, il faut que ce dernier puisse absorber autant de transactions.
 Ce critère est d’autant plus important en entreprise que la rapidité de transfert est parfois indispensable (par opposition de la moyenne actuelle de 19 secondes par bloc sur Ethereum).</p>
 </div>
@@ -249,7 +249,7 @@ Ce critère est d’autant plus important en entreprise que la rapidité de tran
 <h3 id="_faible_productivité_et_lenteur_dintégration">Faible productivité et lenteur d’intégration</h3>
 <div class="paragraph">
 <p>Si les technologies et langages exotiques comme Solidity (pour Ethereum) sont loin de rebuter les startups, il est clair qu’un grand compte (une grande banque, un assureur, etc.) aura plus de mal à accepter l’ajout d’une brique d’un nouveau format dans son système d’information.
-De plus, il est aujourd’hui plus facile de recruter des développeurs Java que Solidity…</p>
+De plus, il est aujourd’hui plus facile de recruter des développeurs Java que Solidity…​</p>
 </div>
 <div class="paragraph">
 <p>Pénurie des talents et standardisation du SI poussent les entreprises à privilégier des technologies déjà éprouvées plutôt que les nouveautés encore mal maîtrisées voire interdites par les experts de la sécurité.</p>
@@ -315,7 +315,7 @@ On parle alors d’un processus de <em>KYC</em> (<em>Know Your Customer</em>), l
 </div>
 <div class="paragraph">
 <p>Un réseau Corda est donc composé de nœuds et d’un <em>doorman</em>, mais aussi d’un ou plusieurs service(s) de notaire.
-Un <em>notary</em> est un nœud particulier, chargé de garantir l’unicité des mise à jour du registre.</p>
+Un <em>notary</em> est un nœud particulier, chargé de garantir l’unicité des mises à jour du registre.</p>
 </div>
 <div class="paragraph">
 <p>Une fois validée par le <em>doorman</em>, l’identité d’une entité est attestée par un certificat X.509 délivré par celui-ci, et publiée sur l’ensemble du réseau <em>via</em> un service dit de <em>network map</em>.</p>
@@ -326,7 +326,7 @@ Un <em>notary</em> est un nœud particulier, chargé de garantir l’unicité de
 <div class="paragraph">
 <p>Contrairement à Ethereum où tous les participants ont accès au registre de toutes les transactions, le registre de Corda n’est pas entièrement partagé.
 En effet, un nœud n’a accès qu’aux données pertinentes pour son activité.
-C’est ainsi que sur le schéma ci-dessous, le noeud <strong>Alice</strong> n’a pas accès aux données partagées entre <strong>Bob</strong> et <strong>Carl</strong> alors même qu’il partage certaines informations avec <strong>Bob</strong>.</p>
+C’est ainsi que sur le schéma ci-dessous, le nœud <strong>Alice</strong> n’a pas accès aux données partagées entre <strong>Bob</strong> et <strong>Carl</strong> alors même qu’il partage certaines informations avec <strong>Bob</strong>.</p>
 </div>
 <div class="paragraph">
 
@@ -578,21 +578,21 @@ Elles sont constituées de :</p>
 </ul>
 </div>
 <div class="paragraph">
-<p>Contrairement à un réseau Ethereum, la CorDapp ne sera pas propagée dans tous les nœuds du réseau, mais installée de manière optionnelle sur les nœud volontaires.
+<p>Contrairement à un réseau Ethereum, la CorDapp ne sera pas propagée dans tous les nœuds du réseau, mais installée de manière optionnelle sur les nœuds volontaires.
 Tant qu’un nœud n’a pas la CorDapp <em>ad hoc</em> pour exécuter un certain <em>flow</em>, il ne pourra pas l’exploiter.</p>
 </div>
 </div>
 </div>
 </div>
 <div class="sect1">
-<h2 id="_pour_aller_plus_loin">Pour aller plus loin…</h2>
+<h2 id="_pour_aller_plus_loin">Pour aller plus loin…​</h2>
 <div class="sectionbody">
 <div class="paragraph">
 <p>Nous avons évoqué de nombreux concepts à la base de Corda et de ses composants, mais il est évident que de nombreux détails pourraient être ajoutés.
 La <a href="https://docs.corda.net/">documentation officielle</a> de Corda pourra sûrement répondre aux questions plus poussées !</p>
 </div>
 <div class="paragraph">
-<p>Dans un <a href="https://medium.com/@Alain_Ncls/r3-corda-limites-c14847508c01?source=friends_link&amp;sk=aedf3207b62d4ad261703201376282b6">prochain article</a>, nous évoquerons les limites de Corda, pour garder un regard critique sur cette solution largement employée dans le milieu bancaire notamment.</p>
+<p>Dans un <a href="https://alainnicolas.fr/blog/r3-corda-limites/">prochain article</a>, nous évoquerons les limites de Corda, pour garder un regard critique sur cette solution largement employée dans le milieu bancaire notamment.</p>
 </div>
 <div class="paragraph">
 <p><br/></p>
