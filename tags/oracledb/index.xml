@@ -14,7 +14,7 @@
       
       <guid>https://alainnicolas.fr/projects/2020-09-futurmaster-master-data/</guid>
       <description>Développement du module Master Data. Stack : React + Spring Boot.
-  Logo FuturMaster    </description>
+     </description>
     </item>
     
     <item>
@@ -24,7 +24,7 @@
       
       <guid>https://alainnicolas.fr/projects/2016-01-coface/</guid>
       <description>Application de gestion de contrats d&amp;rsquo;assurance.
-  Logo Coface    </description>
+     </description>
     </item>
     
     <item>
@@ -34,7 +34,7 @@
       
       <guid>https://alainnicolas.fr/projects/2015-07-gefco/</guid>
       <description>Développement d&amp;rsquo;un système de génération de plannings sous contraintes.
-  Logo Gefco    </description>
+     </description>
     </item>
     
   </channel>
