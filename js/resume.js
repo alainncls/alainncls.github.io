@@ -27,13 +27,18 @@
         });
     });
 
-    let k = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65],
+    let k = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65, 38, 38, 40, 40, 37, 39, 37, 39, 66, 65],
         n = 0;
     $(document).keydown(function (e) {
         if (e.keyCode === k[n++]) {
-            if (n === k.length) {
+            if (n === k.length / 2) {
                 const profilPicture = $('.img-profile');
                 profilPicture.attr('src', profilPicture.attr('src').slice(0, profilPicture.attr('src').lastIndexOf('/')) + '/baby-yoda.webp');
+                return false;
+            }
+            if (n === k.length) {
+                const profilPicture = $('.img-profile');
+                profilPicture.attr('src', profilPicture.attr('src').slice(0, profilPicture.attr('src').lastIndexOf('/')) + '/penguin-chick.gif');
                 n = 0;
                 return false;
             }
