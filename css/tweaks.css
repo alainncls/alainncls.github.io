@@ -124,3 +124,13 @@ iframe {
 .list-inline-item {
     margin-top: 0.5rem;
 }
+
+.hide-link {
+    color: #70737c;
+    text-decoration: none;
+}
+
+.hide-link:hover {
+    color: #70737c;
+    text-decoration: none;
+}
