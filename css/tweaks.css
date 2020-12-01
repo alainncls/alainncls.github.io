@@ -72,7 +72,7 @@ div.skills-heading {
     background: #fff;
     border-bottom: 14px solid transparent;
     border-left: 10px solid #eee;
-    border-top: 13px solid transparent;
+    border-top: 12px solid transparent;
     content: '';
     position: absolute;
     right: 0;
@@ -83,6 +83,14 @@ div.skills-heading {
     background-color: #676767;
     color: white;
     text-decoration: none;
+}
+
+.tag-methodology {
+    background: #b9d4fd;
+}
+
+.tag-methodology:after {
+    border-left-color: #b9d4fd;
 }
 
 .big-tag:hover {
