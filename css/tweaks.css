@@ -93,6 +93,14 @@ div.skills-heading {
     border-left-color: #b9d4fd;
 }
 
+.tag-type {
+    background: #d3fce3;
+}
+
+.tag-type:after {
+    border-left-color: #d3fce3;
+}
+
 .big-tag:hover {
     text-decoration: none;
 }
