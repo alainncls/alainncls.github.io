@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="last-modified" content="2020-11-29" />
+    <meta http-equiv="last-modified" content="2020-12-13" />
     <meta http-equiv="cache-control" content="Private" />
     <meta http-equiv="Expires" content="600" />
     <title>Alain Nicolas | Oubliez Angular 3, voici la version 4</title>
@@ -18,7 +18,7 @@
     <meta property="og:url" content="https://alainnicolas.fr/blog/oubliez-angular-3-voici-angular-4/" />
     
     <meta property="og:description" content="Parmi les nombreux frameworks JavaScript, AngularJS est indéniablement celui qui a connu le plus de succès. Mis en ligne en 2010 et avec une première version publiée en 2012, Angular n’a eu de cesse de s’améliorer avec une communauté croissante, des besoins qui évoluent et une équipe de développement soutenue par Google. Et puis l’an dernier, tout a changé…​
-   Oubliez Angular 3,voici la version 4     AngularJS devient Angular 2   AngularJS devient Angular 2     Les annonces autour de la nouvelle version majeure d’AngularJS, désormais appelée Angular 2, surprennent."/>
+ Oubliez Angular 3,voici la version 4  AngularJS devient Angular 2 AngularJS devient Angular 2  Les annonces autour de la nouvelle version majeure d’AngularJS, désormais appelée Angular 2, surprennent."/>
 
      
     
@@ -39,7 +39,7 @@
     <style>/*!
  * Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
- */.fa,.fab,.far,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}@keyframes fa-spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.fa-stack{display:inline-block;height:2em;line-height:2em;position:relative;vertical-align:middle;width:2.5em}.fa-stack-1x,.fa-stack-2x{left:0;position:absolute;text-align:center;width:100%}.fa-stack-1x{line-height:inherit}.fa-stack-2x{font-size:2em}.fa-inverse{color:#fff}.fa-circle:before{content:"\f111"}.fa-database:before{content:"\f1c0"}.fa-ethereum:before{content:"\f42e"}.fa-github:before{content:"\f09b"}.fa-link:before{content:"\f0c1"}.fa-linkedin:before{content:"\f08c"}.fa-medium:before{content:"\f23a"}.fa-redo-alt:before{content:"\f2f9"}.fa-sticky-note:before{content:"\f249"}.fa-terminal:before{content:"\f120"}.fa-toilet-paper:before{content:"\f71e"}.fa-twitter:before{content:"\f099"}.fa-user:before{content:"\f007"}.fa-user-tie:before{content:"\f508"}@font-face{font-family:Font Awesome\ 5 Brands;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-brands-400.eot);src:url(/webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-brands-400.woff2) format("woff2"),url(/webfonts/fa-brands-400.woff) format("woff"),url(/webfonts/fa-brands-400.ttf) format("truetype"),url(/webfonts/fa-brands-400.svg#fontawesome) format("svg")}.fab{font-family:Font Awesome\ 5 Brands}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-regular-400.eot);src:url(/webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-regular-400.woff2) format("woff2"),url(/webfonts/fa-regular-400.woff) format("woff"),url(/webfonts/fa-regular-400.ttf) format("truetype"),url(/webfonts/fa-regular-400.svg#fontawesome) format("svg")}.fab,.far{font-weight:400}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:900;font-display:block;src:url(/webfonts/fa-solid-900.eot);src:url(/webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-solid-900.woff2) format("woff2"),url(/webfonts/fa-solid-900.woff) format("woff"),url(/webfonts/fa-solid-900.ttf) format("truetype"),url(/webfonts/fa-solid-900.svg#fontawesome) format("svg")}.fa,.far,.fas{font-family:Font Awesome\ 5 Free}.fa,.fas{font-weight:900}</style>
+ */.fa,.fab,.far,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}@keyframes fa-spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.fa-stack{display:inline-block;height:2em;line-height:2em;position:relative;vertical-align:middle;width:2.5em}.fa-stack-1x,.fa-stack-2x{left:0;position:absolute;text-align:center;width:100%}.fa-stack-1x{line-height:inherit}.fa-stack-2x{font-size:2em}.fa-inverse{color:#fff}.fa-circle:before{content:"\f111"}.fa-database:before{content:"\f1c0"}.fa-ethereum:before{content:"\f42e"}.fa-github:before{content:"\f09b"}.fa-link:before{content:"\f0c1"}.fa-linkedin:before{content:"\f08c"}.fa-medium:before{content:"\f23a"}.fa-redo-alt:before{content:"\f2f9"}.fa-sticky-note:before{content:"\f249"}.fa-terminal:before{content:"\f120"}.fa-toilet-paper:before{content:"\f71e"}.fa-twitter:before{content:"\f099"}@font-face{font-family:Font Awesome\ 5 Brands;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-brands-400.eot);src:url(/webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-brands-400.woff2) format("woff2"),url(/webfonts/fa-brands-400.woff) format("woff"),url(/webfonts/fa-brands-400.ttf) format("truetype"),url(/webfonts/fa-brands-400.svg#fontawesome) format("svg")}.fab{font-family:Font Awesome\ 5 Brands}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-regular-400.eot);src:url(/webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-regular-400.woff2) format("woff2"),url(/webfonts/fa-regular-400.woff) format("woff"),url(/webfonts/fa-regular-400.ttf) format("truetype"),url(/webfonts/fa-regular-400.svg#fontawesome) format("svg")}.fab,.far{font-weight:400}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:900;font-display:block;src:url(/webfonts/fa-solid-900.eot);src:url(/webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-solid-900.woff2) format("woff2"),url(/webfonts/fa-solid-900.woff) format("woff"),url(/webfonts/fa-solid-900.ttf) format("truetype"),url(/webfonts/fa-solid-900.svg#fontawesome) format("svg")}.fa,.far,.fas{font-family:Font Awesome\ 5 Free}.fa,.fas{font-weight:900}</style>
     
     <link rel="preload" href="https://alainnicolas.fr/css/devicon.min.css" as="style">
     <link rel="stylesheet" href="https://alainnicolas.fr/css/devicon.min.css" type="text/css">
@@ -341,7 +341,7 @@ De manière à éviter toute confusion (notamment dans les paquets NPM), la <str
 </div>
 <div class="paragraph">
 <p>Promesse de l’équipe de développement : cette fois-ci il n’y aura pas de <em>breaking changes</em>, la <strong>nouvelle version sera rétrocompatible</strong> avec la 2. C’est une promesse, reste à voir si elle va être tenue !
-Pour le moment, les <strong>premières versions bêta</strong> (<a href="https://github.com/angular/angular/blob/master/CHANGELOG.md#400-beta4-2017-01-19">4.0.0-beta.4</a> au 19 janvier 2017) laissent supposer que les changements sont en effet de l’ordre de la <strong>mise à jour</strong> et de l&#39;<strong>optimisation</strong>, mais pas de la ré-écriture complète.
+Pour le moment, les <strong>premières versions bêta</strong> (<a href="https://github.com/angular/angular/blob/master/CHANGELOG.md#400-beta4-2017-01-19" target="_blank" rel="noopener">4.0.0-beta.4</a> au 19 janvier 2017) laissent supposer que les changements sont en effet de l’ordre de la <strong>mise à jour</strong> et de l&#39;<strong>optimisation</strong>, mais pas de la ré-écriture complète.
 Plutôt rassurant…​</p>
 </div>
 </div>
@@ -444,7 +444,7 @@ Si l’on sait déjà que les changements de version correspondent à de réelle
 </ul>
 </div>
 <div class="paragraph">
-<p>À noter que les deux frameworks <strong>AngularJS et Angular 2</strong> ont chacun un <strong>site et une documentation</strong>, bien séparés : <a href="https://angularjs.org/">angularjs.org</a> pour AngularJS et <a href="https://angular.io/">angular.io</a> pour Angular 2+.</p>
+<p>À noter que les deux frameworks <strong>AngularJS et Angular 2</strong> ont chacun un <strong>site et une documentation</strong>, bien séparés : <a href="https://angularjs.org/" target="_blank" rel="noopener">angularjs.org</a> pour AngularJS et <a href="https://angular.io/" target="_blank" rel="noopener">angular.io</a> pour Angular 2+.</p>
 </div>
 </div>
 </div>
@@ -454,7 +454,7 @@ Si l’on sait déjà que les changements de version correspondent à de réelle
     
     <li>
         
-<a class="tag  " href="https://alainnicolas.fr/tags/javascript/">
+<a class="tag " href="https://alainnicolas.fr/tags/javascript/">
     
     
     
@@ -470,7 +470,7 @@ Si l’on sait déjà que les changements de version correspondent à de réelle
     
     <li>
         
-<a class="tag  " href="https://alainnicolas.fr/tags/angular/">
+<a class="tag " href="https://alainnicolas.fr/tags/angular/">
     
     
     
@@ -486,7 +486,7 @@ Si l’on sait déjà que les changements de version correspondent à de réelle
     
     <li>
         
-<a class="tag  " href="https://alainnicolas.fr/tags/angularjs/">
+<a class="tag " href="https://alainnicolas.fr/tags/angularjs/">
     
     <i style="font-size: 12px; color: #3874bd;" class="fas fa-terminal"></i>
     
@@ -498,7 +498,7 @@ Si l’on sait déjà que les changements de version correspondent à de réelle
     
     <li>
         
-<a class="tag  " href="https://alainnicolas.fr/tags/google/">
+<a class="tag " href="https://alainnicolas.fr/tags/google/">
     
     <i style="font-size: 12px; color: #3874bd;" class="fas fa-terminal"></i>
     

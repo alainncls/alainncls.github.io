@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="last-modified" content="2020-12-01" />
+    <meta http-equiv="last-modified" content="2020-12-13" />
     <meta http-equiv="cache-control" content="Private" />
     <meta http-equiv="Expires" content="600" />
     <title>Alain Nicolas | R3 Corda : Limites</title>
@@ -18,7 +18,7 @@
     <meta property="og:url" content="https://alainnicolas.fr/blog/r3-corda-limites/" />
     
     <meta property="og:description" content="Nous avons vu dans un article précédent la présentation des grands principes de Corda, le DLT (Distributed Ledger Technology) développé par le consortium R3. Utilisé en très grande majorité par des banques, Corda semble répondre à de nombreux besoins non assouvis par les blockchains publiques. Nous allons désormais tâcher d’explorer les limites de Corda.
-       Est-ce que c’est une blockchain ? À question directe …​ réponse directe : non."/>
+   Est-ce que c’est une blockchain ? À question directe …​ réponse directe : non."/>
 
      
     
@@ -39,7 +39,7 @@
     <style>/*!
  * Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
- */.fa,.fab,.far,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}@keyframes fa-spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.fa-stack{display:inline-block;height:2em;line-height:2em;position:relative;vertical-align:middle;width:2.5em}.fa-stack-1x,.fa-stack-2x{left:0;position:absolute;text-align:center;width:100%}.fa-stack-1x{line-height:inherit}.fa-stack-2x{font-size:2em}.fa-inverse{color:#fff}.fa-circle:before{content:"\f111"}.fa-database:before{content:"\f1c0"}.fa-ethereum:before{content:"\f42e"}.fa-github:before{content:"\f09b"}.fa-link:before{content:"\f0c1"}.fa-linkedin:before{content:"\f08c"}.fa-medium:before{content:"\f23a"}.fa-redo-alt:before{content:"\f2f9"}.fa-sticky-note:before{content:"\f249"}.fa-terminal:before{content:"\f120"}.fa-toilet-paper:before{content:"\f71e"}.fa-twitter:before{content:"\f099"}.fa-user:before{content:"\f007"}.fa-user-tie:before{content:"\f508"}@font-face{font-family:Font Awesome\ 5 Brands;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-brands-400.eot);src:url(/webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-brands-400.woff2) format("woff2"),url(/webfonts/fa-brands-400.woff) format("woff"),url(/webfonts/fa-brands-400.ttf) format("truetype"),url(/webfonts/fa-brands-400.svg#fontawesome) format("svg")}.fab{font-family:Font Awesome\ 5 Brands}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-regular-400.eot);src:url(/webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-regular-400.woff2) format("woff2"),url(/webfonts/fa-regular-400.woff) format("woff"),url(/webfonts/fa-regular-400.ttf) format("truetype"),url(/webfonts/fa-regular-400.svg#fontawesome) format("svg")}.fab,.far{font-weight:400}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:900;font-display:block;src:url(/webfonts/fa-solid-900.eot);src:url(/webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-solid-900.woff2) format("woff2"),url(/webfonts/fa-solid-900.woff) format("woff"),url(/webfonts/fa-solid-900.ttf) format("truetype"),url(/webfonts/fa-solid-900.svg#fontawesome) format("svg")}.fa,.far,.fas{font-family:Font Awesome\ 5 Free}.fa,.fas{font-weight:900}</style>
+ */.fa,.fab,.far,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}@keyframes fa-spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.fa-stack{display:inline-block;height:2em;line-height:2em;position:relative;vertical-align:middle;width:2.5em}.fa-stack-1x,.fa-stack-2x{left:0;position:absolute;text-align:center;width:100%}.fa-stack-1x{line-height:inherit}.fa-stack-2x{font-size:2em}.fa-inverse{color:#fff}.fa-circle:before{content:"\f111"}.fa-database:before{content:"\f1c0"}.fa-ethereum:before{content:"\f42e"}.fa-github:before{content:"\f09b"}.fa-link:before{content:"\f0c1"}.fa-linkedin:before{content:"\f08c"}.fa-medium:before{content:"\f23a"}.fa-redo-alt:before{content:"\f2f9"}.fa-sticky-note:before{content:"\f249"}.fa-terminal:before{content:"\f120"}.fa-toilet-paper:before{content:"\f71e"}.fa-twitter:before{content:"\f099"}@font-face{font-family:Font Awesome\ 5 Brands;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-brands-400.eot);src:url(/webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-brands-400.woff2) format("woff2"),url(/webfonts/fa-brands-400.woff) format("woff"),url(/webfonts/fa-brands-400.ttf) format("truetype"),url(/webfonts/fa-brands-400.svg#fontawesome) format("svg")}.fab{font-family:Font Awesome\ 5 Brands}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-regular-400.eot);src:url(/webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-regular-400.woff2) format("woff2"),url(/webfonts/fa-regular-400.woff) format("woff"),url(/webfonts/fa-regular-400.ttf) format("truetype"),url(/webfonts/fa-regular-400.svg#fontawesome) format("svg")}.fab,.far{font-weight:400}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:900;font-display:block;src:url(/webfonts/fa-solid-900.eot);src:url(/webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-solid-900.woff2) format("woff2"),url(/webfonts/fa-solid-900.woff) format("woff"),url(/webfonts/fa-solid-900.ttf) format("truetype"),url(/webfonts/fa-solid-900.svg#fontawesome) format("svg")}.fa,.far,.fas{font-family:Font Awesome\ 5 Free}.fa,.fas{font-weight:900}</style>
     
     <link rel="preload" href="https://alainnicolas.fr/css/devicon.min.css" as="style">
     <link rel="stylesheet" href="https://alainnicolas.fr/css/devicon.min.css" type="text/css">
@@ -223,7 +223,7 @@ Les DLT forment un ensemble de technologies qui englobent les blockchains, bien 
 <div class="paragraph">
 <p>Pour autant, la communication autour de Corda, principalement par le consortium R3, a entretenu un certain flou sur la question depuis les origines.
 Et ce flou perdure !
-Lorsque l’on se rend sur le <a href="https://www.corda.net/">site officiel de Corda</a>, la baseline du logo est claire :</p>
+Lorsque l’on se rend sur le <a href="https://www.corda.net/" target="_blank" rel="noopener">site officiel de Corda</a>, la baseline du logo est claire :</p>
 </div>
 <div class="paragraph">
 
@@ -284,7 +284,7 @@ Lorsque l’on se rend sur le <a href="https://www.corda.net/">site officiel de 
 </figure>
 </div>
 <div class="paragraph">
-<p>Pour autant, la polémique ne date pas d’hier, puisque déjà en 2017 R3 publiait <a href="https://www.r3.com/blog/when-is-blockchain-not-a-blockchain/">un article</a> sur son blog pour expliquer que le problème est plus de l’ordre de la sémantique que de l’architecture.
+<p>Pour autant, la polémique ne date pas d’hier, puisque déjà en 2017 R3 publiait <a href="https://www.r3.com/blog/when-is-blockchain-not-a-blockchain/" target="_blank" rel="noopener">un article</a> sur son blog pour expliquer que le problème est plus de l’ordre de la sémantique que de l’architecture.
 Il semblerait donc que le terme de ‘blockchain’ soit ici utilisé comme un raccourci pour ‘DLT’, avec une composante marketing indéniable. #buzzword</p>
 </div>
 </div>
@@ -293,7 +293,7 @@ Il semblerait donc que le terme de ‘blockchain’ soit ici utilisé comme un r
 <h2 id="_est_ce_que_corda_est_décentralisé">Est-ce que Corda est décentralisé ?</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>Comme nous l’avons vu dans l’<a href="https://alainnicolas.fr/blog/r3-corda-presentation/">article de présentation</a>, pour rejoindre un réseau Corda il faut fournir son identité à un <em>doorman</em> qui autorise l’accès et fournit les certificats nécessaires.
+<p>Comme nous l’avons vu dans l’<a href="https://alainnicolas.fr/blog/r3-corda-presentation/" target="_blank" rel="noopener">article de présentation</a>, pour rejoindre un réseau Corda il faut fournir son identité à un <em>doorman</em> qui autorise l’accès et fournit les certificats nécessaires.
 Ce <em>doorman</em> peut révoquer une identité (dans le cas du retrait d’un participant au sein d’un consortium par exemple).
 Mais ne serait-ce pas là une porte ouverte à la censure ?</p>
 </div>
@@ -312,7 +312,7 @@ Donc inutile de paniquer, la solution existe.</p>
 <h2 id="_est_ce_que_corda_est_réellement_open_source">Est-ce que Corda est réellement open-source ?</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>Il existe deux versions de Corda : la version Community, totalement open-source et dont le code est disponible sur <a href="https://github.com/corda/corda">GitHub</a>, et une version Enterprise, pour laquelle il faut faire une <a href="https://www.r3.com/corda-enterprise-download/">demande à R3</a> pour obtenir les exécutables.</p>
+<p>Il existe deux versions de Corda : la version Community, totalement open-source et dont le code est disponible sur <a href="https://github.com/corda/corda" target="_blank" rel="noopener">GitHub</a>, et une version Enterprise, pour laquelle il faut faire une <a href="https://www.r3.com/corda-enterprise-download/" target="_blank" rel="noopener">demande à R3</a> pour obtenir les exécutables.</p>
 </div>
 <div class="paragraph">
 <p>Il s’agit là d’une différence majeure : on récupère des exécutables et non pas du code source.
@@ -350,7 +350,7 @@ Par exemple, pour convaincre les équipes de sécurité d’accepter de nouveaux
 </div>
 <div class="paragraph">
 <p>Une fois les validations obtenues <em>via</em> les équipes d’architecture technique et de sécurité, encore faut-il s’attaquer à la réalisation technique.
-Malheureusement, la <a href="https://docs.corda.r3.com">documentation de Corda Enterprise</a> (légèrement différente de <a href="https://docs.corda.net">celle de Corda open-source</a>) n’est pas parfaitement auto-porteuse.
+Malheureusement, la <a href="https://docs.corda.r3.com" target="_blank" rel="noopener">documentation de Corda Enterprise</a> (légèrement différente de <a href="https://docs.corda.net" target="_blank" rel="noopener">celle de Corda open-source</a>) n’est pas parfaitement auto-porteuse.
 De nombreux allers-retours sont nécessaires avec les équipes de support et de déploiement de R3.</p>
 </div>
 <div class="paragraph">
@@ -379,7 +379,7 @@ DLT) …​ les pistes sont nombreuses !</p>
 Si les blockchains actuelles ne sont pas interopérables, Corda aurait tout à y gagner, pour se démarquer plus fermement sur un marché (déjà) concurrentiel.</p>
 </div>
 <div class="paragraph">
-<p>La documentation a été pointée comme lacunaire, toutefois il faut noter un effort certain de transparence avec la page “<a href="https://docs.corda.net/key-concepts-tradeoffs.html">Tradeoffs</a>” qui liste les points sur lesquels des concessions ont été faites.
+<p>La documentation a été pointée comme lacunaire, toutefois il faut noter un effort certain de transparence avec la page “<a href="https://docs.corda.net/key-concepts-tradeoffs.html" target="_blank" rel="noopener">Tradeoffs</a>” qui liste les points sur lesquels des concessions ont été faites.
 Parmi ces concessions, on relèvera un point : R3 encourage à doubler les contrats en code par des contrats sur papier.
 Un comble pour une solution censée désintermédier les échanges de ses participants !
 En opposant “<strong>Code is law</strong>” et “<strong>Existing legal systems</strong>”, R3 trahit en fait une réalité : les entreprises et les réglementations en vigueur ne sont pas encore prêtes à reposer uniquement sur du code.</p>
@@ -399,7 +399,7 @@ En opposant “<strong>Code is law</strong>” et “<strong>Existing legal syst
 <hr/>
 <div class="paragraph">
 <p><br/>
-<em>Cet article a initialement été publié sur <a href="https://medium.com/@Alain_Ncls/r3-corda-limites-c14847508c01?source=friends_link&amp;sk=aedf3207b62d4ad261703201376282b6">Medium</a>.</em></p>
+<em>Cet article a initialement été publié sur <a href="https://medium.com/@Alain_Ncls/r3-corda-limites-c14847508c01?source=friends_link&amp;sk=aedf3207b62d4ad261703201376282b6" target="_blank" rel="noopener">Medium</a>.</em></p>
 </div>
 </div>
 </div>
@@ -409,7 +409,7 @@ En opposant “<strong>Code is law</strong>” et “<strong>Existing legal syst
     
     <li>
         
-<a class="tag  " href="https://alainnicolas.fr/tags/corda/">
+<a class="tag " href="https://alainnicolas.fr/tags/corda/">
     
     <i style="font-size: 12px; color: #3874bd;" class="fas fa-terminal"></i>
     
@@ -421,7 +421,7 @@ En opposant “<strong>Code is law</strong>” et “<strong>Existing legal syst
     
     <li>
         
-<a class="tag  " href="https://alainnicolas.fr/tags/r3/">
+<a class="tag " href="https://alainnicolas.fr/tags/r3/">
     
     <i style="font-size: 12px; color: #3874bd;" class="fas fa-terminal"></i>
     
@@ -433,7 +433,7 @@ En opposant “<strong>Code is law</strong>” et “<strong>Existing legal syst
     
     <li>
         
-<a class="tag  " href="https://alainnicolas.fr/tags/dlt/">
+<a class="tag " href="https://alainnicolas.fr/tags/dlt/">
     
     <i style="font-size: 12px; color: #3874bd;" class="fas fa-terminal"></i>
     

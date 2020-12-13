@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="last-modified" content="2020-11-29" />
+    <meta http-equiv="last-modified" content="2020-12-13" />
     <meta http-equiv="cache-control" content="Private" />
     <meta http-equiv="Expires" content="600" />
     <title>Alain Nicolas | R3 Corda : Presentation</title>
@@ -18,7 +18,7 @@
     <meta property="og:url" content="https://alainnicolas.fr/blog/r3-corda-presentation/" />
     
     <meta property="og:description" content="Les technologies Blockchain &amp; DLT (Distributed Ledger Technology) sont nombreuses. Nous allons ici nous concentrer sur Corda, un DLT développé par le consortium R3.
-       Genèse du projet À l’origine de Corda : cinq problématiques des blockchains publiques les rendent inadaptées à l’utilisation en entreprise. Nous allons commencer par détailler ces problématiques.
+   Genèse du projet À l’origine de Corda : cinq problématiques des blockchains publiques les rendent inadaptées à l’utilisation en entreprise. Nous allons commencer par détailler ces problématiques.
  Manque de confidentialité Les blockchains classiques telles qu’Ethereum proposent un registre complet distribué entre tous les participants (les ‘nœuds’)."/>
 
      
@@ -40,7 +40,7 @@
     <style>/*!
  * Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
- */.fa,.fab,.far,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}@keyframes fa-spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.fa-stack{display:inline-block;height:2em;line-height:2em;position:relative;vertical-align:middle;width:2.5em}.fa-stack-1x,.fa-stack-2x{left:0;position:absolute;text-align:center;width:100%}.fa-stack-1x{line-height:inherit}.fa-stack-2x{font-size:2em}.fa-inverse{color:#fff}.fa-circle:before{content:"\f111"}.fa-database:before{content:"\f1c0"}.fa-ethereum:before{content:"\f42e"}.fa-github:before{content:"\f09b"}.fa-link:before{content:"\f0c1"}.fa-linkedin:before{content:"\f08c"}.fa-medium:before{content:"\f23a"}.fa-redo-alt:before{content:"\f2f9"}.fa-sticky-note:before{content:"\f249"}.fa-terminal:before{content:"\f120"}.fa-toilet-paper:before{content:"\f71e"}.fa-twitter:before{content:"\f099"}.fa-user:before{content:"\f007"}.fa-user-tie:before{content:"\f508"}@font-face{font-family:Font Awesome\ 5 Brands;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-brands-400.eot);src:url(/webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-brands-400.woff2) format("woff2"),url(/webfonts/fa-brands-400.woff) format("woff"),url(/webfonts/fa-brands-400.ttf) format("truetype"),url(/webfonts/fa-brands-400.svg#fontawesome) format("svg")}.fab{font-family:Font Awesome\ 5 Brands}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-regular-400.eot);src:url(/webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-regular-400.woff2) format("woff2"),url(/webfonts/fa-regular-400.woff) format("woff"),url(/webfonts/fa-regular-400.ttf) format("truetype"),url(/webfonts/fa-regular-400.svg#fontawesome) format("svg")}.fab,.far{font-weight:400}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:900;font-display:block;src:url(/webfonts/fa-solid-900.eot);src:url(/webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-solid-900.woff2) format("woff2"),url(/webfonts/fa-solid-900.woff) format("woff"),url(/webfonts/fa-solid-900.ttf) format("truetype"),url(/webfonts/fa-solid-900.svg#fontawesome) format("svg")}.fa,.far,.fas{font-family:Font Awesome\ 5 Free}.fa,.fas{font-weight:900}</style>
+ */.fa,.fab,.far,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}@keyframes fa-spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.fa-stack{display:inline-block;height:2em;line-height:2em;position:relative;vertical-align:middle;width:2.5em}.fa-stack-1x,.fa-stack-2x{left:0;position:absolute;text-align:center;width:100%}.fa-stack-1x{line-height:inherit}.fa-stack-2x{font-size:2em}.fa-inverse{color:#fff}.fa-circle:before{content:"\f111"}.fa-database:before{content:"\f1c0"}.fa-ethereum:before{content:"\f42e"}.fa-github:before{content:"\f09b"}.fa-link:before{content:"\f0c1"}.fa-linkedin:before{content:"\f08c"}.fa-medium:before{content:"\f23a"}.fa-redo-alt:before{content:"\f2f9"}.fa-sticky-note:before{content:"\f249"}.fa-terminal:before{content:"\f120"}.fa-toilet-paper:before{content:"\f71e"}.fa-twitter:before{content:"\f099"}@font-face{font-family:Font Awesome\ 5 Brands;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-brands-400.eot);src:url(/webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-brands-400.woff2) format("woff2"),url(/webfonts/fa-brands-400.woff) format("woff"),url(/webfonts/fa-brands-400.ttf) format("truetype"),url(/webfonts/fa-brands-400.svg#fontawesome) format("svg")}.fab{font-family:Font Awesome\ 5 Brands}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:400;font-display:block;src:url(/webfonts/fa-regular-400.eot);src:url(/webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-regular-400.woff2) format("woff2"),url(/webfonts/fa-regular-400.woff) format("woff"),url(/webfonts/fa-regular-400.ttf) format("truetype"),url(/webfonts/fa-regular-400.svg#fontawesome) format("svg")}.fab,.far{font-weight:400}@font-face{font-family:Font Awesome\ 5 Free;font-style:normal;font-weight:900;font-display:block;src:url(/webfonts/fa-solid-900.eot);src:url(/webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),url(/webfonts/fa-solid-900.woff2) format("woff2"),url(/webfonts/fa-solid-900.woff) format("woff"),url(/webfonts/fa-solid-900.ttf) format("truetype"),url(/webfonts/fa-solid-900.svg#fontawesome) format("svg")}.fa,.far,.fas{font-family:Font Awesome\ 5 Free}.fa,.fas{font-weight:900}</style>
     
     <link rel="preload" href="https://alainnicolas.fr/css/devicon.min.css" as="style">
     <link rel="stylesheet" href="https://alainnicolas.fr/css/devicon.min.css" type="text/css">
@@ -225,7 +225,7 @@ En effet, pour entériner une transaction dans le registre, il faut attendre le 
 <div class="sect2">
 <h3 id="_pseudonymat_des_participants">Pseudonymat des participants</h3>
 <div class="paragraph">
-<p>Si l’inscription sur un réseau tel qu’Ethereum est très facile, par exemple en créant son portefeuille via <a href="https://www.myetherwallet.com">MyEtherWallet</a>, à aucun moment dans le processus il n’est demandé de fournir son identité.
+<p>Si l’inscription sur un réseau tel qu’Ethereum est très facile, par exemple en créant son portefeuille via <a href="https://www.myetherwallet.com" target="_blank" rel="noopener">MyEtherWallet</a>, à aucun moment dans le processus il n’est demandé de fournir son identité.
 Alors, anonymat complet ?
 Non, pas complètement.
 À travers des pratiques de crawling on peut assez aisément relier de nombreuses adresses de portefeuilles à des individus précis.
@@ -279,7 +279,7 @@ R3 part du constat que les solutions comme Ethereum ou Bitcoin ne répondent pas
 <div class="sect2">
 <h3 id="_community_edition">Community Edition</h3>
 <div class="paragraph">
-<p>Version open-source de Corda, accessible à tous et dont le code source est <a href="https://github.com/corda/corda">disponible sur GitHub</a>.</p>
+<p>Version open-source de Corda, accessible à tous et dont le code source est <a href="https://github.com/corda/corda" target="_blank" rel="noopener">disponible sur GitHub</a>.</p>
 </div>
 <div class="paragraph">
 <p>Un très bon moyen de se former aux concepts de base, créer sa première CorDapp (application Corda, par analogie aux ÐApps d’Ethereum — applications décentralisées).
@@ -289,7 +289,7 @@ Pour cela, la documentation de Corda propose des tutoriels qui permettent assez 
 <div class="sect2">
 <h3 id="_enterprise_edition">Enterprise Edition</h3>
 <div class="paragraph">
-<p>Version dédiée aux entreprises, accès aux exécutables <a href="https://www.r3.com/corda-enterprise-download/">sur demande</a>.</p>
+<p>Version dédiée aux entreprises, accès aux exécutables <a href="https://www.r3.com/corda-enterprise-download/" target="_blank" rel="noopener">sur demande</a>.</p>
 </div>
 <div class="paragraph">
 <p>Cette version entend répondre plus spécifiquement aux besoins des entreprises.
@@ -589,7 +589,7 @@ Tant qu’un nœud n’a pas la CorDapp <em>ad hoc</em> pour exécuter un certai
 <div class="sectionbody">
 <div class="paragraph">
 <p>Nous avons évoqué de nombreux concepts à la base de Corda et de ses composants, mais il est évident que de nombreux détails pourraient être ajoutés.
-La <a href="https://docs.corda.net/">documentation officielle</a> de Corda pourra sûrement répondre aux questions plus poussées !</p>
+La <a href="https://docs.corda.net/" target="_blank" rel="noopener">documentation officielle</a> de Corda pourra sûrement répondre aux questions plus poussées !</p>
 </div>
 <div class="paragraph">
 <p>Dans un <a href="https://alainnicolas.fr/blog/r3-corda-limites/">prochain article</a>, nous évoquerons les limites de Corda, pour garder un regard critique sur cette solution largement employée dans le milieu bancaire notamment.</p>
@@ -600,7 +600,7 @@ La <a href="https://docs.corda.net/">documentation officielle</a> de Corda pourr
 <hr/>
 <div class="paragraph">
 <p><br/>
-<em>Cet article a initialement été publié sur <a href="https://medium.com/@Alain_Ncls/r3-corda-pr%C3%A9sentation-b2cab9598fbd?source=friends_link&amp;sk=7aff16bc24b59974d9da8028e5dfb598">Medium</a>.</em></p>
+<em>Cet article a initialement été publié sur <a href="https://medium.com/@Alain_Ncls/r3-corda-pr%C3%A9sentation-b2cab9598fbd?source=friends_link&amp;sk=7aff16bc24b59974d9da8028e5dfb598" target="_blank" rel="noopener">Medium</a>.</em></p>
 </div>
 </div>
 </div>
@@ -610,7 +610,7 @@ La <a href="https://docs.corda.net/">documentation officielle</a> de Corda pourr
     
     <li>
         
-<a class="tag  " href="https://alainnicolas.fr/tags/corda/">
+<a class="tag " href="https://alainnicolas.fr/tags/corda/">
     
     <i style="font-size: 12px; color: #3874bd;" class="fas fa-terminal"></i>
     
@@ -622,7 +622,7 @@ La <a href="https://docs.corda.net/">documentation officielle</a> de Corda pourr
     
     <li>
         
-<a class="tag  " href="https://alainnicolas.fr/tags/r3/">
+<a class="tag " href="https://alainnicolas.fr/tags/r3/">
     
     <i style="font-size: 12px; color: #3874bd;" class="fas fa-terminal"></i>
     
@@ -634,7 +634,7 @@ La <a href="https://docs.corda.net/">documentation officielle</a> de Corda pourr
     
     <li>
         
-<a class="tag  " href="https://alainnicolas.fr/tags/dlt/">
+<a class="tag " href="https://alainnicolas.fr/tags/dlt/">
     
     <i style="font-size: 12px; color: #3874bd;" class="fas fa-terminal"></i>
     
