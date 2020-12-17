@@ -14,7 +14,7 @@
       
       <guid>https://alainnicolas.fr/projects/2020-09-futurmaster-master-data/</guid>
       <description>Développement du module Master Data. Stack : React + Spring Boot.
- </description>
+     </description>
     </item>
     
     <item>
@@ -24,7 +24,7 @@
       
       <guid>https://alainnicolas.fr/projects/2019-07-futurmaster-calibrate-model/</guid>
       <description>Développement du module Demand Planning. Stack : React + Spring Boot.
- </description>
+     </description>
     </item>
     
     <item>
@@ -34,7 +34,7 @@
       
       <guid>https://alainnicolas.fr/projects/2018-09-bnp-blockchain/</guid>
       <description>Création d&amp;rsquo;une solution &amp;ldquo;Blockchain as a Service&amp;rdquo; : hébergement &amp;ldquo;on premises&amp;rdquo; de nœuds Corda Enterprise, Quorum et Fabric.
- </description>
+     </description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       
       <guid>https://alainnicolas.fr/projects/2016-12-talan-talancoin/</guid>
       <description>Création d&amp;rsquo;un token interne à Talan et d&amp;rsquo;un écosystème d&amp;rsquo;applications clientes.
- </description>
+     </description>
     </item>
     
     <item>
@@ -54,7 +54,7 @@
       
       <guid>https://alainnicolas.fr/projects/2018-06-vct-vcoin/</guid>
       <description>Déploiement, développement spécifique et maintenance de VCoin, la version VINCI de Talan Coin, token RH.
- </description>
+     </description>
     </item>
     
     <item>
@@ -64,7 +64,7 @@
       
       <guid>https://alainnicolas.fr/projects/2016-01-coface/</guid>
       <description>Application de gestion de contrats d&amp;rsquo;assurance.
- </description>
+     </description>
     </item>
     
     <item>
@@ -74,7 +74,7 @@
       
       <guid>https://alainnicolas.fr/projects/2015-10-epaye/</guid>
       <description>Refonte d&amp;rsquo;une application web de gestion de paye.
- </description>
+     </description>
     </item>
     
     <item>
@@ -84,7 +84,7 @@
       
       <guid>https://alainnicolas.fr/projects/2015-07-gefco/</guid>
       <description>Développement d&amp;rsquo;un système de génération de plannings sous contraintes.
- </description>
+     </description>
     </item>
     
     <item>
@@ -104,7 +104,7 @@
       
       <guid>https://alainnicolas.fr/blog/blockchain-former-les-ingenieurs-de-demain/</guid>
       <description>Depuis deux ans j’ai la chance et le plaisir d’intervenir auprès des étudiants de l’EPF, école d’ingénieurs généraliste dont j’ai été diplômé en 2015. Passer de l’autre côté de l’enseignement n’est pas une mince affaire, surtout sans expérience, mais revenir dans «son» école facilite largement le changement de posture.
-   Une école d’ingénieurs a la lourde responsabilité de maintenir sa formation à jour, pour préparer les étudiants du mieux possible à leur entrée dans le monde du travail.</description>
+       Une école d’ingénieurs a la lourde responsabilité de maintenir sa formation à jour, pour préparer les étudiants du mieux possible à leur entrée dans le monde du travail.</description>
     </item>
     
     <item>
@@ -114,7 +114,7 @@
       
       <guid>https://alainnicolas.fr/blog/r3-corda-limites/</guid>
       <description>Nous avons vu dans un article précédent la présentation des grands principes de Corda, le DLT (Distributed Ledger Technology) développé par le consortium R3. Utilisé en très grande majorité par des banques, Corda semble répondre à de nombreux besoins non assouvis par les blockchains publiques. Nous allons désormais tâcher d’explorer les limites de Corda.
-   Est-ce que c’est une blockchain ? À question directe …​ réponse directe : non.</description>
+       Est-ce que c’est une blockchain ? À question directe …​ réponse directe : non.</description>
     </item>
     
     <item>
@@ -124,7 +124,7 @@
       
       <guid>https://alainnicolas.fr/blog/r3-corda-presentation/</guid>
       <description>Les technologies Blockchain &amp;amp; DLT (Distributed Ledger Technology) sont nombreuses. Nous allons ici nous concentrer sur Corda, un DLT développé par le consortium R3.
-   Genèse du projet À l’origine de Corda : cinq problématiques des blockchains publiques les rendent inadaptées à l’utilisation en entreprise. Nous allons commencer par détailler ces problématiques.
+       Genèse du projet À l’origine de Corda : cinq problématiques des blockchains publiques les rendent inadaptées à l’utilisation en entreprise. Nous allons commencer par détailler ces problématiques.
  Manque de confidentialité Les blockchains classiques telles qu’Ethereum proposent un registre complet distribué entre tous les participants (les ‘nœuds’).</description>
     </item>
     
@@ -156,7 +156,7 @@
       <guid>https://alainnicolas.fr/blog/meetup-asseth-janvier/</guid>
       <description>Vendredi 19 janvier 2018 avait lieu le meetup de l’Asseth (Association Ethereum française), sponsorisé et hébergé par Talan Labs. Il s’agit de l’un des rassemblements les plus importants autour de la blockchain en France.
  Au programme de la soirée : une présentation du projet Colony par Aron Fischer.
- Le speaker Aron Fischer  Plus de 70 « blockchainers » se sont déplacés pour profiter de la présence d’Aron Fischer, core dev Ethereum.</description>
+ Le speaker   Aron Fischer     Plus de 70 « blockchainers » se sont déplacés pour profiter de la présence d’Aron Fischer, core dev Ethereum.</description>
     </item>
     
     <item>
@@ -208,7 +208,7 @@
       <guid>https://alainnicolas.fr/blog/meetup-asseth-devcon3-talan-ethereum/</guid>
       <description>Lundi 13 novembre 2017 avait lieu le meetup de l’Asseth (Association Ethereum française). Sponsorisé et hébergé par Talan Labs, il s’agit de l’un des rassemblements les plus importants autour de la blockchain en France.
  Au programme de la soirée : le débriefing de la Devcon3, la conférence annuelle des développeurs Ethereum qui avait lieu début novembre, à Cancún au Mexique.
- Devcon3 - La conférence annuelle des développeurs Ethereum  Environ 85 &amp;#34;blockchainers&amp;#34; se sont déplacés pour profiter des retours de Jérôme de Tychey, président de l’Asseth.</description>
+   Devcon3 - La conférence annuelle des développeurs Ethereum     Environ 85 &amp;#34;blockchainers&amp;#34; se sont déplacés pour profiter des retours de Jérôme de Tychey, président de l’Asseth.</description>
     </item>
     
     <item>
@@ -229,7 +229,7 @@
       
       <guid>https://alainnicolas.fr/blog/quest-ce-que-talancoin/</guid>
       <description>_Présentée pour la première fois le 4 octobre au 1er Forum Parlementaire de la Blockchain, la monnaie virtuelle du groupe Talan est en passe de rentrer en phase de production. L’occasion de présenter en détails les tenants et les aboutissants d’un projet et d’une initiative pas comme les autres : [Talan Coin](https://www.talancoin.com) !
- Bannière Talan Coin  La blockchain, tout le monde en parle, depuis les médias généralistes jusqu’aux startups les plus innovantes.</description>
+   Bannière Talan Coin     La blockchain, tout le monde en parle, depuis les médias généralistes jusqu’aux startups les plus innovantes.</description>
     </item>
     
     <item>
@@ -239,7 +239,7 @@
       
       <guid>https://alainnicolas.fr/blog/oubliez-angular-3-voici-angular-4/</guid>
       <description>Parmi les nombreux frameworks JavaScript, AngularJS est indéniablement celui qui a connu le plus de succès. Mis en ligne en 2010 et avec une première version publiée en 2012, Angular n’a eu de cesse de s’améliorer avec une communauté croissante, des besoins qui évoluent et une équipe de développement soutenue par Google. Et puis l’an dernier, tout a changé…​
- Oubliez Angular 3,voici la version 4  AngularJS devient Angular 2 AngularJS devient Angular 2  Les annonces autour de la nouvelle version majeure d’AngularJS, désormais appelée Angular 2, surprennent.</description>
+   Oubliez Angular 3,voici la version 4     AngularJS devient Angular 2   AngularJS devient Angular 2     Les annonces autour de la nouvelle version majeure d’AngularJS, désormais appelée Angular 2, surprennent.</description>
     </item>
     
     <item>
@@ -261,7 +261,7 @@
       <guid>https://alainnicolas.fr/blog/presentation-meetup-human-talks/</guid>
       <description>Parce que la vie d’un développeur ce n’est pas qu’un quotidien routinier face à un écran rempli de code, il est parfois important d’élargir ses idées et de se confronter au travail et aux passions d’autres acteurs de la communauté. C’est ainsi que je vous propose aujourd’hui de découvrir un meetup, les Human Talks.
  Mais au fait, qu’est-ce qu’un meetup ?
- Qu’est-ce qu’un meetup ? Logo Meetup.</description>
+ Qu’est-ce qu’un meetup ?   Logo Meetup.</description>
     </item>
     
     <item>

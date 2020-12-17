@@ -16,10 +16,22 @@ backend:
   branch: master
 
 
-media_folder: "static/img" # Folder where user uploaded files should go
-public_folder: "img"
+media_folder: "assets" # Folder where user uploaded files should go
+public_folder: "assets"
 
 collections: # A list of collections the CMS should be able to edit
+  - name: "Blog" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Blog" # Used in the UI, ie.: "New Post"
+    folder: "content/blog" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    extension: "adoc"
+    format: "frontmatter"
+    fields: # The fields each document in this collection have
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
   - name: "Projects" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Projects" # Used in the UI, ie.: "New Post"
     folder: "content/projects" # The path to the folder where the documents are stored
@@ -88,5 +100,3 @@ collections: # A list of collections the CMS should be able to edit
                   - { label: 'analytics', name: 'analytics', widget: 'object',fields: [ { label: 'Tracker ID', name: 'trackerID', widget: 'string' } ] }
 
           - { label: 'Show Git Commit INfo', name: 'enableGitInfo', widget: 'boolean', required: false }
-          - { label: 'outputs', name: 'outputs', widget: 'object', field: { name: 'home', label: 'home' , widget: list, default: [ 'HTML','JSON' ] } }
-          - { label: 'taxonomies', name: 'taxonomies', widget: 'hidden', default: { name: 'home', label: 'home' , widget: string, default: [ 'tags' ] } }
