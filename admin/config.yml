@@ -1,102 +1,136 @@
-#
-#. This config file adds support for Netlify CMS, exposed at /admin on the running site.
-# In order to use this on your site,
-#. 1) replace instances of "......" with the appropriate paths, relative from repository root.
-#. 2) replace repo path in `backend` settings, and set branch to master.
-#  3) Optionally enable the [editor workflow](https://www.netlifycms.org/docs/configuration-options/#publish-mode) which uses PRs for content changes
-#  4) Optionally enable [open authoring](https://www.netlifycms.org/docs/open-authoring/) for community sites, which requires #3
-#
-#
-
-
-
 backend:
   name: github
   repo: alainncls/portfolio-alain
   branch: master
 
+media_folder: 'assets' # Folder where user uploaded files should go
 
-media_folder: "assets" # Folder where user uploaded files should go
-public_folder: "assets"
+locale: 'fr'
+  curl https://api.github.com/repos/alainncls/portfolio-alain/assets/posts/jee-logo.png
+slug:
+  encoding: 'ascii'
+  clean_accents: true
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "Blog" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Blog" # Used in the UI, ie.: "New Post"
-    folder: "content/blog" # The path to the folder where the documents are stored
+  - name: 'blog' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Blog' # Used in the UI, ie.: 'New Post'
+    folder: 'content/blog' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    extension: "adoc"
-    format: "frontmatter"
+    extension: 'adoc'
+    format: 'frontmatter'
+    media_folder: '/assets/posts'
+    public_folder: '/posts'
     fields: # The fields each document in this collection have
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Tags", name: "tags", widget: "list", required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: 'Titre', name: 'title', widget: 'string', hint: "Titre de l'article" }
+      - { label: 'Date de publication', name: 'date', widget: 'datetime', hint: "Date à partir de laquelle cet article sera mis en ligne" }
+      - { label: 'Aperçu', name: 'thumbnail', widget: 'image', media_folder: '/assets/posts', hint: "L'image mise en avant pour illustrer cet article" }
+      - { label: "URL de l'article", name: 'slug', widget: 'string', hint: "URL de l'article (ce qui vient après https://alainnicolas.fr)" }
+      - { label: 'URL canonique', name: 'canonicalUrl', widget: 'string', required: false, hint: "URL où ce post a été posté à l'origine" }
+      - { label: 'Description', name: 'description', widget: 'text', hint: "Phrase d'accroche de l'article utilisée pour l'illustrer" }
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false, hint: "Tags qui décrivent l'article" }
+      - { label: 'Mis en avant ?', name: 'featured', widget: 'boolean', hint: "Est-ce que cet article doit être affiché sur la page principale ?" }
+      - { label: 'Brouillon ?', name: 'draft', widget: 'boolean', required: false, hint: "Est-ce que cet article est encore en cours de rédaction ?" }
+      - { label: 'Corps du post', name: 'body', widget: 'markdown', hint: "C'est ici que l'on rédige son article !" }
 
-  - name: "Projects" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Projects" # Used in the UI, ie.: "New Post"
-    folder: "content/projects" # The path to the folder where the documents are stored
+  - name: 'projects' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Projects' # Used in the UI, ie.: 'New Post'
+    folder: 'content/projects' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    extension: 'md'
+    format: 'frontmatter'
     fields: # The fields each document in this collection have
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "featured", name: "featured", widget: "boolean", required: false }
-      - { label: "link to project repo or site", name: "link", widget: "string" }
-      - { label: "Project Image", name: image, widget: 'image' }
-      - { label: "Brief description", name: "description", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list", required: false }
-      - { label: "Fun Fact or Stat", name: "fact", widget: "string", default: "used by 20% of Fortune 500 companies!", required: false }
-      - { label: "weight (lower get more visibility)", name: "weight", widget: "number", valueType: float, step: 10, min: 0, max: 1000 }
-      - { label: "Sitemap", name: "sitemap", widget: "object", field: { label: weight, name: weight, widget: "number", valueType: float, step: 0.1, min: 0.0, max: 1.0 } }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Date de publication', name: 'date', widget: 'datetime' }
+      - { label: 'Lien vers le site du client', name: 'clientLink', widget: 'string', required: false }
+      - { label: 'Lien vers le site du projet', name: 'projectLink', widget: 'string', required: false }
+      - { label: 'Image', name: image, widget: 'image' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Poids (+ bas = + visible)', name: 'weight', widget: 'number', valueType: float, step: 10, min: 0, max: 1000 }
+      - { label: 'Mis en avant', name: 'featured', widget: 'boolean' }
+      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: 'Corps du projet', name: 'body', widget: 'markdown' }
+
+  - name: 'tag' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Tags' # Used in the UI, ie.: 'New Post'
+    folder: 'content/tags' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    extension: 'md'
+    format: 'frontmatter'
+    fields: # The fields each document in this collection have
+      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Lien', name: 'link', widget: 'string', required: false }
+      - { label: 'Icon', name: 'icon', widget: 'string', required: false }
+      - { label: 'Méthodologie ?', name: 'methodology', widget: 'boolean', required: false }
 
   - name: 'settings'
-    label: 'Settings'
+    label: 'Réglages'
     delete: false # Prevent users from deleting documents in this collection
     editor:
       preview: false
     files:
       - name: 'general'
-        label: 'Site Settings'
+        label: 'Configuration du site'
         file: 'config.toml'
         extension: toml
-        description: 'General Site Settings'
+        description: 'Réglages généraux du site'
         fields:
-          - { label: 'Global title', name: 'title', widget: 'string' }
-          - { label: 'Site Url', name: 'baseURL', widget: 'string' }
-          - { label: 'Theme', name: 'theme', widget: 'hidden', default: "hugo-resume" }
-          - { label: 'Language Code', name: 'languageCode', widget: 'hidden', default: "en-us" }
+          - { label: 'Titre', name: 'title', widget: 'string' }
+          - { label: 'URL du site', name: 'baseURL', widget: 'string' }
+          - { label: 'Theme', name: 'theme', widget: 'hidden', default: 'hugo-resume' }
+          - { label: 'Code langue', name: 'languageCode', widget: 'hidden', default: 'fr-fr' }
           - { label: 'PygmentCodeFences', name: 'PygmentsCodeFences', widget: 'boolean', required: false }
           - { label: 'PygmentCodeFencesGuessSyntax', name: 'PygmentsCodeFencesGuessSyntax', widget: 'boolean', required: false }
-          - { label: 'PygmentCodeFencesGuessSyntax', name: 'PygmentsStyle', widget: 'string' }
+          - { label: 'PygmentsStyle', name: 'PygmentsStyle', widget: 'string' }
+          - { label: 'Activer les infos de commit Git', name: 'enableGitInfo', widget: 'boolean', default: true }
+          - { label: 'Répertoire de publication', name: 'publishDir', widget: 'string' }
+          - { label: 'Canonifier les URL ?', name: 'canonifyURLs', widget: 'boolean' }
+          - { label: 'Générer le robots.txt ?', name: 'enableRobotsTXT', widget: 'boolean' }
+          - label: 'Markup'
+            name: 'markup'
+            widget: 'object'
+            fields:
+              - { label: 'defaultMarkdownHandler', name: 'defaultMarkdownHandler', widget: 'string', default: 'goldmark' }
+              - label: 'AsciiDocExt'
+                name: 'asciidocExt'
+                widget: 'object'
+                fields:
+                  - { label: 'backend', name: 'backend', widget: 'string', default: 'html5' }
           - label: 'Params'
             name: 'params'
             widget: 'object'
             fields:
-              - { label: 'First Name', name: 'firstName', widget: 'string' }
-              - { label: 'Last Name', name: 'lastName', widget: 'string' }
-              - { label: address, name: address, widget: 'string' }
-              - { label: profileImage, name: profileImage, widget: 'image' }
-              - { label: 'phone', name: 'phone', widget: 'string' }
-              - { label: 'email', name: 'email', widget: 'string' }
-              - label: 'Social Handles'
-                name: 'handles'
-                widget: 'list'
-                fields:
-                  - { label: 'Name', name: 'name', widget: 'string' }
-                  - { label: 'Link', name: 'link', widget: 'string' }
-
-              - { label: 'showSkills', name: 'showSkills', widget: 'boolean', required: false }
-              - { label: 'showProjects', name: 'showProjects', widget: 'boolean', required: false }
-              - { label: 'showOpenSource', name: 'showOpenSource', widget: 'boolean', required: false }
-              - { label: 'showPublications', name: 'showPublications', widget: 'boolean', required: false }
-              - { label: 'showExperience', name: 'showExperience', widget: 'boolean', required: false }
-              - { label: 'showEducation', name: 'showEducation', widget: 'boolean', required: false }
-              - { label: 'showQr', name: 'showQr', widget: 'boolean', required: false }
-              - { label: 'favicon', name: 'favicon', widget: 'image' }
+              - { label: 'Adresse', name: 'address', widget: 'string' }
+              - { label: 'Email', name: 'email', widget: 'string' }
+              - { label: 'Prénom', name: 'firstName', widget: 'string' }
+              - { label: 'Nom de famille', name: 'lastName', widget: 'string' }
+              - { label: 'Photo de profil', name: 'profileImage', widget: 'image' }
+              - { label: 'Description', name: 'description', widget: 'text' }
+              - { label: 'showEducation', name: 'showEducation', widget: 'boolean', default: true }
+              - { label: 'showExperience', name: 'showExperience', widget: 'boolean', default: true }
+              - { label: 'showOpenSource', name: 'showOpenSource', widget: 'boolean', default: false }
+              - { label: 'showProjects', name: 'showProjects', widget: 'boolean', default: true }
+              - { label: 'showPublications', name: 'showPublications', widget: 'boolean', default: false }
+              - { label: 'showBlog', name: 'showBlog', widget: 'boolean', default: true }
+              - { label: 'showQr', name: 'showQr', widget: 'boolean', default: false }
+              - { label: 'showSkills', name: 'showSkills', widget: 'boolean', default: true }
               - label: 'Google'
                 name: 'google'
                 widget: 'object'
                 fields:
                   - { label: 'analytics', name: 'analytics', widget: 'object',fields: [ { label: 'Tracker ID', name: 'trackerID', widget: 'string' } ] }
-
-          - { label: 'Show Git Commit INfo', name: 'enableGitInfo', widget: 'boolean', required: false }
+              - label: 'Réseaux sociaux'
+                name: 'handles'
+                widget: 'list'
+                fields:
+                  - { label: 'Name', name: 'name', widget: 'string' }
+                  - { label: 'Link', name: 'link', widget: 'string' }
+          - label: 'Outputs'
+            name: 'outputs'
+            widget: 'object'
+            fields:
+              - { label: 'home', name: 'home', widget: 'list' }
+          - label: 'Taxonomies'
+            name: 'taxonomies'
+            widget: 'object'
+            fields:
+              - { label: 'tag', name: 'tag', widget: 'string', default: 'tags' }
