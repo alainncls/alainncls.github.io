@@ -14,7 +14,7 @@
       
       <guid>https://alainnicolas.fr/projects/2020-09-futurmaster-master-data/</guid>
       <description>Développement du module Master Data. Stack : React + Spring Boot.
- </description>
+     </description>
     </item>
     
     <item>
@@ -24,7 +24,7 @@
       
       <guid>https://alainnicolas.fr/projects/2019-07-futurmaster-calibrate-model/</guid>
       <description>Développement du module Demand Planning. Stack : React + Spring Boot.
- </description>
+     </description>
     </item>
     
   </channel>
