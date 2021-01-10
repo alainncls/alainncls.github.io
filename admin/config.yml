@@ -3,10 +3,10 @@ backend:
   repo: alainncls/portfolio-alain
   branch: master
 
-media_folder: 'assets' # Folder where user uploaded files should go
+media_folder: '/assets' # Folder where user uploaded files should go
 
 locale: 'fr'
-  curl https://api.github.com/repos/alainncls/portfolio-alain/assets/posts/jee-logo.png
+
 slug:
   encoding: 'ascii'
   clean_accents: true
@@ -19,7 +19,7 @@ collections: # A list of collections the CMS should be able to edit
     extension: 'adoc'
     format: 'frontmatter'
     media_folder: '/assets/posts'
-    public_folder: '/posts'
+    public_folder: '/assets/posts'
     fields: # The fields each document in this collection have
       - { label: 'Titre', name: 'title', widget: 'string', hint: "Titre de l'article" }
       - { label: 'Date de publication', name: 'date', widget: 'datetime', hint: "Date à partir de laquelle cet article sera mis en ligne" }
@@ -38,6 +38,8 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     extension: 'md'
     format: 'frontmatter'
+    media_folder: '/assets/projects'
+    public_folder: '/assets/projects'
     fields: # The fields each document in this collection have
       - { label: 'Titre', name: 'title', widget: 'string' }
       - { label: 'Date de publication', name: 'date', widget: 'datetime' }
