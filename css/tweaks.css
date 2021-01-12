@@ -143,3 +143,7 @@ iframe {
     color: #70737c;
     text-decoration: none;
 }
+
+.breadcrumb-item {
+    margin: 8px 0;
+}
