@@ -30,17 +30,17 @@ CMS.registerEditorComponent({
     },
     toBlock: function (obj) {
         if (obj.src) {
-            return `{{< img loading="lazy"  src="${obj.src}" alt="${obj.alt}" hideCaption=${obj.hideCaption} >}}`;
+            return `{{< img loading="lazy" src="${obj.src}" alt="${obj.alt}" hideCaption=${obj.hideCaption} >}}`;
         }
         return '<< Élément incomplet >>'
     },
     toPreview: function (obj) {
         if (obj.src) {
             if (obj.hideCaption === true) {
-                return `<figure><img loading="lazy"  src="/${obj.src}" alt="${obj.alt}"></figure>`;
+                return `<figure><img loading="lazy" src="/${obj.src}" alt="${obj.alt}"></figure>`;
             }
 
-            return `<figure><img loading="lazy"  src="/${obj.src}" alt="${obj.alt}"><figcaption>${obj.alt}</figcaption></figure>`;
+            return `<figure><img loading="lazy" src="/${obj.src}" alt="${obj.alt}"><figcaption>${obj.alt}</figcaption></figure>`;
         }
         return '<< Élément incomplet >>'
     }
