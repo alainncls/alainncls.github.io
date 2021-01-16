@@ -54,17 +54,24 @@
         if (e.keyCode === dark[o++]) {
             if (o === dark.length) {
                 const styleSheet = document.createElement('style');
-                styleSheet.textContent = '  html {\n' +
+                styleSheet.textContent = '  .navbar {\n' +
+                    '    .filter: invert(1) hue-rotate(.5turn);\n' +
+                    '    -webkit-filter: invert(1) hue-rotate(.5turn);\n' +
+                    '    -moz-filter: invert(1) hue-rotate(.5turn);\n' +
+                    '  }\n' +
+                    '  .container-fluid {\n' +
+                    '    background-color: #000000;\n' +
+                    '  }\n' +
+                    '  .container-fluid > *{\n' +
                     '    filter: invert(1) hue-rotate(.5turn);\n' +
+                    '    -webkit-filter: invert(1) hue-rotate(.5turn);\n' +
+                    '    -moz-filter: invert(1) hue-rotate(.5turn);\n' +
                     '  }\n' +
                     '\n' +
                     '  img {\n' +
                     '    filter: invert(1) hue-rotate(.5turn);\n' +
-                    '  }\n' +
-                    '\n' +
-                    '  img:not(:hover) {\n' +
-                    '    opacity: .7;\n' +
-                    '    transition: opacity .25s ease-in-out;\n' +
+                    '    -webkit-filter: invert(1) hue-rotate(.5turn);\n' +
+                    '    -moz-filter: invert(1) hue-rotate(.5turn);\n' +
                     '  }';
                 document.body.appendChild(styleSheet);
                 return false;
