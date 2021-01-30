@@ -5,16 +5,15 @@
     <link>https://alainnicolas.fr/tags/jquery/</link>
     <description>Recent content in jQuery on Alain Nicolas</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
+    <language>fr</language>
     <lastBuildDate>Fri, 01 Jan 2016 15:00:28 +0000</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/jquery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coface</title>
-      <link>https://alainnicolas.fr/projects/2016-01-coface/</link>
+      <link>https://alainnicolas.fr/projects/coface/</link>
       <pubDate>Fri, 01 Jan 2016 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/projects/2016-01-coface/</guid>
-      <description>Application de gestion de contrats d&amp;rsquo;assurance.
-     </description>
+      <guid>https://alainnicolas.fr/projects/coface/</guid>
+      <description>Application de gestion de contrats d&amp;rsquo;assurance.</description>
     </item>
     
   </channel>

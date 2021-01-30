@@ -5,86 +5,78 @@
     <link>https://alainnicolas.fr/</link>
     <description>Recent content in Accueil on Alain Nicolas</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
+    <language>fr</language>
     <lastBuildDate>Sun, 16 Aug 2020 18:56:13 -0500</lastBuildDate><atom:link href="https://alainnicolas.fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FuturMaster - Master Data</title>
-      <link>https://alainnicolas.fr/projects/2020-09-futurmaster-master-data/</link>
+      <link>https://alainnicolas.fr/projects/futurmaster-master-data/</link>
       <pubDate>Tue, 01 Sep 2020 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/projects/2020-09-futurmaster-master-data/</guid>
-      <description>Développement du module Master Data. Stack : React + Spring Boot.
-     </description>
+      <guid>https://alainnicolas.fr/projects/futurmaster-master-data/</guid>
+      <description>Développement du module Master Data. Stack : React + Spring Boot.</description>
     </item>
     
     <item>
       <title>FuturMaster - Calibrate Model</title>
-      <link>https://alainnicolas.fr/projects/2019-07-futurmaster-calibrate-model/</link>
+      <link>https://alainnicolas.fr/projects/futurmaster-calibrate-model/</link>
       <pubDate>Mon, 01 Jul 2019 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/projects/2019-07-futurmaster-calibrate-model/</guid>
-      <description>Développement du module Demand Planning. Stack : React + Spring Boot.
-     </description>
+      <guid>https://alainnicolas.fr/projects/futurmaster-calibrate-model/</guid>
+      <description>Développement du module Demand Planning. Stack : React + Spring Boot.</description>
     </item>
     
     <item>
       <title>BNP CIB - Blockchain-as-a-Service</title>
-      <link>https://alainnicolas.fr/projects/2018-09-bnp-blockchain/</link>
+      <link>https://alainnicolas.fr/projects/bnp-blockchain/</link>
       <pubDate>Sat, 01 Sep 2018 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/projects/2018-09-bnp-blockchain/</guid>
-      <description>Création d&amp;rsquo;une solution &amp;ldquo;Blockchain as a Service&amp;rdquo; : hébergement &amp;ldquo;on premises&amp;rdquo; de nœuds Corda Enterprise, Quorum et Fabric.
-     </description>
+      <guid>https://alainnicolas.fr/projects/bnp-blockchain/</guid>
+      <description>Création d&amp;rsquo;une solution &amp;ldquo;Blockchain as a Service&amp;rdquo; : hébergement &amp;ldquo;on premises&amp;rdquo; de nœuds Corda Enterprise, Quorum et Fabric.</description>
     </item>
     
     <item>
       <title>Talan - Talan Coin</title>
-      <link>https://alainnicolas.fr/projects/2016-12-talan-talancoin/</link>
+      <link>https://alainnicolas.fr/projects/talan-talancoin/</link>
       <pubDate>Fri, 01 Jun 2018 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/projects/2016-12-talan-talancoin/</guid>
-      <description>Création d&amp;rsquo;un token interne à Talan et d&amp;rsquo;un écosystème d&amp;rsquo;applications clientes.
-     </description>
+      <guid>https://alainnicolas.fr/projects/talan-talancoin/</guid>
+      <description>Création d&amp;rsquo;un token interne à Talan et d&amp;rsquo;un écosystème d&amp;rsquo;applications clientes.</description>
     </item>
     
     <item>
       <title>VINCI Construction Terrassement - VCoin</title>
-      <link>https://alainnicolas.fr/projects/2018-06-vct-vcoin/</link>
+      <link>https://alainnicolas.fr/projects/vct-vcoin/</link>
       <pubDate>Fri, 01 Jun 2018 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/projects/2018-06-vct-vcoin/</guid>
-      <description>Déploiement, développement spécifique et maintenance de VCoin, la version VINCI de Talan Coin, token RH.
-     </description>
+      <guid>https://alainnicolas.fr/projects/vct-vcoin/</guid>
+      <description>Déploiement, développement spécifique et maintenance de VCoin, la version VINCI de Talan Coin, token RH.</description>
     </item>
     
     <item>
       <title>Coface</title>
-      <link>https://alainnicolas.fr/projects/2016-01-coface/</link>
+      <link>https://alainnicolas.fr/projects/coface/</link>
       <pubDate>Fri, 01 Jan 2016 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/projects/2016-01-coface/</guid>
-      <description>Application de gestion de contrats d&amp;rsquo;assurance.
-     </description>
+      <guid>https://alainnicolas.fr/projects/coface/</guid>
+      <description>Application de gestion de contrats d&amp;rsquo;assurance.</description>
     </item>
     
     <item>
       <title>e-Paye</title>
-      <link>https://alainnicolas.fr/projects/2015-10-epaye/</link>
+      <link>https://alainnicolas.fr/projects/epaye/</link>
       <pubDate>Thu, 01 Oct 2015 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/projects/2015-10-epaye/</guid>
-      <description>Refonte d&amp;rsquo;une application web de gestion de paye.
-     </description>
+      <guid>https://alainnicolas.fr/projects/epaye/</guid>
+      <description>Refonte d&amp;rsquo;une application web de gestion de paye.</description>
     </item>
     
     <item>
       <title>Gefco</title>
-      <link>https://alainnicolas.fr/projects/2015-07-gefco/</link>
+      <link>https://alainnicolas.fr/projects/gefco/</link>
       <pubDate>Wed, 01 Jul 2015 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/projects/2015-07-gefco/</guid>
-      <description>Développement d&amp;rsquo;un système de génération de plannings sous contraintes.
-     </description>
+      <guid>https://alainnicolas.fr/projects/gefco/</guid>
+      <description>Développement d&amp;rsquo;un système de génération de plannings sous contraintes.</description>
     </item>
     
     <item>
@@ -239,7 +231,7 @@
       
       <guid>https://alainnicolas.fr/blog/oubliez-angular-3-voici-angular-4/</guid>
       <description>Parmi les nombreux frameworks JavaScript, AngularJS est indéniablement celui qui a connu le plus de succès. Mis en ligne en 2010 et avec une première version publiée en 2012, Angular n’a eu de cesse de s’améliorer avec une communauté croissante, des besoins qui évoluent et une équipe de développement soutenue par Google. Et puis l’an dernier, tout a changé…​
-   Oubliez Angular 3,voici la version 4     AngularJS devient Angular 2   AngularJS devient Angular 2     Les annonces autour de la nouvelle version majeure d’AngularJS, désormais appelée Angular 2, surprennent.</description>
+   Ancien logo d&amp;#39;AngularJS     AngularJS devient Angular 2   Nouveau logo d&amp;#39;Angular 2     Les annonces autour de la nouvelle version majeure d’AngularJS, désormais appelée Angular 2, surprennent.</description>
     </item>
     
     <item>
