@@ -5,16 +5,15 @@
     <link>https://alainnicolas.fr/tags/corda/</link>
     <description>Recent content in corda on Alain Nicolas</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
+    <language>fr</language>
     <lastBuildDate>Mon, 15 Apr 2019 16:22:37 +0200</lastBuildDate><atom:link href="https://alainnicolas.fr/tags/corda/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BNP CIB - Blockchain-as-a-Service</title>
-      <link>https://alainnicolas.fr/projects/2018-09-bnp-blockchain/</link>
+      <link>https://alainnicolas.fr/projects/bnp-blockchain/</link>
       <pubDate>Sat, 01 Sep 2018 15:00:28 +0000</pubDate>
       
-      <guid>https://alainnicolas.fr/projects/2018-09-bnp-blockchain/</guid>
-      <description>Création d&amp;rsquo;une solution &amp;ldquo;Blockchain as a Service&amp;rdquo; : hébergement &amp;ldquo;on premises&amp;rdquo; de nœuds Corda Enterprise, Quorum et Fabric.
-     </description>
+      <guid>https://alainnicolas.fr/projects/bnp-blockchain/</guid>
+      <description>Création d&amp;rsquo;une solution &amp;ldquo;Blockchain as a Service&amp;rdquo; : hébergement &amp;ldquo;on premises&amp;rdquo; de nœuds Corda Enterprise, Quorum et Fabric.</description>
     </item>
     
     <item>
