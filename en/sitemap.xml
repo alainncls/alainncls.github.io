@@ -18,21 +18,6 @@
   </url>
   
   <url>
-    <loc>https://alainnicolas.fr/en/tags/blockchain/</loc>
-    <lastmod>2021-01-26T22:45:21+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://alainnicolas.fr/tags/blockchain/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alainnicolas.fr/en/tags/blockchain/"
-                />
-  </url>
-  
-  <url>
     <loc>https://alainnicolas.fr/en/blog/</loc>
     <lastmod>2021-01-26T22:45:21+01:00</lastmod>
     <xhtml:link
@@ -63,47 +48,16 @@
   </url>
   
   <url>
-    <loc>https://alainnicolas.fr/en/tags/epf/</loc>
-    <lastmod>2021-01-26T22:45:21+01:00</lastmod>
+    <loc>https://alainnicolas.fr/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://alainnicolas.fr/tags/epf/"
+                href="https://alainnicolas.fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alainnicolas.fr/en/tags/epf/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/en/tags/formation/</loc>
-    <lastmod>2021-01-26T22:45:21+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://alainnicolas.fr/tags/formation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alainnicolas.fr/en/tags/formation/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/en/tags/</loc>
-    <lastmod>2021-01-26T22:45:21+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://alainnicolas.fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alainnicolas.fr/en/tags/"
+                href="https://alainnicolas.fr/en/categories/"
                 />
   </url>
   
