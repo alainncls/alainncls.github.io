@@ -39,7 +39,10 @@ div.skills-heading {
     float: left;
 }
 
-.tag, .big-tag {
+.tag {
+    padding: 0 20px 0 23px;
+    margin: 0 10px 10px 0;
+    background: #eeeeee;
     border-radius: 3px 0 0 3px;
     color: #666666;
     display: inline-block;
@@ -50,10 +53,9 @@ div.skills-heading {
     -webkit-transition: color 0.2s;
 }
 
-.tag {
-    padding: 0 20px 0 23px;
-    margin: 0 10px 10px 0;
-    background: #eeeeee;
+.big-tag {
+    color: #666666;
+    display: inline-block;
 }
 
 .tag::before {
@@ -92,10 +94,6 @@ div.skills-heading {
 
 .tag-methodology:after {
     border-left-color: #b9d4fd;
-}
-
-.big-tag:hover {
-    text-decoration: none;
 }
 
 .tag:hover::after {
