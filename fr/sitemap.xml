@@ -43,41 +43,6 @@
   </url>
   
   <url>
-    <loc>https://alainnicolas.fr/tags/docker/</loc>
-    <lastmod>2021-01-30T14:34:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/java/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/oracledb/</loc>
-    <lastmod>2021-01-30T14:34:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/react/</loc>
-    <lastmod>2021-01-30T14:34:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/scrum/</loc>
-    <lastmod>2021-01-30T14:34:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/spring-boot/</loc>
-    <lastmod>2021-01-30T14:34:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://alainnicolas.fr/</loc>
     <lastmod>2021-01-30T14:31:46+01:00</lastmod>
     <priority>1</priority>
@@ -90,21 +55,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://alainnicolas.fr/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/blockchain/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alainnicolas.fr/en/tags/blockchain/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://alainnicolas.fr/tags/blockchain/"
                 />
   </url>
   
@@ -124,77 +74,17 @@
   </url>
   
   <url>
-    <loc>https://alainnicolas.fr/tags/epf/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alainnicolas.fr/en/tags/epf/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://alainnicolas.fr/tags/epf/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/formation/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alainnicolas.fr/en/tags/formation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://alainnicolas.fr/tags/formation/"
-                />
-  </url>
-  
-  <url>
     <loc>https://alainnicolas.fr/blog/blockchain-former-les-ingenieurs-de-demain/</loc>
     <lastmod>2021-01-30T15:32:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alainnicolas.fr/tags/mongodb/</loc>
-    <lastmod>2021-01-30T14:34:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/corda/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/dlt/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/r3/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://alainnicolas.fr/blog/r3-corda-limites/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/blog/r3-corda-presentation/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/asseth/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/meetup/</loc>
     <lastmod>2021-01-30T15:32:46+01:00</lastmod>
   </url>
   
@@ -209,67 +99,7 @@
   </url>
   
   <url>
-    <loc>https://alainnicolas.fr/tags/tribute/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/hyperledger-fabric/</loc>
-    <lastmod>2021-01-30T14:34:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/kanban/</loc>
-    <lastmod>2021-01-30T14:34:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/quorum/</loc>
-    <lastmod>2021-01-30T14:34:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/shell/</loc>
-    <lastmod>2021-01-30T14:34:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/android/</loc>
-    <lastmod>2021-01-30T14:34:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/angular/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/ethereum/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/ios/</loc>
-    <lastmod>2021-01-30T14:34:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/solidity/</loc>
-    <lastmod>2021-01-30T14:34:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/colony/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://alainnicolas.fr/blog/meetup-asseth-janvier/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/ganache/</loc>
     <lastmod>2021-01-30T15:32:46+01:00</lastmod>
   </url>
   
@@ -279,52 +109,7 @@
   </url>
   
   <url>
-    <loc>https://alainnicolas.fr/tags/truffle/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/collision/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://alainnicolas.fr/blog/collision-sha-1-securite/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/google/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/hachage/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/sha-1/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/s%C3%A9curit%C3%A9/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/microsoft/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/onedrive/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/publicit%C3%A9/</loc>
     <lastmod>2021-01-30T15:32:46+01:00</lastmod>
   </url>
   
@@ -334,27 +119,7 @@
   </url>
   
   <url>
-    <loc>https://alainnicolas.fr/tags/concentration/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://alainnicolas.fr/blog/concentration-musique-developpement/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/d%C3%A9veloppement-logiciel/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/musique/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/devcon3/</loc>
     <lastmod>2021-01-30T15:32:46+01:00</lastmod>
   </url>
   
@@ -364,27 +129,7 @@
   </url>
   
   <url>
-    <loc>https://alainnicolas.fr/tags/css/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/https/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/humantalks/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://alainnicolas.fr/blog/humantalks-talan/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/cryptomonnaie/</loc>
     <lastmod>2021-01-30T15:32:46+01:00</lastmod>
   </url>
   
@@ -394,32 +139,7 @@
   </url>
   
   <url>
-    <loc>https://alainnicolas.fr/tags/talan-coin/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/angularjs/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/javascript/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://alainnicolas.fr/blog/oubliez-angular-3-voici-angular-4/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/d%C3%A9veloppement/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/java-ee/</loc>
     <lastmod>2021-01-30T15:32:46+01:00</lastmod>
   </url>
   
@@ -429,32 +149,7 @@
   </url>
   
   <url>
-    <loc>https://alainnicolas.fr/tags/javaone/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/oracle/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/human-coders/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/human-talks/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://alainnicolas.fr/blog/presentation-meetup-human-talks/</loc>
-    <lastmod>2021-01-30T15:32:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/r%C3%A9seautage/</loc>
     <lastmod>2021-01-30T15:32:46+01:00</lastmod>
   </url>
   
@@ -464,53 +159,18 @@
   </url>
   
   <url>
-    <loc>https://alainnicolas.fr/tags/sun/</loc>
-    <lastmod>2021-01-26T22:45:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/jquery/</loc>
-    <lastmod>2021-01-30T14:34:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/jsp/</loc>
-    <lastmod>2021-01-30T14:34:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/spring-mvc/</loc>
-    <lastmod>2021-01-30T14:34:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/mysql/</loc>
-    <lastmod>2021-01-30T14:34:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/cycle-en-v/</loc>
-    <lastmod>2021-01-30T14:34:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alainnicolas.fr/tags/java-swing/</loc>
-    <lastmod>2021-01-30T14:34:46+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://alainnicolas.fr/tags/android/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/angular/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/azure-devops/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
@@ -530,123 +190,137 @@
   </url>
   
   <url>
+    <loc>https://alainnicolas.fr/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alainnicolas.fr/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alainnicolas.fr/categories/"
+                />
+  </url>
+  
+  <url>
     <loc>https://alainnicolas.fr/tags/corda/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/cycle-en-v/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/docker/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/ethereum/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/git/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/github/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/gitlab/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/gradle/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/hyperledger-fabric/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/intellij-idea/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/ios/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/java/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/java-swing/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/javascript/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/jquery/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/jsp/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/kanban/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/linux/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/macos/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/maven/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/mongodb/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/mysql/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/nodejs/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/oracledb/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
@@ -657,17 +331,17 @@
   
   <url>
     <loc>https://alainnicolas.fr/tags/quorum/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/react/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/scrum/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
@@ -678,53 +352,43 @@
   
   <url>
     <loc>https://alainnicolas.fr/tags/solidity/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/sonarqube/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/spring-boot/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/spring-mvc/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/</loc>
-    <lastmod>2021-01-27T22:55:25+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
     <priority>0.9</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alainnicolas.fr/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://alainnicolas.fr/tags/"
-                />
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/truffle/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/vuejs/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://alainnicolas.fr/tags/windows/</loc>
-    <lastmod>2020-12-18T00:55:40+01:00</lastmod>
+    <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url>
   
 </urlset>
