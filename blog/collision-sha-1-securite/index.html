@@ -3,25 +3,26 @@
 <head>
     
     
+    
     <title>Collision SHA-1 et sécurité | Alain Nicolas</title>
 
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=5.0" name="viewport"/>
-    <meta name="description" content="Google a annoncé le 23 février 2017 avoir réussi à casser la fonction de hachage SHA-1. Il s&#39;agit là d&#39;un événement majeur affectant la sécurité de nombreux systèmes allant de la signature de documents aux certificats de sécurité d&#39;un site internet.">
+    <meta name="description" content="Google a annoncé le 23 février 2017 avoir réussi à casser la fonction de hachage SHA-1. Il s&#39;agit là d&#39;un événement majeur affectant la sécurité de nombreux systèmes informatiques.">
     <meta name="author" content="Alain Nicolas">
     <meta property="og:title" content="Collision SHA-1 et sécurité" />
-<meta property="og:description" content="Google a annoncé le 23 février 2017 avoir réussi à casser la fonction de hachage SHA-1. Il s&#39;agit là d&#39;un événement majeur affectant la sécurité de nombreux systèmes allant de la signature de documents aux certificats de sécurité d&#39;un site internet." />
+<meta property="og:description" content="Google a annoncé le 23 février 2017 avoir réussi à casser la fonction de hachage SHA-1. Il s&#39;agit là d&#39;un événement majeur affectant la sécurité de nombreux systèmes informatiques." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://alainnicolas.fr/blog/collision-sha-1-securite/" />
 <meta property="og:image" content="https://alainnicolas.fr/blog/collision-sha-1-securite/cover.png"/>
 <meta property="article:published_time" content="2017-12-07T08:31:48+00:00" />
-<meta property="article:modified_time" content="2021-01-30T15:32:46+01:00" />
+<meta property="article:modified_time" content="2021-02-03T19:21:38+01:00" />
 
     <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://alainnicolas.fr/blog/collision-sha-1-securite/cover.png"/>
 <meta name="twitter:title" content="Collision SHA-1 et sécurité"/>
-<meta name="twitter:description" content="Google a annoncé le 23 février 2017 avoir réussi à casser la fonction de hachage SHA-1. Il s&#39;agit là d&#39;un événement majeur affectant la sécurité de nombreux systèmes allant de la signature de documents aux certificats de sécurité d&#39;un site internet."/>
+<meta name="twitter:description" content="Google a annoncé le 23 février 2017 avoir réussi à casser la fonction de hachage SHA-1. Il s&#39;agit là d&#39;un événement majeur affectant la sécurité de nombreux systèmes informatiques."/>
 <meta name="twitter:site" content="@Alain_Ncls"/>
 
 
@@ -149,24 +150,24 @@
     <h1 class="mb-0"><span class="text-primary">Collision SHA-1 et sécurité</span></h1>
     <span class="text-primary">7 décembre 2017</span>
     <div class="paragraph">
-<p>Google a annoncé le 23 février 2017 avoir réussi à <strong>casser la fonction de « hachage » SHA-1</strong>.
-Il s’agit là d’un événement majeur affectant la <strong>sécurité de nombreux systèmes</strong> allant de la signature de documents aux certificats de sécurité d’un site internet.</p>
+<p>Google a annoncé le 23 février 2017 avoir réussi à casser la fonction de « hachage » SHA-1.
+Il s’agit là d’un événement majeur affectant la sécurité de nombreux systèmes allant de la signature de documents aux certificats de sécurité d’un site internet.</p>
 </div>
 <div class="sect1">
 <h2 id="_quest_ce_que_la_fonction_de_hachage_sha_1">Qu’est-ce que la fonction de « hachage » SHA-1 ?</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>SHA-1 (<a href="https://fr.wikipedia.org/wiki/SHA-1" target="_blank" rel="noopener">Secure Hash Algorithm</a>) est une <strong>fonction de « hachage » cryptographique</strong>.</p>
+<p>SHA-1 (<a href="https://fr.wikipedia.org/wiki/SHA-1" target="_blank" rel="noopener">Secure Hash Algorithm</a>) est une fonction de « hachage » cryptographique.</p>
 </div>
 <div class="paragraph">
 <p>Il s’agit d’un algorithme qui associe à une donnée de taille quelconque, une image de taille fixe.
-En quelque sorte, une <strong>empreinte de la donnée d’entrée</strong>.
-Le calcul de cette empreinte est <strong>à sens unique</strong> : il est possible de calculer l’empreinte d’une donnée, mais pas de retrouver la donnée depuis l’empreinte.
+En quelque sorte, une empreinte de la donnée d’entrée.
+Le calcul de cette empreinte est à sens unique : il est possible de calculer l’empreinte d’une donnée, mais pas de retrouver la donnée depuis l’empreinte.
 Cela signifie donc qu’il est impossible de revenir en arrière une fois la donnée hachée.
 De plus, une fonction de hachage doit assigner UNE empreinte unique : 2 données d’entrée ne peuvent pas avoir la même empreinte.</p>
 </div>
 <div class="paragraph">
-<p>C’est ainsi qu’un<strong> message « haché » par SHA-1 </strong>change radicalement de signature, même avec une modification mineure.
+<p>C’est ainsi qu’un message « haché » par SHA-1 change radicalement de signature, même avec une modification mineure.
 Par exemple le mot &#34;TalanLabs&#34; devient &#34;499dfc6db8ca1f785724cd88ffef5f471e874156&#34; une fois « haché ».
 En revanche, &#34;Talanlabs&#34; devient &#34;25f51e7cbd92b575adf321cc3b149e76d48e2431&#34;.</p>
 </div>
@@ -179,17 +180,17 @@ En revanche, &#34;Talanlabs&#34; devient &#34;25f51e7cbd92b575adf321cc3b149e76d4
 <h2 id="_quest_il_arrivé_à_sha_1">Qu’est-il arrivé à SHA-1 ?</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>Depuis sa sortie en 1995, de nombreux chercheurs ont tenté de <strong>compromettre SHA-1</strong>, a minima dans des démonstrations mathématiques.
-C’est ainsi que depuis 2005, nous savons qu’il est en théorie possible d’obtenir une <strong>même empreinte pour 2 données différentes</strong> en réalisant 263 calculs (soit plus de 9 milliards de milliards…​).
+<p>Depuis sa sortie en 1995, de nombreux chercheurs ont tenté de compromettre SHA-1, a minima dans des démonstrations mathématiques.
+C’est ainsi que depuis 2005, nous savons qu’il est en théorie possible d’obtenir une même empreinte pour 2 données différentes en réalisant 263 calculs (soit plus de 9 milliards de milliards…​).
 Ce nombre astronomique d’opérations est encore à la limite des capacités des super-ordinateurs actuels.
-Il semblerait que seul un <strong>immense réseau distribué à l’échelle mondiale</strong> (à l’image du réseau Bitcoin) soit capable de délivrer suffisamment de puissance de calcul pour obtenir une « collision » (deux données d’entrée différentes avec la même empreinte).</p>
+Il semblerait que seul un immense réseau distribué à l’échelle mondiale (à l’image du réseau Bitcoin) soit capable de délivrer suffisamment de puissance de calcul pour obtenir une « collision » (deux données d’entrée différentes avec la même empreinte).</p>
 </div>
 <div class="paragraph">
-<p>À titre de comparaison, il faudrait environ <strong>12 millions de GPU</strong> (puces graphiques) qui fonctionneraient pendant un an pour obtenir cette même « collision ».</p>
+<p>À titre de comparaison, il faudrait environ 12 millions de GPU (puces graphiques) qui fonctionneraient pendant un an pour obtenir cette même « collision ».</p>
 </div>
 <div class="paragraph">
 <p>Jusqu’alors, nous ne disposions que de données théoriques, et jamais de cas pratiques.
-C’est finalement fin février qu’une équipe composée de chercheurs de Google et du CWI (centre de recherche en mathématiques et informatiques néerlandais) a annoncé avoir <strong>trouvé une « collision » entre 2 fichiers PDF</strong> qui ont la même signature une fois « hachés » par SHA-1.</p>
+C’est finalement fin février qu’une équipe composée de chercheurs de Google et du CWI (centre de recherche en mathématiques et informatiques néerlandais) a annoncé avoir trouvé une « collision » entre 2 fichiers PDF qui ont la même signature une fois « hachés » par SHA-1.</p>
 </div>
 <div class="paragraph">
 
@@ -255,7 +256,7 @@ C’est finalement fin février qu’une équipe composée de chercheurs de Goog
 </div>
 <div class="paragraph">
 <p>Même avec les moyens considérables de Google, il n’était pas questions d’aligner des millions de cartes graphiques pour réaliser une telle prouesse.
-En affinant les calculs théoriques, et en éliminant d’office certains calculs, l’équipe a eu besoin que de <strong>6 500 années CPU</strong> (soit 6 500 processeurs pendant un an) ou <strong>110 années GPU</strong> (soit 110 cartes graphiques pendant un an) pour obtenir deux documents PDF différents mais avec la même signature.</p>
+En affinant les calculs théoriques, et en éliminant d’office certains calculs, l’équipe a eu besoin que de 6 500 années CPU (soit 6 500 processeurs pendant un an) ou 110 années GPU (soit 110 cartes graphiques pendant un an) pour obtenir deux documents PDF différents mais avec la même signature.</p>
 </div>
 </div>
 </div>
@@ -264,11 +265,11 @@ En affinant les calculs théoriques, et en éliminant d’office certains calcul
 <div class="sectionbody">
 <div class="paragraph">
 <p>Concrètement, l’outil mis au point permet d’obtenir un faux document qui sera identifié comme un vrai document.
-Autrement dit de <strong>faire passer une donnée potentiellement biaisée comme purement véridique et approuvée</strong> par son émetteur.</p>
+Autrement dit de faire passer une donnée potentiellement biaisée comme purement véridique et approuvée par son émetteur.</p>
 </div>
 <div class="paragraph">
 <p>Alors, quels sont les systèmes potentiellement rendus vulnérables ?
-<strong>Tous ceux qui utilisent SHA-1</strong> comme algorithme de « hachage » pour certifier leurs données…​ Et ils sont nombreux !
+Tous ceux qui utilisent SHA-1 comme algorithme de « hachage » pour certifier leurs données…​ Et ils sont nombreux !
 SHA-1 est utilisé pour certifier une connexion HTTPS, signer numériquement des documents, authentifier les informations contenues dans un système de sauvegarde (cloud par exemple), mais aussi par un outil de gestion de versions comme Git.</p>
 </div>
 <div class="paragraph">
@@ -338,12 +339,12 @@ SHA-1 est utilisé pour certifier une connexion HTTPS, signer numériquement des
 
 </div>
 <div class="paragraph">
-<p><strong>Git</strong>, outil privilégié pour la <strong>gestion des versions du code source</strong> de millions de projets informatiques, utilise SHA-1 pour <strong>identifier de manière unique chaque « commit »</strong> (modification) de code.
-Autrement dit, lorsque vous récupérez le code source d’un projet, la version que vous téléchargez est <strong>identifiée par un « hash » unique</strong> certifiant le contenu.
+<p>Git, outil privilégié pour la gestion des versions du code source de millions de projets informatiques, utilise SHA-1 pour identifier de manière unique chaque « commit » (modification) de code.
+Autrement dit, lorsque vous récupérez le code source d’un projet, la version que vous téléchargez est identifiée par un « hash » unique certifiant le contenu.
 Or, si du code malveillant a été injecté par la suite, mais avec une signature de « commit » identique à la dernière en date, nul système ne pourra le détecter et vous vous exposez à des failles de sécurité.</p>
 </div>
 <div class="paragraph">
-<p>Autrement dit, sans le savoir <strong>nous utilisons tous les jours des algorithmes de « hachage</strong> », et la sécurité de nos données et de nos entreprises est fortement liée à leur qualité.
+<p>Autrement dit, sans le savoir nous utilisons tous les jours des algorithmes de « hachage », et la sécurité de nos données et de nos entreprises est fortement liée à leur qualité.
 Une remise en cause totale de nos habitudes est-elle encore envisageable ?
 Revenir exclusivement aux signatures sur papier, aux messagers humains et à la sauvegarde centralisée ?</p>
 </div>
@@ -357,7 +358,7 @@ Revenir exclusivement aux signatures sur papier, aux messagers humains et à la 
 Et la responsabilité en incombe en grande partie aux développeurs, mais aussi aux décisionnaires de toutes les entreprises liées au numérique.</p>
 </div>
 <div class="paragraph">
-<p>SHA-1 n’est pas la seule fonction disponible. <strong>bcrypt</strong> (présentée en 1999), <strong>SHA-2</strong> (conçue par elle aussi par la NSA en 2001) et plus récemment <strong>SHA-3</strong> (issue d’une compétition en 2012) n’ont pas été compromises.
+<p>SHA-1 n’est pas la seule fonction disponible. bcrypt (présentée en 1999), SHA-2 (conçue par elle aussi par la NSA en 2001) et plus récemment SHA-3 (issue d’une compétition en 2012) n’ont pas été compromises.
 Même si l’on peut imaginer qu’il ne s’agit là encore que d’une question de temps…​</p>
 </div>
 <div class="paragraph">
@@ -427,13 +428,13 @@ Même si l’on peut imaginer qu’il ne s’agit là encore que d’une questio
 
 </div>
 <div class="paragraph">
-<p>Google et le CWI ne cherchant évidemment pas à compromettre massivement les réseaux mondiaux, ils ont émis <strong>une recommandation simple</strong> : utiliser SHA-2 ou SHA-3 partout.
+<p>Google et le CWI ne cherchant évidemment pas à compromettre massivement les réseaux mondiaux, ils ont émis une recommandation simple : utiliser SHA-2 ou SHA-3 partout.
 De plus, ils ont attendu 90 jours avant de rendre publique la méthode utilisée pour arriver à leurs fins, afin de laisser le temps à l’industrie de se mettre à jour.
-De leur côté, ils garantissent que <strong>leurs produits</strong> comme Gmail ou Google Drive <strong>sont d’ores et déjà protégés</strong>.
-Par ailleurs, leur navigateur Chrome ne considère <strong>plus les certificats HTTPS basés sur SHA-1 comme sécurisés</strong>.</p>
+De leur côté, ils garantissent que leurs produits comme Gmail ou Google Drive sont d’ores et déjà protégés.
+Par ailleurs, leur navigateur Chrome ne considère plus les certificats HTTPS basés sur SHA-1 comme sécurisés.</p>
 </div>
 <div class="paragraph">
-<p>Ils fournissent de surcroit un <a href="http://shattered.io/" target="_blank" rel="noopener">outil en ligne</a> permettant de vérifier si un document fait partie d’une <strong>attaque par « collision »</strong> ainsi qu’une <a href="http://shattered.io/static/infographic.pdf" target="_blank" rel="noopener">infographie de référence</a> qui mériterait d’être affichée dans de nombreuses DSI.</p>
+<p>Ils fournissent de surcroit un <a href="http://shattered.io/" target="_blank" rel="noopener">outil en ligne</a> permettant de vérifier si un document fait partie d’une attaque par « collision » ainsi qu’une <a href="http://shattered.io/static/infographic.pdf" target="_blank" rel="noopener">infographie de référence</a> qui mériterait d’être affichée dans de nombreuses DSI.</p>
 </div>
 </div>
 </div>
