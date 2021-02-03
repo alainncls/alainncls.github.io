@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>Talan - Talan Coin</title>
+      <title>Talan Coin</title>
       <link>https://alainnicolas.fr/projects/talan-talancoin/</link>
       <pubDate>Fri, 01 Jun 2018 15:00:28 +0000</pubDate>
       
@@ -85,7 +85,7 @@
       <pubDate>Wed, 04 Mar 2020 07:18:05 +0100</pubDate>
       
       <guid>https://alainnicolas.fr/blog/blockchain-projet-scolaire-monde-entreprise/</guid>
-      <description>Comme je l’ai déjà évoqué dans un article précédent, le partenariat entre Talan et l’EPF m’a fait découvrir le rôle du formateur. Mais nous sommes allés plus loin, en proposant un projet sur le long terme à un groupe d’étudiants de 5ème année.
+      <description>Comme je l’ai déjà évoqué dans un post précédent, le partenariat entre Talan et l’EPF m’a fait découvrir le rôle du formateur. Mais nous sommes allés plus loin, en proposant un projet sur le long terme à un groupe d’étudiants de 5ème année.
  Des attentes qui se rejoignent Avant le grand saut dans la vie active en passant par le stage de fin d’études, les étudiants doivent se confronter au monde de l’entreprise au travers d’un projet de 5 mois.</description>
     </item>
     
@@ -105,7 +105,7 @@
       <pubDate>Mon, 15 Apr 2019 16:22:37 +0200</pubDate>
       
       <guid>https://alainnicolas.fr/blog/r3-corda-limites/</guid>
-      <description>Nous avons vu dans un article précédent la présentation des grands principes de Corda, le DLT (Distributed Ledger Technology) développé par le consortium R3. Utilisé en très grande majorité par des banques, Corda semble répondre à de nombreux besoins non assouvis par les blockchains publiques. Nous allons désormais tâcher d’explorer les limites de Corda.
+      <description>Nous avons vu la présentation des grands principes de Corda, le DLT (Distributed Ledger Technology) développé par le consortium R3. Utilisé en très grande majorité par des banques, Corda semble répondre à de nombreux besoins non assouvis par les blockchains publiques. Nous allons désormais tâcher d’explorer les limites de Corda.
        Est-ce que c’est une blockchain ? À question directe …​ réponse directe : non.</description>
     </item>
     
@@ -209,7 +209,7 @@
       <pubDate>Tue, 24 Oct 2017 09:21:37 +0000</pubDate>
       
       <guid>https://alainnicolas.fr/blog/humantalks-talan/</guid>
-      <description>Mardi 10 octobre 2017, Talan accueillait un « meetup » des « HumanTalks », que nous vous avions présenté dans un article il y a quelques mois.
+      <description>Mardi 10 octobre 2017, Talan accueillait un « meetup » des « HumanTalks », que nous vous avions présenté il y a quelques mois.
  Au programme de la soirée : 4 « talks » de qualité sur des sujets plus ou moins techniques, un public de près de 70 personnes, principalement des développeurs, mais aussi des designers UX et des responsables des Ressources Humaines.
  1er talk : Mythes et Légendes de l’UX Présenté par Marc Wabnitz, UX designer chez Talan Labs, ce talk présentait 7 idées reçues autour de l’expérience utilisateur.</description>
     </item>
@@ -241,7 +241,7 @@
       
       <guid>https://alainnicolas.fr/blog/resultats-sondage-java-ee/</guid>
       <description>Résumé des épisodes précédents…​
- Depuis plusieurs mois la communauté Java est en émoi. Oracle semble se désintéresser de Java EE. Au terme d’une saga résumée dans un article de novembre, c’est finalement lors de la grande conférence annuelle JavaOne que l’entreprise annonce une nouvelle feuille de route pour Java EE, ainsi que le lancement d’un sondage visant à mieux cerner les aspirations et attentes de la communauté.
+ Depuis plusieurs mois la communauté Java est en émoi. Oracle semble se désintéresser de Java EE. Au terme d’une saga résumée en novembre, c’est finalement lors de la grande conférence annuelle JavaOne que l’entreprise annonce une nouvelle feuille de route pour Java EE, ainsi que le lancement d’un sondage visant à mieux cerner les aspirations et attentes de la communauté.
  Présentation du sondage Oracle Nous l’évoquions : Oracle tente de se réconcilier avec la communauté Java, tout en faisant avancer ses travaux sur Java EE.</description>
     </item>
     
