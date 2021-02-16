@@ -7,12 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language><atom:link href="https://alainnicolas.fr/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Ce site</title>
+      <link>https://alainnicolas.fr/projects/ce-site/</link>
+      <pubDate>Thu, 01 Oct 2020 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/projects/ce-site/</guid>
+      <description>Le contexte Création de ce site pour me présenter et partager mes passions.
+Ma première envie était de pouvoir montrer mes compétences de manière plus maîtrisée que sur LinkedIn par exemple. De même, de manière à centraliser efficacement les articles que j&amp;rsquo;ai pu rédiger sur Medium ou le blog de TalanLabs, il me fallait un blog.
+La solution technique L&amp;rsquo;outil Ce site est conçu grâce à un générateur de site statique, Hugo, et hébergé gratuitement grâce a service &amp;ldquo;GitHub Pages&amp;rdquo;.</description>
+    </item>
+    
+    <item>
       <title>FuturMaster - Master Data</title>
       <link>https://alainnicolas.fr/projects/futurmaster-master-data/</link>
       <pubDate>Tue, 01 Sep 2020 15:00:28 +0000</pubDate>
       
       <guid>https://alainnicolas.fr/projects/futurmaster-master-data/</guid>
-      <description>Développement du module Master Data. Stack : React + Spring Boot.</description>
+      <description>Le client Éditeur de logiciels dédiés à la gestion de la supply chain, FuturMaster a fait appel à Talan Labs pour renforcer ses équipes de développement et accélérer la refonte de sa suite d&amp;rsquo;outils.
+Le projet Suite au succès de l&amp;rsquo;intervention de la première squad de Talan Labs chez FuturMaster sur le projet Calibrate Model, nous nous sommes lancés dans la refonte du module Master Data, chargé de centraliser le référentiel de données qui alimentent les autres modules de la suite logicielle.</description>
     </item>
     
     <item>
@@ -21,7 +33,19 @@
       <pubDate>Mon, 01 Jul 2019 15:00:28 +0000</pubDate>
       
       <guid>https://alainnicolas.fr/projects/futurmaster-calibrate-model/</guid>
-      <description>Développement du module Demand Planning. Stack : React + Spring Boot.</description>
+      <description>Le client Éditeur de logiciels dédiés à la gestion de la supply chain, FuturMaster a fait appel à Talan Labs pour renforcer ses équipes de développement et accélérer la refonte de sa suite d&amp;rsquo;outils.
+Le projet C&amp;rsquo;est ainsi que j&amp;rsquo;ai fait partie de la première squad agile, composée de 3 développeurs, 1 designer et 1 Scrum Master. Nous étions chargés de la refonte du module Calibrate Model qui vise à afficher l&amp;rsquo;historique de vente d&amp;rsquo;un produit et la simulation de ses ventes futures.</description>
+    </item>
+    
+    <item>
+      <title>RoxTheCasbah</title>
+      <link>https://alainnicolas.fr/projects/roxthecasbah/</link>
+      <pubDate>Fri, 01 Mar 2019 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/projects/roxthecasbah/</guid>
+      <description>Le contexte Création d&#39;un blog pour ma compagne, afin de partager sa passion pour le tricot et la couture.
+La solution technique La première version La première version du site utilisait Ghost, une solution de blogging complète concurrente de WordPress. Basé sur un outil open-source et gratuit, le blog était hébergé sur une petite machine AWS.
+La seconde version En janvier 2021 j&amp;rsquo;ai fait le choix de basculer vers un générateur de site statique, Hugo, afin de pouvoir héberger gratuitement les pages générées.</description>
     </item>
     
     <item>
@@ -30,16 +54,9 @@
       <pubDate>Sat, 01 Sep 2018 15:00:28 +0000</pubDate>
       
       <guid>https://alainnicolas.fr/projects/bnp-blockchain/</guid>
-      <description>Création d&amp;rsquo;une solution &amp;ldquo;Blockchain as a Service&amp;rdquo; : hébergement &amp;ldquo;on premises&amp;rdquo; de nœuds Corda Enterprise, Quorum et Fabric.</description>
-    </item>
-    
-    <item>
-      <title>Talan Coin</title>
-      <link>https://alainnicolas.fr/projects/talan-talancoin/</link>
-      <pubDate>Fri, 01 Jun 2018 15:00:28 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/projects/talan-talancoin/</guid>
-      <description>Création d&amp;rsquo;un token interne à Talan et d&amp;rsquo;un écosystème d&amp;rsquo;applications clientes.</description>
+      <description>Le client En tant qu&amp;rsquo;acteur majeur du secteur bancaire, BNP Paribas se doit de rester à la pointe des technologies disponibles. C&amp;rsquo;est ainsi que les technologies blockchain et DLT se sont imposées comme incontournables.
+Comme de nombreuses grandes entreprises, la BNP est découpée en plusieurs entités qui peuvent toutes participer à un même projet, ce qui n&amp;rsquo;est pas sans soulever des challenges autour de la collaboration.
+Le projet Pour permettre à toutes les entités de la BNP d&amp;rsquo;expérimenter sur la blockchain avant de facilement rejoindre un consortium décentralisé, il fallait rendre accessible des technologies que nous pouvons qualifier d&amp;rsquo;exotiques.</description>
     </item>
     
     <item>
@@ -48,7 +65,22 @@
       <pubDate>Fri, 01 Jun 2018 15:00:28 +0000</pubDate>
       
       <guid>https://alainnicolas.fr/projects/vct-vcoin/</guid>
-      <description>Déploiement, développement spécifique et maintenance de VCoin, la version VINCI de Talan Coin, token RH.</description>
+      <description>Le contexte Après le succès de Talan Coin, le groupe VINCI a souhaité expérimenter avec sa propre version de l&amp;rsquo;application.
+C&amp;rsquo;est ainsi que nous avons instancié l&amp;rsquo;application VCoin, avec quelques spécificités la démarquant de Talan Coin.
+La stack technique Côté client   Application iOS native
+  Application Android native
+  Applications web Angular :
+ Dashboard de suivi statistique et d&amp;rsquo;administration Boutique d&amp;rsquo;objets et services payables en Talan Coins Client desktop (non mis en production)    Côté back Services Spring Boot basés sur Java 8, servant d&amp;rsquo;interface entre la blockchain et les clients mobiles.</description>
+    </item>
+    
+    <item>
+      <title>Talan Coin</title>
+      <link>https://alainnicolas.fr/projects/talan-talancoin/</link>
+      <pubDate>Thu, 01 Dec 2016 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/projects/talan-talancoin/</guid>
+      <description>Le contexte Comme toutes les entreprises, Talan cherche à catalyser la collaboration en son sein. De plus, Talan souhaite renforcer son unité en tant que groupe malgré des entités distinctes et une répartition sur 4 continents et développer une horizontalité bien loin des hiérarchies verticales classiques.
+Une monnaie interne, commune à tous les collaborateurs, peu importe leur localisation ou leur rôle hiérarchique, permet de trouver un point commun entre tous les acteurs de l’entreprise.</description>
     </item>
     
     <item>
@@ -57,7 +89,9 @@
       <pubDate>Fri, 01 Jan 2016 15:00:28 +0000</pubDate>
       
       <guid>https://alainnicolas.fr/projects/coface/</guid>
-      <description>Application de gestion de contrats d&amp;rsquo;assurance.</description>
+      <description>Le client Coface est un acteur majeur de l&amp;rsquo;assurance-crédit. De manière à toujours rester compétitif et gagner de nouvelles parts de marchés, l&amp;rsquo;entreprise a besoin de proposer régulièrement de nouveaux produits et solutions logicielles à ses clients.
+Le projet Optimisation et évolution d’une application web (Cofanet Policy Master &amp;amp; Cofanet Policy Master Administration) à destination de clients payants.
+Pour cela, il fallait envisager un refactoring technique de l’architecture projet et la refonte des fonctionnalités majeures de l’application.</description>
     </item>
     
     <item>
@@ -66,16 +100,21 @@
       <pubDate>Thu, 01 Oct 2015 15:00:28 +0000</pubDate>
       
       <guid>https://alainnicolas.fr/projects/epaye/</guid>
-      <description>Refonte d&amp;rsquo;une application web de gestion de paye.</description>
+      <description>Le client e-Paye édite des logiciels dédiés au SIRH : paie, coffre-fort numérique, gestion des RH, gestion des entretiens, etc.
+Le projet Parmi les modules d&amp;rsquo;e-Paye, celui permettant la génération des fiches de paye est particulièrement important et complexe. En effet, il doit prendre en compte la législation parfois changeante, mais aussi être capable de générer un grand nombre de fiches de paye en une durée restreinte.
+La stack technique Côté client JavaScript, HTML5, CSS3, jQuery, Ajax</description>
     </item>
     
     <item>
-      <title>Gefco</title>
+      <title>Gefco - Opteam</title>
       <link>https://alainnicolas.fr/projects/gefco/</link>
       <pubDate>Wed, 01 Jul 2015 15:00:28 +0000</pubDate>
       
       <guid>https://alainnicolas.fr/projects/gefco/</guid>
-      <description>Développement d&amp;rsquo;un système de génération de plannings sous contraintes.</description>
+      <description>Le client Gefco est un acteur incontournable de la logistique et notamment du transport de pièces automobiles.
+Le projet Développement d&amp;rsquo;un système de génération de plannings sous contraintes.
+La stack technique Client lourd Java Swing
+Base de données OracleDB</description>
     </item>
     
   </channel>
