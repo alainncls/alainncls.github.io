@@ -60,6 +60,18 @@ Le projet Pour permettre à toutes les entités de la BNP d&amp;rsquo;expérimen
     </item>
     
     <item>
+      <title>Share2gether</title>
+      <link>https://alainnicolas.fr/projects/share2gether/</link>
+      <pubDate>Sat, 01 Sep 2018 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/projects/share2gether/</guid>
+      <description>Le contexte Share2Gether, vise à créer une solution d’organisation d’événements, à l’image de ce que propose Meetup.com.
+J&amp;rsquo;ai eu l&amp;rsquo;occasion de partager plus en détails cette expérience dans un article dédié.
+La stack technique Côté client Le front est une application Vue.js qui communique avec les smart-contracts déployés sur la blockchain grâce à la librairie web3.js.
+Côté blockchain Les smart-contracts écrits en Solidity sont déployés sur une blockchain Ethereum. Utilisation des contrats standards fournis par OpenZeppelin.</description>
+    </item>
+    
+    <item>
       <title>VINCI Construction Terrassement - VCoin</title>
       <link>https://alainnicolas.fr/projects/vct-vcoin/</link>
       <pubDate>Fri, 01 Jun 2018 15:00:28 +0000</pubDate>
