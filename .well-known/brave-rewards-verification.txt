@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: alainnicolas.fr
+Token: c981436f6f483998bb9c5d1d5fb331c675ab65ff8f83fac448fe581f90c6ba52
