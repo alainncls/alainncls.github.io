@@ -97,6 +97,18 @@ Une monnaie interne, commune à tous les collaborateurs, peu importe leur locali
     </item>
     
     <item>
+      <title>Blog des Labs de Talan</title>
+      <link>https://alainnicolas.fr/projects/talan-blog-labs/</link>
+      <pubDate>Tue, 01 Nov 2016 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/projects/talan-blog-labs/</guid>
+      <description>Le contexte Maintenance du blog de Talan Labs, rédaction d&amp;rsquo;articles, avant une refonte complète en 2019/2020.
+Le blog des Labs de Talan permet de partager les connaissances des collaborateurs de Talan Labs.
+     La solution technique La version &amp;ldquo;legacy&amp;rdquo; La première version du site utilisait WordPress, solution qu&amp;rsquo;il n&amp;rsquo;est plus nécessaire de présenter.
+La refonte Face à la difficulté de maintenir à jour un tel site, tout en garantissant sa sécurité, nous avons choisi de changer radicalement de technologie afin de réduire considérablement la surface d&amp;rsquo;attaque.</description>
+    </item>
+    
+    <item>
       <title>Coface</title>
       <link>https://alainnicolas.fr/projects/coface/</link>
       <pubDate>Fri, 01 Jan 2016 15:00:28 +0000</pubDate>
@@ -788,6 +800,15 @@ Initial setup Search depends on additional output content type of JSON in config
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alainnicolas.fr/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WordPress</title>
+      <link>https://alainnicolas.fr/tags/wordpress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/tags/wordpress/</guid>
       <description></description>
     </item>
     

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://alainnicolas.fr/projects/ce-site/</loc>
-    <lastmod>2021-02-10T00:48:22+01:00</lastmod>
+    <lastmod>2021-08-27T15:06:43+02:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/projects/futurmaster-master-data/</loc>
     <lastmod>2021-08-24T15:12:42+02:00</lastmod>
@@ -21,16 +21,19 @@
     <lastmod>2021-02-17T23:42:37+01:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/projects/vct-vcoin/</loc>
-    <lastmod>2021-02-10T00:48:22+01:00</lastmod>
+    <lastmod>2021-08-27T15:06:43+02:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/projects/talan-talancoin/</loc>
-    <lastmod>2021-08-26T09:54:07+02:00</lastmod>
+    <lastmod>2021-08-31T16:16:26+02:00</lastmod>
+  </url><url>
+    <loc>https://alainnicolas.fr/projects/talan-blog-labs/</loc>
+    <lastmod>2021-08-31T16:16:26+02:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/projects/coface/</loc>
-    <lastmod>2021-02-10T00:48:22+01:00</lastmod>
+    <lastmod>2021-08-27T15:06:43+02:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/projects/epaye/</loc>
-    <lastmod>2021-02-10T00:48:22+01:00</lastmod>
+    <lastmod>2021-08-27T15:06:43+02:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/projects/gefco/</loc>
     <lastmod>2021-02-10T00:48:22+01:00</lastmod>
@@ -259,5 +262,8 @@
   </url><url>
     <loc>https://alainnicolas.fr/tags/windows/</loc>
     <lastmod>2021-02-03T23:56:48+01:00</lastmod>
+  </url><url>
+    <loc>https://alainnicolas.fr/tags/wordpress/</loc>
+    <lastmod>2021-08-31T16:16:26+02:00</lastmod>
   </url>
 </urlset>
