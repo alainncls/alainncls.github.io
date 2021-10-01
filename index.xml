@@ -143,6 +143,17 @@ Base de données OracleDB</description>
     </item>
     
     <item>
+      <title>Make documentation great again (1/2)</title>
+      <link>https://alainnicolas.fr/blog/make-documentation-great-again-part-1/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://alainnicolas.fr/blog/make-documentation-great-again-part-1/</guid>
+      <description>Qui aime rédiger la documentation de son produit ou de son API ? Qui en a marre de trouver des documentations obsolètes en arrivant sur un projet ?
+ Tu es développeur et tu te sens concerné ? Il est temps de passer à la &amp;#34;Documentation as Code&amp;#34; !
+ La documentation que tout le monde connait L’exemple le plus trivial de &amp;#34;Documentation as Code&amp;#34; est le traditionnel fichier README.md à la racine de tous les projets.</description>
+    </item>
+    
+    <item>
       <title>Blockchain : du projet scolaire au monde de l’entreprise</title>
       <link>https://alainnicolas.fr/blog/blockchain-projet-scolaire-monde-entreprise/</link>
       <pubDate>Wed, 04 Mar 2020 07:18:05 +0100</pubDate>
