@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language><atom:link href="https://alainnicolas.fr/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mettez (facilement) votre site en conformité avec RGPD !</title>
+      <link>https://alainnicolas.fr/blog/mettez-facilement-site-conformite-rgpd/</link>
+      <pubDate>Fri, 15 Oct 2021 13:02:05 +0100</pubDate>
+      
+      <guid>https://alainnicolas.fr/blog/mettez-facilement-site-conformite-rgpd/</guid>
+      <description>Vous aussi vous adorez les bandeaux de consentement que l’on trouve désormais sur (presque) tous les sites et vous rêvez d’en avoir un sur le vôtre ? C’est normal, ça fait tellement plus sérieux…​ Et puis, c’est aussi ça respecter les règles !
+ RGPD, le vrai Cookie Monster Qu’est-ce qu’un cookie ? C’est un petit fichier assez simple déposé dans notre navigateur lorsque nous visitons certains sites. Notamment pour nous identifier lors de la prochaine visite.</description>
+    </item>
+    
+    <item>
       <title>Make documentation great again (1/2)</title>
       <link>https://alainnicolas.fr/blog/make-documentation-great-again-part-1/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
