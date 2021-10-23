@@ -8,6 +8,16 @@
     <language>fr</language>
     <lastBuildDate>Sun, 16 Aug 2020 18:56:13 -0500</lastBuildDate><atom:link href="https://alainnicolas.fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>EDF Commerce - Évangélisation craftsmanship</title>
+      <link>https://alainnicolas.fr/projects/edf/</link>
+      <pubDate>Wed, 01 Sep 2021 15:00:28 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/projects/edf/</guid>
+      <description>Le client La Direction Numérique d&amp;rsquo;EDF Commerce a une équipe dédiée à la réalisation de PoC pour l&amp;rsquo;ensemble des métiers du groupe.
+La mission La mission consiste à évangéliser sur les notions de craftsmanship et industrialiser les bonnes pratiques à mettre en place. C&amp;rsquo;est ainsi que j&amp;rsquo;ai pu initier la mise en place des premiers pipelines CI/CD via Gitlab et Jenkins, mais aussi pousser l&amp;rsquo;utilisation de SonarQube pour le suivi de qualité du code ou celle de Nexus pour y déposer les artefacts générés.</description>
+    </item>
+    
+    <item>
       <title>Ce site</title>
       <link>https://alainnicolas.fr/projects/ce-site/</link>
       <pubDate>Thu, 01 Oct 2020 15:00:28 +0000</pubDate>
@@ -848,6 +858,15 @@ Initial setup Search depends on additional output content type of JSON in config
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alainnicolas.fr/tags/truffle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vault</title>
+      <link>https://alainnicolas.fr/tags/vault/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/tags/vault/</guid>
       <description></description>
     </item>
     
