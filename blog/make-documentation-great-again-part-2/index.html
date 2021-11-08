@@ -19,7 +19,7 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://alainnicolas.fr/blog/make-documentation-great-again-part-2/" /><meta property="og:image" content="https://alainnicolas.fr/blog/make-documentation-great-again-part-2/cover.jpg"/><meta property="article:section" content="blog" />
 <meta property="article:published_time" content="2021-11-08T00:00:00+02:00" />
-<meta property="article:modified_time" content="2021-11-08T15:32:49+01:00" />
+<meta property="article:modified_time" content="2021-11-08T15:49:13+01:00" />
 
     <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://alainnicolas.fr/blog/make-documentation-great-again-part-2/cover.jpg"/>
@@ -362,7 +362,7 @@
 <p>En revanche, il n’est pas ici utile de générer plus de documentation, dans la mesure où la description du &#34;path parameter&#34; a déjà été faite dans le test précédent, et où la requête ne renvoie rien d’autre qu’une erreur HTTP <code>404</code>.</p>
 </div>
 <div class="paragraph">
-<p>En lançant les 2 tests que nous venons de voir, des fichiers (on parle de &#34;snippets&#34;) vont être générés sous <code>targets/generated-snippets</code>. Et comme par hasard, il s’agit de fichiers <code>.adoc</code> !</p>
+<p>En lançant les 2 tests que nous venons de voir, des fichiers (on parle de &#34;snippets&#34;) vont être générés sous <code>target/generated-snippets</code>. Et comme par hasard, il s’agit de fichiers <code>.adoc</code> !</p>
 </div>
 <div class="paragraph">
 
@@ -614,10 +614,10 @@
 </div>
 </div>
 <div class="paragraph">
-<p>Ce code permet de générer une page HTML en piochant dans le répertoire <code>targets/generated-snippets</code>, tout en bloquant le build en cas d’erreur rencontrée (snippet manquant, etc.).</p>
+<p>Ce code permet de générer une page HTML en piochant dans le répertoire <code>target/generated-snippets</code>, tout en bloquant le build en cas d’erreur rencontrée (snippet manquant, etc.).</p>
 </div>
 <div class="paragraph">
-<p>En exécutant une commande comme <code>mvn package</code>, les tests seront exécutés, donc les snippets générés et finalement la page <code>index.html</code> sera créée à partir du fichier <code>index.adoc</code>. Et on peut la retrouver dans <code>targets/generated-docs</code>.</p>
+<p>En exécutant une commande comme <code>mvn package</code>, les tests seront exécutés, donc les snippets générés et finalement la page <code>index.html</code> sera créée à partir du fichier <code>index.adoc</code>. Et on peut la retrouver dans <code>target/generated-docs</code>.</p>
 </div>
 <div class="paragraph">
 
