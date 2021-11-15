@@ -7,6 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language><atom:link href="https://alainnicolas.fr/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Make documentation great again (Bonus)</title>
+      <link>https://alainnicolas.fr/blog/make-documentation-great-again-bonus/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://alainnicolas.fr/blog/make-documentation-great-again-bonus/</guid>
+      <description>Après la présentation générale de Spring REST Docs, je vous propose d’aller un peu plus loin en nous penchant sur des petites améliorations qui feront toute la différence !
+ Nous continuerons de nous baser sur mon projet de démonstration disponible sur GitHub.
+ Exposer &amp;#34;automagiquement&amp;#34; la documentation Nous l’avons vu : nous sommes désormais capables de générer une page HTML contenant la documentation de notre API. Mais ce n’est pas le meilleur moyen de la rendre disponible aux consommateurs de l’API, nous pouvons faire mieux que ça !</description>
+    </item>
+    
+    <item>
       <title>Make documentation great again (2/2)</title>
       <link>https://alainnicolas.fr/blog/make-documentation-great-again-part-2/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0200</pubDate>
