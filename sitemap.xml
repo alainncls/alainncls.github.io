@@ -42,41 +42,50 @@
     <lastmod>2021-02-10T00:48:22+01:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/blog/make-documentation-great-again-bonus/</loc>
-    <lastmod>2021-11-30T23:12:02+01:00</lastmod>
+    <lastmod>2021-12-04T10:09:34+01:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/blog/make-documentation-great-again-part-2/</loc>
-    <lastmod>2021-11-12T11:33:30+01:00</lastmod>
+    <lastmod>2021-12-04T10:09:34+01:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/blog/mettez-facilement-site-conformite-rgpd/</loc>
     <lastmod>2021-12-02T23:31:08+01:00</lastmod>
   </url><url>
+    <loc>https://alainnicolas.fr/series/make-documentation-great-again/</loc>
+    <lastmod>2021-12-04T10:09:34+01:00</lastmod>
+  </url><url>
     <loc>https://alainnicolas.fr/blog/make-documentation-great-again-part-1/</loc>
-    <lastmod>2021-11-12T11:33:30+01:00</lastmod>
+    <lastmod>2021-12-04T10:09:34+01:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/</loc>
     <lastmod>2021-01-30T14:31:46+01:00</lastmod>
     <priority>1</priority>
   </url><url>
     <loc>https://alainnicolas.fr/blog/blockchain-projet-scolaire-monde-entreprise/</loc>
-    <lastmod>2021-10-25T11:36:30+02:00</lastmod>
+    <lastmod>2021-12-04T10:09:34+01:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/blog/blockchain-former-les-ingenieurs-de-demain/</loc>
-    <lastmod>2021-12-02T23:31:08+01:00</lastmod>
+    <lastmod>2021-12-04T10:09:34+01:00</lastmod>
+  </url><url>
+    <loc>https://alainnicolas.fr/series/formation-blockchain-epf/</loc>
+    <lastmod>2021-12-04T10:09:34+01:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/blog/r3-corda-limites/</loc>
-    <lastmod>2021-10-25T11:36:30+02:00</lastmod>
+    <lastmod>2021-12-04T10:09:34+01:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/blog/r3-corda-presentation/</loc>
-    <lastmod>2021-02-07T21:59:30+01:00</lastmod>
+    <lastmod>2021-12-04T10:09:34+01:00</lastmod>
+  </url><url>
+    <loc>https://alainnicolas.fr/series/corda/</loc>
+    <lastmod>2021-12-04T10:09:34+01:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/blog/asseth-meetup-fevrier/</loc>
-    <lastmod>2021-12-02T23:31:08+01:00</lastmod>
+    <lastmod>2021-12-04T10:09:34+01:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/blog/meetup-lasseth-recoit-tribute/</loc>
-    <lastmod>2021-12-02T23:31:08+01:00</lastmod>
+    <lastmod>2021-12-04T10:09:34+01:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/blog/meetup-asseth-janvier/</loc>
-    <lastmod>2021-12-02T23:31:08+01:00</lastmod>
+    <lastmod>2021-12-04T10:09:34+01:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/blog/presentation-ganache/</loc>
     <lastmod>2021-12-02T23:31:08+01:00</lastmod>
@@ -91,10 +100,13 @@
     <lastmod>2021-02-07T21:59:30+01:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/blog/meetup-asseth-devcon3-talan-ethereum/</loc>
-    <lastmod>2021-12-02T23:31:08+01:00</lastmod>
+    <lastmod>2021-12-04T10:09:34+01:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/blog/humantalks-talan/</loc>
-    <lastmod>2021-10-25T11:36:30+02:00</lastmod>
+    <lastmod>2021-12-04T10:09:34+01:00</lastmod>
+  </url><url>
+    <loc>https://alainnicolas.fr/series/meetups-talan/</loc>
+    <lastmod>2021-12-04T10:09:34+01:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/blog/quest-ce-que-talancoin/</loc>
     <lastmod>2021-08-26T09:54:07+02:00</lastmod>
@@ -103,13 +115,16 @@
     <lastmod>2021-02-07T21:59:30+01:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/blog/resultats-sondage-java-ee/</loc>
-    <lastmod>2021-02-07T21:59:30+01:00</lastmod>
+    <lastmod>2021-12-04T10:09:34+01:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/blog/presentation-meetup-human-talks/</loc>
     <lastmod>2021-12-02T23:31:08+01:00</lastmod>
   </url><url>
+    <loc>https://alainnicolas.fr/series/java-ee-nouvelle-orientation/</loc>
+    <lastmod>2021-12-04T10:09:34+01:00</lastmod>
+  </url><url>
     <loc>https://alainnicolas.fr/blog/java-ee-nouvelle-orientation-bonne-nouvelle/</loc>
-    <lastmod>2021-12-02T23:31:08+01:00</lastmod>
+    <lastmod>2021-12-04T10:09:34+01:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/tags/android/</loc>
     <lastmod>2021-02-03T23:56:48+01:00</lastmod>
@@ -200,6 +215,10 @@
     <loc>https://alainnicolas.fr/tags/kanban/</loc>
     <lastmod>2021-02-01T18:23:18+01:00</lastmod>
   </url><url>
+    <loc>https://alainnicolas.fr/series/</loc>
+    <lastmod>2021-12-04T10:09:34+01:00</lastmod>
+    <priority>0.9</priority>
+  </url><url>
     <loc>https://alainnicolas.fr/tags/linux/</loc>
     <lastmod>2021-02-03T23:56:48+01:00</lastmod>
   </url><url>
@@ -238,7 +257,7 @@
     <lastmod>2021-02-10T00:48:22+01:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/blog/</loc>
-    <lastmod>2021-02-06T00:36:10+01:00</lastmod>
+    <lastmod>2021-12-05T00:41:40+01:00</lastmod>
     <priority>0.9</priority>
   </url><url>
     <loc>https://alainnicolas.fr/projects/</loc>
