@@ -205,6 +205,16 @@
     </item>
     
     <item>
+      <title>Insights</title>
+      <link>https://alainnicolas.fr/tags/insights/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alainnicolas.fr/tags/insights/</guid>
+      <description>Insights.io est un concurrent de Google Analytics, qui a la particularité d&amp;rsquo;être beaucoup moins invasif quant à la confidentialité des visiteurs des sites qui en sont équipés.
+En ne déposant pas de cookie, il récupère moins d&amp;rsquo;informations, tout en conservant ce qui compte réellement : quelles pages sont visitées, pendant combien de temps, etc. Cet outil permet donc de se passer des bannières &amp;ldquo;consentement cookies&amp;rdquo; qui détériorent souvent un peu trop notre expérience du web.</description>
+    </item>
+    
+    <item>
       <title>IntelliJ IDEA</title>
       <link>https://alainnicolas.fr/tags/intellij-idea/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
