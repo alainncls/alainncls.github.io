@@ -1,155 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Projets réalisés on Alain Nicolas</title>
-    <link>https://alainnicolas.fr/projects/</link>
-    <description>Recent content in Projets réalisés on Alain Nicolas</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="https://alainnicolas.fr/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>EDF Commerce - Évangélisation craftsmanship</title>
-      <link>https://alainnicolas.fr/projects/edf/</link>
-      <pubDate>Wed, 01 Sep 2021 15:00:28 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/projects/edf/</guid>
-      <description>Le client La Direction Numérique d&amp;rsquo;EDF Commerce a une équipe dédiée à la réalisation de PoC pour l&amp;rsquo;ensemble des métiers du groupe.
-La mission La mission consiste à évangéliser sur les notions de craftsmanship et industrialiser les bonnes pratiques à mettre en place. C&amp;rsquo;est ainsi que j&amp;rsquo;ai pu initier la mise en place des premiers pipelines CI/CD via Gitlab et Jenkins, mais aussi pousser l&amp;rsquo;utilisation de SonarQube pour le suivi de qualité du code ou celle de Nexus pour y déposer les artefacts générés.</description>
-    </item>
-    
-    <item>
-      <title>Ce site</title>
-      <link>https://alainnicolas.fr/projects/ce-site/</link>
-      <pubDate>Thu, 01 Oct 2020 15:00:28 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/projects/ce-site/</guid>
-      <description>Le contexte Création de ce site pour me présenter et partager mes passions.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projets réalisés on Alain Nicolas</title><link>https://alainnicolas.fr/projects/</link><description>Recent content in Projets réalisés on Alain Nicolas</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://alainnicolas.fr/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>EDF Commerce - Évangélisation craftsmanship</title><link>https://alainnicolas.fr/projects/edf/</link><pubDate>Wed, 01 Sep 2021 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/edf/</guid><description>Le client La Direction Numérique d&amp;rsquo;EDF Commerce a une équipe dédiée à la réalisation de PoC pour l&amp;rsquo;ensemble des métiers du groupe.
+La mission La mission consiste à évangéliser sur les notions de craftsmanship et industrialiser les bonnes pratiques à mettre en place. C&amp;rsquo;est ainsi que j&amp;rsquo;ai pu initier la mise en place des premiers pipelines CI/CD via Gitlab et Jenkins, mais aussi pousser l&amp;rsquo;utilisation de SonarQube pour le suivi de qualité du code ou celle de Nexus pour y déposer les artefacts générés.</description></item><item><title>Ce site</title><link>https://alainnicolas.fr/projects/ce-site/</link><pubDate>Thu, 01 Oct 2020 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/ce-site/</guid><description>Le contexte Création de ce site pour me présenter et partager mes passions.
 Ma première envie était de pouvoir montrer mes compétences de manière plus maîtrisée que sur LinkedIn par exemple. De même, de manière à centraliser efficacement les articles que j&amp;rsquo;ai pu rédiger sur Medium ou le blog de TalanLabs, il me fallait un blog.
-La solution technique L&amp;rsquo;outil Ce site est conçu grâce à un générateur de site statique, Hugo, et hébergé gratuitement grâce a service &amp;ldquo;GitHub Pages&amp;rdquo;.</description>
-    </item>
-    
-    <item>
-      <title>FuturMaster - Master Data</title>
-      <link>https://alainnicolas.fr/projects/futurmaster-master-data/</link>
-      <pubDate>Tue, 01 Sep 2020 15:00:28 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/projects/futurmaster-master-data/</guid>
-      <description>Le client Éditeur de logiciels dédiés à la gestion de la supply chain, FuturMaster a fait appel à Talan Labs pour renforcer ses équipes de développement et accélérer la refonte de sa suite d&amp;rsquo;outils.
-Le projet Suite au succès de l&amp;rsquo;intervention de la première squad de Talan Labs chez FuturMaster sur le projet Calibrate Model, nous nous sommes lancés dans la refonte du module Master Data, chargé de centraliser le référentiel de données qui alimentent les autres modules de la suite logicielle.</description>
-    </item>
-    
-    <item>
-      <title>FuturMaster - Calibrate Model</title>
-      <link>https://alainnicolas.fr/projects/futurmaster-calibrate-model/</link>
-      <pubDate>Mon, 01 Jul 2019 15:00:28 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/projects/futurmaster-calibrate-model/</guid>
-      <description>Le client Éditeur de logiciels dédiés à la gestion de la supply chain, FuturMaster a fait appel à Talan Labs pour renforcer ses équipes de développement et accélérer la refonte de sa suite d&amp;rsquo;outils.
-Le projet C&amp;rsquo;est ainsi que j&amp;rsquo;ai fait partie de la première squad agile, composée de 3 développeurs, 1 designer et 1 Scrum Master. Nous étions chargés de la refonte du module Calibrate Model qui vise à afficher l&amp;rsquo;historique de vente d&amp;rsquo;un produit et la simulation de ses ventes futures.</description>
-    </item>
-    
-    <item>
-      <title>RoxTheCasbah</title>
-      <link>https://alainnicolas.fr/projects/roxthecasbah/</link>
-      <pubDate>Fri, 01 Mar 2019 15:00:28 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/projects/roxthecasbah/</guid>
-      <description>Le contexte Création d&#39;un blog pour ma compagne, afin de partager sa passion pour le tricot et la couture.
+La solution technique L&amp;rsquo;outil Ce site est conçu grâce à un générateur de site statique, Hugo, et hébergé gratuitement grâce a service &amp;ldquo;GitHub Pages&amp;rdquo;.</description></item><item><title>FuturMaster - Master Data</title><link>https://alainnicolas.fr/projects/futurmaster-master-data/</link><pubDate>Tue, 01 Sep 2020 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/futurmaster-master-data/</guid><description>Le client Éditeur de logiciels dédiés à la gestion de la supply chain, FuturMaster a fait appel à Talan Labs pour renforcer ses équipes de développement et accélérer la refonte de sa suite d&amp;rsquo;outils.
+Le projet Suite au succès de l&amp;rsquo;intervention de la première squad de Talan Labs chez FuturMaster sur le projet Calibrate Model, nous nous sommes lancés dans la refonte du module Master Data, chargé de centraliser le référentiel de données qui alimentent les autres modules de la suite logicielle.</description></item><item><title>FuturMaster - Calibrate Model</title><link>https://alainnicolas.fr/projects/futurmaster-calibrate-model/</link><pubDate>Mon, 01 Jul 2019 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/futurmaster-calibrate-model/</guid><description>Le client Éditeur de logiciels dédiés à la gestion de la supply chain, FuturMaster a fait appel à Talan Labs pour renforcer ses équipes de développement et accélérer la refonte de sa suite d&amp;rsquo;outils.
+Le projet C&amp;rsquo;est ainsi que j&amp;rsquo;ai fait partie de la première squad agile, composée de 3 développeurs, 1 designer et 1 Scrum Master. Nous étions chargés de la refonte du module Calibrate Model qui vise à afficher l&amp;rsquo;historique de vente d&amp;rsquo;un produit et la simulation de ses ventes futures.</description></item><item><title>RoxTheCasbah</title><link>https://alainnicolas.fr/projects/roxthecasbah/</link><pubDate>Fri, 01 Mar 2019 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/roxthecasbah/</guid><description>Le contexte Création d'un blog pour ma compagne, afin de partager sa passion pour le tricot et la couture.
 La solution technique La première version La première version du site utilisait Ghost, une solution de blogging complète concurrente de WordPress. Basé sur un outil open-source et gratuit, le blog était hébergé sur une petite machine AWS.
-La seconde version En janvier 2021 j&amp;rsquo;ai fait le choix de basculer vers un générateur de site statique, Hugo, afin de pouvoir héberger gratuitement les pages générées.</description>
-    </item>
-    
-    <item>
-      <title>BNP CIB - Blockchain-as-a-Service</title>
-      <link>https://alainnicolas.fr/projects/bnp-blockchain/</link>
-      <pubDate>Sat, 01 Sep 2018 15:00:28 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/projects/bnp-blockchain/</guid>
-      <description>Le client En tant qu&amp;rsquo;acteur majeur du secteur bancaire, BNP Paribas se doit de rester à la pointe des technologies disponibles. C&amp;rsquo;est ainsi que les technologies blockchain et DLT se sont imposées comme incontournables.
+La seconde version En janvier 2021 j&amp;rsquo;ai fait le choix de basculer vers un générateur de site statique, Hugo, afin de pouvoir héberger gratuitement les pages générées.</description></item><item><title>BNP CIB - Blockchain-as-a-Service</title><link>https://alainnicolas.fr/projects/bnp-blockchain/</link><pubDate>Sat, 01 Sep 2018 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/bnp-blockchain/</guid><description>Le client En tant qu&amp;rsquo;acteur majeur du secteur bancaire, BNP Paribas se doit de rester à la pointe des technologies disponibles. C&amp;rsquo;est ainsi que les technologies blockchain et DLT se sont imposées comme incontournables.
 Comme de nombreuses grandes entreprises, la BNP est découpée en plusieurs entités qui peuvent toutes participer à un même projet, ce qui n&amp;rsquo;est pas sans soulever des challenges autour de la collaboration.
-Le projet Pour permettre à toutes les entités de la BNP d&amp;rsquo;expérimenter sur la blockchain avant de facilement rejoindre un consortium décentralisé, il fallait rendre accessible des technologies que nous pouvons qualifier d&amp;rsquo;exotiques.</description>
-    </item>
-    
-    <item>
-      <title>Share2gether</title>
-      <link>https://alainnicolas.fr/projects/share2gether/</link>
-      <pubDate>Sat, 01 Sep 2018 15:00:28 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/projects/share2gether/</guid>
-      <description>Le contexte Share2Gether, vise à créer une solution d’organisation d’événements, à l’image de ce que propose Meetup.com.
+Le projet Pour permettre à toutes les entités de la BNP d&amp;rsquo;expérimenter sur la blockchain avant de facilement rejoindre un consortium décentralisé, il fallait rendre accessible des technologies que nous pouvons qualifier d&amp;rsquo;exotiques.</description></item><item><title>Share2gether</title><link>https://alainnicolas.fr/projects/share2gether/</link><pubDate>Sat, 01 Sep 2018 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/share2gether/</guid><description>Le contexte Share2Gether, vise à créer une solution d’organisation d’événements, à l’image de ce que propose Meetup.com.
 J&amp;rsquo;ai eu l&amp;rsquo;occasion de partager plus en détails cette expérience dans un article dédié.
 La stack technique Côté client Le front est une application Vue.js qui communique avec les smart-contracts déployés sur la blockchain grâce à la librairie web3.js.
-Côté blockchain Les smart-contracts écrits en Solidity sont déployés sur une blockchain Ethereum. Utilisation des contrats standards fournis par OpenZeppelin.</description>
-    </item>
-    
-    <item>
-      <title>VINCI Construction Terrassement - VCoin</title>
-      <link>https://alainnicolas.fr/projects/vct-vcoin/</link>
-      <pubDate>Fri, 01 Jun 2018 15:00:28 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/projects/vct-vcoin/</guid>
-      <description>Le contexte Après le succès de Talan Coin, le groupe VINCI a souhaité expérimenter avec sa propre version de l&amp;rsquo;application.
+Côté blockchain Les smart-contracts écrits en Solidity sont déployés sur une blockchain Ethereum. Utilisation des contrats standards fournis par OpenZeppelin.</description></item><item><title>VINCI Construction Terrassement - VCoin</title><link>https://alainnicolas.fr/projects/vct-vcoin/</link><pubDate>Fri, 01 Jun 2018 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/vct-vcoin/</guid><description>Le contexte Après le succès de Talan Coin, le groupe VINCI a souhaité expérimenter avec sa propre version de l&amp;rsquo;application.
 C&amp;rsquo;est ainsi que nous avons instancié l&amp;rsquo;application VCoin, avec quelques spécificités la démarquant de Talan Coin.
-La stack technique Côté client   Application iOS native
-  Application Android native
-  Applications web Angular :
- Dashboard de suivi statistique et d&amp;rsquo;administration Boutique d&amp;rsquo;objets et services payables en Talan Coins Client desktop (non mis en production)    Côté back Services Spring Boot basés sur Java 8, servant d&amp;rsquo;interface entre la blockchain et les clients mobiles.</description>
-    </item>
-    
-    <item>
-      <title>Talan Coin</title>
-      <link>https://alainnicolas.fr/projects/talan-talancoin/</link>
-      <pubDate>Thu, 01 Dec 2016 15:00:28 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/projects/talan-talancoin/</guid>
-      <description>Le contexte Comme toutes les entreprises, Talan cherche à catalyser la collaboration en son sein. De plus, Talan souhaite renforcer son unité en tant que groupe malgré des entités distinctes et une répartition sur 4 continents et développer une horizontalité bien loin des hiérarchies verticales classiques.
-Une monnaie interne, commune à tous les collaborateurs, peu importe leur localisation ou leur rôle hiérarchique, permet de trouver un point commun entre tous les acteurs de l’entreprise.</description>
-    </item>
-    
-    <item>
-      <title>Blog des Labs de Talan</title>
-      <link>https://alainnicolas.fr/projects/talan-blog-labs/</link>
-      <pubDate>Tue, 01 Nov 2016 15:00:28 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/projects/talan-blog-labs/</guid>
-      <description>Le contexte Maintenance du blog de Talan Labs, rédaction d&amp;rsquo;articles, avant une refonte complète en 2019/2020.
+La stack technique Côté client Application iOS native
+Application Android native
+Applications web Angular :
+Dashboard de suivi statistique et d&amp;rsquo;administration Boutique d&amp;rsquo;objets et services payables en Talan Coins Client desktop (non mis en production) Côté back Services Spring Boot basés sur Java 8, servant d&amp;rsquo;interface entre la blockchain et les clients mobiles.</description></item><item><title>Talan Coin</title><link>https://alainnicolas.fr/projects/talan-talancoin/</link><pubDate>Thu, 01 Dec 2016 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/talan-talancoin/</guid><description>Le contexte Comme toutes les entreprises, Talan cherche à catalyser la collaboration en son sein. De plus, Talan souhaite renforcer son unité en tant que groupe malgré des entités distinctes et une répartition sur 4 continents et développer une horizontalité bien loin des hiérarchies verticales classiques.
+Une monnaie interne, commune à tous les collaborateurs, peu importe leur localisation ou leur rôle hiérarchique, permet de trouver un point commun entre tous les acteurs de l’entreprise.</description></item><item><title>Blog des Labs de Talan</title><link>https://alainnicolas.fr/projects/talan-blog-labs/</link><pubDate>Tue, 01 Nov 2016 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/talan-blog-labs/</guid><description>Le contexte Maintenance du blog de Talan Labs, rédaction d&amp;rsquo;articles, avant une refonte complète en 2019/2020.
 Le blog des Labs de Talan permet de partager les connaissances des collaborateurs de Talan Labs.
-     La solution technique La version &amp;ldquo;legacy&amp;rdquo; La première version du site utilisait WordPress, solution qu&amp;rsquo;il n&amp;rsquo;est plus nécessaire de présenter.
-La refonte Face à la difficulté de maintenir à jour un tel site, tout en garantissant sa sécurité, nous avons choisi de changer radicalement de technologie afin de réduire considérablement la surface d&amp;rsquo;attaque.</description>
-    </item>
-    
-    <item>
-      <title>Coface</title>
-      <link>https://alainnicolas.fr/projects/coface/</link>
-      <pubDate>Fri, 01 Jan 2016 15:00:28 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/projects/coface/</guid>
-      <description>Le client Coface est un acteur majeur de l&amp;rsquo;assurance-crédit. De manière à toujours rester compétitif et gagner de nouvelles parts de marchés, l&amp;rsquo;entreprise a besoin de proposer régulièrement de nouveaux produits et solutions logicielles à ses clients.
+La solution technique La version &amp;ldquo;legacy&amp;rdquo; La première version du site utilisait WordPress, solution qu&amp;rsquo;il n&amp;rsquo;est plus nécessaire de présenter.
+La refonte Face à la difficulté de maintenir à jour un tel site, tout en garantissant sa sécurité, nous avons choisi de changer radicalement de technologie afin de réduire considérablement la surface d&amp;rsquo;attaque.</description></item><item><title>Coface</title><link>https://alainnicolas.fr/projects/coface/</link><pubDate>Fri, 01 Jan 2016 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/coface/</guid><description>Le client Coface est un acteur majeur de l&amp;rsquo;assurance-crédit. De manière à toujours rester compétitif et gagner de nouvelles parts de marchés, l&amp;rsquo;entreprise a besoin de proposer régulièrement de nouveaux produits et solutions logicielles à ses clients.
 Le projet Optimisation et évolution d’une application web (Cofanet Policy Master &amp;amp; Cofanet Policy Master Administration) à destination de clients payants.
-Pour cela, il fallait envisager un refactoring technique de l’architecture projet et la refonte des fonctionnalités majeures de l’application.</description>
-    </item>
-    
-    <item>
-      <title>e-Paye</title>
-      <link>https://alainnicolas.fr/projects/epaye/</link>
-      <pubDate>Thu, 01 Oct 2015 15:00:28 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/projects/epaye/</guid>
-      <description>Le client e-Paye édite des logiciels dédiés au SIRH : paie, coffre-fort numérique, gestion des RH, gestion des entretiens, etc.
+Pour cela, il fallait envisager un refactoring technique de l’architecture projet et la refonte des fonctionnalités majeures de l’application.</description></item><item><title>e-Paye</title><link>https://alainnicolas.fr/projects/epaye/</link><pubDate>Thu, 01 Oct 2015 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/epaye/</guid><description>Le client e-Paye édite des logiciels dédiés au SIRH : paie, coffre-fort numérique, gestion des RH, gestion des entretiens, etc.
 Le projet Parmi les modules d&amp;rsquo;e-Paye, celui permettant la génération des fiches de paye est particulièrement important et complexe. En effet, il doit prendre en compte la législation parfois changeante, mais aussi être capable de générer un grand nombre de fiches de paye en une durée restreinte.
-La stack technique Côté client JavaScript, HTML5, CSS3, jQuery, Ajax</description>
-    </item>
-    
-    <item>
-      <title>Gefco - Opteam</title>
-      <link>https://alainnicolas.fr/projects/gefco/</link>
-      <pubDate>Wed, 01 Jul 2015 15:00:28 +0000</pubDate>
-      
-      <guid>https://alainnicolas.fr/projects/gefco/</guid>
-      <description>Le client Gefco est un acteur incontournable de la logistique et notamment du transport de pièces automobiles.
+La stack technique Côté client JavaScript, HTML5, CSS3, jQuery, Ajax</description></item><item><title>Gefco - Opteam</title><link>https://alainnicolas.fr/projects/gefco/</link><pubDate>Wed, 01 Jul 2015 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/projects/gefco/</guid><description>Le client Gefco est un acteur incontournable de la logistique et notamment du transport de pièces automobiles.
 Le projet Développement d&amp;rsquo;un système de génération de plannings sous contraintes.
 La stack technique Client lourd Java Swing
-Base de données OracleDB</description>
-    </item>
-    
-  </channel>
-</rss>
+Base de données OracleDB</description></item></channel></rss>
