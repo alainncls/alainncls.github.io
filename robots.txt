@@ -1,1 +1,3 @@
 User-agent: *
+
+sitemap: https://alainnicolas.fr/sitemap.xml
