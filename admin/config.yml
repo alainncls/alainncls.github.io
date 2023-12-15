@@ -72,7 +72,7 @@ collections: # A list of collections the CMS should be able to edit
     files:
       - name: 'general'
         label: 'Configuration du site'
-        file: 'config.toml'
+        file: 'hugo.toml'
         extension: toml
         description: 'Réglages généraux du site'
         fields:
