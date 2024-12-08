@@ -1,3 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts series on Alain Nicolas</title><link>https://alainnicolas.fr/en/series/</link><description>Recent content in Posts series on Alain Nicolas</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://alainnicolas.fr/en/series/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog It Yourself</title><link>https://alainnicolas.fr/en/series/blog-it-yourself/</link><pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/series/blog-it-yourself/</guid><description>In my opinion, all developers should have a blog! But how do you get started? Let’s explore the tools and techniques of writing.</description></item><item><title>Make documentation great again</title><link>https://alainnicolas.fr/en/series/make-documentation-great-again/</link><pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate><guid>https://alainnicolas.fr/en/series/make-documentation-great-again/</guid><description>Who likes writing documentation for their product or API? Who is tired of finding outdated documentation when arriving on a project? Are you a developer and feel concerned? It’s time to switch to &amp;#34;Documentation as Code&amp;#34;!
-It is customary to document the API we develop, to facilitate its maintenance and interactions with its &amp;#34;consumers&amp;#34;. Even if one of the 4 values of agility promotes &amp;#34;working software over comprehensive documentation&amp;#34;, we will see that we can propose both at the same time thanks to a particularly practical tool.</description></item><item><title>Blockchain Training at EPF</title><link>https://alainnicolas.fr/en/series/formation-blockchain-epf/</link><pubDate>Sat, 18 Jan 2020 17:52:05 +0100</pubDate><guid>https://alainnicolas.fr/en/series/formation-blockchain-epf/</guid><description>For several years now, I have had the opportunity to teach students at EPF. Switching to the other side of teaching is not an easy task, especially without experience…​ The partnership with EPF has made me discover the role of trainer. We went further by mentoring a group of students on a project for a whole semester.
-Feedback on some extraordinary days!</description></item><item><title>Corda</title><link>https://alainnicolas.fr/en/series/corda/</link><pubDate>Mon, 11 Mar 2019 09:00:23 +0000</pubDate><guid>https://alainnicolas.fr/en/series/corda/</guid><description>Discovery of Corda, the DLT developed by consortium R3 that claims to be a blockchain. Right or wrong?</description></item><item><title>Meetups at Talan</title><link>https://alainnicolas.fr/en/series/meetups-talan/</link><pubDate>Tue, 24 Oct 2017 09:00:23 +0000</pubDate><guid>https://alainnicolas.fr/en/series/meetups-talan/</guid><description>The reports of the meetups hosted by Talan that I had the pleasure of welcoming.</description></item><item><title>Java EE: new direction</title><link>https://alainnicolas.fr/en/series/java-ee-new-direction/</link><pubDate>Wed, 16 Nov 2016 09:00:23 +0000</pubDate><guid>https://alainnicolas.fr/en/series/java-ee-new-direction/</guid><description>Perhaps for you the summer 2016 series was Stranger Things, but in the vast world of Java, a completely different series with multiple twists and turns has attracted all attention. Acquisition, rebellion, and polls, dive into the revolution of Java EE!</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts series on Alain Nicolas</title>
+    <link>https://alainnicolas.fr/en/series/</link>
+    <description>Recent content in Posts series on Alain Nicolas</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://alainnicolas.fr/en/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog It Yourself</title>
+      <link>https://alainnicolas.fr/en/series/blog-it-yourself/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/series/blog-it-yourself/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;In my opinion, all developers should have a blog!&#xA;But how do you get started?&#xA;Let’s explore the tools and techniques of writing.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Make documentation great again</title>
+      <link>https://alainnicolas.fr/en/series/make-documentation-great-again/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/en/series/make-documentation-great-again/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Who likes writing documentation for their product or API? Who is tired of finding outdated documentation when arriving on a project?&#xA;Are you a developer and feel concerned? It’s time to switch to &amp;#34;Documentation as Code&amp;#34;!&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;It is customary to document the API we develop, to facilitate its maintenance and interactions with its &amp;#34;consumers&amp;#34;.&#xA;Even if one of the 4 values of agility promotes &amp;#34;working software over comprehensive documentation&amp;#34;, we will see that we can propose both at the same time thanks to a particularly practical tool.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Blockchain Training at EPF</title>
+      <link>https://alainnicolas.fr/en/series/formation-blockchain-epf/</link>
+      <pubDate>Sat, 18 Jan 2020 17:52:05 +0100</pubDate>
+      <guid>https://alainnicolas.fr/en/series/formation-blockchain-epf/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;For several years now, I have had the opportunity to teach students at EPF. Switching to the other side of teaching is not an easy task, especially without experience…​ The partnership with EPF has made me discover the role of trainer. We went further by mentoring a group of students on a project for a whole semester.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Feedback on some extraordinary days!&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Corda</title>
+      <link>https://alainnicolas.fr/en/series/corda/</link>
+      <pubDate>Mon, 11 Mar 2019 09:00:23 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/series/corda/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Discovery of Corda, the DLT developed by consortium R3 that claims to be a blockchain. Right or wrong?&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Meetups at Talan</title>
+      <link>https://alainnicolas.fr/en/series/meetups-talan/</link>
+      <pubDate>Tue, 24 Oct 2017 09:00:23 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/series/meetups-talan/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;The reports of the meetups hosted by Talan that I had the pleasure of welcoming.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Java EE: new direction</title>
+      <link>https://alainnicolas.fr/en/series/java-ee-new-direction/</link>
+      <pubDate>Wed, 16 Nov 2016 09:00:23 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/series/java-ee-new-direction/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Perhaps for you the summer 2016 series was &lt;a href=&#34;https://www.netflix.com/fr/title/80057281&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stranger Things&lt;/a&gt;, but in the vast world of Java, a completely different series with multiple twists and turns has attracted all attention.&#xA;Acquisition, rebellion, and polls, dive into the revolution of Java EE!&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

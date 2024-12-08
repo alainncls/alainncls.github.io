@@ -1,73 +1,775 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homepage on Alain Nicolas</title><link>https://alainnicolas.fr/en/</link><description>Recent content in Homepage on Alain Nicolas</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 16 Aug 2020 18:56:13 -0500</lastBuildDate><atom:link href="https://alainnicolas.fr/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Snaps Permissionless Distribution</title><link>https://alainnicolas.fr/en/projects/permissionless-snaps-distribution/</link><pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/projects/permissionless-snaps-distribution/</guid><description>The context Since the launch of the MetaMask platform allowing the creation and use of &amp;#34;plugins&amp;#34; on the wallet, these &amp;#34;Snaps&amp;#34; must be validated by Consensys. Indeed, it is necessary to verify that they respect the imposed security rules, but also the good development and marketing practices pushed by the platform.
-This validation being totally centralized and relying only on a company, one can see an opposition to the thesis of decentralization and freedom advocated by the web3 ecosystem.</description></item><item><title>Verax Attestation Registry</title><link>https://alainnicolas.fr/en/projects/verax-attestation-registry/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/projects/verax-attestation-registry/</guid><description>The context The first event of the &amp;#34;Linea Voyage&amp;#34;, a quest where participants had to discover the ecosystem of applications and protocols deployed on Linea, met with major enthusiasm. Added to this is the possibility of an airdrop on the same network. Almost automatically, these circumstances led to the appearance of &amp;#34;sybils&amp;#34;, in other words, multiple Ethereum accounts owned by a single person, to maximize their exposure to a potential airdrop.</description></item><item><title>Lineaster</title><link>https://alainnicolas.fr/en/projects/lineaster/</link><pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/projects/lineaster/</guid><description>The context As part of the launch of its ZK-EVM type network, Consensys wanted to organize an event to invite as many users as possible to interact with the network. Indeed, it was both about making it known, and testing its ability to support a large number of users.
-But to bring a large number of testers, they needed a reason to come. That’s why, during the &amp;#34;Testnet Voyage&amp;#34;, Consensys chose to rely on applications around DeFi, but also identity with the ENS protocol, or the Lens protocol for the social aspect.</description></item><item><title>Crypto-lending Platform</title><link>https://alainnicolas.fr/en/projects/crypto-lending/</link><pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/projects/crypto-lending/</guid><description>The client For confidentiality reasons, the name of this client cannot be revealed. They are a company already well established in the web3 domain, looking to expand their reach.
-The project The project involves the creation of a centralized cryptocurrency lending platform, against collateral provided by users.
-Therefore, it was necessary to create a user interface that is understandable and clear enough to attract the largest number, but also to provide all the standard features in this type of application.</description></item><item><title>RoxTheCasbah</title><link>https://alainnicolas.fr/en/projects/roxthecasbah/</link><pubDate>Sat, 06 May 2023 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/en/projects/roxthecasbah/</guid><description>The context Creation of a blog for my partner, RoxTheCasbah, to share her passion for knitting and sewing.
-The technical solution The first version The first version of the site used Ghost, a complete blogging solution competing with WordPress. Based on an open-source and free tool, the blog was hosted on a small AWS machine.
-The second version In January 2021, I chose to switch to a static site generator, Hugo, in order to be able to host the generated pages for free.</description></item><item><title>This Site</title><link>https://alainnicolas.fr/en/projects/this-site/</link><pubDate>Sat, 06 May 2023 15:00:28 +0000</pubDate><guid>https://alainnicolas.fr/en/projects/this-site/</guid><description>Context Creation of this site to introduce myself and share my passions.
-My first desire was to showcase my skills in a more controlled way than, for example, on LinkedIn. Similarly, in order to efficiently centralize the articles I have written on Medium or Talan Labs&amp;#39; blog, I needed a blog.
-Technical Solution The Tool This site is designed using a static site generator, Hugo, and hosted for free thanks to &amp;#34;GitHub Pages&amp;#34; service.</description></item><item><title>Atelier 58</title><link>https://alainnicolas.fr/en/projects/atelier-58/</link><pubDate>Sat, 18 Dec 2021 15:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/projects/atelier-58/</guid><description>The context Creation of the showcase site for the hair salon &amp;#34;Atelier 58&amp;#34; in Paris.
-The technical solution Tools This site is designed using a static site generator, Hugo.
-Integration of the Planity service for making appointments.
-Implementation of navigation statistics tracking via Insights.
-Theme In order to save time, but also to best meet the needs of such a business, I started from the theme &amp;#34;Hugo Hero Theme&amp;#34;.</description></item><item><title>BNP CIB - Blockchain-as-a-Service</title><link>https://alainnicolas.fr/en/projects/bnp-blockchain/</link><pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/projects/bnp-blockchain/</guid><description>The Client As a major player in the banking sector, BNP Paribas must stay at the forefront of available technologies. This is how blockchain and DLT technologies have become essential.
-Like many large companies, BNP is divided into several entities that can all participate in the same project, which is not without raising challenges around collaboration.
-The Project To allow all BNP entities to experiment on the blockchain before easily joining a decentralized consortium, it was necessary to make accessible technologies that we can qualify as exotic.</description></item><item><title>Coface</title><link>https://alainnicolas.fr/en/projects/coface/</link><pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/projects/coface/</guid><description>The client Coface is a major player in credit insurance. In order to remain competitive and gain new market share, the company needs to regularly offer new software products and solutions to its customers.
-The project Optimization and evolution of a web application (Cofanet Policy Master &amp;amp; Cofanet Policy Master Administration) for paying customers.
-To achieve this, a technical refactoring of the project architecture and a redesign of the major features of the application were needed.</description></item><item><title>e-Paye</title><link>https://alainnicolas.fr/en/projects/epaye/</link><pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/projects/epaye/</guid><description>The client e-Paye develops software dedicated to HRIS: payroll, digital safe, HR management, interview management, etc.
-The project Among the e-Paye modules, the one allowing the generation of payslips is particularly important and complex. Indeed, it must take into account sometimes changing legislation, but also be able to generate a large number of payslips in a short amount of time.
-Technical stack Client-side JavaScript, HTML5, CSS3, jQuery, Ajax
-Server-side Spring (Core, MVC, Security, Data)</description></item><item><title>EDF Commerce - Craftsmanship Evangelization</title><link>https://alainnicolas.fr/en/projects/edf/</link><pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/projects/edf/</guid><description>The client EDF Commerce’s Digital Department has a dedicated team for PoC realization for the group’s various businesses.
-The mission The mission is to evangelize on the concepts of craftsmanship and industrialize the best practices to be implemented. This is how I was able to initiate the implementation of the first CI/CD pipelines via GitLab and Jenkins, but also push the use of SonarQube for code quality monitoring and Nexus for depositing generated artifacts.</description></item><item><title>FuturMaster - Calibrate Model</title><link>https://alainnicolas.fr/en/projects/futurmaster-calibrate-model/</link><pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/projects/futurmaster-calibrate-model/</guid><description>The Client FuturMaster, a software editor specializing in supply chain management, called on Talan Labs to reinforce its development teams and speed up the redesign of its tool suite.
-The Project That’s how I became part of the first agile squad, made up of 3 developers, 1 designer and 1 Scrum Master. We were tasked with the redesign of the Calibrate Model module, which aims to display the sales history of a product and simulate its future sales.</description></item><item><title>FuturMaster - Master Data</title><link>https://alainnicolas.fr/en/projects/futurmaster-master-data/</link><pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/projects/futurmaster-master-data/</guid><description>Client FuturMaster, a software editor specializing in supply chain management, called upon Talan Labs to strengthen its development teams and accelerate the revamp of its suite of tools.
-Project Following the success of the first Talan Labs squad’s intervention at FuturMaster on the Calibrate Model project, we embarked on the revamp of the Master Data module, which centralizes the data repository that feeds the other software suite modules.
-In parallel with the development of functional user stories, there are many technical topics to consider, such as a reflection on the future database best suited to the specifics of the objects to be manipulated.</description></item><item><title>Gefco - Opteam</title><link>https://alainnicolas.fr/en/projects/gefco/</link><pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/projects/gefco/</guid><description>The client Gefco is a major player in logistics and in particular in the transportation of automotive parts.
-The project Development of a scheduling system under constraints.
-Technical stack Desktop application Java Swing
-Database OracleDB</description></item><item><title>Share2gether</title><link>https://alainnicolas.fr/en/projects/share2gether/</link><pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/projects/share2gether/</guid><description>Context Share2Gether aims to create an event organization solution, similar to what Meetup.com offers.
-I had the opportunity to share more details about this experience in a dedicated article.
-Technical Stack Client Side The front-end is a Vue.js application that communicates with smart contracts deployed on the blockchain using the web3.js library.
-Blockchain Side Smart contracts written in Solidity are deployed on an Ethereum blockchain. Standard contracts provided by OpenZeppelin are used.</description></item><item><title>Talan Coin</title><link>https://alainnicolas.fr/en/projects/talan-talancoin/</link><pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/projects/talan-talancoin/</guid><description>The Context Like all companies, Talan seeks to catalyze collaboration within itself. In addition, Talan wishes to strengthen its unity as a group despite distinct entities and a presence on 4 continents, and develop a horizontal organization far from classic vertical hierarchies.
-An internal currency, common to all employees regardless of their location or hierarchical role, makes it possible to find a common point among all the actors in the company.</description></item><item><title>Talan Labs Blog</title><link>https://alainnicolas.fr/en/projects/talan-blog-labs/</link><pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/projects/talan-blog-labs/</guid><description>Context Maintenance of the Talan Labs blog, writing articles, before a complete overhaul in 2019/2020.
-The Talan Labs blog allows for sharing the knowledge of Talan Labs employees.
-Technical Solution Legacy version The first version of the site used WordPress, a well-known solution.
-Overhaul Given the difficulty of keeping such a site up to date while ensuring its security, we chose to radically change the technology to significantly reduce the attack surface.</description></item><item><title>VINCI Construction Terrassement - VCoin</title><link>https://alainnicolas.fr/en/projects/vct-vcoin/</link><pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/projects/vct-vcoin/</guid><description>The Context After the success of Talan Coin, the VINCI group wanted to experiment with its own version of the application.
-This is how we instantiated the VCoin application, with some specific features setting it apart from Talan Coin.
-The Technical Stack Client Side Native iOS application
-Native Android application
-Angular web applications:
-Dashboard for statistical tracking and administration
-Store for objects and services payable in Talan Coins
-Desktop client (not in production)</description></item><item><title>Manage your double life on Git!</title><link>https://alainnicolas.fr/en/blog/manage-your-double-life-on-git/</link><pubDate>Tue, 02 May 2023 20:00:00 +0200</pubDate><guid>https://alainnicolas.fr/en/blog/manage-your-double-life-on-git/</guid><description>Are you coding for work and personal projects on the same computer? Then you probably find yourself regularly committing with your personal email address on your professional projects, and vice versa.
-And it’s annoying, isn’t it? Constantly having to rewrite the history on one side, the other side, with commits that are already finalized on a protected main branch, etc.
-It’s time to put an end to this! I propose that you better configure your Git environments.</description></item><item><title>Free up space with npkill</title><link>https://alainnicolas.fr/en/blog/free-up-space-with-npkill/</link><pubDate>Mon, 01 May 2023 10:00:00 +0200</pubDate><guid>https://alainnicolas.fr/en/blog/free-up-space-with-npkill/</guid><description>Do you also have dozens of JavaScript/TypeScript projects buried in more or less well-organized folders on your computer? You know, those personal projects abandoned after the first commit and long-finished professional projects…​
-And at the same time, you see your hard drive filling up? Well, npm has the bad habit of downloading half the internet with each installation…​
-Here’s the solution to free up space without hassle and keep your revolutionary application project that barely started.</description></item><item><title>Sort your dependencies!</title><link>https://alainnicolas.fr/en/blog/sort-your-dependencies/</link><pubDate>Sat, 29 Apr 2023 08:00:00 +0200</pubDate><guid>https://alainnicolas.fr/en/blog/sort-your-dependencies/</guid><description>The Context Dependency management is a crucial aspect of any project. In the Node.js world, npm is the standard tool for installing and managing dependencies, but let’s not forget its counterparts yarn and pnpm. The package.json file lists all the dependencies and their versions.
-When working on a team project, it’s important to maintain the package.json file consistently. And that’s where the sort-package-json package comes in.
-sort-package-json It allows you to sort the package.</description></item><item><title>Blog It Yourself - Take it to the next level</title><link>https://alainnicolas.fr/en/blog/blog-it-yourself-take-it-to-the-next-level/</link><pubDate>Fri, 28 Apr 2023 08:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/blog/blog-it-yourself-take-it-to-the-next-level/</guid><description>Now that your blog is online and you’re motivated to write articles, it’s time to take it to the next level. Regardless of what anyone says, having readers and receiving feedback (preferably positive) boosts your ego and encourages you to do more and improve. But don’t forget, your blog is primarily YOUR blog.
-Consider a Post as a Reminder I believe it’s an excellent way to take ownership of your blog while increasing the publishing frequency: every time you learn something, you should write a post about it.</description></item><item><title>Blog It Yourself - My experience</title><link>https://alainnicolas.fr/en/blog/blog-it-yourself-my-experience/</link><pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/blog/blog-it-yourself-my-experience/</guid><description>As we discussed in the previous article, there are many obstacles that prevent us from writing articles. Here, I share my experience on how to overcome them.
-Let’s explore how to overcome the dreaded writer’s block for developers! And let’s tackle the impostor syndrome that often immobilizes us.
-To be completely transparent, I frequently face these obstacles myself. First and foremost within myself, but also among the people I’ve had the pleasure of working with for years.</description></item><item><title>Blog It Yourself - What holds us back</title><link>https://alainnicolas.fr/en/blog/blog-it-yourself-what-holds-us-back/</link><pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/blog/blog-it-yourself-what-holds-us-back/</guid><description>You have a beautiful blog, perhaps thanks to the previous article, but you struggle to write articles for it? It’s normal…​ There are numerous and real obstacles.
-There are many &amp;#34;excuses&amp;#34; for not getting started, and most of the time, we believe in them wholeheartedly! Let me share the three main reasons I’ve heard for not writing articles.
-I don’t have the expertise to write articles Clearly the main reason that prevents all of us from getting started.</description></item><item><title>Blog It Yourself - Hugo</title><link>https://alainnicolas.fr/en/blog/blog-it-yourself-hugo/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/blog/blog-it-yourself-hugo/</guid><description>I was discussing the choice and use of Ghost as a blogging tool. After 18 months of use, for the reasons mentioned at the end of the [previous article](link:/en/blog/blog-it-yourself-ghost), I decided to change platforms. And also because after the free 12 months of the AWS instance, it was necessary to pay, even if it remains small amounts.
-Static Site Generator? First and foremost, it is important to understand that this is not just a technical solution change, but a change in mindset.</description></item><item><title>Rewrite your Git history (and fast)</title><link>https://alainnicolas.fr/en/blog/rewrite-your-git-history-and-fast/</link><pubDate>Thu, 24 Feb 2022 00:00:00 +0200</pubDate><guid>https://alainnicolas.fr/en/blog/rewrite-your-git-history-and-fast/</guid><description>In cleaning up my repositories on GitHub, I came across old projects, some of which are ancient. Let’s not dwell on the shame one can feel when looking at code written almost 10 years ago; it’s inevitably very ugly…​
-But one thing caught my attention: many commits are not associated with my username or do not display my profile picture. Strange, since the most recent ones seem to correspond to my username and show my picture.</description></item><item><title>Blog It Yourself - Ghost</title><link>https://alainnicolas.fr/en/blog/blog-it-yourself-ghost/</link><pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/blog/blog-it-yourself-ghost/</guid><description>I mentioned it in my article about choosing a blog platform, the first choice for creating the blog RoxTheCasbah was Ghost.
-So here’s an experience report on the installation, configuration, and usage of Ghost, which presents itself as an alternative to WordPress, simpler, lighter, and more modern.
-Hosting Let’s leave aside the paid version of Ghost that offers hosting by the company, and thus minimal configuration for the user. Let’s focus on the free and open-source version of the tool, to be self-hosted.</description></item><item><title>Blog It Yourself</title><link>https://alainnicolas.fr/en/series/blog-it-yourself/</link><pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/series/blog-it-yourself/</guid><description>In my opinion, all developers should have a blog! But how do you get started? Let’s explore the tools and techniques of writing.</description></item><item><title>Blog It Yourself - The choice</title><link>https://alainnicolas.fr/en/blog/blog-it-yourself-the-choice/</link><pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/blog/blog-it-yourself-the-choice/</guid><description>When my partner came up with the idea of creating a blog to share her passions, the question of technical choice quickly arose. Among developers (or &amp;#34;geeks,&amp;#34; as some would say), we couldn’t avoid the debate…​
-Yes, for years and for a good while longer, anyone looking to create a website quickly is likely to turn to WordPress. Simply because the platform has proven itself over a long period and is by far the most widely used.</description></item><item><title>Goodbye Google (Analytics)!</title><link>https://alainnicolas.fr/en/blog/goodbye-google-analytics/</link><pubDate>Mon, 03 Jan 2022 00:00:00 +0200</pubDate><guid>https://alainnicolas.fr/en/blog/goodbye-google-analytics/</guid><description>Let’s start with a little quote:
-&amp;#34;New year, new me&amp;#34; — Too many people,too often The Good Resolution Let’s avoid resolutions that we won’t keep. Nevertheless, let’s try to improve ourselves regularly…​
-To start the year 2022, I have decided to do without Google Analytics to track visits to my site. Firstly, because avoiding Google is always a good idea, and secondly, because it is possible to achieve almost the same results without tracking our visitors.</description></item><item><title>Make documentation great again (Bonus)</title><link>https://alainnicolas.fr/en/blog/make-documentation-great-again-bonus/</link><pubDate>Mon, 15 Nov 2021 00:00:00 +0200</pubDate><guid>https://alainnicolas.fr/en/blog/make-documentation-great-again-bonus/</guid><description>After the general presentation of Spring REST Docs, I propose to go further by exploring small improvements that will make all the difference!
-We will continue to base ourselves on my demonstration project available on GitHub: demo-spring-rest-docs.
-Expose the documentation &amp;#34;automagically&amp;#34; As we have seen, we are now able to generate an HTML page containing the documentation of our API. But that’s not the best way to make it available to API consumers, we can do better than that!</description></item><item><title>Make documentation great again (2/2)</title><link>https://alainnicolas.fr/en/blog/make-documentation-great-again-part-2/</link><pubDate>Mon, 08 Nov 2021 00:00:00 +0200</pubDate><guid>https://alainnicolas.fr/en/blog/make-documentation-great-again-part-2/</guid><description>We have previously seen a presentation of the AsciiDoc language and the benefits of &amp;#34;Documentation as Code&amp;#34;.
-However, it is possible to make the documentation writing process even easier! It is customary to document the API that we develop to facilitate its maintenance and interactions with its consumers.
-Even though one of the 4 values of agility promotes &amp;#34;working software over comprehensive documentation,&amp;#34; we will see that we can provide both at the same time with a particularly useful tool.</description></item><item><title>(Easily) Make your website GDPR compliant!</title><link>https://alainnicolas.fr/en/blog/easily-make-your-website-gdpr-compliant/</link><pubDate>Fri, 15 Oct 2021 13:02:05 +0100</pubDate><guid>https://alainnicolas.fr/en/blog/easily-make-your-website-gdpr-compliant/</guid><description>Do you also love the consent banners that are now found on (almost) every website and dream of having one on your own? It’s normal, it looks so much more professional…​ And it’s also about respecting the rules!
-GDPR, the real Cookie Monster What is a cookie? It is a small, fairly simple file that is placed in our browser when we visit certain websites. It is used, among other things, to identify us during our next visit.</description></item><item><title>Make documentation great again</title><link>https://alainnicolas.fr/en/series/make-documentation-great-again/</link><pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate><guid>https://alainnicolas.fr/en/series/make-documentation-great-again/</guid><description>Who likes writing documentation for their product or API? Who is tired of finding outdated documentation when arriving on a project? Are you a developer and feel concerned? It’s time to switch to &amp;#34;Documentation as Code&amp;#34;!
-It is customary to document the API we develop, to facilitate its maintenance and interactions with its &amp;#34;consumers&amp;#34;. Even if one of the 4 values of agility promotes &amp;#34;working software over comprehensive documentation&amp;#34;, we will see that we can propose both at the same time thanks to a particularly practical tool.</description></item><item><title>Make documentation great again (1/2)</title><link>https://alainnicolas.fr/en/blog/make-documentation-great-again-part-1/</link><pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate><guid>https://alainnicolas.fr/en/blog/make-documentation-great-again-part-1/</guid><description>Who enjoys writing documentation for their product or API? Who is tired of finding outdated documentation when joining a project?
-Are you a developer who can relate? It’s time to switch to &amp;#34;Documentation as Code&amp;#34;!
-The documentation everyone knows The most basic example of &amp;#34;Documentation as Code&amp;#34; is the traditional README.md file at the root of every project. Ideally, this file contains the minimal documentation for the project, installation instructions, and perhaps a description of the main features.</description></item><item><title>Blockchain: From a school project to the business world</title><link>https://alainnicolas.fr/en/blog/blockchain-from-a-school-project-to-the-business-world/</link><pubDate>Wed, 04 Mar 2020 07:18:05 +0100</pubDate><guid>https://alainnicolas.fr/en/blog/blockchain-from-a-school-project-to-the-business-world/</guid><description>As I have already mentioned in a [previous post](link:/en/blog/blockchain-training-engineers-of-tomorrow/), the partnership between Talan and EPF made me discover the role of a trainer. But we went further by proposing a long-term project to a group of 5th-year students.
-Shared expectations Before diving into professional life through the end-of-studies internship, students must confront the business world through a 5-month project. Between the school project and the real project, it is an opportunity to put into practice the acquired knowledge and discover the &amp;#34;real&amp;#34; work methods of a company.</description></item><item><title>Blockchain Training at EPF</title><link>https://alainnicolas.fr/en/series/formation-blockchain-epf/</link><pubDate>Sat, 18 Jan 2020 17:52:05 +0100</pubDate><guid>https://alainnicolas.fr/en/series/formation-blockchain-epf/</guid><description>For several years now, I have had the opportunity to teach students at EPF. Switching to the other side of teaching is not an easy task, especially without experience…​ The partnership with EPF has made me discover the role of trainer. We went further by mentoring a group of students on a project for a whole semester.
-Feedback on some extraordinary days!</description></item><item><title>Blockchain: Training the Engineers of Tomorrow</title><link>https://alainnicolas.fr/en/blog/blockchain-training-engineers-of-tomorrow/</link><pubDate>Sat, 18 Jan 2020 17:52:05 +0100</pubDate><guid>https://alainnicolas.fr/en/blog/blockchain-training-engineers-of-tomorrow/</guid><description>For the past two years, I have had the opportunity and pleasure to work with students from EPF, a general engineering school where I graduated in 2015. Transitioning to the teaching side of things is no easy task, especially without prior experience, but returning to &amp;#34;my&amp;#34; school has greatly facilitated this change in perspective.
-An engineering school has the heavy responsibility of keeping its curriculum up to date to prepare students as effectively as possible for their entry into the workforce.</description></item><item><title>Corda</title><link>https://alainnicolas.fr/en/series/corda/</link><pubDate>Mon, 11 Mar 2019 09:00:23 +0000</pubDate><guid>https://alainnicolas.fr/en/series/corda/</guid><description>Discovery of Corda, the DLT developed by consortium R3 that claims to be a blockchain. Right or wrong?</description></item><item><title>Meetups at Talan</title><link>https://alainnicolas.fr/en/series/meetups-talan/</link><pubDate>Tue, 24 Oct 2017 09:00:23 +0000</pubDate><guid>https://alainnicolas.fr/en/series/meetups-talan/</guid><description>The reports of the meetups hosted by Talan that I had the pleasure of welcoming.</description></item><item><title>What is Talan Coin?</title><link>https://alainnicolas.fr/en/blog/what-is-talancoin/</link><pubDate>Tue, 17 Oct 2017 15:39:11 +0000</pubDate><guid>https://alainnicolas.fr/en/blog/what-is-talancoin/</guid><description>First presented on October 4 at the 1st Parliamentary Forum of the Blockchain, the virtual currency of the Talan group is about to enter the production phase. An opportunity to present in detail the ins and outs of a project, and an initiative unlike any other: Talan Coin!
-Talan Coin Banner Blockchain, everyone talks about it, from mainstream media to the most innovative startups. And yet, few are the ideas that go as far as the production phase.</description></item><item><title>Java EE: new direction</title><link>https://alainnicolas.fr/en/series/java-ee-new-direction/</link><pubDate>Wed, 16 Nov 2016 09:00:23 +0000</pubDate><guid>https://alainnicolas.fr/en/series/java-ee-new-direction/</guid><description>Perhaps for you the summer 2016 series was Stranger Things, but in the vast world of Java, a completely different series with multiple twists and turns has attracted all attention. Acquisition, rebellion, and polls, dive into the revolution of Java EE!</description></item><item><title>Android</title><link>https://alainnicolas.fr/en/tags/android/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/android/</guid><description/></item><item><title>Angular</title><link>https://alainnicolas.fr/en/tags/angular/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/angular/</guid><description/></item><item><title>AsciiDoc</title><link>https://alainnicolas.fr/en/tags/asciidoc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/asciidoc/</guid><description/></item><item><title>Asseth</title><link>https://alainnicolas.fr/en/tags/asseth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/asseth/</guid><description/></item><item><title>Azure DevOps</title><link>https://alainnicolas.fr/en/tags/azure-devops/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/azure-devops/</guid><description/></item><item><title>Bitcoin</title><link>https://alainnicolas.fr/en/tags/bitcoin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/bitcoin/</guid><description/></item><item><title>Blockchain</title><link>https://alainnicolas.fr/en/tags/blockchain/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/blockchain/</guid><description/></item><item><title>Blogging</title><link>https://alainnicolas.fr/en/tags/blogging/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/blogging/</guid><description/></item><item><title>Corda</title><link>https://alainnicolas.fr/en/tags/corda/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/corda/</guid><description/></item><item><title>Development</title><link>https://alainnicolas.fr/en/tags/development/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/development/</guid><description/></item><item><title>DLT</title><link>https://alainnicolas.fr/en/tags/dlt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/dlt/</guid><description/></item><item><title>Docker</title><link>https://alainnicolas.fr/en/tags/docker/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/docker/</guid><description/></item><item><title>EPF</title><link>https://alainnicolas.fr/en/tags/epf/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/epf/</guid><description/></item><item><title>Ethereum</title><link>https://alainnicolas.fr/en/tags/ethereum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/ethereum/</guid><description/></item><item><title>Ganache</title><link>https://alainnicolas.fr/en/tags/ganache/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/ganache/</guid><description/></item><item><title>GDPR</title><link>https://alainnicolas.fr/en/tags/rgpd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/rgpd/</guid><description/></item><item><title>Git</title><link>https://alainnicolas.fr/en/tags/git/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/git/</guid><description/></item><item><title>GitHub</title><link>https://alainnicolas.fr/en/tags/github/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/github/</guid><description/></item><item><title>GitLab</title><link>https://alainnicolas.fr/en/tags/gitlab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/gitlab/</guid><description/></item><item><title>Google</title><link>https://alainnicolas.fr/en/tags/google/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/google/</guid><description/></item><item><title>Gradle</title><link>https://alainnicolas.fr/en/tags/gradle/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/gradle/</guid><description/></item><item><title>Hardhat</title><link>https://alainnicolas.fr/en/tags/hardhat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/hardhat/</guid><description/></item><item><title>Hugo</title><link>https://alainnicolas.fr/en/tags/hugo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/hugo/</guid><description/></item><item><title>Hyperledger Fabric</title><link>https://alainnicolas.fr/en/tags/hyperledger-fabric/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/hyperledger-fabric/</guid><description/></item><item><title>Insights</title><link>https://alainnicolas.fr/en/tags/insights/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/insights/</guid><description>Insights.io is a competitor to Google Analytics that stands out for being much less invasive regarding the privacy of visitors to the sites it is used on.
-By not depositing any cookies, it collects less information while still retaining what really matters: which pages are visited, for how long, etc. This tool allows us to do away with the &amp;ldquo;cookie consent&amp;rdquo; banners that often detract from our web experience.
-To gather this information, Insights.</description></item><item><title>IntelliJ IDEA</title><link>https://alainnicolas.fr/en/tags/intellij-idea/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/intellij-idea/</guid><description/></item><item><title>iOS</title><link>https://alainnicolas.fr/en/tags/ios/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/ios/</guid><description/></item><item><title>Java</title><link>https://alainnicolas.fr/en/tags/java/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/java/</guid><description/></item><item><title>Java Swing</title><link>https://alainnicolas.fr/en/tags/java-swing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/java-swing/</guid><description/></item><item><title>JavaScript</title><link>https://alainnicolas.fr/en/tags/javascript/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/javascript/</guid><description/></item><item><title>Jira</title><link>https://alainnicolas.fr/en/tags/jira/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/jira/</guid><description/></item><item><title>jQuery</title><link>https://alainnicolas.fr/en/tags/jquery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/jquery/</guid><description/></item><item><title>JSP</title><link>https://alainnicolas.fr/en/tags/jsp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/jsp/</guid><description/></item><item><title>Kanban</title><link>https://alainnicolas.fr/en/tags/kanban/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/kanban/</guid><description/></item><item><title>Markdown</title><link>https://alainnicolas.fr/en/tags/markdown/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/markdown/</guid><description/></item><item><title>Maven</title><link>https://alainnicolas.fr/en/tags/maven/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/maven/</guid><description/></item><item><title>Meetup</title><link>https://alainnicolas.fr/en/tags/meetup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/meetup/</guid><description/></item><item><title>Microsoft</title><link>https://alainnicolas.fr/en/tags/microsoft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/microsoft/</guid><description/></item><item><title>MongoDB</title><link>https://alainnicolas.fr/en/tags/mongodb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/mongodb/</guid><description/></item><item><title>mySQL</title><link>https://alainnicolas.fr/en/tags/mysql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/mysql/</guid><description/></item><item><title>NestJS</title><link>https://alainnicolas.fr/en/tags/nestjs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/nestjs/</guid><description/></item><item><title>Node.js</title><link>https://alainnicolas.fr/en/tags/nodejs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/nodejs/</guid><description/></item><item><title>NPM</title><link>https://alainnicolas.fr/en/tags/npm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/npm/</guid><description/></item><item><title>OracleDB</title><link>https://alainnicolas.fr/en/tags/oracledb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/oracledb/</guid><description/></item><item><title>Perso</title><link>https://alainnicolas.fr/en/tags/perso/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/perso/</guid><description/></item><item><title>pnpm</title><link>https://alainnicolas.fr/en/tags/pnpm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/pnpm/</guid><description/></item><item><title>PostgreSQL</title><link>https://alainnicolas.fr/en/tags/postgresql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/postgresql/</guid><description/></item><item><title>Quorum</title><link>https://alainnicolas.fr/en/tags/quorum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/quorum/</guid><description/></item><item><title>R3</title><link>https://alainnicolas.fr/en/tags/r3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/r3/</guid><description/></item><item><title>React</title><link>https://alainnicolas.fr/en/tags/react/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/react/</guid><description/></item><item><title>Scrum</title><link>https://alainnicolas.fr/en/tags/scrum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/scrum/</guid><description/></item><item><title>Security</title><link>https://alainnicolas.fr/en/tags/security/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/security/</guid><description/></item><item><title>Solidity</title><link>https://alainnicolas.fr/en/tags/solidity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/solidity/</guid><description/></item><item><title>SonarQube</title><link>https://alainnicolas.fr/en/tags/sonarqube/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/sonarqube/</guid><description/></item><item><title>Spring Boot</title><link>https://alainnicolas.fr/en/tags/spring-boot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/spring-boot/</guid><description/></item><item><title>Spring MVC</title><link>https://alainnicolas.fr/en/tags/spring-mvc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/spring-mvc/</guid><description/></item><item><title>Spring REST Docs</title><link>https://alainnicolas.fr/en/tags/spring-rest-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/spring-rest-docs/</guid><description/></item><item><title>Tarteaucitron</title><link>https://alainnicolas.fr/en/tags/tarteaucitron/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/tarteaucitron/</guid><description/></item><item><title>Training</title><link>https://alainnicolas.fr/en/tags/formation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/formation/</guid><description/></item><item><title>Truffle</title><link>https://alainnicolas.fr/en/tags/truffle/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/truffle/</guid><description/></item><item><title>TypeScript</title><link>https://alainnicolas.fr/en/tags/typescript/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/typescript/</guid><description/></item><item><title>Vault</title><link>https://alainnicolas.fr/en/tags/vault/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/vault/</guid><description/></item><item><title>Vue.js</title><link>https://alainnicolas.fr/en/tags/vuejs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/vuejs/</guid><description/></item><item><title>Waterfall</title><link>https://alainnicolas.fr/en/tags/cycle-en-v/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/cycle-en-v/</guid><description/></item><item><title>Windows</title><link>https://alainnicolas.fr/en/tags/windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/windows/</guid><description/></item><item><title>WordPress</title><link>https://alainnicolas.fr/en/tags/wordpress/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/wordpress/</guid><description/></item><item><title>Yarn</title><link>https://alainnicolas.fr/en/tags/yarn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alainnicolas.fr/en/tags/yarn/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on Alain Nicolas</title>
+    <link>https://alainnicolas.fr/en/</link>
+    <description>Recent content in Homepage on Alain Nicolas</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jan 2024 22:16:30 +0100</lastBuildDate>
+    <atom:link href="https://alainnicolas.fr/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snaps Permissionless Distribution</title>
+      <link>https://alainnicolas.fr/en/projects/permissionless-snaps-distribution/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/permissionless-snaps-distribution/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_context&#34;&gt;The context&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Since the launch of the MetaMask platform allowing the creation and use of &amp;#34;plugins&amp;#34; on the wallet, these &amp;#34;Snaps&amp;#34; must be validated by Consensys. Indeed, it is necessary to verify that they respect the imposed security rules, but also the good development and marketing practices pushed by the platform.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;This validation being totally centralized and relying only on a company, one can see an opposition to the thesis of decentralization and freedom advocated by the web3 ecosystem.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Verax Attestation Registry</title>
+      <link>https://alainnicolas.fr/en/projects/verax-attestation-registry/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/verax-attestation-registry/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_context&#34;&gt;The context&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;The first event of the &amp;#34;Linea Voyage&amp;#34;, a quest where participants had to discover the ecosystem of applications and protocols deployed on Linea, met with major enthusiasm.&#xA;Added to this is the possibility of an airdrop on the same network.&#xA;Almost automatically, these circumstances led to the appearance of &amp;#34;sybils&amp;#34;, in other words, multiple Ethereum accounts owned by a single person, to maximize their exposure to a potential airdrop.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Lineaster</title>
+      <link>https://alainnicolas.fr/en/projects/lineaster/</link>
+      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/lineaster/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_context&#34;&gt;The context&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;As part of the launch of its ZK-EVM type network, Consensys wanted to organize an event to invite as many users as possible to interact with the network.&#xA;Indeed, it was both about making it known, and testing its ability to support a large number of users.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;But to bring a large number of testers, they needed a reason to come.&#xA;That’s why, during the &amp;#34;Testnet Voyage&amp;#34;, Consensys chose to rely on applications around DeFi, but also identity with the ENS protocol, or the Lens protocol for the social aspect.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Crypto-lending Platform</title>
+      <link>https://alainnicolas.fr/en/projects/crypto-lending/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/crypto-lending/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_client&#34;&gt;The client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;For confidentiality reasons, the name of this client cannot be revealed.&#xA;They are a company already well established in the web3 domain, looking to expand their reach.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_project&#34;&gt;The project&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;The project involves the creation of a centralized cryptocurrency lending platform, against collateral provided by users.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Therefore, it was necessary to create a user interface that is understandable and clear enough to attract the largest number, but also to provide all the standard features in this type of application.&#xA;This interface also comes in an &amp;#34;administrator&amp;#34; version to set the cryptocurrencies available as collateral or to borrow, the current loan offers, etc.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>RoxTheCasbah</title>
+      <link>https://alainnicolas.fr/en/projects/roxthecasbah/</link>
+      <pubDate>Sat, 06 May 2023 15:00:28 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/roxthecasbah/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_context&#34;&gt;The context&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Creation of a blog for my partner, &lt;a href=&#34;https://roxthecasbah.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RoxTheCasbah&lt;/a&gt;, to share her passion for knitting and sewing.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_technical_solution&#34;&gt;The technical solution&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_the_first_version&#34;&gt;The first version&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;The first version of the site used &lt;a href=&#34;https://ghost.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ghost&lt;/a&gt;, a complete blogging solution competing with &lt;a href=&#34;https://wordpress.com/fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;. Based on an open-source and free tool, the blog was hosted on a small AWS machine.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_the_second_version&#34;&gt;The second version&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;In January 2021, I chose to switch to a static site generator, &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;, in order to be able to host the generated pages for free.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>This Site</title>
+      <link>https://alainnicolas.fr/en/projects/this-site/</link>
+      <pubDate>Sat, 06 May 2023 15:00:28 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/this-site/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_context&#34;&gt;Context&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Creation of this &lt;a href=&#34;https://alainnicolas.fr/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;site&lt;/a&gt; to introduce myself and share my passions.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;My first desire was to showcase my skills in a more controlled way than, for example, on LinkedIn. Similarly, in order to efficiently centralize the articles I have written on &lt;a href=&#34;https://alainncls.medium.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medium&lt;/a&gt; or &lt;a href=&#34;https://blog.talanlabs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talan Labs&amp;#39; blog&lt;/a&gt;, I needed a blog.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_technical_solution&#34;&gt;Technical Solution&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_the_tool&#34;&gt;The Tool&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;This site is designed using a static site generator, &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;, and hosted for free thanks to &amp;#34;GitHub Pages&amp;#34; service.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Atelier 58</title>
+      <link>https://alainnicolas.fr/en/projects/atelier-58/</link>
+      <pubDate>Sat, 18 Dec 2021 15:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/atelier-58/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_context&#34;&gt;The context&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Creation of the showcase site for the hair salon &amp;#34;Atelier 58&amp;#34; in Paris.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_technical_solution&#34;&gt;The technical solution&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_tools&#34;&gt;Tools&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;This site is designed using a static site generator, &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Integration of the &lt;a href=&#34;https://www.planity.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Planity&lt;/a&gt; service for making appointments.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Implementation of navigation statistics tracking via &lt;a href=&#34;https://getinsights.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Insights&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_theme&#34;&gt;Theme&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;In order to save time, but also to best meet the needs of such a business, I started from the theme &amp;#34;&lt;a href=&#34;https://github.com/zerostaticthemes/hugo-hero-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Hero Theme&lt;/a&gt;&amp;#34;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_hosting&#34;&gt;Hosting&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;This site is hosted via &lt;a href=&#34;https://netlify.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Netlify&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>BNP CIB - Blockchain-as-a-Service</title>
+      <link>https://alainnicolas.fr/en/projects/bnp-blockchain/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/bnp-blockchain/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_client&#34;&gt;The Client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;As a major player in the banking sector, BNP Paribas must stay at the forefront of available technologies. This is how blockchain and DLT technologies have become essential.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Like many large companies, BNP is divided into several entities that can all participate in the same project, which is not without raising challenges around collaboration.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_project&#34;&gt;The Project&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;To allow all BNP entities to experiment on the blockchain before easily joining a decentralized consortium, it was necessary to make accessible technologies that we can qualify as exotic.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Coface</title>
+      <link>https://alainnicolas.fr/en/projects/coface/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/coface/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_client&#34;&gt;The client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Coface is a major player in credit insurance. In order to remain competitive and gain new market share, the company needs to regularly offer new software products and solutions to its customers.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_project&#34;&gt;The project&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Optimization and evolution of a web application (Cofanet Policy Master &amp;amp; Cofanet Policy Master Administration) for paying customers.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;To achieve this, a technical refactoring of the project architecture and a redesign of the major features of the application were needed.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>e-Paye</title>
+      <link>https://alainnicolas.fr/en/projects/epaye/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/epaye/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_client&#34;&gt;The client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;e-Paye develops software dedicated to HRIS: payroll, digital safe, HR management, interview management, etc.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_project&#34;&gt;The project&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Among the e-Paye modules, the one allowing the generation of payslips is particularly important and complex. Indeed, it must take into account sometimes changing legislation, but also be able to generate a large number of payslips in a short amount of time.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_technical_stack&#34;&gt;Technical stack&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_client_side&#34;&gt;Client-side&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;JavaScript, HTML5, CSS3, jQuery, Ajax&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_server_side&#34;&gt;Server-side&lt;/h3&gt;&#xA;&lt;div class=&#34;ulist&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Spring (Core, MVC, Security, Data)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Java 8&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>EDF Commerce - Craftsmanship Evangelization</title>
+      <link>https://alainnicolas.fr/en/projects/edf/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/edf/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_client&#34;&gt;The client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;EDF Commerce’s Digital Department has a dedicated team for PoC realization for the group’s various businesses.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_mission&#34;&gt;The mission&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;The mission is to evangelize on the concepts of craftsmanship and industrialize the best practices to be implemented.&#xA;This is how I was able to initiate the implementation of the first CI/CD pipelines via GitLab and Jenkins, but also push the use of SonarQube for code quality monitoring and Nexus for depositing generated artifacts.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>FuturMaster - Calibrate Model</title>
+      <link>https://alainnicolas.fr/en/projects/futurmaster-calibrate-model/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/futurmaster-calibrate-model/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_client&#34;&gt;The Client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;FuturMaster, a software editor specializing in supply chain management, called on Talan Labs to reinforce its development teams and speed up the redesign of its tool suite.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_project&#34;&gt;The Project&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;That’s how I became part of the first agile squad, made up of 3 developers, 1 designer and 1 Scrum Master. We were tasked with the redesign of the &lt;em&gt;Calibrate Model&lt;/em&gt; module, which aims to display the sales history of a product and simulate its future sales.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>FuturMaster - Master Data</title>
+      <link>https://alainnicolas.fr/en/projects/futurmaster-master-data/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/futurmaster-master-data/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_client&#34;&gt;Client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;FuturMaster, a software editor specializing in supply chain management, called upon Talan Labs to strengthen its development teams and accelerate the revamp of its suite of tools.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_project&#34;&gt;Project&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Following the success of the first Talan Labs squad’s intervention at FuturMaster on the &lt;a href=&#34;https://alainnicolas.fr/en/projects/futurmaster-calibrate-model/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calibrate Model&lt;/a&gt; project, we embarked on the revamp of the &lt;em&gt;Master Data&lt;/em&gt; module, which centralizes the data repository that feeds the other software suite modules.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;In parallel with the development of functional &lt;em&gt;user stories&lt;/em&gt;, there are many technical topics to consider, such as a reflection on the future database best suited to the specifics of the objects to be manipulated.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Gefco - Opteam</title>
+      <link>https://alainnicolas.fr/en/projects/gefco/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/gefco/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_client&#34;&gt;The client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Gefco is a major player in logistics and in particular in the transportation of automotive parts.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_project&#34;&gt;The project&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Development of a scheduling system under constraints.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_technical_stack&#34;&gt;Technical stack&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_desktop_application&#34;&gt;Desktop application&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Java Swing&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_database&#34;&gt;Database&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;OracleDB&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Share2gether</title>
+      <link>https://alainnicolas.fr/en/projects/share2gether/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/share2gether/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_context&#34;&gt;Context&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Share2Gether aims to create an event organization solution, similar to what &lt;a href=&#34;https://www.meetup.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meetup.com&lt;/a&gt; offers.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;I had the opportunity to share more details about this experience in a &lt;a href=&#34;https://alainnicolas.fr/en/blog/blockchain-from-a-school-project-to-the-business-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dedicated article&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_technical_stack&#34;&gt;Technical Stack&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_client_side&#34;&gt;Client Side&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;The front-end is a Vue.js application that communicates with smart contracts deployed on the blockchain using the web3.js library.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_blockchain_side&#34;&gt;Blockchain Side&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Smart contracts written in Solidity are deployed on an Ethereum blockchain. Standard contracts provided by OpenZeppelin are used.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Talan Coin</title>
+      <link>https://alainnicolas.fr/en/projects/talan-talancoin/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/talan-talancoin/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_context&#34;&gt;The Context&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Like all companies, Talan seeks to catalyze collaboration within itself. In addition, Talan wishes to strengthen its unity as a group despite distinct entities and a presence on 4 continents, and develop a horizontal organization far from classic vertical hierarchies.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;An internal currency, common to all employees regardless of their location or hierarchical role, makes it possible to find a common point among all the actors in the company. It is also a way to allow everyone to better exchange, including between distinct teams, thus affirming a horizontal hierarchy.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Talan Labs Blog</title>
+      <link>https://alainnicolas.fr/en/projects/talan-blog-labs/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/talan-blog-labs/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_context&#34;&gt;Context&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Maintenance of the &lt;a href=&#34;https://blog.talanlabs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talan Labs blog&lt;/a&gt;, writing articles, before a complete overhaul in 2019/2020.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;The Talan Labs blog allows for sharing the knowledge of &lt;a href=&#34;https://talan.com/metiers/labs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talan Labs&lt;/a&gt; employees.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure style=&#34;text-align: center;&#34;&gt;&#xA;&#xA;    &#xA;        &#xA;&#xA;        &#xA;        &#xA;        &#xA;&#xA;        &#xA;&#xA;        &#xA;        &#xA;        &#xA;&#xA;        &#xA;&#xA;        &#xA;        &#xA;        &#xA;&#xA;        &#xA;        &lt;img loading=&#34;lazy&#34; style=&#34;max-width: 100%&#34;&#xA;            &#xA;                sizes=&#34;(min-width: 35em) 720px, 100vw&#34;&#xA;                srcset=&#39;&#xA;                    &#xA;                        /en/projects/talan-blog-labs/blog_banner_hu249631478571605834.webp 500w&#xA;                    &#xA;                    &#xA;                        , /en/projects/talan-blog-labs/blog_banner_hu10965946152695865525.webp 800w&#xA;                    &#xA;                    &#xA;                        , /en/projects/talan-blog-labs/blog_banner_hu499861228744919420.webp 1200w&#xA;                    &#39;&#xA;                    &#xA;                        src=&#34;https://alainnicolas.fr/en/projects/talan-blog-labs/blog_banner.png&#34;&#xA;                    &#xA;                alt=&#34;Preview of Talan Labs blog&#34;&gt;&#xA;            &#xA;    &lt;figcaption&gt;&#xA;        &lt;small&gt;&#xA;            &#xA;        &lt;/small&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_technical_solution&#34;&gt;Technical Solution&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_legacy_version&#34;&gt;Legacy version&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;The first version of the site used &lt;a href=&#34;https://wordpress.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;, a well-known solution.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_overhaul&#34;&gt;Overhaul&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Given the difficulty of keeping such a site up to date while ensuring its security, we chose to radically change the technology to significantly reduce the attack surface.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>VINCI Construction Terrassement - VCoin</title>
+      <link>https://alainnicolas.fr/en/projects/vct-vcoin/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/vct-vcoin/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_context&#34;&gt;The Context&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;After the success of &lt;a href=&#34;https://alainnicolas.fr/en/projects/talan-talancoin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talan Coin&lt;/a&gt;, the VINCI group wanted to experiment with its own version of the application.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;This is how we instantiated the VCoin application, with some specific features setting it apart from Talan Coin.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_technical_stack&#34;&gt;The Technical Stack&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_client_side&#34;&gt;Client Side&lt;/h3&gt;&#xA;&lt;div class=&#34;ulist&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Native iOS application&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Native Android application&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Angular web applications:&lt;/p&gt;&#xA;&lt;div class=&#34;ulist&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Dashboard for statistical tracking and administration&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Store for objects and services payable in Talan Coins&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Desktop client (not in production)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Manage your double life on Git!</title>
+      <link>https://alainnicolas.fr/en/blog/manage-your-double-life-on-git/</link>
+      <pubDate>Tue, 02 May 2023 20:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/manage-your-double-life-on-git/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Are you coding for work and personal projects on the same computer?&#xA;Then you probably find yourself regularly committing with your personal email address on your professional projects, and vice versa.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;And it’s annoying, isn’t it?&#xA;Constantly having to rewrite the history on one side, the other side, with commits that are already finalized on a protected &lt;code&gt;main&lt;/code&gt; branch, etc.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure style=&#34;text-align: center;&#34;&gt;&#xA;&#xA;    &#xA;        &#xA;&#xA;        &#xA;        &#xA;        &#xA;&#xA;        &#xA;&#xA;        &#xA;        &#xA;        &#xA;&#xA;        &#xA;&#xA;        &#xA;        &#xA;        &#xA;&#xA;        &#xA;        &lt;img loading=&#34;lazy&#34; style=&#34;max-width: 100%&#34;&#xA;            &#xA;                sizes=&#34;(min-width: 35em) 720px, 100vw&#34;&#xA;                srcset=&#39;&#xA;                    &#xA;                        /en/blog/manage-your-double-life-on-git/logo_git_hu475152417539439725.webp 500w&#xA;                    &#xA;                    &#xA;                        , /en/blog/manage-your-double-life-on-git/logo_git_hu10148535072768854449.webp 800w&#xA;                    &#xA;                    &#xA;                        , /en/blog/manage-your-double-life-on-git/logo_git_hu17568161309998721694.webp 1200w&#xA;                    &#39;&#xA;                    &#xA;                        src=&#34;https://alainnicolas.fr/en/blog/manage-your-double-life-on-git/logo_git.png&#34;&#xA;                    &#xA;                alt=&#34;Git Logo&#34;&gt;&#xA;            &#xA;    &lt;figcaption&gt;&#xA;        &lt;small&gt;&#xA;            &#xA;        &lt;/small&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Free up space with npkill</title>
+      <link>https://alainnicolas.fr/en/blog/free-up-space-with-npkill/</link>
+      <pubDate>Mon, 01 May 2023 10:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/free-up-space-with-npkill/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Do you also have dozens of JavaScript/TypeScript projects buried in more or less well-organized folders on your computer?&#xA;You know, those personal projects abandoned after the first commit and long-finished professional projects…​&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;And at the same time, you see your hard drive filling up?&#xA;Well, &lt;strong&gt;npm&lt;/strong&gt; has the bad habit of downloading half the internet with each installation…​&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Here’s the solution to free up space without hassle and keep your revolutionary application project that barely started.&#xA;Four years ago.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Sort your dependencies!</title>
+      <link>https://alainnicolas.fr/en/blog/sort-your-dependencies/</link>
+      <pubDate>Sat, 29 Apr 2023 08:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/sort-your-dependencies/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_context&#34;&gt;The Context&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Dependency management is a crucial aspect of any project.&#xA;In the Node.js world, &lt;strong&gt;npm&lt;/strong&gt; is the standard tool for installing and managing dependencies, but let’s not forget its counterparts &lt;strong&gt;yarn&lt;/strong&gt; and &lt;strong&gt;pnpm&lt;/strong&gt;.&#xA;The &lt;code&gt;package.json&lt;/code&gt; file lists all the dependencies and their versions.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;When working on a team project, it’s important to maintain the &lt;code&gt;package.json&lt;/code&gt; file consistently.&#xA;And that’s where the &lt;strong&gt;sort-package-json&lt;/strong&gt; package comes in.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_sort_package_json&#34;&gt;sort-package-json&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;It allows you to sort the &lt;code&gt;package.json&lt;/code&gt; file alphabetically based on package names.&#xA;This ensures consistency in the order of dependencies, making the file more readable and maintainable.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Blog It Yourself - Take it to the next level</title>
+      <link>https://alainnicolas.fr/en/blog/blog-it-yourself-take-it-to-the-next-level/</link>
+      <pubDate>Fri, 28 Apr 2023 08:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/blog-it-yourself-take-it-to-the-next-level/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Now that your blog is online and you’re motivated to write articles, it’s time to take it to the next level.&#xA;Regardless of what anyone says, having readers and receiving feedback (preferably positive) boosts your ego and encourages you to do more and improve.&#xA;But don’t forget, your blog is primarily YOUR blog.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_consider_a_post_as_a_reminder&#34;&gt;Consider a Post as a Reminder&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;I believe it’s an excellent way to take ownership of your blog while increasing the publishing frequency: every time you learn something, you should write a post about it.&#xA;Your blog then becomes an extension of your brain, capturing everything you can never seem to remember.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Blog It Yourself - My experience</title>
+      <link>https://alainnicolas.fr/en/blog/blog-it-yourself-my-experience/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/blog-it-yourself-my-experience/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;As we discussed in the &lt;a href=&#34;https://alainnicolas.fr/en/blog/blog-it-yourself-what-holds-us-back/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous article&lt;/a&gt;, there are many obstacles that prevent us from writing articles.&#xA;Here, I share my experience on how to overcome them.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Let’s explore how to overcome the dreaded writer’s block for developers!&#xA;And let’s tackle the impostor syndrome that often immobilizes us.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;To be completely transparent, I frequently face these obstacles myself.&#xA;First and foremost within myself, but also among the people I’ve had the pleasure of working with for years.&#xA;Here are some tips that I try to follow and share.&#xA;Keep in mind that what works for me may not work for everyone…​&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Blog It Yourself - What holds us back</title>
+      <link>https://alainnicolas.fr/en/blog/blog-it-yourself-what-holds-us-back/</link>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/blog-it-yourself-what-holds-us-back/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;You have a beautiful blog, perhaps thanks to the &lt;a href=&#34;https://alainnicolas.fr/en/blog/blog-it-yourself-hugo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous article&lt;/a&gt;, but you struggle to write articles for it?&#xA;It’s normal…​ There are numerous and real obstacles.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;There are many &amp;#34;excuses&amp;#34; for not getting started, and most of the time, we believe in them wholeheartedly!&#xA;Let me share the three main reasons I’ve heard for not writing articles.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_i_dont_have_the_expertise_to_write_articles&#34;&gt;I don’t have the expertise to write articles&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Clearly the main reason that prevents all of us from getting started.&#xA;The infamous &amp;#34;Imposter Syndrome&amp;#34;…​&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Blog It Yourself - Hugo</title>
+      <link>https://alainnicolas.fr/en/blog/blog-it-yourself-hugo/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/blog-it-yourself-hugo/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;I was discussing the choice and use of Ghost as a blogging tool.&#xA;After 18 months of use, for the reasons mentioned at the end of the [previous article](link:/en/blog/blog-it-yourself-ghost), I decided to change platforms.&#xA;And also because after the free 12 months of the AWS instance, it was necessary to pay, even if it remains small amounts.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_static_site_generator&#34;&gt;Static Site Generator?&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;First and foremost, it is important to understand that this is not just a technical solution change, but a change in mindset.&#xA;WordPress or Ghost are software that expose a website along with writing and administration tools.&#xA;In contrast, Hugo is just a site generator.&#xA;It takes a theme and a list of content and generates HTML pages …​ that’s it!&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Rewrite your Git history (and fast)</title>
+      <link>https://alainnicolas.fr/en/blog/rewrite-your-git-history-and-fast/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/rewrite-your-git-history-and-fast/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;In cleaning up my repositories on GitHub, I came across old projects, some of which are ancient.&#xA;Let’s not dwell on the shame one can feel when looking at code written almost 10 years ago; it’s inevitably very ugly…​&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;But one thing caught my attention: many commits are not associated with my username or do not display my profile picture.&#xA;Strange, since the most recent ones seem to correspond to my username and show my picture.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Blog It Yourself - Ghost</title>
+      <link>https://alainnicolas.fr/en/blog/blog-it-yourself-ghost/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/blog-it-yourself-ghost/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;I mentioned it in my &lt;a href=&#34;https://alainnicolas.fr/en/blog/blog-it-yourself-the-choice&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article&lt;/a&gt; about choosing a blog platform, the first choice for creating the blog &lt;a href=&#34;https://roxthecasbah.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RoxTheCasbah&lt;/a&gt; was Ghost.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;So here’s an experience report on the installation, configuration, and usage of Ghost, which presents itself as an alternative to WordPress, simpler, lighter, and more modern.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_hosting&#34;&gt;Hosting&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Let’s leave aside the paid version of Ghost that offers hosting by the company, and thus minimal configuration for the user.&#xA;Let’s focus on the free and open-source version of the tool, to be self-hosted.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Blog It Yourself</title>
+      <link>https://alainnicolas.fr/en/series/blog-it-yourself/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/series/blog-it-yourself/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;In my opinion, all developers should have a blog!&#xA;But how do you get started?&#xA;Let’s explore the tools and techniques of writing.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Blog It Yourself - The choice</title>
+      <link>https://alainnicolas.fr/en/blog/blog-it-yourself-the-choice/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/blog-it-yourself-the-choice/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;When my partner came up with the idea of creating &lt;a href=&#34;https://roxthecasbah.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a blog&lt;/a&gt; to share her passions, the question of technical choice quickly arose.&#xA;Among developers (or &amp;#34;geeks,&amp;#34; as some would say), we couldn’t avoid the debate…​&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Yes, for years and for a good while longer, anyone looking to create a website quickly is likely to turn to &lt;a href=&#34;https://wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;.&#xA;Simply because the platform has proven itself over a long period and is by far the most widely used.&#xA;More than 40% of currently active websites are based on WordPress (source : &lt;a href=&#34;https://kinsta.com/fr/part-de-marche-de-wordpress/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kinsta&lt;/a&gt;).&#xA;That’s simply enormous…​&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Goodbye Google (Analytics)!</title>
+      <link>https://alainnicolas.fr/en/blog/goodbye-google-analytics/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/goodbye-google-analytics/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Let’s start with a little quote:&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;quoteblock&#34;&gt;&#xA;&lt;blockquote&gt;&#xA;&amp;#34;New year, new me&amp;#34;&#xA;&lt;/blockquote&gt;&#xA;&lt;div class=&#34;attribution&#34;&gt;&#xA;— Too many people,too often&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_good_resolution&#34;&gt;The Good Resolution&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Let’s avoid resolutions that we won’t keep.&#xA;Nevertheless, let’s try to improve ourselves regularly…​&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;To start the year 2022, I have decided to do without Google Analytics to track visits to my site.&#xA;Firstly, because avoiding Google is always a good idea, and secondly, because it is possible to achieve almost the same results without tracking our visitors.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Make documentation great again (Bonus)</title>
+      <link>https://alainnicolas.fr/en/blog/make-documentation-great-again-bonus/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/make-documentation-great-again-bonus/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;After the &lt;a href=&#34;../make-documentation-great-again-part-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;general presentation of Spring REST Docs&lt;/a&gt;, I propose to go further by exploring small improvements that will make all the difference!&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;We will continue to base ourselves on my demonstration project available on GitHub: &lt;a href=&#34;https://github.com/alainncls/demo-spring-rest-docs&#34;&gt;demo-spring-rest-docs&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_expose_the_documentation_automagically&#34;&gt;Expose the documentation &amp;#34;automagically&amp;#34;&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;As we have seen, we are now able to generate an HTML page containing the documentation of our API.&#xA;But that’s not the best way to make it available to API consumers, we can do better than that!&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Make documentation great again (2/2)</title>
+      <link>https://alainnicolas.fr/en/blog/make-documentation-great-again-part-2/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/make-documentation-great-again-part-2/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;We have previously seen a &lt;a href=&#34;../make-documentation-great-again-part-1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;presentation of the AsciiDoc language&lt;/a&gt; and the benefits of &amp;#34;Documentation as Code&amp;#34;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;However, it is possible to make the documentation writing process even easier!&#xA;It is customary to document the API that we develop to facilitate its maintenance and interactions with its consumers.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Even though one of the 4 values of agility promotes &amp;#34;working software over comprehensive documentation,&amp;#34; we will see that we can provide both at the same time with a particularly useful tool.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>(Easily) Make your website GDPR compliant!</title>
+      <link>https://alainnicolas.fr/en/blog/easily-make-your-website-gdpr-compliant/</link>
+      <pubDate>Fri, 15 Oct 2021 13:02:05 +0100</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/easily-make-your-website-gdpr-compliant/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Do you also love the consent banners that are now found on (almost) every website and dream of having one on your own?&#xA;It’s normal, it looks so much more professional…​ And it’s also about respecting the rules!&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_gdpr_the_real_cookie_monster&#34;&gt;GDPR, the real Cookie Monster&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_what_is_a_cookie&#34;&gt;What is a cookie?&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;It is a small, fairly simple file that is placed in our browser when we visit certain websites.&#xA;It is used, among other things, to identify us during our next visit.&lt;br/&gt;&#xA;This can sometimes be quite useful: the website can anticipate our display preferences, for example.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Make documentation great again</title>
+      <link>https://alainnicolas.fr/en/series/make-documentation-great-again/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/en/series/make-documentation-great-again/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Who likes writing documentation for their product or API? Who is tired of finding outdated documentation when arriving on a project?&#xA;Are you a developer and feel concerned? It’s time to switch to &amp;#34;Documentation as Code&amp;#34;!&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;It is customary to document the API we develop, to facilitate its maintenance and interactions with its &amp;#34;consumers&amp;#34;.&#xA;Even if one of the 4 values of agility promotes &amp;#34;working software over comprehensive documentation&amp;#34;, we will see that we can propose both at the same time thanks to a particularly practical tool.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Make documentation great again (1/2)</title>
+      <link>https://alainnicolas.fr/en/blog/make-documentation-great-again-part-1/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/make-documentation-great-again-part-1/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Who enjoys writing documentation for their product or API?&#xA;Who is tired of finding outdated documentation when joining a project?&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Are you a developer who can relate?&#xA;It’s time to switch to &amp;#34;Documentation as Code&amp;#34;!&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_documentation_everyone_knows&#34;&gt;The documentation everyone knows&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;The most basic example of &amp;#34;Documentation as Code&amp;#34; is the traditional &lt;code&gt;README.md&lt;/code&gt; file at the root of every project.&#xA;Ideally, this file contains the minimal documentation for the project, installation instructions, and perhaps a description of the main features.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Blockchain: From a school project to the business world</title>
+      <link>https://alainnicolas.fr/en/blog/blockchain-from-a-school-project-to-the-business-world/</link>
+      <pubDate>Wed, 04 Mar 2020 07:18:05 +0100</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/blockchain-from-a-school-project-to-the-business-world/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;As I have already mentioned in a [previous post](link:/en/blog/blockchain-training-engineers-of-tomorrow/), the partnership between Talan and EPF made me discover the role of a trainer.&#xA;But we went further by proposing a long-term project to a group of 5th-year students.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_shared_expectations&#34;&gt;Shared expectations&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Before diving into professional life through the end-of-studies internship, students must confront the business world through a 5-month project.&#xA;Between the school project and the real project, it is an opportunity to put into practice the acquired knowledge and discover the &amp;#34;real&amp;#34; work methods of a company.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Blockchain Training at EPF</title>
+      <link>https://alainnicolas.fr/en/series/formation-blockchain-epf/</link>
+      <pubDate>Sat, 18 Jan 2020 17:52:05 +0100</pubDate>
+      <guid>https://alainnicolas.fr/en/series/formation-blockchain-epf/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;For several years now, I have had the opportunity to teach students at EPF. Switching to the other side of teaching is not an easy task, especially without experience…​ The partnership with EPF has made me discover the role of trainer. We went further by mentoring a group of students on a project for a whole semester.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Feedback on some extraordinary days!&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Blockchain: Training the Engineers of Tomorrow</title>
+      <link>https://alainnicolas.fr/en/blog/blockchain-training-engineers-of-tomorrow/</link>
+      <pubDate>Sat, 18 Jan 2020 17:52:05 +0100</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/blockchain-training-engineers-of-tomorrow/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;For the past two years, I have had the opportunity and pleasure to work with students from EPF, a general engineering school where I graduated in 2015. Transitioning to the teaching side of things is no easy task, especially without prior experience, but returning to &amp;#34;my&amp;#34; school has greatly facilitated this change in perspective.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure style=&#34;text-align: center;&#34;&gt;&#xA;&#xA;    &#xA;        &#xA;&#xA;        &#xA;        &#xA;        &#xA;&#xA;        &#xA;&#xA;        &#xA;        &#xA;        &#xA;&#xA;        &#xA;&#xA;        &#xA;        &#xA;        &#xA;&#xA;        &#xA;        &lt;img loading=&#34;lazy&#34; style=&#34;max-width: 100%&#34;&#xA;            &#xA;                sizes=&#34;(min-width: 35em) 720px, 100vw&#34;&#xA;                srcset=&#39;&#xA;                    &#xA;                        /en/blog/blockchain-training-engineers-of-tomorrow/bc_epf_logo_hu5321169010101091610.webp 500w&#xA;                    &#xA;                    &#xA;                        , /en/blog/blockchain-training-engineers-of-tomorrow/bc_epf_logo_hu11272482980808584912.webp 800w&#xA;                    &#xA;                    &#xA;                        , /en/blog/blockchain-training-engineers-of-tomorrow/bc_epf_logo_hu11828047619422183228.webp 1200w&#xA;                    &#39;&#xA;                    &#xA;                        src=&#34;https://alainnicolas.fr/en/blog/blockchain-training-engineers-of-tomorrow/bc_epf_logo.png&#34;&#xA;                    &#xA;                alt=&#34;EPF Logo&#34;&gt;&#xA;            &#xA;    &lt;figcaption&gt;&#xA;        &lt;small&gt;&#xA;            &#xA;        &lt;/small&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;An engineering school has the heavy responsibility of keeping its curriculum up to date to prepare students as effectively as possible for their entry into the workforce.&#xA;That is why Talan has developed a partnership with EPF for a series of training programs on the theme of Blockchain for their 4th and 5th year students in the computer science field.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Corda</title>
+      <link>https://alainnicolas.fr/en/series/corda/</link>
+      <pubDate>Mon, 11 Mar 2019 09:00:23 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/series/corda/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Discovery of Corda, the DLT developed by consortium R3 that claims to be a blockchain. Right or wrong?&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Meetups at Talan</title>
+      <link>https://alainnicolas.fr/en/series/meetups-talan/</link>
+      <pubDate>Tue, 24 Oct 2017 09:00:23 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/series/meetups-talan/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;The reports of the meetups hosted by Talan that I had the pleasure of welcoming.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>What is Talan Coin?</title>
+      <link>https://alainnicolas.fr/en/blog/what-is-talancoin/</link>
+      <pubDate>Tue, 17 Oct 2017 15:39:11 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/what-is-talancoin/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;em&gt;First presented on October 4 at the 1st Parliamentary Forum of the Blockchain, the virtual currency of the Talan group is about to enter the production phase.&#xA;An opportunity to present in detail the ins and outs of a project, and an initiative unlike any other: &lt;a href=&#34;https://talancoin.com&#34;&gt;Talan Coin&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure style=&#34;text-align: center;&#34;&gt;&#xA;&#xA;    &#xA;        &#xA;&#xA;        &#xA;        &#xA;        &#xA;&#xA;        &#xA;&#xA;        &#xA;        &#xA;        &#xA;&#xA;        &#xA;&#xA;        &#xA;        &#xA;        &#xA;&#xA;        &#xA;        &lt;img loading=&#34;lazy&#34; style=&#34;max-width: 100%&#34;&#xA;            &#xA;                sizes=&#34;(min-width: 35em) 720px, 100vw&#34;&#xA;                srcset=&#39;&#xA;                    &#xA;                        /en/blog/what-is-talancoin/talancoin_banner_hu11769195133072937363.webp 500w&#xA;                    &#xA;                    &#xA;                        , /en/blog/what-is-talancoin/talancoin_banner_hu8064328023693312957.webp 800w&#xA;                    &#xA;                    &#39;&#xA;                    &#xA;                        src=&#34;https://alainnicolas.fr/en/blog/what-is-talancoin/talancoin_banner.jpg&#34;&#xA;                    &#xA;                alt=&#34;Talan Coin Banner&#34;&gt;&#xA;            &#xA;    &lt;figcaption&gt;&#xA;        &lt;small&gt;&#xA;            &#xA;                &#xA;                    &#xA;                        Talan Coin Banner&#xA;                    &#xA;                &#xA;            &#xA;        &lt;/small&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Blockchain, everyone talks about it, from mainstream media to the most innovative startups.&#xA;And yet, few are the ideas that go as far as the production phase.&#xA;That’s why Talan wanted to stand out and offer its employees a real application of this booming technology.&#xA;This is how the idea of an internal currency was born from the desire to unite the staff of an international group around a common sharing model.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Java EE: new direction</title>
+      <link>https://alainnicolas.fr/en/series/java-ee-new-direction/</link>
+      <pubDate>Wed, 16 Nov 2016 09:00:23 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/series/java-ee-new-direction/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Perhaps for you the summer 2016 series was &lt;a href=&#34;https://www.netflix.com/fr/title/80057281&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stranger Things&lt;/a&gt;, but in the vast world of Java, a completely different series with multiple twists and turns has attracted all attention.&#xA;Acquisition, rebellion, and polls, dive into the revolution of Java EE!&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Android</title>
+      <link>https://alainnicolas.fr/en/tags/android/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/android/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Angular</title>
+      <link>https://alainnicolas.fr/en/tags/angular/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/angular/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AsciiDoc</title>
+      <link>https://alainnicolas.fr/en/tags/asciidoc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/asciidoc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Asseth</title>
+      <link>https://alainnicolas.fr/en/tags/asseth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/asseth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Azure DevOps</title>
+      <link>https://alainnicolas.fr/en/tags/azure-devops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/azure-devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bitcoin</title>
+      <link>https://alainnicolas.fr/en/tags/bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/bitcoin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blockchain</title>
+      <link>https://alainnicolas.fr/en/tags/blockchain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blogging</title>
+      <link>https://alainnicolas.fr/en/tags/blogging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/blogging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Corda</title>
+      <link>https://alainnicolas.fr/en/tags/corda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/corda/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>https://alainnicolas.fr/en/tags/development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DLT</title>
+      <link>https://alainnicolas.fr/en/tags/dlt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/dlt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>https://alainnicolas.fr/en/tags/docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EPF</title>
+      <link>https://alainnicolas.fr/en/tags/epf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/epf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ethereum</title>
+      <link>https://alainnicolas.fr/en/tags/ethereum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/ethereum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ganache</title>
+      <link>https://alainnicolas.fr/en/tags/ganache/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/ganache/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GDPR</title>
+      <link>https://alainnicolas.fr/en/tags/rgpd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/rgpd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>https://alainnicolas.fr/en/tags/git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GitHub</title>
+      <link>https://alainnicolas.fr/en/tags/github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GitLab</title>
+      <link>https://alainnicolas.fr/en/tags/gitlab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/gitlab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google</title>
+      <link>https://alainnicolas.fr/en/tags/google/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/google/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gradle</title>
+      <link>https://alainnicolas.fr/en/tags/gradle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/gradle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardhat</title>
+      <link>https://alainnicolas.fr/en/tags/hardhat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/hardhat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://alainnicolas.fr/en/tags/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hyperledger Fabric</title>
+      <link>https://alainnicolas.fr/en/tags/hyperledger-fabric/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/hyperledger-fabric/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Insights</title>
+      <link>https://alainnicolas.fr/en/tags/insights/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/insights/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://getinsights.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Insights.io&lt;/a&gt; is a competitor to Google Analytics&#xA;that stands out for being much less invasive regarding the privacy of visitors to the sites it is used on.&lt;/p&gt;&#xA;&lt;p&gt;By not depositing any cookies, it collects less information while still retaining what really matters: which pages are&#xA;visited, for how long, etc. This tool allows us to do away with the &amp;ldquo;cookie consent&amp;rdquo; banners that often detract from our&#xA;web experience.&lt;/p&gt;&#xA;&lt;p&gt;To gather this information, Insights.io relies on a&#xA;JavaScript &lt;a href=&#34;https://github.com/unsourced-dev/insights-js&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;library&lt;/a&gt; published&#xA;by the creators of the service. I took the liberty of&#xA;creating &lt;a href=&#34;https://github.com/alainncls/insights-js&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a fork&lt;/a&gt; of it that filters&#xA;out robots and other visitors that we do not want to include in the final statistics.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IntelliJ IDEA</title>
+      <link>https://alainnicolas.fr/en/tags/intellij-idea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/intellij-idea/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>iOS</title>
+      <link>https://alainnicolas.fr/en/tags/ios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/ios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>https://alainnicolas.fr/en/tags/java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java Swing</title>
+      <link>https://alainnicolas.fr/en/tags/java-swing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/java-swing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>https://alainnicolas.fr/en/tags/javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jira</title>
+      <link>https://alainnicolas.fr/en/tags/jira/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/jira/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>jQuery</title>
+      <link>https://alainnicolas.fr/en/tags/jquery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/jquery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JSP</title>
+      <link>https://alainnicolas.fr/en/tags/jsp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/jsp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kanban</title>
+      <link>https://alainnicolas.fr/en/tags/kanban/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/kanban/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://alainnicolas.fr/en/tags/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maven</title>
+      <link>https://alainnicolas.fr/en/tags/maven/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/maven/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meetup</title>
+      <link>https://alainnicolas.fr/en/tags/meetup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/meetup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microsoft</title>
+      <link>https://alainnicolas.fr/en/tags/microsoft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MongoDB</title>
+      <link>https://alainnicolas.fr/en/tags/mongodb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/mongodb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>mySQL</title>
+      <link>https://alainnicolas.fr/en/tags/mysql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/mysql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NestJS</title>
+      <link>https://alainnicolas.fr/en/tags/nestjs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/nestjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Node.js</title>
+      <link>https://alainnicolas.fr/en/tags/nodejs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/nodejs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NPM</title>
+      <link>https://alainnicolas.fr/en/tags/npm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/npm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OracleDB</title>
+      <link>https://alainnicolas.fr/en/tags/oracledb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/oracledb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Perso</title>
+      <link>https://alainnicolas.fr/en/tags/perso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/perso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>pnpm</title>
+      <link>https://alainnicolas.fr/en/tags/pnpm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/pnpm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PostgreSQL</title>
+      <link>https://alainnicolas.fr/en/tags/postgresql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quorum</title>
+      <link>https://alainnicolas.fr/en/tags/quorum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/quorum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R3</title>
+      <link>https://alainnicolas.fr/en/tags/r3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/r3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React</title>
+      <link>https://alainnicolas.fr/en/tags/react/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/react/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scrum</title>
+      <link>https://alainnicolas.fr/en/tags/scrum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/scrum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>https://alainnicolas.fr/en/tags/security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Solidity</title>
+      <link>https://alainnicolas.fr/en/tags/solidity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/solidity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SonarQube</title>
+      <link>https://alainnicolas.fr/en/tags/sonarqube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/sonarqube/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spring Boot</title>
+      <link>https://alainnicolas.fr/en/tags/spring-boot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/spring-boot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spring MVC</title>
+      <link>https://alainnicolas.fr/en/tags/spring-mvc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/spring-mvc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spring REST Docs</title>
+      <link>https://alainnicolas.fr/en/tags/spring-rest-docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/spring-rest-docs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tarteaucitron</title>
+      <link>https://alainnicolas.fr/en/tags/tarteaucitron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/tarteaucitron/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Training</title>
+      <link>https://alainnicolas.fr/en/tags/formation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/formation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Truffle</title>
+      <link>https://alainnicolas.fr/en/tags/truffle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/truffle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TypeScript</title>
+      <link>https://alainnicolas.fr/en/tags/typescript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/typescript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vault</title>
+      <link>https://alainnicolas.fr/en/tags/vault/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/vault/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vue.js</title>
+      <link>https://alainnicolas.fr/en/tags/vuejs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/vuejs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Waterfall</title>
+      <link>https://alainnicolas.fr/en/tags/cycle-en-v/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/cycle-en-v/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows</title>
+      <link>https://alainnicolas.fr/en/tags/windows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/windows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WordPress</title>
+      <link>https://alainnicolas.fr/en/tags/wordpress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yarn</title>
+      <link>https://alainnicolas.fr/en/tags/yarn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/yarn/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
