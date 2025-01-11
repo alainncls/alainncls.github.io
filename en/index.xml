@@ -6,7 +6,7 @@
     <description>Recent content in Homepage on Alain Nicolas</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jan 2025 18:20:05 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 18:43:45 +0100</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Snaps Permissionless Distribution</title>
@@ -625,13 +625,6 @@
       <description></description>
     </item>
     <item>
-      <title>Perso</title>
-      <link>https://alainnicolas.fr/en/tags/perso/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alainnicolas.fr/en/tags/perso/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>pnpm</title>
       <link>https://alainnicolas.fr/en/tags/pnpm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -678,6 +671,13 @@
       <link>https://alainnicolas.fr/en/tags/security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/tags/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Side project</title>
+      <link>https://alainnicolas.fr/en/tags/perso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/perso/</guid>
       <description></description>
     </item>
     <item>
