@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/projects/verax-attestation-registry/</loc>
-    <lastmod>2024-01-20T15:32:42+01:00</lastmod>
+    <lastmod>2025-01-11T18:19:52+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -234,6 +234,19 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://alainnicolas.fr/fr/projects/vct-vcoin/"
+                />
+  </url><url>
+    <loc>https://alainnicolas.fr/fr/blog/attestez-nfts-efrogs-linea-verax/</loc>
+    <lastmod>2025-01-11T18:20:05+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alainnicolas.fr/en/blog/attest-nfts-efrogs-linea-verax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alainnicolas.fr/fr/blog/attestez-nfts-efrogs-linea-verax/"
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/blog/gerez-double-vie-git/</loc>
@@ -1075,6 +1088,19 @@
                 href="https://alainnicolas.fr/fr/series/"
                 />
   </url><url>
+    <loc>https://alainnicolas.fr/fr/tags/linea/</loc>
+    <lastmod>2025-01-11T18:19:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alainnicolas.fr/en/tags/linea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alainnicolas.fr/fr/tags/linea/"
+                />
+  </url><url>
     <loc>https://alainnicolas.fr/fr/tags/</loc>
     <lastmod>2023-05-18T18:05:47+02:00</lastmod>
     <priority>0.9</priority>
@@ -1482,6 +1508,19 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://alainnicolas.fr/fr/tags/vault/"
+                />
+  </url><url>
+    <loc>https://alainnicolas.fr/fr/tags/verax/</loc>
+    <lastmod>2025-01-11T18:19:29+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alainnicolas.fr/en/tags/verax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alainnicolas.fr/fr/tags/verax/"
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/vuejs/</loc>

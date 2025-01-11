@@ -8,6 +8,13 @@
     <language>fr</language>
     <atom:link href="https://alainnicolas.fr/fr/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Attestez vos eFrogs sur Linea avec Verax</title>
+      <link>https://alainnicolas.fr/fr/blog/attestez-nfts-efrogs-linea-verax/</link>
+      <pubDate>Sat, 11 Jan 2025 16:54:16 +0200</pubDate>
+      <guid>https://alainnicolas.fr/fr/blog/attestez-nfts-efrogs-linea-verax/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Vous possédez des &lt;a href=&#34;https://efrogs.eth.limo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt; sur &lt;a href=&#34;https://linea.build&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt; ?&#xA;Vous souhaitez prouver que vous appartenez à cette incroyable communauté ?&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;C’est désormais possible grâce à &lt;a href=&#34;https://ver.ax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verax&lt;/a&gt; sur &lt;a href=&#34;https://efrogs.alainnicolas.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;efrogs.alainnicolas.fr&lt;/a&gt; !&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_origine_du_projet&#34;&gt;Origine du projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;En avril 2024, j’ai développé ce projet en collaboration avec mon ami &lt;a href=&#34;https://x.com/oriondoesdesign&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orion&lt;/a&gt;.&#xA;Ensemble, nous avons remporté la deuxième place lors de l’hackathon organisé par &lt;a href=&#34;https://x.com/LineaBuild&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt; et &lt;a href=&#34;https://x.com/efrogs_on_linea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt; 🐸.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;À l’époque, ce n’était qu’un simple prototype.&#xA;Mais après quelques mois, il était temps de finaliser et de lancer une version sur le mainnet.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
       <title>Gérez votre double vie sur Git !</title>
       <link>https://alainnicolas.fr/fr/blog/gerez-double-vie-git/</link>
       <pubDate>Tue, 02 May 2023 20:00:00 +0200</pubDate>
