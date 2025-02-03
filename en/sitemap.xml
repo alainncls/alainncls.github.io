@@ -236,8 +236,21 @@
                 href="https://alainnicolas.fr/en/projects/vct-vcoin/"
                 />
   </url><url>
+    <loc>https://alainnicolas.fr/en/blog/nft-rarity/</loc>
+    <lastmod>2025-02-03T17:43:49+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alainnicolas.fr/fr/blog/rarete-nft/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alainnicolas.fr/en/blog/nft-rarity/"
+                />
+  </url><url>
     <loc>https://alainnicolas.fr/en/blog/attest-nfts-efrogs-linea-verax/</loc>
-    <lastmod>2025-01-11T18:20:05+01:00</lastmod>
+    <lastmod>2025-02-03T15:40:08+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
