@@ -249,6 +249,19 @@
                 href="https://alainnicolas.fr/fr/projects/vct-vcoin/"
                 />
   </url><url>
+    <loc>https://alainnicolas.fr/fr/blog/exporter-transactions/</loc>
+    <lastmod>2025-02-26T23:40:15+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alainnicolas.fr/en/blog/transaction-exporter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alainnicolas.fr/fr/blog/exporter-transactions/"
+                />
+  </url><url>
     <loc>https://alainnicolas.fr/fr/blog/rarete-nft/</loc>
     <lastmod>2025-02-03T17:43:49+01:00</lastmod>
     <xhtml:link

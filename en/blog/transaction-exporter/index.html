@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
     
     
@@ -9,30 +9,30 @@
     
     
     
-    <title>Rareté des NFT : découverte | Alain Nicolas</title>
+    <title>Fetch &amp; export your transactions | Alain Nicolas</title>
 
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=5.0" name="viewport"/>
-    <meta name="description" content="Exploration du calcul de la rareté des NFT avec OpenRarity.">
+    <meta name="description" content="Easily fetch and export your blockchain transactions to CSV. A simple Node.js script that retrieves transactions from Etherscan.">
     <meta name="author" content="Alain Nicolas">
     
 
 
-<meta property="og:title" content="Rareté des NFT : découverte | Alain Nicolas" />
-<meta property="og:description" content="Exploration du calcul de la rareté des NFT avec OpenRarity." />
+<meta property="og:title" content="Fetch &amp; export your transactions | Alain Nicolas" />
+<meta property="og:description" content="Easily fetch and export your blockchain transactions to CSV. A simple Node.js script that retrieves transactions from Etherscan." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://alainnicolas.fr/fr/blog/rarete-nft/" /><meta property="og:image" content="https://alainnicolas.fr/fr/blog/rarete-nft/cover.png"/><meta property="article:section" content="blog" />
-<meta property="article:published_time" content="2025-02-03T15:00:00+02:00" />
-<meta property="article:modified_time" content="2025-02-03T17:43:49+01:00" />
+<meta property="og:url" content="https://alainnicolas.fr/en/blog/transaction-exporter/" /><meta property="og:image" content="https://alainnicolas.fr/en/blog/transaction-exporter/cover.jpg"/><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2025-02-26T15:00:00+02:00" />
+<meta property="article:modified_time" content="2025-02-26T23:40:15+01:00" />
 
     <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="https://alainnicolas.fr/fr/blog/rarete-nft/cover.png"/>
+<meta name="twitter:image" content="https://alainnicolas.fr/en/blog/transaction-exporter/cover.jpg"/>
 
 
 
-<meta name="twitter:title" content="Rareté des NFT : découverte | Alain Nicolas" />
-<meta name="twitter:description" content="Exploration du calcul de la rareté des NFT avec OpenRarity."/>
+<meta name="twitter:title" content="Fetch &amp; export your transactions | Alain Nicolas" />
+<meta name="twitter:description" content="Easily fetch and export your blockchain transactions to CSV. A simple Node.js script that retrieves transactions from Etherscan."/>
 
 
      
@@ -74,7 +74,7 @@
     <link rel="icon" type="image/png" sizes="96x96" href="https://alainnicolas.fr/favicon/favicon-light.png">
 
     
-        <link rel="canonical" href="https://alainnicolas.fr/fr/blog/rarete-nft/">
+        <link rel="canonical" href="https://alainnicolas.fr/en/blog/transaction-exporter/">
     
 
     
@@ -118,7 +118,7 @@
 </head>
 <body id="page-top">
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-  <a class="navbar-brand js-scroll-trigger" href="https://alainnicolas.fr/fr/#page-top">
+  <a class="navbar-brand js-scroll-trigger" href="https://alainnicolas.fr/en/#page-top">
     <span class="d-block d-lg-none">Alain Nicolas</span>
     <span class="d-none d-lg-block">
         
@@ -133,42 +133,42 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="https://alainnicolas.fr/fr/#about">À propos</a>
+        <a class="nav-link js-scroll-trigger" href="https://alainnicolas.fr/en/#about">About</a>
       </li>
       
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="https://alainnicolas.fr/fr/#blog">Blog</a>
+            <a class="nav-link js-scroll-trigger" href="https://alainnicolas.fr/en/#blog">Blog</a>
           </li>
       
       
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="https://alainnicolas.fr/fr/#skills">Compétences</a>
+            <a class="nav-link js-scroll-trigger" href="https://alainnicolas.fr/en/#skills">Skills</a>
           </li>
       
       
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="https://alainnicolas.fr/fr/#projects">Portfolio</a>
+            <a class="nav-link js-scroll-trigger" href="https://alainnicolas.fr/en/#projects">Portfolio</a>
           </li>
       
       
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="https://alainnicolas.fr/fr/#experience">Expérience</a>
+            <a class="nav-link js-scroll-trigger" href="https://alainnicolas.fr/en/#experience">Experience</a>
           </li>
       
       
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="https://alainnicolas.fr/fr/#education">Formation</a>
+            <a class="nav-link js-scroll-trigger" href="https://alainnicolas.fr/en/#education">Education</a>
           </li>
       
       
         
-        
-          
         
           
             <li class="nav-item">
-              <a href="https://alainnicolas.fr/en/blog/nft-rarity/"><img src="https://alainnicolas.fr/en.png" alt="en flag" height="25px" width="25px"/></a>
+              <a href="https://alainnicolas.fr/fr/blog/exporter-transactions/"><img src="https://alainnicolas.fr/fr.png" alt="fr flag" height="25px" width="25px"/></a>
             </li>
+          
+        
           
         
       
@@ -188,17 +188,17 @@
     
   
   <li class="breadcrumb-item">
-    <a href="https://alainnicolas.fr/fr/"> Accueil </a>
+    <a href="https://alainnicolas.fr/en/"> Homepage </a>
   </li>
 
   
   <li class="breadcrumb-item">
-    <a href="https://alainnicolas.fr/fr/blog/"> Posts de blog </a>
+    <a href="https://alainnicolas.fr/en/blog/"> Blog post </a>
   </li>
 
   
   <li class="breadcrumb-item active">
-    <a href="https://alainnicolas.fr/fr/blog/rarete-nft/"> Rareté des NFT : découverte </a>
+    <a href="https://alainnicolas.fr/en/blog/transaction-exporter/"> Fetch &amp; export your transactions </a>
   </li>
 
   </ol>
@@ -211,224 +211,59 @@
     <div class="my-auto">
         <div class="row post-content">
             <div class="col-lg-8 offset-lg-2">
-                <h1 class="mb-0"><span class="text-primary">Rareté des NFT : découverte</span></h1>
+                <h1 class="mb-0"><span class="text-primary">Fetch &amp; export your transactions</span></h1>
                 
                 
-                    <p class="text-primary date"><time>3 février 2025</time></p>
+                    <p class="text-primary date"><time>26 February 2025</time></p>
                 
                 
-                <div class="quoteblock">
-<blockquote>
-&#34;À quel point mon NFT est rare ?&#34;
-</blockquote>
-</div>
-<div class="paragraph">
-<p>J’ai récemment passé du temps avec la communauté <a href="https://bunnyuniverse.xyz" target="_blank" rel="noopener">Bunny Universe</a>, où cette question revenait souvent.
-Chaque Bunny est unique, mais ses traits (couleur de fourrure, accessoires, arrière-plan, etc.) rendent certains plus rares que d’autres.</p>
-</div>
-<div class="paragraph">
-
-
-
-
-
-    
-
-
-
-
-
-
-
-    
-
-
-
-
-<figure style="text-align: center;">
-
-    
-        
-
-        
-        
-        
-
-        
-
-        
-        
-        
-
-        
-
-        
-        
-        
-
-        
-        <img loading="lazy" style="max-width: 100%"
-            
-                sizes="(min-width: 35em) 720px, 100vw"
-                srcset='
-                    
-                        /fr/blog/rarete-nft/bunny-universe_hu13036126418577177698.webp 500w
-                    
-                    
-                    '
-                    
-                        src="https://alainnicolas.fr/fr/blog/rarete-nft/bunny-universe.png"
-                    
-                alt="Logo de Bunny Universe">
-            
-    <figcaption>
-        <small>
-            
-        </small>
-    </figcaption>
-</figure>
-
-</div>
-<div class="admonitionblock note">
-<table>
-<tbody><tr>
-<td class="icon">
-<div class="title">ℹ️</div>
-</td>
-<td class="content">
-Je ne suis pas affilié à Bunny Universe et je ne suis pas un fondateur de cet écosystème.
-Cependant, je fais partie de la communauté et j’apprécie vraiment leur travail.
-Bien sûr, ceci n’est pas un conseil financier.
-</td>
-</tr>
-</tbody></table>
+                <div class="paragraph">
+<p>Tracking your onchain activity can be a hassle, especially if you need a quick export of your transactions for analysis.
+So I built <strong>Transaction Exporter</strong>, a simple Node.js script that fetches transactions from a blockchain explorer and exports them to CSV.</p>
 </div>
 <div class="sect1">
-<h2 id="_le_défi_mesurer_la_rareté">Le défi : mesurer la rareté</h2>
+<h2 id="_what_it_does">What it does</h2>
 <div class="sectionbody">
-<div class="paragraph">
-<p>Chaque NFT a un ID unique, mais qu’est-ce qui le rend vraiment spécial ? Ses traits.</p>
-</div>
-<div class="paragraph">
-<p>Certains traits sont communs, d’autres sont rares. Calculer la rareté revient à comprendre à quelle fréquence chaque trait apparaît dans la collection et attribuer un score en conséquence.</p>
-</div>
-<div class="paragraph">
-<p>Cela m’a amené à explorer différents outils et méthodes pour évaluer la rareté des NFT.</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_recherche_sur_lévaluation_de_la_rareté">Recherche sur l’évaluation de la rareté</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>J’ai exploré différentes plateformes et portefeuilles qui fournissent des classements de rareté :</p>
-</div>
 <div class="ulist">
 <ul>
 <li>
-<p>MetaMask &amp; OKX affichent directement des scores de rareté dans leurs interfaces.</p>
+<p>Fetches both normal and internal transactions</p>
 </li>
 <li>
-<p><a href="https://academy.shrimpy.io/post/top-7-nft-rarity-tools-how-to-calculate-nft-rarity" target="_blank" rel="noopener">Ce guide</a> m’a aidé à mieux comprendre les approches possibles.</p>
+<p>Exports the data into an easy-to-use CSV format</p>
 </li>
 <li>
-<p>J’ai finalement choisi <a href="https://www.openrarity.dev/" target="_blank" rel="noopener">OpenRarity</a>, qui est également utilisé par OKX.</p>
+<p>Works with any Etherscan-compatible explorer (Etherscan, Polygonscan, etc.)</p>
 </li>
 </ul>
 </div>
 </div>
 </div>
 <div class="sect1">
-<h2 id="_calculer_la_rareté_avec_openrarity">Calculer la rareté avec OpenRarity</h2>
+<h2 id="_how_to_use_it">How to use it</h2>
 <div class="sectionbody">
-<div class="paragraph">
-<p>OpenRarity propose une bibliothèque Python qui permet de :</p>
-</div>
 <div class="olist arabic">
 <ol class="arabic">
 <li>
-<p>Récupérer les métadonnées d’une collection.</p>
+<p>Clone the repo: <a href="https://github.com/alainncls/transaction-exporter">transaction-exporter</a></p>
 </li>
 <li>
-<p>Analyser les traits pour calculer un score de rareté.</p>
+<p>Install dependencies: <code>npm install</code></p>
+</li>
+<li>
+<p>Add your API key and base URL in a <code>.env</code> file</p>
+</li>
+<li>
+<p>Run: <code>npm run fetch &lt;address&gt; &lt;handle&gt;</code></p>
 </li>
 </ol>
 </div>
 <div class="paragraph">
-<p>Vous pouvez consulter leur <a href="https://openrarity.gitbook.io/developers" target="_blank" rel="noopener">documentation complète</a>.</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_exécution_du_script">Exécution du script</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>Je ne suis pas développeur Python, heureusement Cursor m’a aidé à configurer mon environnement et ajuster le script d’exemple.</p>
+<p>No fuss, no complex setup.
+Just quick access to your transactions.</p>
 </div>
 <div class="paragraph">
-<p>Voici comment se déroule ce script :</p>
-</div>
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><strong>Récupération des métadonnées</strong> : extraction des données des 2500 tokens depuis IPFS.</p>
-</li>
-<li>
-<p><strong>Calcul des scores de rareté</strong> : utilisation de l’algorithme d’OpenRarity.</p>
-</li>
-<li>
-<p><strong>Génération d’un fichier JSON</strong> : stockage des résultats pour une utilisation a posteriori.</p>
-</li>
-</ol>
-</div>
-<div class="paragraph">
-<p>L’ensemble du processus a pris environ 10 minutes, principalement à cause du temps d’accès aux métadonnées sur IPFS.</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_envie_dessayer_par_vous_même">Envie d’essayer par vous-même ?</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>J’ai partagé mon script <a href="https://gist.github.com/alainncls/6086feb0d349df3d0b8994ba9a3d283a" target="_blank" rel="noopener">ici</a>.</p>
-</div>
-<div class="paragraph">
-<p>N’hésitez pas à le tester sur n’importe quelle collection de NFT et à me dire ce que vous en pensez !</p>
-</div>
-<div class="paragraph">
-<p>J’ai hâte de savoir comment ça fonctionne pour vous ! 🚀</p>
-</div>
-<div class="paragraph">
-
-
-
-
-
-    
-
-
-
-
-
-
-
-    
-
-
-
-
-<figure style="text-align: center;">
-
-    
-        <img loading="lazy" src="https://alainnicolas.fr/fr/blog/rarete-nft/running-bunny.gif" alt="Bunny en train de courir">
-    
-    <figcaption>
-        <small>
-            
-        </small>
-    </figcaption>
-</figure>
-
+<p>Check it out: <a href="https://github.com/alainncls/transaction-exporter">GitHub Repo</a></p>
 </div>
 </div>
 </div>
@@ -437,13 +272,13 @@ Bien sûr, ceci n’est pas un conseil financier.
     
     <li>
         
-    <a class="tag tag-methodology" href="https://alainnicolas.fr/fr/tags/perso/">
+    <a class="tag tag-methodology" href="https://alainnicolas.fr/en/tags/perso/">
         
             
                 <i style="font-size: 14px; color: #3874bd;" class="fas fa-user"></i>
             
         
-        Perso
+        Side project
     </a>
 
 
@@ -451,40 +286,27 @@ Bien sûr, ceci n’est pas un conseil financier.
     
     <li>
         
-    <a class="tag " href="https://alainnicolas.fr/fr/tags/linea/">
-        
-            <img src="https://alainnicolas.fr/img/logos/linea.svg" alt="Logo Linea" height="14px">
-        
-        Linea
-    </a>
-
-
-    </li>
-    
-    <li>
-        
-
-    </li>
-    
-    <li>
-        
-
-    </li>
-    
-    <li>
-        
-
-    </li>
-    
-    <li>
-        
-    <a class="tag " href="https://alainnicolas.fr/fr/tags/ethereum/">
+    <a class="tag " href="https://alainnicolas.fr/en/tags/ethereum/">
         
             
                 <i style="font-size: 14px; color: #3874bd;" class="fab fa-ethereum"></i>
             
         
         Ethereum
+    </a>
+
+
+    </li>
+    
+    <li>
+        
+    <a class="tag " href="https://alainnicolas.fr/en/tags/nodejs/">
+        
+            
+                <i style="font-size: 14px" class="devicon-nodejs-plain colored"></i>
+            
+        
+        Node.js
     </a>
 
 
@@ -507,19 +329,19 @@ Bien sûr, ceci n’est pas un conseil financier.
         
         <div class="embed-responsive embed-responsive-16by9">
             <figure class="embed-responsive-item">
-                <a class="embed-responsive-item" href="https://alainnicolas.fr/fr/projects/efrogs-attestation/"><img loading="lazy" class="card-img-top embed-responsive-item" alt="eFrogs Attestation" src="https://alainnicolas.fr/fr/projects/efrogs-attestation/cover_hu3896890272784541954.webp" width="459" height="258"></a>
+                <a class="embed-responsive-item" href="https://alainnicolas.fr/en/projects/efrogs-attestation/"><img loading="lazy" class="card-img-top embed-responsive-item" alt="eFrogs Attestation" src="https://alainnicolas.fr/en/projects/efrogs-attestation/cover_hu3896890272784541954.webp" width="459" height="258"></a>
             </figure>
         </div>
         
 
     <div class="card-body">
-        <h3 class="card-title"><a href="https://alainnicolas.fr/fr/projects/efrogs-attestation/">eFrogs Attestation</a></h3>
+        <h3 class="card-title"><a href="https://alainnicolas.fr/en/projects/efrogs-attestation/">eFrogs Attestation</a></h3>
         
         
-            <time class="card-subtitle text-muted">26 février 2025</time>
+            <time class="card-subtitle text-muted">26 February 2025</time>
         
-        <p class="card-text">Prouvez votre appartenance à la communauté eFrogs sur Linea avec des attestations on chain via Verax.</p>
-        <a href="https://alainnicolas.fr/fr/projects/efrogs-attestation/">Lire la suite...</a>
+        <p class="card-text">Prove your membership in the eFrogs community on Linea with on-chain attestations using Verax.</p>
+        <a href="https://alainnicolas.fr/en/projects/efrogs-attestation/">Read more...</a>
     </div>
 
     
@@ -529,13 +351,13 @@ Bien sûr, ceci n’est pas un conseil financier.
     
     <li>
         
-    <a class="tag tag-methodology" href="https://alainnicolas.fr/fr/tags/perso/">
+    <a class="tag tag-methodology" href="https://alainnicolas.fr/en/tags/perso/">
         
             
                 <i style="font-size: 14px; color: #3874bd;" class="fas fa-user"></i>
             
         
-        Perso
+        Side project
     </a>
 
 
@@ -543,7 +365,7 @@ Bien sûr, ceci n’est pas un conseil financier.
     
     <li>
         
-    <a class="tag " href="https://alainnicolas.fr/fr/tags/verax/">
+    <a class="tag " href="https://alainnicolas.fr/en/tags/verax/">
         
             <img src="https://alainnicolas.fr/img/logos/verax.svg" alt="Logo Verax" height="14px">
         
@@ -560,7 +382,7 @@ Bien sûr, ceci n’est pas un conseil financier.
     
     <li>
         
-    <a class="tag " href="https://alainnicolas.fr/fr/tags/linea/">
+    <a class="tag " href="https://alainnicolas.fr/en/tags/linea/">
         
             <img src="https://alainnicolas.fr/img/logos/linea.svg" alt="Logo Linea" height="14px">
         
@@ -595,19 +417,19 @@ Bien sûr, ceci n’est pas un conseil financier.
         
         <div class="embed-responsive embed-responsive-16by9">
             <figure class="embed-responsive-item">
-                <a class="embed-responsive-item" href="https://alainnicolas.fr/fr/blog/attestez-nfts-efrogs-linea-verax/"><img loading="lazy" class="card-img-top embed-responsive-item" alt="Attestez vos eFrogs sur Linea avec Verax" src="https://alainnicolas.fr/fr/blog/attestez-nfts-efrogs-linea-verax/cover_hu9994069374876582060.webp" width="459" height="258"></a>
+                <a class="embed-responsive-item" href="https://alainnicolas.fr/en/blog/nft-rarity/"><img loading="lazy" class="card-img-top embed-responsive-item" alt="NFT rarity: a deep dive" src="https://alainnicolas.fr/en/blog/nft-rarity/cover_hu18408712837310488808.webp" width="459" height="258"></a>
             </figure>
         </div>
         
 
     <div class="card-body">
-        <h3 class="card-title"><a href="https://alainnicolas.fr/fr/blog/attestez-nfts-efrogs-linea-verax/">Attestez vos eFrogs sur Linea avec Verax</a></h3>
+        <h3 class="card-title"><a href="https://alainnicolas.fr/en/blog/nft-rarity/">NFT rarity: a deep dive</a></h3>
         
         
-            <time class="card-subtitle text-muted">11 janvier 2025</time>
+            <time class="card-subtitle text-muted">3 February 2025</time>
         
-        <p class="card-text">Prouvez votre appartenance à la communauté eFrogs sur Linea avec des attestations on chain via Verax.</p>
-        <a href="https://alainnicolas.fr/fr/blog/attestez-nfts-efrogs-linea-verax/">Lire la suite...</a>
+        <p class="card-text">Exploring how to compute NFT rarity using OpenRarity.</p>
+        <a href="https://alainnicolas.fr/en/blog/nft-rarity/">Read more...</a>
     </div>
 
     
@@ -617,13 +439,13 @@ Bien sûr, ceci n’est pas un conseil financier.
     
     <li>
         
-    <a class="tag tag-methodology" href="https://alainnicolas.fr/fr/tags/perso/">
+    <a class="tag tag-methodology" href="https://alainnicolas.fr/en/tags/perso/">
         
             
                 <i style="font-size: 14px; color: #3874bd;" class="fas fa-user"></i>
             
         
-        Perso
+        Side project
     </a>
 
 
@@ -631,24 +453,7 @@ Bien sûr, ceci n’est pas un conseil financier.
     
     <li>
         
-    <a class="tag " href="https://alainnicolas.fr/fr/tags/verax/">
-        
-            <img src="https://alainnicolas.fr/img/logos/verax.svg" alt="Logo Verax" height="14px">
-        
-        Verax
-    </a>
-
-
-    </li>
-    
-    <li>
-        
-
-    </li>
-    
-    <li>
-        
-    <a class="tag " href="https://alainnicolas.fr/fr/tags/linea/">
+    <a class="tag " href="https://alainnicolas.fr/en/tags/linea/">
         
             <img src="https://alainnicolas.fr/img/logos/linea.svg" alt="Logo Linea" height="14px">
         
@@ -668,58 +473,14 @@ Bien sûr, ceci n’est pas un conseil financier.
 
     </li>
     
-</ul>
-
-            </div>
-        
-    
-</div>
-
-        </div>
-        
-        <div class="col-md-4 mb-4 d-flex align-items-stretch">
-            <div class="card">
-    
-        
-        <div class="embed-responsive embed-responsive-16by9">
-            <figure class="embed-responsive-item">
-                <a class="embed-responsive-item" href="https://alainnicolas.fr/fr/blog/exporter-transactions/"><img loading="lazy" class="card-img-top embed-responsive-item" alt="Exporter facilement vos transactions" src="https://alainnicolas.fr/fr/blog/exporter-transactions/cover_hu9486823341274446017.webp" width="459" height="258"></a>
-            </figure>
-        </div>
-        
-
-    <div class="card-body">
-        <h3 class="card-title"><a href="https://alainnicolas.fr/fr/blog/exporter-transactions/">Exporter facilement vos transactions</a></h3>
-        
-        
-            <time class="card-subtitle text-muted">26 février 2025</time>
-        
-        <p class="card-text">Récupérez et exportez facilement vos transactions en CSV. Un script Node.js simple qui extrait les transactions depuis les explorateurs.</p>
-        <a href="https://alainnicolas.fr/fr/blog/exporter-transactions/">Lire la suite...</a>
-    </div>
-
-    
-        
-            <div class="card-footer">
-                <ul class="tags">
-    
     <li>
         
-    <a class="tag tag-methodology" href="https://alainnicolas.fr/fr/tags/perso/">
-        
-            
-                <i style="font-size: 14px; color: #3874bd;" class="fas fa-user"></i>
-            
-        
-        Perso
-    </a>
-
 
     </li>
     
     <li>
         
-    <a class="tag " href="https://alainnicolas.fr/fr/tags/ethereum/">
+    <a class="tag " href="https://alainnicolas.fr/en/tags/ethereum/">
         
             
                 <i style="font-size: 14px; color: #3874bd;" class="fab fa-ethereum"></i>
@@ -731,17 +492,91 @@ Bien sûr, ceci n’est pas un conseil financier.
 
     </li>
     
+</ul>
+
+            </div>
+        
+    
+</div>
+
+        </div>
+        
+        <div class="col-md-4 mb-4 d-flex align-items-stretch">
+            <div class="card">
+    
+        
+        <div class="embed-responsive embed-responsive-16by9">
+            <figure class="embed-responsive-item">
+                <a class="embed-responsive-item" href="https://alainnicolas.fr/en/blog/attest-nfts-efrogs-linea-verax/"><img loading="lazy" class="card-img-top embed-responsive-item" alt="Attest your eFrogs on Linea with Verax" src="https://alainnicolas.fr/en/blog/attest-nfts-efrogs-linea-verax/cover_hu9994069374876582060.webp" width="459" height="258"></a>
+            </figure>
+        </div>
+        
+
+    <div class="card-body">
+        <h3 class="card-title"><a href="https://alainnicolas.fr/en/blog/attest-nfts-efrogs-linea-verax/">Attest your eFrogs on Linea with Verax</a></h3>
+        
+        
+            <time class="card-subtitle text-muted">11 January 2025</time>
+        
+        <p class="card-text">Prove your membership in the eFrogs community on Linea with on-chain attestations using Verax.</p>
+        <a href="https://alainnicolas.fr/en/blog/attest-nfts-efrogs-linea-verax/">Read more...</a>
+    </div>
+
+    
+        
+            <div class="card-footer">
+                <ul class="tags">
+    
     <li>
         
-    <a class="tag " href="https://alainnicolas.fr/fr/tags/nodejs/">
+    <a class="tag tag-methodology" href="https://alainnicolas.fr/en/tags/perso/">
         
             
-                <i style="font-size: 14px" class="devicon-nodejs-plain colored"></i>
+                <i style="font-size: 14px; color: #3874bd;" class="fas fa-user"></i>
             
         
-        Node.js
+        Side project
     </a>
 
+
+    </li>
+    
+    <li>
+        
+    <a class="tag " href="https://alainnicolas.fr/en/tags/verax/">
+        
+            <img src="https://alainnicolas.fr/img/logos/verax.svg" alt="Logo Verax" height="14px">
+        
+        Verax
+    </a>
+
+
+    </li>
+    
+    <li>
+        
+
+    </li>
+    
+    <li>
+        
+    <a class="tag " href="https://alainnicolas.fr/en/tags/linea/">
+        
+            <img src="https://alainnicolas.fr/img/logos/linea.svg" alt="Logo Linea" height="14px">
+        
+        Linea
+    </a>
+
+
+    </li>
+    
+    <li>
+        
+
+    </li>
+    
+    <li>
+        
 
     </li>
     
@@ -767,8 +602,8 @@ Bien sûr, ceci n’est pas un conseil financier.
     <footer class="text-center text-lg-start">
         
         <div class="text-center p-3" >
-            <div class="fw-light"><a href="https://alainnicolas.fr/">Alain Nicolas</a> &copy; 2020-2025 - Tous droits réservés</div>
-            <div class="fw-light">Construit avec <a href='https://gohugo.io/' target='_blank' rel='noopener'>Hugo</a> et largement inspiré du thème <a href='https://github.com/eddiewebb/hugo-resume' target='_blank' rel='noopener'>Hugo Resume</a></div>
+            <div class="fw-light"><a href="https://alainnicolas.fr/">Alain Nicolas</a> &copy; 2020-2025 - All rights reserved</div>
+            <div class="fw-light">Built with <a href='https://gohugo.io/' target='_blank' rel='noopener'>Hugo</a> and largely inspired by the <a href='https://github.com/eddiewebb/hugo-resume' target='_blank' rel='noopener'>Hugo Resume</a> theme</div>
         </div>
     </footer>
 

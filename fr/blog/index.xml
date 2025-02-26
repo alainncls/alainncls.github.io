@@ -8,6 +8,13 @@
     <language>fr</language>
     <atom:link href="https://alainnicolas.fr/fr/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Exporter facilement vos transactions</title>
+      <link>https://alainnicolas.fr/fr/blog/exporter-transactions/</link>
+      <pubDate>Wed, 26 Feb 2025 15:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/fr/blog/exporter-transactions/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Suivre son activité onchain peut être fastidieux, surtout si l’on veut un export rapide pour l’analyser.&#xA;J’ai donc créé &lt;strong&gt;Transaction Exporter&lt;/strong&gt;, un petit script Node.js qui récupère vos transactions et les exporte en CSV.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_ce_quil_fait&#34;&gt;Ce qu’il fait&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;ulist&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Récupère les transactions normales et internes&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Génère un CSV clair et exploitable&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Compatible avec Etherscan, Polygonscan et autres explorateurs similaires&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_comment_lutiliser&#34;&gt;Comment l’utiliser&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;olist arabic&#34;&gt;&#xA;&lt;ol class=&#34;arabic&#34;&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Clonez le repo : &lt;a href=&#34;https://github.com/alainncls/transaction-exporter&#34;&gt;transaction-exporter&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Installez les dépendances : &lt;code&gt;npm install&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Ajoutez votre clé d’API et l’URL de l’explorateur dans un fichier &lt;code&gt;.env&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Lancez : &lt;code&gt;npm run fetch &amp;lt;address&amp;gt; &amp;lt;handle&amp;gt;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
       <title>Rareté des NFT : découverte</title>
       <link>https://alainnicolas.fr/fr/blog/rarete-nft/</link>
       <pubDate>Mon, 03 Feb 2025 15:00:00 +0200</pubDate>

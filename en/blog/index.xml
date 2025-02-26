@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="https://alainnicolas.fr/en/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Fetch &amp; export your transactions</title>
+      <link>https://alainnicolas.fr/en/blog/transaction-exporter/</link>
+      <pubDate>Wed, 26 Feb 2025 15:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/transaction-exporter/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Tracking your onchain activity can be a hassle, especially if you need a quick export of your transactions for analysis.&#xA;So I built &lt;strong&gt;Transaction Exporter&lt;/strong&gt;, a simple Node.js script that fetches transactions from a blockchain explorer and exports them to CSV.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_what_it_does&#34;&gt;What it does&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;ulist&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Fetches both normal and internal transactions&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Exports the data into an easy-to-use CSV format&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Works with any Etherscan-compatible explorer (Etherscan, Polygonscan, etc.)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_how_to_use_it&#34;&gt;How to use it&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;olist arabic&#34;&gt;&#xA;&lt;ol class=&#34;arabic&#34;&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Clone the repo: &lt;a href=&#34;https://github.com/alainncls/transaction-exporter&#34;&gt;transaction-exporter&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Install dependencies: &lt;code&gt;npm install&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Add your API key and base URL in a &lt;code&gt;.env&lt;/code&gt; file&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Run: &lt;code&gt;npm run fetch &amp;lt;address&amp;gt; &amp;lt;handle&amp;gt;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
       <title>NFT rarity: a deep dive</title>
       <link>https://alainnicolas.fr/en/blog/nft-rarity/</link>
       <pubDate>Mon, 03 Feb 2025 15:00:00 +0200</pubDate>

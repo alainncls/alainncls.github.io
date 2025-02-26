@@ -6,7 +6,7 @@
     <description>Recent content in Homepage on Alain Nicolas</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Feb 2025 19:45:07 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 23:40:15 +0100</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>eFrogs Attestation</title>
@@ -140,6 +140,13 @@
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/projects/vct-vcoin/</guid>
       <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_context&#34;&gt;The Context&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;After the success of &lt;a href=&#34;https://alainnicolas.fr/en/projects/talan-talancoin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talan Coin&lt;/a&gt;, the VINCI group wanted to experiment with its own version of the application.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;This is how we instantiated the VCoin application, with some specific features setting it apart from Talan Coin.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_technical_stack&#34;&gt;The Technical Stack&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_client_side&#34;&gt;Client Side&lt;/h3&gt;&#xA;&lt;div class=&#34;ulist&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Native iOS application&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Native Android application&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Angular web applications:&lt;/p&gt;&#xA;&lt;div class=&#34;ulist&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Dashboard for statistical tracking and administration&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Store for objects and services payable in Talan Coins&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Desktop client (not in production)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Fetch &amp; export your transactions</title>
+      <link>https://alainnicolas.fr/en/blog/transaction-exporter/</link>
+      <pubDate>Wed, 26 Feb 2025 15:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/transaction-exporter/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Tracking your onchain activity can be a hassle, especially if you need a quick export of your transactions for analysis.&#xA;So I built &lt;strong&gt;Transaction Exporter&lt;/strong&gt;, a simple Node.js script that fetches transactions from a blockchain explorer and exports them to CSV.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_what_it_does&#34;&gt;What it does&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;ulist&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Fetches both normal and internal transactions&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Exports the data into an easy-to-use CSV format&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Works with any Etherscan-compatible explorer (Etherscan, Polygonscan, etc.)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_how_to_use_it&#34;&gt;How to use it&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;olist arabic&#34;&gt;&#xA;&lt;ol class=&#34;arabic&#34;&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Clone the repo: &lt;a href=&#34;https://github.com/alainncls/transaction-exporter&#34;&gt;transaction-exporter&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Install dependencies: &lt;code&gt;npm install&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Add your API key and base URL in a &lt;code&gt;.env&lt;/code&gt; file&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Run: &lt;code&gt;npm run fetch &amp;lt;address&amp;gt; &amp;lt;handle&amp;gt;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>NFT rarity: a deep dive</title>
