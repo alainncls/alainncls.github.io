@@ -6,8 +6,15 @@
     <description>Recent content in Homepage on Alain Nicolas</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Feb 2025 17:43:49 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 19:45:07 +0100</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>eFrogs Attestation</title>
+      <link>https://alainnicolas.fr/en/projects/efrogs-attestation/</link>
+      <pubDate>Wed, 26 Feb 2025 18:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/efrogs-attestation/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_efrogs_attestation_prove_your_membership_on_linea&#34;&gt;eFrogs Attestation: Prove your Membership on Linea&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Do you own eFrogs on Linea and want to prove your membership in this amazing community?&#xA;With eFrogs Attestation, you can now do so using &lt;a href=&#34;https://ver.ax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verax&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_project_context&#34;&gt;Project Context&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;In April 2024, this project was created during a hackathon hosted by &lt;a href=&#34;https://x.com/LineaBuild&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt; and &lt;a href=&#34;https://x.com/efrogs_on_linea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt;.&#xA;Developed in collaboration with &lt;a href=&#34;https://x.com/oriondoesdesign&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orion&lt;/a&gt;, it won second place in the competition.&#xA;Initially built as a prototype, the project has evolved into a fully functional app deployed on the mainnet.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Snaps Permissionless Distribution</title>
       <link>https://alainnicolas.fr/en/projects/permissionless-snaps-distribution/</link>

@@ -6,8 +6,15 @@
     <description>Recent content in Accueil on Alain Nicolas</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 03 Feb 2025 17:43:49 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 19:45:07 +0100</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>eFrogs Attestation</title>
+      <link>https://alainnicolas.fr/fr/projects/efrogs-attestation/</link>
+      <pubDate>Wed, 26 Feb 2025 18:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/projects/efrogs-attestation/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_efrogs_attestation_prouvez_votre_appartenance_sur_linea&#34;&gt;eFrogs Attestation : prouvez votre appartenance sur Linea&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Vous possédez des eFrogs sur Linea et souhaitez prouver votre appartenance à cette incroyable communauté ?&#xA;Avec eFrogs Attestation, c’est désormais possible grâce à &lt;a href=&#34;https://ver.ax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verax&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;En avril 2024, ce projet a vu le jour lors d’un hackathon organisé par &lt;a href=&#34;https://x.com/LineaBuild&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt; et &lt;a href=&#34;https://x.com/efrogs_on_linea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt;.&#xA;Développé en collaboration avec &lt;a href=&#34;https://x.com/oriondoesdesign&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orion&lt;/a&gt;, il a remporté la deuxième place de la compétition. Initialement conçu comme un prototype, le projet a évolué pour devenir une application fonctionnelle déployée sur le mainnet.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Snaps Permissionless Distribution</title>
       <link>https://alainnicolas.fr/fr/projects/permissionless-snaps-distribution/</link>
