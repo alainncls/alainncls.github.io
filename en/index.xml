@@ -6,7 +6,7 @@
     <description>Recent content in Homepage on Alain Nicolas</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Feb 2025 23:40:15 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 00:13:57 +0100</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>eFrogs Attestation</title>
@@ -140,6 +140,13 @@
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/projects/vct-vcoin/</guid>
       <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_context&#34;&gt;The Context&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;After the success of &lt;a href=&#34;https://alainnicolas.fr/en/projects/talan-talancoin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talan Coin&lt;/a&gt;, the VINCI group wanted to experiment with its own version of the application.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;This is how we instantiated the VCoin application, with some specific features setting it apart from Talan Coin.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_technical_stack&#34;&gt;The Technical Stack&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_client_side&#34;&gt;Client Side&lt;/h3&gt;&#xA;&lt;div class=&#34;ulist&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Native iOS application&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Native Android application&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Angular web applications:&lt;/p&gt;&#xA;&lt;div class=&#34;ulist&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Dashboard for statistical tracking and administration&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Store for objects and services payable in Talan Coins&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Desktop client (not in production)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Three-year anniversary at Consensys</title>
+      <link>https://alainnicolas.fr/en/blog/three-year-anniversary/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/three-year-anniversary/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;I joined Consensys three years ago this week.&#xA;And what an amazing journey it has been!&#xA;Never a dull day in the crypto space, always something new to discover.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;From my very first day, when my manager asked me to integrate Bitcoin into a DeFi project (I only knew Ethereum at the time) to joining the Linea team, I’ve worked on countless products and with so many teams.&#xA;But one thing has always remained the same: the passion, the drive, and the incredibly smart people everywhere.&#xA;I’m humbled by the people around me, hard workers, performance-driven but also extremely human and approachable.&#xA;Colleagues turned into friends, and I’m forever grateful for the memories we create every day.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Fetch &amp; export your transactions</title>

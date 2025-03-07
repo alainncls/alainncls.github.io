@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="https://alainnicolas.fr/en/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Three-year anniversary at Consensys</title>
+      <link>https://alainnicolas.fr/en/blog/three-year-anniversary/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/three-year-anniversary/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;I joined Consensys three years ago this week.&#xA;And what an amazing journey it has been!&#xA;Never a dull day in the crypto space, always something new to discover.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;From my very first day, when my manager asked me to integrate Bitcoin into a DeFi project (I only knew Ethereum at the time) to joining the Linea team, I’ve worked on countless products and with so many teams.&#xA;But one thing has always remained the same: the passion, the drive, and the incredibly smart people everywhere.&#xA;I’m humbled by the people around me, hard workers, performance-driven but also extremely human and approachable.&#xA;Colleagues turned into friends, and I’m forever grateful for the memories we create every day.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
       <title>Fetch &amp; export your transactions</title>
       <link>https://alainnicolas.fr/en/blog/transaction-exporter/</link>
       <pubDate>Wed, 26 Feb 2025 15:00:00 +0200</pubDate>
