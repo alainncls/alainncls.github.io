@@ -249,6 +249,19 @@
                 href="https://alainnicolas.fr/en/projects/vct-vcoin/"
                 />
   </url><url>
+    <loc>https://alainnicolas.fr/en/blog/personal-git-flow/</loc>
+    <lastmod>2025-05-02T18:27:33+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alainnicolas.fr/fr/blog/personal-git-flow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alainnicolas.fr/en/blog/personal-git-flow/"
+                />
+  </url><url>
     <loc>https://alainnicolas.fr/en/blog/three-year-anniversary/</loc>
     <lastmod>2025-03-08T00:13:57+01:00</lastmod>
     <xhtml:link

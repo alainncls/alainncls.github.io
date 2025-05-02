@@ -8,6 +8,13 @@
     <language>fr</language>
     <atom:link href="https://alainnicolas.fr/fr/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mon Git flow personnel</title>
+      <link>https://alainnicolas.fr/fr/blog/personal-git-flow/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/fr/blog/personal-git-flow/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Avec les années et les projets, j’ai affiné une manière de bosser avec Git qui me simplifie la vie.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Elle n’est probablement pas parfaite.&#xA;Mais elle marche parfaitement pour moi, et elle évite pas mal de galères à mes collègues moins à l’aise avec Git.&#xA;Du coup je la partage ici, en espérant que ça puisse servir.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_base&#34;&gt;La base&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Je pars toujours de la branche &lt;code&gt;main&lt;/code&gt;.&#xA;Je crée une branche de feature avec un nom clair :&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
       <title>Trois ans chez Consensys</title>
       <link>https://alainnicolas.fr/fr/blog/trois-ans-chez-consensys/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0200</pubDate>
