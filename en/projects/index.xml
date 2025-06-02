@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="https://alainnicolas.fr/en/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bunny Universe</title>
+      <link>https://alainnicolas.fr/en/projects/bunny-universe/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/bunny-universe/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_bunny_universe_ecosystem_enhancement&#34;&gt;Bunny Universe: Ecosystem enhancement&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Contacted by &lt;a href=&#34;https://x.com/supertramplens&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@Supertramp&lt;/a&gt; in December 2024, I developed several tools to enhance the experience of Bunny Universe members, a popular NFT community on Linea.&#xA;These tools improve interaction with the collection and give access to relevant data.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_project_context&#34;&gt;Project context&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Bunny Universe is a major NFT collection on Linea.&#xA;As a developer passionate about the ecosystem, I created several components to improve user experience and make the collection’s data more accessible.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
       <title>Linea Token API</title>
       <link>https://alainnicolas.fr/en/projects/linea-token-api/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
