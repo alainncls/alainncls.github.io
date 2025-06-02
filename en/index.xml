@@ -6,8 +6,15 @@
     <description>Recent content in Homepage on Alain Nicolas</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 May 2025 18:27:33 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 00:04:36 +0200</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linea Token API</title>
+      <link>https://alainnicolas.fr/en/projects/linea-token-api/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/linea-token-api/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;For the past few months, we’ve been working on a new piece of infrastructure for builders in the Linea ecosystem: the Token API.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;The idea is simple: give easy, fast, and reliable access to key information about ERC-20 tokens on Linea.&#xA;Prices, metadata, stats, etc.&#xA;Everything you need to plug into a dashboard, a dapp, a bot, an explorer, or anything else.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;The API is already live in &lt;a href=&#34;https://linea.build/apps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea Hub&lt;/a&gt;, the entry point to explore the Linea ecosystem, and in &lt;a href=&#34;https://portfolio.metamask.io/explore/networks/linea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MetaMask Portfolio&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>eFrogs Attestation</title>
       <link>https://alainnicolas.fr/en/projects/efrogs-attestation/</link>
