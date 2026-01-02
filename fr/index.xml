@@ -6,8 +6,15 @@
     <description>Recent content in Accueil on Alain Nicolas</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Sat, 27 Dec 2025 17:11:30 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 18:50:27 +0100</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discord Attestation</title>
+      <link>https://alainnicolas.fr/fr/projects/discord-attestation/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/projects/discord-attestation/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Dans l’écosystème Web3, l’identité numérique reste un défi majeur.&#xA;Comment prouver qui vous êtes sans compromettre votre vie privée ?&#xA;Comment lier vos identités sociales à votre wallet sans dépendre d’une autorité centrale ?&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Discord Attestation&lt;/strong&gt; répond à ce besoin en permettant aux utilisateurs de créer des preuves cryptographiques de leur identité Discord, stockées de manière permanente sur la blockchain Linea via le protocole &lt;a href=&#34;https://www.ver.ax/&#34;&gt;Verax&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_fonctionnalités_principales&#34;&gt;Fonctionnalités principales&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;L’application offre une expérience utilisateur fluide en trois étapes :&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Bunny Universe</title>
       <link>https://alainnicolas.fr/fr/projects/bunny-universe/</link>
@@ -23,11 +30,46 @@
       <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Depuis quelques mois, on travaille sur une nouvelle brique pour les builders de l’écosystème Linea : une Token API.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;L’idée est simple : donner un accès facile, rapide et fiable à toutes les infos importantes des tokens ERC-20 sur Linea.&#xA;Prix, metadata, stats, etc.&#xA;Tout ce qu’il faut pour intégrer ça dans un dashboard, une dapp, un bot, un explorer ou autre.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;L’API est déjà utilisée dans le &lt;a href=&#34;https://linea.build/apps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea Hub&lt;/a&gt;, la porte d’entrée pour explorer tout l’écosystème, ainsi que dans &lt;a href=&#34;https://portfolio.metamask.io/explore/networks/linea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MetaMask Portfolio&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
+      <title>Mon Git flow personnel</title>
+      <link>https://alainnicolas.fr/fr/blog/personal-git-flow/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/fr/blog/personal-git-flow/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Avec les années et les projets, j’ai affiné une manière de bosser avec Git qui me simplifie la vie.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Elle n’est probablement pas parfaite.&#xA;Mais elle marche parfaitement pour moi, et elle évite pas mal de galères à mes collègues moins à l’aise avec Git.&#xA;Du coup je la partage ici, en espérant que ça puisse servir.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_base&#34;&gt;La base&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Je pars toujours de la branche &lt;code&gt;main&lt;/code&gt;.&#xA;Je crée une branche de feature avec un nom clair :&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Trois ans chez Consensys</title>
+      <link>https://alainnicolas.fr/fr/blog/trois-ans-chez-consensys/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/fr/blog/trois-ans-chez-consensys/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;J’ai rejoint Consensys il y a trois ans cette semaine.&#xA;Et quelle aventure incroyable !&#xA;Pas le temps de s’ennuyer dans la crypto, il y a toujours quelque chose de nouveau à découvrir.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Dès mon premier jour, quand mon manager m’a demandé d’intégrer Bitcoin dans un projet DeFi (alors que je ne connaissais qu’Ethereum à l’époque), jusqu’à mon arrivée dans l’équipe Linea, j’ai travaillé sur une multitude de produits et collaboré avec énormément d’équipes.&#xA;Mais une chose n’a jamais changé : la passion, l’énergie et l’incroyable intelligence des gens qui m’entourent.&#xA;Je suis impressionné par mes collègues : bosseurs, orientés performance, mais aussi profondément humains et accessibles.&#xA;Certains collègues sont devenus des amis, et je suis infiniment reconnaissant pour tous les souvenirs que l’on crée chaque jour.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
       <title>eFrogs Attestation</title>
       <link>https://alainnicolas.fr/fr/projects/efrogs-attestation/</link>
       <pubDate>Wed, 26 Feb 2025 18:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/efrogs-attestation/</guid>
       <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_efrogs_attestation_prouvez_votre_appartenance_sur_linea&#34;&gt;eFrogs Attestation : prouvez votre appartenance sur Linea&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Vous possédez des eFrogs sur Linea et souhaitez prouver votre appartenance à cette incroyable communauté ?&#xA;Avec eFrogs Attestation, c’est désormais possible grâce à &lt;a href=&#34;https://ver.ax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verax&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;En avril 2024, ce projet a vu le jour lors d’un hackathon organisé par &lt;a href=&#34;https://x.com/LineaBuild&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt; et &lt;a href=&#34;https://x.com/efrogs_on_linea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt;.&#xA;Développé en collaboration avec &lt;a href=&#34;https://x.com/oriondoesdesign&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orion&lt;/a&gt;, il a remporté la deuxième place de la compétition.&#xA;Initialement conçu comme un prototype, le projet a évolué pour devenir une application fonctionnelle déployée sur le mainnet.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Exporter facilement vos transactions</title>
+      <link>https://alainnicolas.fr/fr/blog/exporter-transactions/</link>
+      <pubDate>Wed, 26 Feb 2025 15:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/fr/blog/exporter-transactions/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Suivre son activité onchain peut être fastidieux, surtout si l’on veut un export rapide pour l’analyser.&#xA;J’ai donc créé &lt;strong&gt;Transaction Exporter&lt;/strong&gt;, un petit script Node.js qui récupère vos transactions et les exporte en CSV.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_ce_quil_fait&#34;&gt;Ce qu’il fait&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;ulist&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Récupère les transactions normales et internes&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Génère un CSV clair et exploitable&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Compatible avec Etherscan, Polygonscan et autres explorateurs similaires&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_comment_lutiliser&#34;&gt;Comment l’utiliser&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;olist arabic&#34;&gt;&#xA;&lt;ol class=&#34;arabic&#34;&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Clonez le repo : &lt;a href=&#34;https://github.com/alainncls/transaction-exporter&#34;&gt;transaction-exporter&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Installez les dépendances : &lt;code&gt;npm install&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Ajoutez votre clé d’API et l’URL de l’explorateur dans un fichier &lt;code&gt;.env&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Lancez : &lt;code&gt;npm run fetch &amp;lt;address&amp;gt; &amp;lt;handle&amp;gt;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Rareté des NFT : découverte</title>
+      <link>https://alainnicolas.fr/fr/blog/rarete-nft/</link>
+      <pubDate>Mon, 03 Feb 2025 15:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/fr/blog/rarete-nft/</guid>
+      <description>&lt;div class=&#34;quoteblock&#34;&gt;&#xA;&lt;blockquote&gt;&#xA;&amp;#34;À quel point mon NFT est rare ?&amp;#34;&#xA;&lt;/blockquote&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;J’ai récemment passé du temps avec la communauté &lt;a href=&#34;https://bunnyuniverse.xyz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bunny Universe&lt;/a&gt;, où cette question revenait souvent.&#xA;Chaque Bunny est unique, mais ses traits (couleur de fourrure, accessoires, arrière-plan, etc.) rendent certains plus rares que d’autres.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;lazy&#34; style=&#34;max-width: 100%&#34;&#xA;            sizes=&#34;(min-width: 35em) 720px, 100vw&#34;&#xA;            srcset=&#39;https://alainnicolas.fr/fr/blog/rarete-nft/bunny-universe_hu_89e76c6f0647f309.webp 500w&#39;&#xA;            src=&#34;https://alainnicolas.fr/fr/blog/rarete-nft/bunny-universe.png&#34;&#xA;            alt=&#34;Logo de Bunny Universe&#34;&gt;&lt;figcaption&gt;&#xA;        &lt;small&gt;&lt;/small&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;admonitionblock note&#34;&gt;&#xA;&lt;table&gt;&#xA;&lt;tbody&gt;&lt;tr&gt;&#xA;&lt;td class=&#34;icon&#34;&gt;&#xA;&lt;div class=&#34;title&#34;&gt;ℹ️&lt;/div&gt;&#xA;&lt;/td&gt;&#xA;&lt;td class=&#34;content&#34;&gt;&#xA;Je ne suis pas affilié à Bunny Universe et je ne suis pas un fondateur de cet écosystème.&#xA;Cependant, je fais partie de la communauté et j’apprécie vraiment leur travail.&#xA;Bien sûr, ceci n’est pas un conseil financier.&#xA;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;/tbody&gt;&lt;/table&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Attestez vos eFrogs sur Linea avec Verax</title>
+      <link>https://alainnicolas.fr/fr/blog/attestez-nfts-efrogs-linea-verax/</link>
+      <pubDate>Sat, 11 Jan 2025 16:54:16 +0200</pubDate>
+      <guid>https://alainnicolas.fr/fr/blog/attestez-nfts-efrogs-linea-verax/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Vous possédez des &lt;a href=&#34;https://efrogs.eth.limo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt; sur &lt;a href=&#34;https://linea.build&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt; ?&#xA;Vous souhaitez prouver que vous appartenez à cette incroyable communauté ?&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;C’est désormais possible grâce à &lt;a href=&#34;https://ver.ax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verax&lt;/a&gt; sur &lt;a href=&#34;https://efrogs.alainnicolas.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;efrogs.alainnicolas.fr&lt;/a&gt; !&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_origine_du_projet&#34;&gt;Origine du projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;En avril 2024, j’ai développé ce projet en collaboration avec mon ami &lt;a href=&#34;https://x.com/oriondoesdesign&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orion&lt;/a&gt;.&#xA;Ensemble, nous avons remporté la deuxième place lors de l’hackathon organisé par &lt;a href=&#34;https://x.com/LineaBuild&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt; et &lt;a href=&#34;https://x.com/efrogs_on_linea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt; 🐸.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;À l’époque, ce n’était qu’un simple prototype.&#xA;Mais après quelques mois, il était temps de finaliser et de lancer une version sur le mainnet.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Snaps Permissionless Distribution</title>
@@ -70,125 +112,6 @@
       <pubDate>Sat, 06 May 2023 15:00:28 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/roxthecasbah/</guid>
       <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Création d’&lt;a href=&#34;https://roxthecasbah.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;un blog&lt;/a&gt; pour ma compagne, afin de partager sa passion pour le tricot et la couture.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_solution_technique&#34;&gt;La solution technique&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_la_première_version&#34;&gt;La première version&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;La première version du site utilisait &lt;a href=&#34;https://ghost.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ghost&lt;/a&gt;, une solution de blogging complète concurrente de &lt;a href=&#34;https://wordpress.com/fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;.&#xA;Basé sur un outil open-source et gratuit, le blog était hébergé sur une petite machine AWS.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_la_seconde_version&#34;&gt;La seconde version&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;En janvier 2021 j’ai fait le choix de basculer vers un générateur de site statique, &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;, afin de pouvoir héberger gratuitement les pages générées.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Atelier 58</title>
-      <link>https://alainnicolas.fr/fr/projects/atelier-58/</link>
-      <pubDate>Sat, 18 Dec 2021 15:00:00 +0000</pubDate>
-      <guid>https://alainnicolas.fr/fr/projects/atelier-58/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Création du site vitrine du salon de coiffure &amp;#34;Atelier 58&amp;#34; à Paris.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_solution_technique&#34;&gt;La solution technique&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_loutil&#34;&gt;L’outil&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Ce site est conçu grâce à un générateur de site statique, &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Intégration du service &lt;a href=&#34;https://www.planity.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Planity&lt;/a&gt; pour la prise de rendez-vous.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Mise en place d’un suivi des statistiques de navigation via &lt;a href=&#34;https://getinsights.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Insights&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_le_thème&#34;&gt;Le thème&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Afin de gagner du temps, mais aussi de répondre au mieux aux besoins d’un tel commerce, je suis parti du thème &amp;#34;&lt;a href=&#34;https://github.com/zerostaticthemes/hugo-hero-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Hero Theme&lt;/a&gt;&amp;#34;.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Blog des Labs de Talan</title>
-      <link>https://alainnicolas.fr/fr/projects/talan-blog-labs/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://alainnicolas.fr/fr/projects/talan-blog-labs/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Maintenance du &lt;a href=&#34;https://blog.talanlabs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog de Talan Labs&lt;/a&gt;, rédaction d’articles, avant une refonte complète en 2019/2020.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Le blog des Labs de Talan permet de partager les connaissances des collaborateurs de &lt;a href=&#34;https://talan.com/metiers/labs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talan Labs&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;lazy&#34; style=&#34;max-width: 100%&#34;&#xA;            sizes=&#34;(min-width: 35em) 720px, 100vw&#34;&#xA;            srcset=&#39;https://alainnicolas.fr/fr/projects/talan-blog-labs/blog_banner_hu_93710337030ab4a0.webp 500w, https://alainnicolas.fr/fr/projects/talan-blog-labs/blog_banner_hu_57388e229ecf1242.webp 800w, https://alainnicolas.fr/fr/projects/talan-blog-labs/blog_banner_hu_1c2d628261f1587f.webp 1200w&#39;&#xA;            src=&#34;https://alainnicolas.fr/fr/projects/talan-blog-labs/blog_banner_hu_1c2d628261f1587f.webp&#34;&#xA;            alt=&#34;Aperçu du blog des Labs de Talan&#34;&gt;&lt;figcaption&gt;&#xA;        &lt;small&gt;&lt;/small&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_solution_technique&#34;&gt;La solution technique&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_la_version_legacy&#34;&gt;La version &amp;#34;legacy&amp;#34;&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;La première version du site utilisait &lt;a href=&#34;https://wordpress.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;, solution qu’il n’est plus nécessaire de présenter.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_la_refonte&#34;&gt;La refonte&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Face à la difficulté de maintenir à jour un tel site, tout en garantissant sa sécurité, nous avons choisi de changer radicalement de technologie afin de réduire considérablement la surface d’attaque.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>BNP CIB - Blockchain-as-a-Service</title>
-      <link>https://alainnicolas.fr/fr/projects/bnp-blockchain/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://alainnicolas.fr/fr/projects/bnp-blockchain/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;En tant qu’acteur majeur du secteur bancaire, BNP Paribas se doit de rester à la pointe des technologies disponibles.&#xA;C’est ainsi que les technologies blockchain et DLT se sont imposées comme incontournables.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Comme de nombreuses grandes entreprises, la BNP est découpée en plusieurs entités qui peuvent toutes participer à un même projet, ce qui n’est pas sans soulever des challenges autour de la collaboration.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Pour permettre à toutes les entités de la BNP d’expérimenter sur la blockchain avant de facilement rejoindre un consortium décentralisé, il fallait rendre accessible des technologies que nous pouvons qualifier d’exotiques.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Coface</title>
-      <link>https://alainnicolas.fr/fr/projects/coface/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://alainnicolas.fr/fr/projects/coface/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Coface est un acteur majeur de l’assurance-crédit.&#xA;De manière à toujours rester compétitif et gagner de nouvelles parts de marchés, l’entreprise a besoin de proposer régulièrement de nouveaux produits et solutions logicielles à ses clients.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Optimisation et évolution d’une application web (Cofanet Policy Master &amp;amp; Cofanet Policy Master Administration) à destination de clients payants.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Pour cela, il fallait envisager un refactoring technique de l’architecture projet et la refonte des fonctionnalités majeures de l’application.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>e-Paye</title>
-      <link>https://alainnicolas.fr/fr/projects/epaye/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://alainnicolas.fr/fr/projects/epaye/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;e-Paye édite des logiciels dédiés au SIRH : paie, coffre-fort numérique, gestion des RH, gestion des entretiens, etc.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Parmi les modules d’e-Paye, celui permettant la génération des fiches de paye est particulièrement important et complexe.&#xA;En effet, il doit prendre en compte la législation parfois changeante, mais aussi être capable de générer un grand nombre de fiches de paye en une durée restreinte.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_stack_technique&#34;&gt;La stack technique&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_côté_client&#34;&gt;Côté client&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;JavaScript, HTML5, CSS3, jQuery, Ajax&lt;/p&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>EDF Commerce - Évangélisation craftsmanship</title>
-      <link>https://alainnicolas.fr/fr/projects/edf/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://alainnicolas.fr/fr/projects/edf/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;La Direction Numérique d’EDF Commerce a une équipe dédiée à la réalisation de PoC pour l’ensemble des métiers du groupe.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_mission&#34;&gt;La mission&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;La mission consiste à évangéliser sur les notions de craftsmanship et industrialiser les bonnes pratiques à mettre en place.&#xA;C’est ainsi que j’ai pu initier la mise en place des premiers pipelines CI/CD via GitLab et Jenkins, mais aussi pousser l’utilisation de SonarQube pour le suivi de qualité du code ou celle de Nexus pour y déposer les artefacts générés.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>FuturMaster - Calibrate Model</title>
-      <link>https://alainnicolas.fr/fr/projects/futurmaster-calibrate-model/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://alainnicolas.fr/fr/projects/futurmaster-calibrate-model/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Éditeur de logiciels dédiés à la gestion de la supply chain, FuturMaster a fait appel à Talan Labs pour renforcer ses équipes de développement et accélérer la refonte de sa suite d’outils.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;C’est ainsi que j’ai fait partie de la première squad agile, composée de 3 développeurs, 1 designer et 1 Scrum Master.&#xA;Nous étions chargés de la refonte du module &lt;em&gt;Calibrate Model&lt;/em&gt; qui vise à afficher l’historique de vente d’un produit et la simulation de ses ventes futures.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>FuturMaster - Master Data</title>
-      <link>https://alainnicolas.fr/fr/projects/futurmaster-master-data/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://alainnicolas.fr/fr/projects/futurmaster-master-data/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Éditeur de logiciels dédiés à la gestion de la supply chain, FuturMaster a fait appel à Talan Labs pour renforcer ses équipes de développement et accélérer la refonte de sa suite d’outils.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Suite au succès de l’intervention de la première squad de Talan Labs chez FuturMaster sur le projet &lt;a href=&#34;https://alainnicolas.fr/fr/projects/futurmaster-calibrate-model/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calibrate Model&lt;/a&gt;, nous nous sommes lancés dans la refonte du module &lt;em&gt;Master Data&lt;/em&gt;, chargé de centraliser le référentiel de données qui alimentent les autres modules de la suite logicielle.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Gefco - Opteam</title>
-      <link>https://alainnicolas.fr/fr/projects/gefco/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://alainnicolas.fr/fr/projects/gefco/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Gefco est un acteur incontournable de la logistique et notamment du transport de pièces automobiles.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Développement d’un système de génération de plannings sous contraintes.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_stack_technique&#34;&gt;La stack technique&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_client_lourd&#34;&gt;Client lourd&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Java Swing&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_base_de_données&#34;&gt;Base de données&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;OracleDB&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Share2gether</title>
-      <link>https://alainnicolas.fr/fr/projects/share2gether/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://alainnicolas.fr/fr/projects/share2gether/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Share2Gether, vise à créer une solution d’organisation d’événements, à l’image de ce que propose &lt;a href=&#34;https://www.meetup.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meetup.com&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;J’ai eu l’occasion de partager plus en détails cette expérience dans un &lt;a href=&#34;https://alainnicolas.fr/fr/blog/blockchain-projet-scolaire-monde-entreprise/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article dédié&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_stack_technique&#34;&gt;La stack technique&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_côté_client&#34;&gt;Côté client&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Le front est une application Vue.js qui communique avec les smart-contracts déployés sur la blockchain grâce à la librairie web3.js.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_côté_blockchain&#34;&gt;Côté blockchain&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Les smart-contracts écrits en Solidity sont déployés sur une blockchain Ethereum.&#xA;Utilisation des contrats standards fournis par OpenZeppelin.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Talan Coin</title>
-      <link>https://alainnicolas.fr/fr/projects/talan-talancoin/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://alainnicolas.fr/fr/projects/talan-talancoin/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;,&amp;#34;NPM&amp;#34; == Le contexte&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Comme toutes les entreprises, Talan cherche à catalyser la collaboration en son sein.&#xA;De plus, Talan souhaite renforcer son unité en tant que groupe malgré des entités distinctes et une répartition sur 4 continents et développer une horizontalité bien loin des hiérarchies verticales classiques.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Une monnaie interne, commune à tous les collaborateurs, peu importe leur localisation ou leur rôle hiérarchique, permet de trouver un point commun entre tous les acteurs de l’entreprise.&#xA;C’est aussi une manière de permettre à tous de mieux échanger, y compris entre équipes distinctes, affirmant ainsi une hiérarchie horizontale.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>VINCI Construction Terrassement - VCoin</title>
-      <link>https://alainnicolas.fr/fr/projects/vct-vcoin/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://alainnicolas.fr/fr/projects/vct-vcoin/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Après le succès de &lt;a href=&#34;https://alainnicolas.fr/fr/projects/talan-talancoin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talan Coin&lt;/a&gt;, le groupe VINCI a souhaité expérimenter avec sa propre version de l’application.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;C’est ainsi que nous avons instancié l’application VCoin, avec quelques spécificités la démarquant de Talan Coin.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_stack_technique&#34;&gt;La stack technique&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_côté_client&#34;&gt;Côté client&lt;/h3&gt;&#xA;&lt;div class=&#34;ulist&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Application iOS native&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Application Android native&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Applications web Angular :&lt;/p&gt;&#xA;&lt;div class=&#34;ulist&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Dashboard de suivi statistique et d’administration&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Boutique d’objets et services payables en Talan Coins&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Client desktop (non mis en production)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Mon Git flow personnel</title>
-      <link>https://alainnicolas.fr/fr/blog/personal-git-flow/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0200</pubDate>
-      <guid>https://alainnicolas.fr/fr/blog/personal-git-flow/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Avec les années et les projets, j’ai affiné une manière de bosser avec Git qui me simplifie la vie.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Elle n’est probablement pas parfaite.&#xA;Mais elle marche parfaitement pour moi, et elle évite pas mal de galères à mes collègues moins à l’aise avec Git.&#xA;Du coup je la partage ici, en espérant que ça puisse servir.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_base&#34;&gt;La base&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Je pars toujours de la branche &lt;code&gt;main&lt;/code&gt;.&#xA;Je crée une branche de feature avec un nom clair :&lt;/p&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Trois ans chez Consensys</title>
-      <link>https://alainnicolas.fr/fr/blog/trois-ans-chez-consensys/</link>
-      <pubDate>Sat, 08 Mar 2025 00:00:00 +0200</pubDate>
-      <guid>https://alainnicolas.fr/fr/blog/trois-ans-chez-consensys/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;J’ai rejoint Consensys il y a trois ans cette semaine.&#xA;Et quelle aventure incroyable !&#xA;Pas le temps de s’ennuyer dans la crypto, il y a toujours quelque chose de nouveau à découvrir.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Dès mon premier jour, quand mon manager m’a demandé d’intégrer Bitcoin dans un projet DeFi (alors que je ne connaissais qu’Ethereum à l’époque), jusqu’à mon arrivée dans l’équipe Linea, j’ai travaillé sur une multitude de produits et collaboré avec énormément d’équipes.&#xA;Mais une chose n’a jamais changé : la passion, l’énergie et l’incroyable intelligence des gens qui m’entourent.&#xA;Je suis impressionné par mes collègues : bosseurs, orientés performance, mais aussi profondément humains et accessibles.&#xA;Certains collègues sont devenus des amis, et je suis infiniment reconnaissant pour tous les souvenirs que l’on crée chaque jour.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Exporter facilement vos transactions</title>
-      <link>https://alainnicolas.fr/fr/blog/exporter-transactions/</link>
-      <pubDate>Wed, 26 Feb 2025 15:00:00 +0200</pubDate>
-      <guid>https://alainnicolas.fr/fr/blog/exporter-transactions/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Suivre son activité onchain peut être fastidieux, surtout si l’on veut un export rapide pour l’analyser.&#xA;J’ai donc créé &lt;strong&gt;Transaction Exporter&lt;/strong&gt;, un petit script Node.js qui récupère vos transactions et les exporte en CSV.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_ce_quil_fait&#34;&gt;Ce qu’il fait&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;ulist&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Récupère les transactions normales et internes&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Génère un CSV clair et exploitable&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Compatible avec Etherscan, Polygonscan et autres explorateurs similaires&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_comment_lutiliser&#34;&gt;Comment l’utiliser&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;olist arabic&#34;&gt;&#xA;&lt;ol class=&#34;arabic&#34;&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Clonez le repo : &lt;a href=&#34;https://github.com/alainncls/transaction-exporter&#34;&gt;transaction-exporter&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Installez les dépendances : &lt;code&gt;npm install&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Ajoutez votre clé d’API et l’URL de l’explorateur dans un fichier &lt;code&gt;.env&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Lancez : &lt;code&gt;npm run fetch &amp;lt;address&amp;gt; &amp;lt;handle&amp;gt;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Rareté des NFT : découverte</title>
-      <link>https://alainnicolas.fr/fr/blog/rarete-nft/</link>
-      <pubDate>Mon, 03 Feb 2025 15:00:00 +0200</pubDate>
-      <guid>https://alainnicolas.fr/fr/blog/rarete-nft/</guid>
-      <description>&lt;div class=&#34;quoteblock&#34;&gt;&#xA;&lt;blockquote&gt;&#xA;&amp;#34;À quel point mon NFT est rare ?&amp;#34;&#xA;&lt;/blockquote&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;J’ai récemment passé du temps avec la communauté &lt;a href=&#34;https://bunnyuniverse.xyz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bunny Universe&lt;/a&gt;, où cette question revenait souvent.&#xA;Chaque Bunny est unique, mais ses traits (couleur de fourrure, accessoires, arrière-plan, etc.) rendent certains plus rares que d’autres.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;lazy&#34; style=&#34;max-width: 100%&#34;&#xA;            sizes=&#34;(min-width: 35em) 720px, 100vw&#34;&#xA;            srcset=&#39;https://alainnicolas.fr/fr/blog/rarete-nft/bunny-universe_hu_89e76c6f0647f309.webp 500w&#39;&#xA;            src=&#34;https://alainnicolas.fr/fr/blog/rarete-nft/bunny-universe.png&#34;&#xA;            alt=&#34;Logo de Bunny Universe&#34;&gt;&lt;figcaption&gt;&#xA;        &lt;small&gt;&lt;/small&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;admonitionblock note&#34;&gt;&#xA;&lt;table&gt;&#xA;&lt;tbody&gt;&lt;tr&gt;&#xA;&lt;td class=&#34;icon&#34;&gt;&#xA;&lt;div class=&#34;title&#34;&gt;ℹ️&lt;/div&gt;&#xA;&lt;/td&gt;&#xA;&lt;td class=&#34;content&#34;&gt;&#xA;Je ne suis pas affilié à Bunny Universe et je ne suis pas un fondateur de cet écosystème.&#xA;Cependant, je fais partie de la communauté et j’apprécie vraiment leur travail.&#xA;Bien sûr, ceci n’est pas un conseil financier.&#xA;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;/tbody&gt;&lt;/table&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Attestez vos eFrogs sur Linea avec Verax</title>
-      <link>https://alainnicolas.fr/fr/blog/attestez-nfts-efrogs-linea-verax/</link>
-      <pubDate>Sat, 11 Jan 2025 16:54:16 +0200</pubDate>
-      <guid>https://alainnicolas.fr/fr/blog/attestez-nfts-efrogs-linea-verax/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Vous possédez des &lt;a href=&#34;https://efrogs.eth.limo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt; sur &lt;a href=&#34;https://linea.build&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt; ?&#xA;Vous souhaitez prouver que vous appartenez à cette incroyable communauté ?&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;C’est désormais possible grâce à &lt;a href=&#34;https://ver.ax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verax&lt;/a&gt; sur &lt;a href=&#34;https://efrogs.alainnicolas.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;efrogs.alainnicolas.fr&lt;/a&gt; !&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_origine_du_projet&#34;&gt;Origine du projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;En avril 2024, j’ai développé ce projet en collaboration avec mon ami &lt;a href=&#34;https://x.com/oriondoesdesign&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orion&lt;/a&gt;.&#xA;Ensemble, nous avons remporté la deuxième place lors de l’hackathon organisé par &lt;a href=&#34;https://x.com/LineaBuild&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt; et &lt;a href=&#34;https://x.com/efrogs_on_linea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt; 🐸.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;À l’époque, ce n’était qu’un simple prototype.&#xA;Mais après quelques mois, il était temps de finaliser et de lancer une version sur le mainnet.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Gérez votre double vie sur Git !</title>
@@ -275,11 +198,95 @@
       <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Commençons par une petite citation :&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;quoteblock&#34;&gt;&#xA;&lt;blockquote&gt;&#xA;&amp;#34;New year, new me&amp;#34;&#xA;&lt;/blockquote&gt;&#xA;&lt;div class=&#34;attribution&#34;&gt;&#xA;— Trop de monde,trop souvent&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_bonne_résolution&#34;&gt;La bonne résolution&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Évitons les bonnes résolutions que l’on ne tiendra pas.&#xA;Néanmoins, essayons de nous améliorer régulièrement…​&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Pour commencer l’année 2022, j’ai décidé de me passer de Google Analytics pour suivre les visites de mon site.&#xA;Tout d’abord parce que se passer de Google est toujours une bonne idée, ensuite parce qu’il est possible de faire presque aussi bien sans traquer ses visiteurs.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
+      <title>Atelier 58</title>
+      <link>https://alainnicolas.fr/fr/projects/atelier-58/</link>
+      <pubDate>Sat, 18 Dec 2021 15:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/projects/atelier-58/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Création du site vitrine du salon de coiffure &amp;#34;Atelier 58&amp;#34; à Paris.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_solution_technique&#34;&gt;La solution technique&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_loutil&#34;&gt;L’outil&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Ce site est conçu grâce à un générateur de site statique, &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Intégration du service &lt;a href=&#34;https://www.planity.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Planity&lt;/a&gt; pour la prise de rendez-vous.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Mise en place d’un suivi des statistiques de navigation via &lt;a href=&#34;https://getinsights.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Insights&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_le_thème&#34;&gt;Le thème&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Afin de gagner du temps, mais aussi de répondre au mieux aux besoins d’un tel commerce, je suis parti du thème &amp;#34;&lt;a href=&#34;https://github.com/zerostaticthemes/hugo-hero-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Hero Theme&lt;/a&gt;&amp;#34;.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
       <title>Make documentation great again (Bonus)</title>
       <link>https://alainnicolas.fr/fr/blog/make-documentation-great-again-bonus/</link>
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0200</pubDate>
       <guid>https://alainnicolas.fr/fr/blog/make-documentation-great-again-bonus/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Après la &lt;a href=&#34;../make-documentation-great-again-part-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;présentation générale de Spring REST Docs&lt;/a&gt;, je vous propose d’aller un peu plus loin en nous penchant sur des petites améliorations qui feront toute la différence !&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Nous continuerons de nous baser sur mon &lt;a href=&#34;https://github.com/alainncls/demo-spring-rest-docs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;projet de démonstration&lt;/a&gt; disponible sur GitHub.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_exposer_automagiquement_la_documentation&#34;&gt;Exposer &amp;#34;automagiquement&amp;#34; la documentation&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Nous l’avons vu : nous sommes désormais capables de générer une page HTML contenant la documentation de notre API.&#xA;Mais ce n’est pas le meilleur moyen de la rendre disponible aux consommateurs de l’API, nous pouvons faire mieux que ça !&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Blog des Labs de Talan</title>
+      <link>https://alainnicolas.fr/fr/projects/talan-blog-labs/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/projects/talan-blog-labs/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Maintenance du &lt;a href=&#34;https://blog.talanlabs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog de Talan Labs&lt;/a&gt;, rédaction d’articles, avant une refonte complète en 2019/2020.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Le blog des Labs de Talan permet de partager les connaissances des collaborateurs de &lt;a href=&#34;https://talan.com/metiers/labs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talan Labs&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;lazy&#34; style=&#34;max-width: 100%&#34;&#xA;            sizes=&#34;(min-width: 35em) 720px, 100vw&#34;&#xA;            srcset=&#39;https://alainnicolas.fr/fr/projects/talan-blog-labs/blog_banner_hu_93710337030ab4a0.webp 500w, https://alainnicolas.fr/fr/projects/talan-blog-labs/blog_banner_hu_57388e229ecf1242.webp 800w, https://alainnicolas.fr/fr/projects/talan-blog-labs/blog_banner_hu_1c2d628261f1587f.webp 1200w&#39;&#xA;            src=&#34;https://alainnicolas.fr/fr/projects/talan-blog-labs/blog_banner_hu_1c2d628261f1587f.webp&#34;&#xA;            alt=&#34;Aperçu du blog des Labs de Talan&#34;&gt;&lt;figcaption&gt;&#xA;        &lt;small&gt;&lt;/small&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_solution_technique&#34;&gt;La solution technique&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_la_version_legacy&#34;&gt;La version &amp;#34;legacy&amp;#34;&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;La première version du site utilisait &lt;a href=&#34;https://wordpress.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;, solution qu’il n’est plus nécessaire de présenter.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_la_refonte&#34;&gt;La refonte&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Face à la difficulté de maintenir à jour un tel site, tout en garantissant sa sécurité, nous avons choisi de changer radicalement de technologie afin de réduire considérablement la surface d’attaque.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>BNP CIB - Blockchain-as-a-Service</title>
+      <link>https://alainnicolas.fr/fr/projects/bnp-blockchain/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/projects/bnp-blockchain/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;En tant qu’acteur majeur du secteur bancaire, BNP Paribas se doit de rester à la pointe des technologies disponibles.&#xA;C’est ainsi que les technologies blockchain et DLT se sont imposées comme incontournables.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Comme de nombreuses grandes entreprises, la BNP est découpée en plusieurs entités qui peuvent toutes participer à un même projet, ce qui n’est pas sans soulever des challenges autour de la collaboration.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Pour permettre à toutes les entités de la BNP d’expérimenter sur la blockchain avant de facilement rejoindre un consortium décentralisé, il fallait rendre accessible des technologies que nous pouvons qualifier d’exotiques.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Coface</title>
+      <link>https://alainnicolas.fr/fr/projects/coface/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/projects/coface/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Coface est un acteur majeur de l’assurance-crédit.&#xA;De manière à toujours rester compétitif et gagner de nouvelles parts de marchés, l’entreprise a besoin de proposer régulièrement de nouveaux produits et solutions logicielles à ses clients.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Optimisation et évolution d’une application web (Cofanet Policy Master &amp;amp; Cofanet Policy Master Administration) à destination de clients payants.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Pour cela, il fallait envisager un refactoring technique de l’architecture projet et la refonte des fonctionnalités majeures de l’application.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>e-Paye</title>
+      <link>https://alainnicolas.fr/fr/projects/epaye/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/projects/epaye/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;e-Paye édite des logiciels dédiés au SIRH : paie, coffre-fort numérique, gestion des RH, gestion des entretiens, etc.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Parmi les modules d’e-Paye, celui permettant la génération des fiches de paye est particulièrement important et complexe.&#xA;En effet, il doit prendre en compte la législation parfois changeante, mais aussi être capable de générer un grand nombre de fiches de paye en une durée restreinte.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_stack_technique&#34;&gt;La stack technique&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_côté_client&#34;&gt;Côté client&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;JavaScript, HTML5, CSS3, jQuery, Ajax&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>EDF Commerce - Évangélisation craftsmanship</title>
+      <link>https://alainnicolas.fr/fr/projects/edf/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/projects/edf/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;La Direction Numérique d’EDF Commerce a une équipe dédiée à la réalisation de PoC pour l’ensemble des métiers du groupe.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_mission&#34;&gt;La mission&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;La mission consiste à évangéliser sur les notions de craftsmanship et industrialiser les bonnes pratiques à mettre en place.&#xA;C’est ainsi que j’ai pu initier la mise en place des premiers pipelines CI/CD via GitLab et Jenkins, mais aussi pousser l’utilisation de SonarQube pour le suivi de qualité du code ou celle de Nexus pour y déposer les artefacts générés.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>FuturMaster - Calibrate Model</title>
+      <link>https://alainnicolas.fr/fr/projects/futurmaster-calibrate-model/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/projects/futurmaster-calibrate-model/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Éditeur de logiciels dédiés à la gestion de la supply chain, FuturMaster a fait appel à Talan Labs pour renforcer ses équipes de développement et accélérer la refonte de sa suite d’outils.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;C’est ainsi que j’ai fait partie de la première squad agile, composée de 3 développeurs, 1 designer et 1 Scrum Master.&#xA;Nous étions chargés de la refonte du module &lt;em&gt;Calibrate Model&lt;/em&gt; qui vise à afficher l’historique de vente d’un produit et la simulation de ses ventes futures.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>FuturMaster - Master Data</title>
+      <link>https://alainnicolas.fr/fr/projects/futurmaster-master-data/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/projects/futurmaster-master-data/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Éditeur de logiciels dédiés à la gestion de la supply chain, FuturMaster a fait appel à Talan Labs pour renforcer ses équipes de développement et accélérer la refonte de sa suite d’outils.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Suite au succès de l’intervention de la première squad de Talan Labs chez FuturMaster sur le projet &lt;a href=&#34;https://alainnicolas.fr/fr/projects/futurmaster-calibrate-model/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calibrate Model&lt;/a&gt;, nous nous sommes lancés dans la refonte du module &lt;em&gt;Master Data&lt;/em&gt;, chargé de centraliser le référentiel de données qui alimentent les autres modules de la suite logicielle.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Gefco - Opteam</title>
+      <link>https://alainnicolas.fr/fr/projects/gefco/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/projects/gefco/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Gefco est un acteur incontournable de la logistique et notamment du transport de pièces automobiles.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Développement d’un système de génération de plannings sous contraintes.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_stack_technique&#34;&gt;La stack technique&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_client_lourd&#34;&gt;Client lourd&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Java Swing&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_base_de_données&#34;&gt;Base de données&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;OracleDB&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Share2gether</title>
+      <link>https://alainnicolas.fr/fr/projects/share2gether/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/projects/share2gether/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Share2Gether, vise à créer une solution d’organisation d’événements, à l’image de ce que propose &lt;a href=&#34;https://www.meetup.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meetup.com&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;J’ai eu l’occasion de partager plus en détails cette expérience dans un &lt;a href=&#34;https://alainnicolas.fr/fr/blog/blockchain-projet-scolaire-monde-entreprise/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article dédié&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_stack_technique&#34;&gt;La stack technique&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_côté_client&#34;&gt;Côté client&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Le front est une application Vue.js qui communique avec les smart-contracts déployés sur la blockchain grâce à la librairie web3.js.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_côté_blockchain&#34;&gt;Côté blockchain&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Les smart-contracts écrits en Solidity sont déployés sur une blockchain Ethereum.&#xA;Utilisation des contrats standards fournis par OpenZeppelin.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Talan Coin</title>
+      <link>https://alainnicolas.fr/fr/projects/talan-talancoin/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/projects/talan-talancoin/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;,&amp;#34;NPM&amp;#34; == Le contexte&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Comme toutes les entreprises, Talan cherche à catalyser la collaboration en son sein.&#xA;De plus, Talan souhaite renforcer son unité en tant que groupe malgré des entités distinctes et une répartition sur 4 continents et développer une horizontalité bien loin des hiérarchies verticales classiques.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Une monnaie interne, commune à tous les collaborateurs, peu importe leur localisation ou leur rôle hiérarchique, permet de trouver un point commun entre tous les acteurs de l’entreprise.&#xA;C’est aussi une manière de permettre à tous de mieux échanger, y compris entre équipes distinctes, affirmant ainsi une hiérarchie horizontale.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>VINCI Construction Terrassement - VCoin</title>
+      <link>https://alainnicolas.fr/fr/projects/vct-vcoin/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/projects/vct-vcoin/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Après le succès de &lt;a href=&#34;https://alainnicolas.fr/fr/projects/talan-talancoin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talan Coin&lt;/a&gt;, le groupe VINCI a souhaité expérimenter avec sa propre version de l’application.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;C’est ainsi que nous avons instancié l’application VCoin, avec quelques spécificités la démarquant de Talan Coin.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_stack_technique&#34;&gt;La stack technique&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_côté_client&#34;&gt;Côté client&lt;/h3&gt;&#xA;&lt;div class=&#34;ulist&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Application iOS native&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Application Android native&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Applications web Angular :&lt;/p&gt;&#xA;&lt;div class=&#34;ulist&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Dashboard de suivi statistique et d’administration&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Boutique d’objets et services payables en Talan Coins&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Client desktop (non mis en production)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Make documentation great again (2/2)</title>
@@ -555,6 +562,13 @@
       <description></description>
     </item>
     <item>
+      <title>Dune Analytics</title>
+      <link>https://alainnicolas.fr/fr/tags/dune-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/dune-analytics/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>EPF</title>
       <link>https://alainnicolas.fr/fr/tags/epf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -580,6 +594,13 @@
       <link>https://alainnicolas.fr/fr/tags/ganache/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/tags/ganache/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GDPR</title>
+      <link>https://alainnicolas.fr/fr/tags/gdpr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/gdpr/</guid>
       <description></description>
     </item>
     <item>
@@ -636,6 +657,13 @@
       <link>https://alainnicolas.fr/fr/tags/hyperledger-fabric/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/tags/hyperledger-fabric/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infura</title>
+      <link>https://alainnicolas.fr/fr/tags/infura/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/infura/</guid>
       <description></description>
     </item>
     <item>
@@ -737,6 +765,13 @@
       <description></description>
     </item>
     <item>
+      <title>MetaMask</title>
+      <link>https://alainnicolas.fr/fr/tags/metamask/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/metamask/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Microsoft</title>
       <link>https://alainnicolas.fr/fr/tags/microsoft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -765,6 +800,20 @@
       <description></description>
     </item>
     <item>
+      <title>Next.js</title>
+      <link>https://alainnicolas.fr/fr/tags/next.js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/next.js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NFT</title>
+      <link>https://alainnicolas.fr/fr/tags/nft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/nft/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Node.js</title>
       <link>https://alainnicolas.fr/fr/tags/nodejs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -776,6 +825,13 @@
       <link>https://alainnicolas.fr/fr/tags/npm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/tags/npm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OAuth 2.0</title>
+      <link>https://alainnicolas.fr/fr/tags/oauth-2.0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/oauth-2.0/</guid>
       <description></description>
     </item>
     <item>
@@ -793,6 +849,13 @@
       <description></description>
     </item>
     <item>
+      <title>Personal</title>
+      <link>https://alainnicolas.fr/fr/tags/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/personal/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>pnpm</title>
       <link>https://alainnicolas.fr/fr/tags/pnpm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -804,6 +867,20 @@
       <link>https://alainnicolas.fr/fr/tags/postgresql/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prisma</title>
+      <link>https://alainnicolas.fr/fr/tags/prisma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/prisma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://alainnicolas.fr/fr/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/python/</guid>
       <description></description>
     </item>
     <item>
@@ -849,6 +926,13 @@
       <description></description>
     </item>
     <item>
+      <title>Shell</title>
+      <link>https://alainnicolas.fr/fr/tags/shell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/shell/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Solidity</title>
       <link>https://alainnicolas.fr/fr/tags/solidity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -891,6 +975,13 @@
       <description></description>
     </item>
     <item>
+      <title>Training</title>
+      <link>https://alainnicolas.fr/fr/tags/training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/training/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Truffle</title>
       <link>https://alainnicolas.fr/fr/tags/truffle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -902,6 +993,13 @@
       <link>https://alainnicolas.fr/fr/tags/typescript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/tags/typescript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>V-model</title>
+      <link>https://alainnicolas.fr/fr/tags/v-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/v-model/</guid>
       <description></description>
     </item>
     <item>
@@ -919,10 +1017,31 @@
       <description></description>
     </item>
     <item>
+      <title>viem</title>
+      <link>https://alainnicolas.fr/fr/tags/viem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/viem/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Vue.js</title>
       <link>https://alainnicolas.fr/fr/tags/vuejs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/tags/vuejs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>wagmi</title>
+      <link>https://alainnicolas.fr/fr/tags/wagmi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/wagmi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web3Auth</title>
+      <link>https://alainnicolas.fr/fr/tags/web3auth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/web3auth/</guid>
       <description></description>
     </item>
     <item>

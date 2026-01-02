@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="https://alainnicolas.fr/en/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Discord Attestation</title>
+      <link>https://alainnicolas.fr/en/projects/discord-attestation/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/discord-attestation/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_project_context&#34;&gt;Project Context&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;In the Web3 ecosystem, digital identity remains a major challenge.&#xA;How do you prove who you are without compromising your privacy?&#xA;How do you link your social identities to your wallet without relying on a central authority?&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Discord Attestation&lt;/strong&gt; addresses this need by allowing users to create cryptographic proofs of their Discord identity, permanently stored on the Linea blockchain via the &lt;a href=&#34;https://www.ver.ax/&#34;&gt;Verax&lt;/a&gt; protocol.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_key_features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;The application offers a smooth user experience in three steps:&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
       <title>Bunny Universe</title>
       <link>https://alainnicolas.fr/en/projects/bunny-universe/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>

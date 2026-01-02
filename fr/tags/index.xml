@@ -99,6 +99,13 @@
       <description></description>
     </item>
     <item>
+      <title>Dune Analytics</title>
+      <link>https://alainnicolas.fr/fr/tags/dune-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/dune-analytics/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>EPF</title>
       <link>https://alainnicolas.fr/fr/tags/epf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -124,6 +131,13 @@
       <link>https://alainnicolas.fr/fr/tags/ganache/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/tags/ganache/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GDPR</title>
+      <link>https://alainnicolas.fr/fr/tags/gdpr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/gdpr/</guid>
       <description></description>
     </item>
     <item>
@@ -180,6 +194,13 @@
       <link>https://alainnicolas.fr/fr/tags/hyperledger-fabric/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/tags/hyperledger-fabric/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infura</title>
+      <link>https://alainnicolas.fr/fr/tags/infura/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/infura/</guid>
       <description></description>
     </item>
     <item>
@@ -281,6 +302,13 @@
       <description></description>
     </item>
     <item>
+      <title>MetaMask</title>
+      <link>https://alainnicolas.fr/fr/tags/metamask/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/metamask/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Microsoft</title>
       <link>https://alainnicolas.fr/fr/tags/microsoft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -309,6 +337,20 @@
       <description></description>
     </item>
     <item>
+      <title>Next.js</title>
+      <link>https://alainnicolas.fr/fr/tags/next.js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/next.js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NFT</title>
+      <link>https://alainnicolas.fr/fr/tags/nft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/nft/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Node.js</title>
       <link>https://alainnicolas.fr/fr/tags/nodejs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -320,6 +362,13 @@
       <link>https://alainnicolas.fr/fr/tags/npm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/tags/npm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OAuth 2.0</title>
+      <link>https://alainnicolas.fr/fr/tags/oauth-2.0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/oauth-2.0/</guid>
       <description></description>
     </item>
     <item>
@@ -337,6 +386,13 @@
       <description></description>
     </item>
     <item>
+      <title>Personal</title>
+      <link>https://alainnicolas.fr/fr/tags/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/personal/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>pnpm</title>
       <link>https://alainnicolas.fr/fr/tags/pnpm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -348,6 +404,20 @@
       <link>https://alainnicolas.fr/fr/tags/postgresql/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prisma</title>
+      <link>https://alainnicolas.fr/fr/tags/prisma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/prisma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://alainnicolas.fr/fr/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/python/</guid>
       <description></description>
     </item>
     <item>
@@ -393,6 +463,13 @@
       <description></description>
     </item>
     <item>
+      <title>Shell</title>
+      <link>https://alainnicolas.fr/fr/tags/shell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/shell/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Solidity</title>
       <link>https://alainnicolas.fr/fr/tags/solidity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -435,6 +512,13 @@
       <description></description>
     </item>
     <item>
+      <title>Training</title>
+      <link>https://alainnicolas.fr/fr/tags/training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/training/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Truffle</title>
       <link>https://alainnicolas.fr/fr/tags/truffle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -446,6 +530,13 @@
       <link>https://alainnicolas.fr/fr/tags/typescript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/tags/typescript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>V-model</title>
+      <link>https://alainnicolas.fr/fr/tags/v-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/v-model/</guid>
       <description></description>
     </item>
     <item>
@@ -463,10 +554,31 @@
       <description></description>
     </item>
     <item>
+      <title>viem</title>
+      <link>https://alainnicolas.fr/fr/tags/viem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/viem/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Vue.js</title>
       <link>https://alainnicolas.fr/fr/tags/vuejs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/tags/vuejs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>wagmi</title>
+      <link>https://alainnicolas.fr/fr/tags/wagmi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/wagmi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web3Auth</title>
+      <link>https://alainnicolas.fr/fr/tags/web3auth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/web3auth/</guid>
       <description></description>
     </item>
     <item>
