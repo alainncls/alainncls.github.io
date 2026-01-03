@@ -6,14 +6,35 @@
     <description>Recent content in Accueil on Alain Nicolas</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 02 Jan 2026 18:50:27 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 16:30:27 +0100</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Strava Segment Attestations</title>
+      <link>https://alainnicolas.fr/fr/projects/strava-segment-attestations/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/projects/strava-segment-attestations/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Et si vos performances sportives pouvaient devenir des preuves cryptographiques permanentes ?&#xA;Les achievements Strava restent aujourd’hui enfermés dans l’application, sans moyen de les prouver de manière vérifiable ailleurs.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Strava Segment Attestations&lt;/strong&gt; crée un pont entre le monde du sport et le Web3, permettant aux athlètes de transformer leurs segments Strava complétés en attestations onchain permanentes sur la blockchain Linea.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_proposition_de_valeur&#34;&gt;Proposition de valeur&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_pour_les_athlètes&#34;&gt;Pour les athlètes&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Permanence&lt;/strong&gt; : contrairement aux screenshots, les attestations sont immuables&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Discord Attestation</title>
       <link>https://alainnicolas.fr/fr/projects/discord-attestation/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/discord-attestation/</guid>
       <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Dans l’écosystème Web3, l’identité numérique reste un défi majeur.&#xA;Comment prouver qui vous êtes sans compromettre votre vie privée ?&#xA;Comment lier vos identités sociales à votre wallet sans dépendre d’une autorité centrale ?&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Discord Attestation&lt;/strong&gt; répond à ce besoin en permettant aux utilisateurs de créer des preuves cryptographiques de leur identité Discord, stockées de manière permanente sur la blockchain Linea via le protocole &lt;a href=&#34;https://www.ver.ax/&#34;&gt;Verax&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_fonctionnalités_principales&#34;&gt;Fonctionnalités principales&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;L’application offre une expérience utilisateur fluide en trois étapes :&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Linea Proof-of-Humanity API</title>
+      <link>https://alainnicolas.fr/fr/projects/linea-poh-api/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/projects/linea-poh-api/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Les attaques Sybil représentent l’un des défis majeurs du Web3 : comment s’assurer qu’une adresse correspond à un humain unique et non à un bot ou à de multiples comptes contrôlés par la même personne ?&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Linea Proof-of-Humanity (PoH)&lt;/strong&gt; est une infrastructure permettant de vérifier qu’une adresse Ethereum appartient à un utilisateur humain vérifié, tout en préservant sa vie privée.&#xA;Le système s’appuie sur le protocole d’attestations Verax et offre une intégration onchain via des signatures EIP-712.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Proof of Audit</title>
+      <link>https://alainnicolas.fr/fr/projects/proof-of-audit/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/projects/proof-of-audit/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;L’industrie des audits de smart contracts souffre d’un problème de confiance : comment prouver qu’un contrat a réellement été audité ?&#xA;Les rapports PDF peuvent être falsifiés, les badges sur les sites web facilement copiés, et aucun standard ne permet de vérifier ces claims de manière indépendante.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Proof of Audit&lt;/strong&gt; transforme les audits traditionnels en preuves cryptographiques vérifiables, stockées de manière permanente sur la blockchain via le protocole &lt;a href=&#34;https://www.ver.ax/&#34;&gt;Verax&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Bunny Universe</title>

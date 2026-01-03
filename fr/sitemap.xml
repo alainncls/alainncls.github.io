@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alainnicolas.fr/fr/projects/strava-segment-attestations/</loc>
+    <lastmod>2026-01-03T16:30:27+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alainnicolas.fr/en/projects/strava-segment-attestations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alainnicolas.fr/fr/projects/strava-segment-attestations/"
+                />
+  </url><url>
     <loc>https://alainnicolas.fr/fr/projects/discord-attestation/</loc>
-    <lastmod>2026-01-02T18:50:27+01:00</lastmod>
+    <lastmod>2026-01-02T22:21:42+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +27,22 @@
                 hreflang="fr"
                 href="https://alainnicolas.fr/fr/projects/discord-attestation/"
                 />
+  </url><url>
+    <loc>https://alainnicolas.fr/fr/projects/linea-poh-api/</loc>
+    <lastmod>2026-01-02T22:55:23+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alainnicolas.fr/en/projects/linea-poh-api/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alainnicolas.fr/fr/projects/linea-poh-api/"
+                />
+  </url><url>
+    <loc>https://alainnicolas.fr/fr/projects/proof-of-audit/</loc>
+    <lastmod>2026-01-02T23:30:30+01:00</lastmod>
   </url><url>
     <loc>https://alainnicolas.fr/fr/projects/bunny-universe/</loc>
     <lastmod>2026-01-02T18:43:44+01:00</lastmod>

@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="https://alainnicolas.fr/en/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Strava Segment Attestations</title>
+      <link>https://alainnicolas.fr/en/projects/strava-segment-attestations/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/strava-segment-attestations/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_project_context&#34;&gt;Project Context&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;What if your athletic performances could become permanent cryptographic proofs?&#xA;Strava achievements remain locked within the app today, with no way to prove them verifiably elsewhere.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Strava Segment Attestations&lt;/strong&gt; creates a bridge between the sport world and Web3, allowing athletes to transform their completed Strava segments into permanent onchain attestations on the Linea blockchain.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_value_proposition&#34;&gt;Value Proposition&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_for_athletes&#34;&gt;For Athletes&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Permanence&lt;/strong&gt;: unlike screenshots, attestations are immutable&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Verification&lt;/strong&gt;: anyone can verify the authenticity of your performances&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
       <title>Discord Attestation</title>
       <link>https://alainnicolas.fr/en/projects/discord-attestation/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
@@ -27,6 +34,13 @@
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/projects/linea-token-api/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;For the past few months, we’ve been working on a new piece of infrastructure for builders in the Linea ecosystem: the Token API.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;The idea is simple: give easy, fast, and reliable access to key information about ERC-20 tokens on Linea.&#xA;Prices, metadata, stats, etc.&#xA;Everything you need to plug into a dashboard, a dapp, a bot, an explorer, or anything else.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;The API is already live in &lt;a href=&#34;https://linea.build/apps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea Hub&lt;/a&gt;, the entry point to explore the Linea ecosystem, and in &lt;a href=&#34;https://portfolio.metamask.io/explore/networks/linea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MetaMask Portfolio&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Linea Proof-of-Humanity API</title>
+      <link>https://alainnicolas.fr/en/projects/linea-poh-api/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/projects/linea-poh-api/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_project_context&#34;&gt;Project Context&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Sybil attacks represent one of Web3’s major challenges: how do you ensure that an address corresponds to a unique human and not a bot or multiple accounts controlled by the same person?&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Linea Proof-of-Humanity (PoH)&lt;/strong&gt; is an infrastructure for verifying that an Ethereum address belongs to a verified human user while preserving their privacy.&#xA;The system relies on the Verax attestation protocol and offers onchain integration via EIP-712 signatures.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>eFrogs Attestation</title>
