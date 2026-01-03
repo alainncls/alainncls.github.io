@@ -8,6 +8,20 @@
     <language>fr</language>
     <atom:link href="https://alainnicolas.fr/fr/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Linea Developer Hub</title>
+      <link>https://alainnicolas.fr/fr/projects/linea-developer-hub/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/projects/linea-developer-hub/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;L’écosystème Linea connaît une croissance rapide, avec de nombreuses apps et protocoles déployés.&#xA;Pour accompagner cette expansion, Linea avait besoin d’un portail unifié permettant aux développeurs de gérer leur présence dans l’écosystème de manière autonome.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Linea Developer Hub&lt;/strong&gt; est né de ce besoin : un back-office self-service où les équipes de développement peuvent soumettre leurs applications, gérer leurs événements, lier leurs tokens et suivre leurs analytics.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_fonctionnalités_principales&#34;&gt;Fonctionnalités principales&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_soumission_dapps&#34;&gt;Soumission d’apps&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Un processus de soumission en plusieurs étapes permet aux développeurs d’enregistrer leurs applications :&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Linea Hub</title>
+      <link>https://alainnicolas.fr/fr/projects/linea-hub/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/projects/linea-hub/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Linea nécessitait une plateforme pour présenter son écosystème grandissant.&#xA;Au-delà d’un simple répertoire, l’objectif était de créer un hub d’engagement capable d’attirer et de retenir les utilisateurs grâce à des mécaniques de gamification.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Linea Hub&lt;/strong&gt; répond à ce besoin en combinant découverte d’applications, agrégation de données de marché et système de récompenses quotidiennes.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_fonctionnalités_principales&#34;&gt;Fonctionnalités principales&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_répertoire_dapps&#34;&gt;Répertoire d’apps&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Un catalogue complet des applications de l’écosystème Linea :&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;ulist&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Navigation par catégorie&lt;/strong&gt; : DeFi, NFT, Gaming, Infrastructure, etc.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fiches détaillées&lt;/strong&gt; : description, liens, contrats, statistiques&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Intégration analytics&lt;/strong&gt; : données d’utilisation via Dune Analytics&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Leaderboard&lt;/strong&gt; : classement des apps par popularité&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
       <title>Strava Segment Attestations</title>
       <link>https://alainnicolas.fr/fr/projects/strava-segment-attestations/</link>
       <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>

@@ -2,8 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alainnicolas.fr/fr/projects/linea-developer-hub/</loc>
+    <lastmod>2026-01-03T17:04:13+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alainnicolas.fr/en/projects/linea-developer-hub/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alainnicolas.fr/fr/projects/linea-developer-hub/"
+                />
+  </url><url>
+    <loc>https://alainnicolas.fr/fr/projects/linea-hub/</loc>
+    <lastmod>2026-01-03T17:42:29+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alainnicolas.fr/en/projects/linea-hub/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alainnicolas.fr/fr/projects/linea-hub/"
+                />
+  </url><url>
     <loc>https://alainnicolas.fr/fr/projects/strava-segment-attestations/</loc>
-    <lastmod>2026-01-03T16:30:27+01:00</lastmod>
+    <lastmod>2026-01-03T17:47:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +55,7 @@
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/projects/linea-poh-api/</loc>
-    <lastmod>2026-01-02T22:55:23+01:00</lastmod>
+    <lastmod>2026-01-03T17:47:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +68,17 @@
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/projects/proof-of-audit/</loc>
-    <lastmod>2026-01-02T23:30:30+01:00</lastmod>
+    <lastmod>2026-01-03T17:47:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alainnicolas.fr/en/projects/proof-of-audit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alainnicolas.fr/fr/projects/proof-of-audit/"
+                />
   </url><url>
     <loc>https://alainnicolas.fr/fr/projects/bunny-universe/</loc>
     <lastmod>2026-01-02T18:43:44+01:00</lastmod>
@@ -780,7 +816,7 @@
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/asciidoc/</loc>
-    <lastmod>2021-10-01T11:41:40+02:00</lastmod>
+    <lastmod>2026-01-03T18:54:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -922,7 +958,7 @@
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/dune-analytics/</loc>
-    <lastmod>2026-01-02T18:24:24+01:00</lastmod>
+    <lastmod>2026-01-03T17:47:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -973,6 +1009,19 @@
                 href="https://alainnicolas.fr/fr/tags/formation/"
                 />
   </url><url>
+    <loc>https://alainnicolas.fr/fr/tags/foundry/</loc>
+    <lastmod>2026-01-03T18:55:13+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alainnicolas.fr/en/tags/foundry/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alainnicolas.fr/fr/tags/foundry/"
+                />
+  </url><url>
     <loc>https://alainnicolas.fr/fr/tags/ganache/</loc>
     <lastmod>2021-02-07T21:59:30+01:00</lastmod>
     <xhtml:link
@@ -984,19 +1033,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://alainnicolas.fr/fr/tags/ganache/"
-                />
-  </url><url>
-    <loc>https://alainnicolas.fr/fr/tags/gdpr/</loc>
-    <lastmod>2026-01-02T18:24:24+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alainnicolas.fr/en/tags/gdpr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://alainnicolas.fr/fr/tags/gdpr/"
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/git/</loc>
@@ -1065,7 +1101,7 @@
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/hardhat/</loc>
-    <lastmod>2024-01-02T23:44:28+01:00</lastmod>
+    <lastmod>2026-01-03T18:54:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1104,7 +1140,7 @@
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/infura/</loc>
-    <lastmod>2026-01-02T18:24:24+01:00</lastmod>
+    <lastmod>2026-01-03T17:47:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1327,7 +1363,7 @@
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/metamask/</loc>
-    <lastmod>2026-01-02T18:24:24+01:00</lastmod>
+    <lastmod>2026-01-03T17:47:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1392,7 +1428,7 @@
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/next.js/</loc>
-    <lastmod>2026-01-02T18:24:24+01:00</lastmod>
+    <lastmod>2026-01-03T17:47:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1405,7 +1441,7 @@
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/nft/</loc>
-    <lastmod>2026-01-02T18:24:24+01:00</lastmod>
+    <lastmod>2026-01-03T17:47:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1444,7 +1480,7 @@
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/oauth-2.0/</loc>
-    <lastmod>2026-01-02T18:24:24+01:00</lastmod>
+    <lastmod>2026-01-03T18:54:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1454,6 +1490,19 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://alainnicolas.fr/fr/tags/oauth-2.0/"
+                />
+  </url><url>
+    <loc>https://alainnicolas.fr/fr/tags/openzeppelin/</loc>
+    <lastmod>2026-01-03T18:55:13+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alainnicolas.fr/en/tags/openzeppelin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alainnicolas.fr/fr/tags/openzeppelin/"
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/oracledb/</loc>
@@ -1483,7 +1532,7 @@
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/personal/</loc>
-    <lastmod>2026-01-02T18:24:24+01:00</lastmod>
+    <lastmod>2026-01-03T17:47:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1496,7 +1545,7 @@
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/pnpm/</loc>
-    <lastmod>2024-01-02T23:44:28+01:00</lastmod>
+    <lastmod>2026-01-03T18:54:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1536,7 +1585,7 @@
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/prisma/</loc>
-    <lastmod>2026-01-02T18:24:24+01:00</lastmod>
+    <lastmod>2026-01-03T17:47:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1563,7 +1612,7 @@
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/python/</loc>
-    <lastmod>2026-01-02T18:24:24+01:00</lastmod>
+    <lastmod>2026-01-03T17:47:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1653,7 +1702,7 @@
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/shell/</loc>
-    <lastmod>2026-01-02T18:24:24+01:00</lastmod>
+    <lastmod>2026-01-03T17:47:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1679,7 +1728,7 @@
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/sonarqube/</loc>
-    <lastmod>2023-12-26T20:06:04+01:00</lastmod>
+    <lastmod>2026-01-03T18:54:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1743,8 +1792,21 @@
                 href="https://alainnicolas.fr/fr/tags/tarteaucitron/"
                 />
   </url><url>
+    <loc>https://alainnicolas.fr/fr/tags/the-graph/</loc>
+    <lastmod>2026-01-03T18:55:13+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alainnicolas.fr/en/tags/the-graph/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alainnicolas.fr/fr/tags/the-graph/"
+                />
+  </url><url>
     <loc>https://alainnicolas.fr/fr/tags/training/</loc>
-    <lastmod>2026-01-02T18:24:24+01:00</lastmod>
+    <lastmod>2026-01-03T17:47:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1783,7 +1845,7 @@
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/v-model/</loc>
-    <lastmod>2026-01-02T18:24:24+01:00</lastmod>
+    <lastmod>2026-01-03T17:47:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1822,7 +1884,7 @@
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/viem/</loc>
-    <lastmod>2026-01-02T18:24:24+01:00</lastmod>
+    <lastmod>2026-01-03T18:54:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1832,6 +1894,19 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://alainnicolas.fr/fr/tags/viem/"
+                />
+  </url><url>
+    <loc>https://alainnicolas.fr/fr/tags/vite/</loc>
+    <lastmod>2026-01-03T18:55:13+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alainnicolas.fr/en/tags/vite/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alainnicolas.fr/fr/tags/vite/"
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/vuejs/</loc>
@@ -1848,7 +1923,7 @@
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/wagmi/</loc>
-    <lastmod>2026-01-02T18:24:24+01:00</lastmod>
+    <lastmod>2026-01-03T18:54:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1861,7 +1936,7 @@
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/web3auth/</loc>
-    <lastmod>2026-01-02T18:24:24+01:00</lastmod>
+    <lastmod>2026-01-03T18:54:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

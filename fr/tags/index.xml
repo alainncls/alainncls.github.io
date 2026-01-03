@@ -127,17 +127,17 @@
       <description></description>
     </item>
     <item>
+      <title>Foundry</title>
+      <link>https://alainnicolas.fr/fr/tags/foundry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/foundry/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Ganache</title>
       <link>https://alainnicolas.fr/fr/tags/ganache/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/tags/ganache/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>GDPR</title>
-      <link>https://alainnicolas.fr/fr/tags/gdpr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alainnicolas.fr/fr/tags/gdpr/</guid>
       <description></description>
     </item>
     <item>
@@ -372,6 +372,13 @@
       <description></description>
     </item>
     <item>
+      <title>OpenZeppelin</title>
+      <link>https://alainnicolas.fr/fr/tags/openzeppelin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/openzeppelin/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>OracleDB</title>
       <link>https://alainnicolas.fr/fr/tags/oracledb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -512,6 +519,13 @@
       <description></description>
     </item>
     <item>
+      <title>The Graph</title>
+      <link>https://alainnicolas.fr/fr/tags/the-graph/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/the-graph/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Training</title>
       <link>https://alainnicolas.fr/fr/tags/training/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -554,10 +568,17 @@
       <description></description>
     </item>
     <item>
-      <title>viem</title>
+      <title>Viem</title>
       <link>https://alainnicolas.fr/fr/tags/viem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/tags/viem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vite</title>
+      <link>https://alainnicolas.fr/fr/tags/vite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/fr/tags/vite/</guid>
       <description></description>
     </item>
     <item>
@@ -568,7 +589,7 @@
       <description></description>
     </item>
     <item>
-      <title>wagmi</title>
+      <title>Wagmi</title>
       <link>https://alainnicolas.fr/fr/tags/wagmi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/tags/wagmi/</guid>
