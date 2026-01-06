@@ -8,6 +8,13 @@
     <language>fr</language>
     <atom:link href="https://alainnicolas.fr/fr/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>La fin du développeur junior ?</title>
+      <link>https://alainnicolas.fr/fr/blog/la-fin-du-developpeur-junior/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/fr/blog/la-fin-du-developpeur-junior/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Avec la montée en puissance des LLMs capables de générer des applications fonctionnelles en quelques heures, même pour des non-techniciens, un discours familier revient sans cesse.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Les développeurs juniors sont condamnés.&lt;br/&gt;&#xA;Les entreprises vont arrêter de recruter des diplômés.&lt;br/&gt;&#xA;Le marché est saturé.&lt;br/&gt;&#xA;On va tous se faire remplacer.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Une partie de cette peur est justifiée.&#xA;Le rythme auquel les modèles progressent, les outils mûrissent et les connaissances se diffusent est sans précédent.&#xA;Prétendre le contraire serait du déni.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
       <title>Mon Git flow personnel</title>
       <link>https://alainnicolas.fr/fr/blog/personal-git-flow/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0200</pubDate>

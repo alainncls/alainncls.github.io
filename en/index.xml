@@ -6,8 +6,15 @@
     <description>Recent content in Homepage on Alain Nicolas</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Jan 2026 18:55:13 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 21:45:18 +0100</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Junior Path Is Disappearing</title>
+      <link>https://alainnicolas.fr/en/blog/junior-developer-path-disappearing/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/junior-developer-path-disappearing/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;With the rise of credible LLMs capable of generating usable applications in a matter of hours, even for non technical people, a familiar narrative keeps coming back.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Junior developers are doomed.&lt;br/&gt;&#xA;Companies will stop hiring graduates.&lt;br/&gt;&#xA;The field is saturated.&lt;br/&gt;&#xA;We are all about to be replaced.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Some of this fear is justified.&#xA;The pace at which models improve, tools mature and knowledge spreads is unprecedented.&#xA;Pretending otherwise is denial.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Linea Developer Hub</title>
       <link>https://alainnicolas.fr/en/projects/linea-developer-hub/</link>
@@ -399,6 +406,13 @@
       <pubDate>Wed, 16 Nov 2016 09:00:23 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/series/java-ee-new-direction/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Perhaps for you the summer 2016 series was &lt;a href=&#34;https://www.netflix.com/fr/title/80057281&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stranger Things&lt;/a&gt;, but in the vast world of Java, a completely different series with multiple twists and turns has attracted all attention.&#xA;Acquisition, rebellion, and polls, dive into the revolution of Java EE!&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>https://alainnicolas.fr/en/tags/ia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alainnicolas.fr/en/tags/ia/</guid>
+      <description></description>
     </item>
     <item>
       <title>Android</title>

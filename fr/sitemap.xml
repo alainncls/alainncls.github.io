@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alainnicolas.fr/fr/blog/la-fin-du-developpeur-junior/</loc>
+    <lastmod>2026-01-06T21:45:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alainnicolas.fr/en/blog/junior-developer-path-disappearing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alainnicolas.fr/fr/blog/la-fin-du-developpeur-junior/"
+                />
+  </url><url>
     <loc>https://alainnicolas.fr/fr/projects/linea-developer-hub/</loc>
     <lastmod>2026-01-03T17:04:13+01:00</lastmod>
     <xhtml:link
@@ -1137,6 +1150,19 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://alainnicolas.fr/fr/tags/hyperledger-fabric/"
+                />
+  </url><url>
+    <loc>https://alainnicolas.fr/fr/tags/ia/</loc>
+    <lastmod>2026-01-06T21:45:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alainnicolas.fr/en/tags/ia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alainnicolas.fr/fr/tags/ia/"
                 />
   </url><url>
     <loc>https://alainnicolas.fr/fr/tags/infura/</loc>
