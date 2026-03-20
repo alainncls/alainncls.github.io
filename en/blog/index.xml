@@ -1,179 +1,548 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog posts on Alain Nicolas</title>
+    <title>Alain Nicolas</title>
     <link>https://alainnicolas.fr/en/blog/</link>
-    <description>Recent content in Blog posts on Alain Nicolas</description>
-    <generator>Hugo</generator>
+    <description>As a Fullstack Blockchain Developer at Consensys, I want to maximize the quality of the code of my projects in order to always deliver value.</description>
     <language>en</language>
+    <lastBuildDate>Fri, 20 Mar 2026 23:52:18 +0100</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/en/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Junior Path Is Disappearing</title>
       <link>https://alainnicolas.fr/en/blog/junior-developer-path-disappearing/</link>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0200</pubDate>
       <guid>https://alainnicolas.fr/en/blog/junior-developer-path-disappearing/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;With the rise of credible LLMs capable of generating usable applications in a matter of hours, even for non technical people, a familiar narrative keeps coming back.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Junior developers are doomed.&lt;br/&gt;&#xA;Companies will stop hiring graduates.&lt;br/&gt;&#xA;The field is saturated.&lt;br/&gt;&#xA;We are all about to be replaced.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Some of this fear is justified.&#xA;The pace at which models improve, tools mature and knowledge spreads is unprecedented.&#xA;Pretending otherwise is denial.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;With the rise of credible LLMs capable of generating usable applications in a matter of hours, even for non technical people, a familiar narrative keeps coming back.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Junior developers are doomed.&lt;br/&gt;
+Companies will stop hiring graduates.&lt;br/&gt;
+The field is saturated.&lt;br/&gt;
+We are all about to be replaced.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Some of this fear is justified.
+The pace at which models improve, tools mature and knowledge spreads is unprecedented.
+Pretending otherwise is denial.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>My personal Git flow</title>
       <link>https://alainnicolas.fr/en/blog/personal-git-flow/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0200</pubDate>
       <guid>https://alainnicolas.fr/en/blog/personal-git-flow/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Over the years and across many projects, I’ve refined a way of working with Git that makes my life easier.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;It’s probably not perfect.&#xA;But it works perfectly for me, and it helps teammates who are less comfortable with Git avoid a lot of headaches.&#xA;So I’m sharing it here in case it helps someone else.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_basics&#34;&gt;The basics&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;I always start from the &lt;code&gt;main&lt;/code&gt; branch.&#xA;I create a feature branch with a clear name:&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Over the years and across many projects, I’ve refined a way of working with Git that makes my life easier.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;It’s probably not perfect.
+But it works perfectly for me, and it helps teammates who are less comfortable with Git avoid a lot of headaches.
+So I’m sharing it here in case it helps someone else.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_the_basics&#34;&gt;The basics&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;I always start from the &lt;code&gt;main&lt;/code&gt; branch.
+I create a feature branch with a clear name:&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Three-year anniversary at Consensys</title>
       <link>https://alainnicolas.fr/en/blog/three-year-anniversary/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0200</pubDate>
       <guid>https://alainnicolas.fr/en/blog/three-year-anniversary/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;I joined Consensys three years ago this week.&#xA;And what an amazing journey it has been!&#xA;Never a dull day in the crypto space, always something new to discover.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;From my very first day, when my manager asked me to integrate Bitcoin into a DeFi project (I only knew Ethereum at the time) to joining the Linea team, I’ve worked on countless products and with so many teams.&#xA;But one thing has always remained the same: the passion, the drive, and the incredibly smart people everywhere.&#xA;I’m humbled by the people around me, hard workers, performance-driven but also extremely human and approachable.&#xA;Colleagues turned into friends, and I’m forever grateful for the memories we create every day.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;I joined Consensys three years ago this week.
+And what an amazing journey it has been!
+Never a dull day in the crypto space, always something new to discover.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;From my very first day, when my manager asked me to integrate Bitcoin into a DeFi project (I only knew Ethereum at the time) to joining the Linea team, I’ve worked on countless products and with so many teams.
+But one thing has always remained the same: the passion, the drive, and the incredibly smart people everywhere.
+I’m humbled by the people around me, hard workers, performance-driven but also extremely human and approachable.
+Colleagues turned into friends, and I’m forever grateful for the memories we create every day.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Fetch &amp; export your transactions</title>
       <link>https://alainnicolas.fr/en/blog/transaction-exporter/</link>
       <pubDate>Wed, 26 Feb 2025 15:00:00 +0200</pubDate>
       <guid>https://alainnicolas.fr/en/blog/transaction-exporter/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Tracking your onchain activity can be a hassle, especially if you need a quick export of your transactions for analysis.&#xA;So I built &lt;strong&gt;Transaction Exporter&lt;/strong&gt;, a simple Node.js script that fetches transactions from a blockchain explorer and exports them to CSV.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_what_it_does&#34;&gt;What it does&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;ulist&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Fetches both normal and internal transactions&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Exports the data into an easy-to-use CSV format&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Works with any Etherscan-compatible explorer (Etherscan, Polygonscan, etc.)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_how_to_use_it&#34;&gt;How to use it&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;olist arabic&#34;&gt;&#xA;&lt;ol class=&#34;arabic&#34;&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Clone the repo: &lt;a href=&#34;https://github.com/alainncls/transaction-exporter&#34;&gt;transaction-exporter&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Install dependencies: &lt;code&gt;npm install&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Add your API key and base URL in a &lt;code&gt;.env&lt;/code&gt; file&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Run: &lt;code&gt;npm run fetch &amp;lt;address&amp;gt; &amp;lt;handle&amp;gt;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Tracking your onchain activity can be a hassle, especially if you need a quick export of your transactions for analysis.
+So I built &lt;strong&gt;Transaction Exporter&lt;/strong&gt;, a simple Node.js script that fetches transactions from a blockchain explorer and exports them to CSV.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_what_it_does&#34;&gt;What it does&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Fetches both normal and internal transactions&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Exports the data into an easy-to-use CSV format&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Works with any Etherscan-compatible explorer (Etherscan, Polygonscan, etc.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_how_to_use_it&#34;&gt;How to use it&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;olist arabic&#34;&gt;
+&lt;ol class=&#34;arabic&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Clone the repo: &lt;a href=&#34;https://github.com/alainncls/transaction-exporter&#34;&gt;transaction-exporter&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Install dependencies: &lt;code&gt;npm install&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Add your API key and base URL in a &lt;code&gt;.env&lt;/code&gt; file&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Run: &lt;code&gt;npm run fetch &amp;lt;address&amp;gt; &amp;lt;handle&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>NFT rarity: a deep dive</title>
       <link>https://alainnicolas.fr/en/blog/nft-rarity/</link>
       <pubDate>Mon, 03 Feb 2025 15:00:00 +0200</pubDate>
       <guid>https://alainnicolas.fr/en/blog/nft-rarity/</guid>
-      <description>&lt;div class=&#34;quoteblock&#34;&gt;&#xA;&lt;blockquote&gt;&#xA;&amp;#34;How rare is my NFT?&amp;#34;&#xA;&lt;/blockquote&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;I recently spent some time with the &lt;a href=&#34;https://bunnyuniverse.xyz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bunny Universe&lt;/a&gt; community, where this question came up a lot.&#xA;Each Bunny is unique, but their traits (fur color, accessories, background, etc.) make some rarer than others.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;figure style=&#34;text-align: center;&#34;&gt;&#xA;        &lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; src=&#34;https://alainnicolas.fr/fr/blog/rarete-nft/bunny-universe.png&#34; style=&#34;max-width: 100%; height: auto;&#34; width=&#34;728&#34; height=&#34;260&#34; alt=&#34;Bunny Universe logo&#34;&gt;&lt;figcaption&gt;&#xD;&#xA;        &lt;small&gt;&lt;/small&gt;&#xD;&#xA;    &lt;/figcaption&gt;&#xD;&#xA;&lt;/figure&gt;&#xD;&#xA;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;admonitionblock note&#34;&gt;&#xA;&lt;table&gt;&#xA;&lt;tbody&gt;&lt;tr&gt;&#xA;&lt;td class=&#34;icon&#34;&gt;&#xA;&lt;div class=&#34;title&#34;&gt;ℹ️&lt;/div&gt;&#xA;&lt;/td&gt;&#xA;&lt;td class=&#34;content&#34;&gt;&#xA;I’m not affiliated with Bunny Universe and I’m not a founder of this ecosystem.&#xA;However, I’m part of the community and I truly appreciate their work.&#xA;Of course, this is not financial advice.&#xA;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;/tbody&gt;&lt;/table&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;quoteblock&#34;&gt;
+&lt;blockquote&gt;
+&amp;#34;How rare is my NFT?&amp;#34;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;I recently spent some time with the &lt;a href=&#34;https://bunnyuniverse.xyz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bunny Universe&lt;/a&gt; community, where this question came up a lot.
+Each Bunny is unique, but their traits (fur color, accessories, background, etc.) make some rarer than others.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+        &lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; src=&#34;https://alainnicolas.fr/fr/blog/rarete-nft/bunny-universe.png&#34; style=&#34;max-width: 100%; height: auto;&#34; width=&#34;728&#34; height=&#34;260&#34; alt=&#34;Bunny Universe logo&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;admonitionblock note&#34;&gt;
+&lt;table&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td class=&#34;icon&#34;&gt;
+&lt;div class=&#34;title&#34;&gt;ℹ️&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&#34;content&#34;&gt;
+I’m not affiliated with Bunny Universe and I’m not a founder of this ecosystem.
+However, I’m part of the community and I truly appreciate their work.
+Of course, this is not financial advice.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Attest your eFrogs on Linea with Verax</title>
       <link>https://alainnicolas.fr/en/blog/attest-nfts-efrogs-linea-verax/</link>
       <pubDate>Sat, 11 Jan 2025 16:54:16 +0200</pubDate>
       <guid>https://alainnicolas.fr/en/blog/attest-nfts-efrogs-linea-verax/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Do you own &lt;a href=&#34;https://efrogs.eth.limo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt; on &lt;a href=&#34;https://linea.build&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt;?&#xA;Do you want to prove you’re part of this amazing community?&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Now you can, thanks to &lt;a href=&#34;https://ver.ax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verax&lt;/a&gt; on &lt;a href=&#34;https://efrogs.alainnicolas.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;efrogs.alainnicolas.fr&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_project_origins&#34;&gt;Project origins&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;In April 2024, I built this project in collaboration with my friend &lt;a href=&#34;https://x.com/oriondoesdesign&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orion&lt;/a&gt;.&#xA;Together, we won second place in the hackathon organized by &lt;a href=&#34;https://x.com/LineaBuild&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt; and &lt;a href=&#34;https://x.com/efrogs_on_linea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt; 🐸.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;At the time, it was just a simple prototype.&#xA;But after a few months, it was time to finalise and launch a mainnet version.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Do you own &lt;a href=&#34;https://efrogs.eth.limo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt; on &lt;a href=&#34;https://linea.build&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt;?
+Do you want to prove you’re part of this amazing community?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Now you can, thanks to &lt;a href=&#34;https://ver.ax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verax&lt;/a&gt; on &lt;a href=&#34;https://efrogs.alainnicolas.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;efrogs.alainnicolas.fr&lt;/a&gt;!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_project_origins&#34;&gt;Project origins&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;In April 2024, I built this project in collaboration with my friend &lt;a href=&#34;https://x.com/oriondoesdesign&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orion&lt;/a&gt;.
+Together, we won second place in the hackathon organized by &lt;a href=&#34;https://x.com/LineaBuild&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt; and &lt;a href=&#34;https://x.com/efrogs_on_linea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt; 🐸.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;At the time, it was just a simple prototype.
+But after a few months, it was time to finalise and launch a mainnet version.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Manage your double life on Git!</title>
       <link>https://alainnicolas.fr/en/blog/manage-your-double-life-on-git/</link>
       <pubDate>Tue, 02 May 2023 20:00:00 +0200</pubDate>
       <guid>https://alainnicolas.fr/en/blog/manage-your-double-life-on-git/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Are you coding for work and personal projects on the same computer?&#xA;Then you probably find yourself regularly committing with your personal email address on your professional projects, and vice versa.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;And it’s annoying, isn’t it?&#xA;Constantly having to rewrite the history on one side, the other side, with commits that are already finalized on a protected &lt;code&gt;main&lt;/code&gt; branch, etc.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;figure style=&#34;text-align: center;&#34;&gt;&#xA;        &lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; src=&#34;https://alainnicolas.fr/fr/blog/gerez-double-vie-git/logo_git.png&#34; style=&#34;max-width: 100%; height: auto;&#34; width=&#34;1280&#34; height=&#34;535&#34; alt=&#34;Git Logo&#34;&gt;&lt;figcaption&gt;&#xD;&#xA;        &lt;small&gt;&lt;/small&gt;&#xD;&#xA;    &lt;/figcaption&gt;&#xD;&#xA;&lt;/figure&gt;&#xD;&#xA;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;It’s time to put an end to this!&#xA;I propose that you better configure your Git environments.&#xA;For that, there are two possible approaches.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Are you coding for work and personal projects on the same computer?
+Then you probably find yourself regularly committing with your personal email address on your professional projects, and vice versa.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;And it’s annoying, isn’t it?
+Constantly having to rewrite the history on one side, the other side, with commits that are already finalized on a protected &lt;code&gt;main&lt;/code&gt; branch, etc.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+        &lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; src=&#34;https://alainnicolas.fr/fr/blog/gerez-double-vie-git/logo_git.png&#34; style=&#34;max-width: 100%; height: auto;&#34; width=&#34;1280&#34; height=&#34;535&#34; alt=&#34;Git Logo&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;It’s time to put an end to this!
+I propose that you better configure your Git environments.
+For that, there are two possible approaches.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Free up space with npkill</title>
       <link>https://alainnicolas.fr/en/blog/free-up-space-with-npkill/</link>
       <pubDate>Mon, 01 May 2023 10:00:00 +0200</pubDate>
       <guid>https://alainnicolas.fr/en/blog/free-up-space-with-npkill/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Do you also have dozens of JavaScript/TypeScript projects buried in more or less well-organized folders on your computer?&#xA;You know, those personal projects abandoned after the first commit and long-finished professional projects…​&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;And at the same time, you see your hard drive filling up?&#xA;Well, &lt;strong&gt;npm&lt;/strong&gt; has the bad habit of downloading half the internet with each installation…​&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Here’s the solution to free up space without hassle and keep your revolutionary application project that barely started.&#xA;Four years ago.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Do you also have dozens of JavaScript/TypeScript projects buried in more or less well-organized folders on your computer?
+You know, those personal projects abandoned after the first commit and long-finished professional projects…​&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;And at the same time, you see your hard drive filling up?
+Well, &lt;strong&gt;npm&lt;/strong&gt; has the bad habit of downloading half the internet with each installation…​&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Here’s the solution to free up space without hassle and keep your revolutionary application project that barely started.
+Four years ago.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Sort your dependencies!</title>
       <link>https://alainnicolas.fr/en/blog/sort-your-dependencies/</link>
       <pubDate>Sat, 29 Apr 2023 08:00:00 +0200</pubDate>
       <guid>https://alainnicolas.fr/en/blog/sort-your-dependencies/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_context&#34;&gt;The Context&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Dependency management is a crucial aspect of any project.&#xA;In the Node.js world, &lt;strong&gt;npm&lt;/strong&gt; is the standard tool for installing and managing dependencies, but let’s not forget its counterparts &lt;strong&gt;yarn&lt;/strong&gt; and &lt;strong&gt;pnpm&lt;/strong&gt;.&#xA;The &lt;code&gt;package.json&lt;/code&gt; file lists all the dependencies and their versions.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;When working on a team project, it’s important to maintain the &lt;code&gt;package.json&lt;/code&gt; file consistently.&#xA;And that’s where the &lt;strong&gt;sort-package-json&lt;/strong&gt; package comes in.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_sort_package_json&#34;&gt;sort-package-json&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;It allows you to sort the &lt;code&gt;package.json&lt;/code&gt; file alphabetically based on package names.&#xA;This ensures consistency in the order of dependencies, making the file more readable and maintainable.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_the_context&#34;&gt;The Context&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Dependency management is a crucial aspect of any project.
+In the Node.js world, &lt;strong&gt;npm&lt;/strong&gt; is the standard tool for installing and managing dependencies, but let’s not forget its counterparts &lt;strong&gt;yarn&lt;/strong&gt; and &lt;strong&gt;pnpm&lt;/strong&gt;.
+The &lt;code&gt;package.json&lt;/code&gt; file lists all the dependencies and their versions.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;When working on a team project, it’s important to maintain the &lt;code&gt;package.json&lt;/code&gt; file consistently.
+And that’s where the &lt;strong&gt;sort-package-json&lt;/strong&gt; package comes in.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_sort_package_json&#34;&gt;sort-package-json&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;It allows you to sort the &lt;code&gt;package.json&lt;/code&gt; file alphabetically based on package names.
+This ensures consistency in the order of dependencies, making the file more readable and maintainable.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Blog It Yourself - Take it to the next level</title>
       <link>https://alainnicolas.fr/en/blog/blog-it-yourself-take-it-to-the-next-level/</link>
       <pubDate>Fri, 28 Apr 2023 08:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/blog/blog-it-yourself-take-it-to-the-next-level/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Now that your blog is online and you’re motivated to write articles, it’s time to take it to the next level.&#xA;Regardless of what anyone says, having readers and receiving feedback (preferably positive) boosts your ego and encourages you to do more and improve.&#xA;But don’t forget, your blog is primarily YOUR blog.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_consider_a_post_as_a_reminder&#34;&gt;Consider a Post as a Reminder&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;I believe it’s an excellent way to take ownership of your blog while increasing the publishing frequency: every time you learn something, you should write a post about it.&#xA;Your blog then becomes an extension of your brain, capturing everything you can never seem to remember.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Now that your blog is online and you’re motivated to write articles, it’s time to take it to the next level.
+Regardless of what anyone says, having readers and receiving feedback (preferably positive) boosts your ego and encourages you to do more and improve.
+But don’t forget, your blog is primarily YOUR blog.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_consider_a_post_as_a_reminder&#34;&gt;Consider a Post as a Reminder&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;I believe it’s an excellent way to take ownership of your blog while increasing the publishing frequency: every time you learn something, you should write a post about it.
+Your blog then becomes an extension of your brain, capturing everything you can never seem to remember.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Blog It Yourself - My experience</title>
       <link>https://alainnicolas.fr/en/blog/blog-it-yourself-my-experience/</link>
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/blog/blog-it-yourself-my-experience/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;As we discussed in the &lt;a href=&#34;https://alainnicolas.fr/en/blog/blog-it-yourself-what-holds-us-back/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous article&lt;/a&gt;, there are many obstacles that prevent us from writing articles.&#xA;Here, I share my experience on how to overcome them.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Let’s explore how to overcome the dreaded writer’s block for developers!&#xA;And let’s tackle the impostor syndrome that often immobilizes us.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;To be completely transparent, I frequently face these obstacles myself.&#xA;First and foremost within myself, but also among the people I’ve had the pleasure of working with for years.&#xA;Here are some tips that I try to follow and share.&#xA;Keep in mind that what works for me may not work for everyone…​&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;As we discussed in the &lt;a href=&#34;https://alainnicolas.fr/en/blog/blog-it-yourself-what-holds-us-back/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous article&lt;/a&gt;, there are many obstacles that prevent us from writing articles.
+Here, I share my experience on how to overcome them.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Let’s explore how to overcome the dreaded writer’s block for developers!
+And let’s tackle the impostor syndrome that often immobilizes us.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;To be completely transparent, I frequently face these obstacles myself.
+First and foremost within myself, but also among the people I’ve had the pleasure of working with for years.
+Here are some tips that I try to follow and share.
+Keep in mind that what works for me may not work for everyone…​&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Blog It Yourself - What holds us back</title>
       <link>https://alainnicolas.fr/en/blog/blog-it-yourself-what-holds-us-back/</link>
       <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/blog/blog-it-yourself-what-holds-us-back/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;You have a beautiful blog, perhaps thanks to the &lt;a href=&#34;https://alainnicolas.fr/en/blog/blog-it-yourself-hugo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous article&lt;/a&gt;, but you struggle to write articles for it?&#xA;It’s normal…​ There are numerous and real obstacles.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;There are many &amp;#34;excuses&amp;#34; for not getting started, and most of the time, we believe in them wholeheartedly!&#xA;Let me share the three main reasons I’ve heard for not writing articles.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_i_dont_have_the_expertise_to_write_articles&#34;&gt;I don’t have the expertise to write articles&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Clearly the main reason that prevents all of us from getting started.&#xA;The infamous &amp;#34;Imposter Syndrome&amp;#34;…​&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;You have a beautiful blog, perhaps thanks to the &lt;a href=&#34;https://alainnicolas.fr/en/blog/blog-it-yourself-hugo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous article&lt;/a&gt;, but you struggle to write articles for it?
+It’s normal…​ There are numerous and real obstacles.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;There are many &amp;#34;excuses&amp;#34; for not getting started, and most of the time, we believe in them wholeheartedly!
+Let me share the three main reasons I’ve heard for not writing articles.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_i_dont_have_the_expertise_to_write_articles&#34;&gt;I don’t have the expertise to write articles&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Clearly the main reason that prevents all of us from getting started.
+The infamous &amp;#34;Imposter Syndrome&amp;#34;…​&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Blog It Yourself - Hugo</title>
       <link>https://alainnicolas.fr/en/blog/blog-it-yourself-hugo/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/blog/blog-it-yourself-hugo/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;I was discussing the choice and use of Ghost as a blogging tool.&#xA;After 18 months of use, for the reasons mentioned at the end of the [previous article](link:/en/blog/blog-it-yourself-ghost), I decided to change platforms.&#xA;And also because after the free 12 months of the AWS instance, it was necessary to pay, even if it remains small amounts.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_static_site_generator&#34;&gt;Static Site Generator?&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;First and foremost, it is important to understand that this is not just a technical solution change, but a change in mindset.&#xA;WordPress or Ghost are software that expose a website along with writing and administration tools.&#xA;In contrast, Hugo is just a site generator.&#xA;It takes a theme and a list of content and generates HTML pages …​ that’s it!&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;I was discussing the choice and use of Ghost as a blogging tool.
+After 18 months of use, for the reasons mentioned at the end of the [previous article](link:/en/blog/blog-it-yourself-ghost), I decided to change platforms.
+And also because after the free 12 months of the AWS instance, it was necessary to pay, even if it remains small amounts.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_static_site_generator&#34;&gt;Static Site Generator?&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;First and foremost, it is important to understand that this is not just a technical solution change, but a change in mindset.
+WordPress or Ghost are software that expose a website along with writing and administration tools.
+In contrast, Hugo is just a site generator.
+It takes a theme and a list of content and generates HTML pages …​ that’s it!&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Rewrite your Git history (and fast)</title>
       <link>https://alainnicolas.fr/en/blog/rewrite-your-git-history-and-fast/</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0200</pubDate>
       <guid>https://alainnicolas.fr/en/blog/rewrite-your-git-history-and-fast/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;In cleaning up my repositories on GitHub, I came across old projects, some of which are ancient.&#xA;Let’s not dwell on the shame one can feel when looking at code written almost 10 years ago; it’s inevitably very ugly…​&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;But one thing caught my attention: many commits are not associated with my username or do not display my profile picture.&#xA;Strange, since the most recent ones seem to correspond to my username and show my picture.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;In cleaning up my repositories on GitHub, I came across old projects, some of which are ancient.
+Let’s not dwell on the shame one can feel when looking at code written almost 10 years ago; it’s inevitably very ugly…​&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;But one thing caught my attention: many commits are not associated with my username or do not display my profile picture.
+Strange, since the most recent ones seem to correspond to my username and show my picture.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Blog It Yourself - Ghost</title>
       <link>https://alainnicolas.fr/en/blog/blog-it-yourself-ghost/</link>
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/blog/blog-it-yourself-ghost/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;I mentioned it in my &lt;a href=&#34;https://alainnicolas.fr/en/blog/blog-it-yourself-the-choice&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article&lt;/a&gt; about choosing a blog platform, the first choice for creating the blog &lt;a href=&#34;https://roxthecasbah.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RoxTheCasbah&lt;/a&gt; was Ghost.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;So here’s an experience report on the installation, configuration, and usage of Ghost, which presents itself as an alternative to WordPress, simpler, lighter, and more modern.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_hosting&#34;&gt;Hosting&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Let’s leave aside the paid version of Ghost that offers hosting by the company, and thus minimal configuration for the user.&#xA;Let’s focus on the free and open-source version of the tool, to be self-hosted.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;I mentioned it in my &lt;a href=&#34;https://alainnicolas.fr/en/blog/blog-it-yourself-the-choice&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article&lt;/a&gt; about choosing a blog platform, the first choice for creating the blog &lt;a href=&#34;https://roxthecasbah.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RoxTheCasbah&lt;/a&gt; was Ghost.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;So here’s an experience report on the installation, configuration, and usage of Ghost, which presents itself as an alternative to WordPress, simpler, lighter, and more modern.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_hosting&#34;&gt;Hosting&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Let’s leave aside the paid version of Ghost that offers hosting by the company, and thus minimal configuration for the user.
+Let’s focus on the free and open-source version of the tool, to be self-hosted.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Blog It Yourself - The choice</title>
       <link>https://alainnicolas.fr/en/blog/blog-it-yourself-the-choice/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/blog/blog-it-yourself-the-choice/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;When my partner came up with the idea of creating &lt;a href=&#34;https://roxthecasbah.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a blog&lt;/a&gt; to share her passions, the question of technical choice quickly arose.&#xA;Among developers (or &amp;#34;geeks,&amp;#34; as some would say), we couldn’t avoid the debate…​&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Yes, for years and for a good while longer, anyone looking to create a website quickly is likely to turn to &lt;a href=&#34;https://wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;.&#xA;Simply because the platform has proven itself over a long period and is by far the most widely used.&#xA;More than 40% of currently active websites are based on WordPress (source : &lt;a href=&#34;https://kinsta.com/fr/part-de-marche-de-wordpress/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kinsta&lt;/a&gt;).&#xA;That’s simply enormous…​&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;When my partner came up with the idea of creating &lt;a href=&#34;https://roxthecasbah.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a blog&lt;/a&gt; to share her passions, the question of technical choice quickly arose.
+Among developers (or &amp;#34;geeks,&amp;#34; as some would say), we couldn’t avoid the debate…​&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Yes, for years and for a good while longer, anyone looking to create a website quickly is likely to turn to &lt;a href=&#34;https://wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;.
+Simply because the platform has proven itself over a long period and is by far the most widely used.
+More than 40% of currently active websites are based on WordPress (source : &lt;a href=&#34;https://kinsta.com/fr/part-de-marche-de-wordpress/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kinsta&lt;/a&gt;).
+That’s simply enormous…​&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Goodbye Google (Analytics)!</title>
       <link>https://alainnicolas.fr/en/blog/goodbye-google-analytics/</link>
       <pubDate>Mon, 03 Jan 2022 00:00:00 +0200</pubDate>
       <guid>https://alainnicolas.fr/en/blog/goodbye-google-analytics/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Let’s start with a little quote:&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;quoteblock&#34;&gt;&#xA;&lt;blockquote&gt;&#xA;&amp;#34;New year, new me&amp;#34;&#xA;&lt;/blockquote&gt;&#xA;&lt;div class=&#34;attribution&#34;&gt;&#xA;— Too many people,too often&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_good_resolution&#34;&gt;The Good Resolution&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Let’s avoid resolutions that we won’t keep.&#xA;Nevertheless, let’s try to improve ourselves regularly…​&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;To start the year 2022, I have decided to do without Google Analytics to track visits to my site.&#xA;Firstly, because avoiding Google is always a good idea, and secondly, because it is possible to achieve almost the same results without tracking our visitors.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Let’s start with a little quote:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;quoteblock&#34;&gt;
+&lt;blockquote&gt;
+&amp;#34;New year, new me&amp;#34;
+&lt;/blockquote&gt;
+&lt;div class=&#34;attribution&#34;&gt;
+— Too many people,too often
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_the_good_resolution&#34;&gt;The Good Resolution&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Let’s avoid resolutions that we won’t keep.
+Nevertheless, let’s try to improve ourselves regularly…​&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;To start the year 2022, I have decided to do without Google Analytics to track visits to my site.
+Firstly, because avoiding Google is always a good idea, and secondly, because it is possible to achieve almost the same results without tracking our visitors.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Make documentation great again (Bonus)</title>
       <link>https://alainnicolas.fr/en/blog/make-documentation-great-again-bonus/</link>
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0200</pubDate>
       <guid>https://alainnicolas.fr/en/blog/make-documentation-great-again-bonus/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;After the &lt;a href=&#34;../make-documentation-great-again-part-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;general presentation of Spring REST Docs&lt;/a&gt;, I propose to go further by exploring small improvements that will make all the difference!&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;We will continue to base ourselves on my demonstration project available on GitHub: &lt;a href=&#34;https://github.com/alainncls/demo-spring-rest-docs&#34;&gt;demo-spring-rest-docs&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_expose_the_documentation_automagically&#34;&gt;Expose the documentation &amp;#34;automagically&amp;#34;&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;As we have seen, we are now able to generate an HTML page containing the documentation of our API.&#xA;But that’s not the best way to make it available to API consumers, we can do better than that!&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;After the &lt;a href=&#34;../make-documentation-great-again-part-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;general presentation of Spring REST Docs&lt;/a&gt;, I propose to go further by exploring small improvements that will make all the difference!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;We will continue to base ourselves on my demonstration project available on GitHub: &lt;a href=&#34;https://github.com/alainncls/demo-spring-rest-docs&#34;&gt;demo-spring-rest-docs&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_expose_the_documentation_automagically&#34;&gt;Expose the documentation &amp;#34;automagically&amp;#34;&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;As we have seen, we are now able to generate an HTML page containing the documentation of our API.
+But that’s not the best way to make it available to API consumers, we can do better than that!&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Make documentation great again (2/2)</title>
       <link>https://alainnicolas.fr/en/blog/make-documentation-great-again-part-2/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0200</pubDate>
       <guid>https://alainnicolas.fr/en/blog/make-documentation-great-again-part-2/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;We have previously seen a &lt;a href=&#34;../make-documentation-great-again-part-1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;presentation of the AsciiDoc language&lt;/a&gt; and the benefits of &amp;#34;Documentation as Code&amp;#34;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;However, it is possible to make the documentation writing process even easier!&#xA;It is customary to document the API that we develop to facilitate its maintenance and interactions with its consumers.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Even though one of the 4 values of agility promotes &amp;#34;working software over comprehensive documentation,&amp;#34; we will see that we can provide both at the same time with a particularly useful tool.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;We have previously seen a &lt;a href=&#34;../make-documentation-great-again-part-1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;presentation of the AsciiDoc language&lt;/a&gt; and the benefits of &amp;#34;Documentation as Code&amp;#34;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;However, it is possible to make the documentation writing process even easier!
+It is customary to document the API that we develop to facilitate its maintenance and interactions with its consumers.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Even though one of the 4 values of agility promotes &amp;#34;working software over comprehensive documentation,&amp;#34; we will see that we can provide both at the same time with a particularly useful tool.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>(Easily) Make your website GDPR compliant!</title>
       <link>https://alainnicolas.fr/en/blog/easily-make-your-website-gdpr-compliant/</link>
       <pubDate>Fri, 15 Oct 2021 13:02:05 +0100</pubDate>
       <guid>https://alainnicolas.fr/en/blog/easily-make-your-website-gdpr-compliant/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Do you also love the consent banners that are now found on (almost) every website and dream of having one on your own?&#xA;It’s normal, it looks so much more professional…​ And it’s also about respecting the rules!&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_gdpr_the_real_cookie_monster&#34;&gt;GDPR, the real Cookie Monster&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_what_is_a_cookie&#34;&gt;What is a cookie?&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;It is a small, fairly simple file that is placed in our browser when we visit certain websites.&#xA;It is used, among other things, to identify us during our next visit.&lt;br/&gt;&#xA;This can sometimes be quite useful: the website can anticipate our display preferences, for example.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Do you also love the consent banners that are now found on (almost) every website and dream of having one on your own?
+It’s normal, it looks so much more professional…​ And it’s also about respecting the rules!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_gdpr_the_real_cookie_monster&#34;&gt;GDPR, the real Cookie Monster&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_what_is_a_cookie&#34;&gt;What is a cookie?&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;It is a small, fairly simple file that is placed in our browser when we visit certain websites.
+It is used, among other things, to identify us during our next visit.&lt;br/&gt;
+This can sometimes be quite useful: the website can anticipate our display preferences, for example.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Make documentation great again (1/2)</title>
       <link>https://alainnicolas.fr/en/blog/make-documentation-great-again-part-1/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       <guid>https://alainnicolas.fr/en/blog/make-documentation-great-again-part-1/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Who enjoys writing documentation for their product or API?&#xA;Who is tired of finding outdated documentation when joining a project?&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Are you a developer who can relate?&#xA;It’s time to switch to &amp;#34;Documentation as Code&amp;#34;!&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_the_documentation_everyone_knows&#34;&gt;The documentation everyone knows&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;The most basic example of &amp;#34;Documentation as Code&amp;#34; is the traditional &lt;code&gt;README.md&lt;/code&gt; file at the root of every project.&#xA;Ideally, this file contains the minimal documentation for the project, installation instructions, and perhaps a description of the main features.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Who enjoys writing documentation for their product or API?
+Who is tired of finding outdated documentation when joining a project?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Are you a developer who can relate?
+It’s time to switch to &amp;#34;Documentation as Code&amp;#34;!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_the_documentation_everyone_knows&#34;&gt;The documentation everyone knows&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;The most basic example of &amp;#34;Documentation as Code&amp;#34; is the traditional &lt;code&gt;README.md&lt;/code&gt; file at the root of every project.
+Ideally, this file contains the minimal documentation for the project, installation instructions, and perhaps a description of the main features.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Blockchain: From a school project to the business world</title>
       <link>https://alainnicolas.fr/en/blog/blockchain-from-a-school-project-to-the-business-world/</link>
       <pubDate>Wed, 04 Mar 2020 07:18:05 +0100</pubDate>
       <guid>https://alainnicolas.fr/en/blog/blockchain-from-a-school-project-to-the-business-world/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;As I have already mentioned in a [previous post](link:/en/blog/blockchain-training-engineers-of-tomorrow/), the partnership between Talan and EPF made me discover the role of a trainer.&#xA;But we went further by proposing a long-term project to a group of 5th-year students.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_shared_expectations&#34;&gt;Shared expectations&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Before diving into professional life through the end-of-studies internship, students must confront the business world through a 5-month project.&#xA;Between the school project and the real project, it is an opportunity to put into practice the acquired knowledge and discover the &amp;#34;real&amp;#34; work methods of a company.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;As I have already mentioned in a [previous post](link:/en/blog/blockchain-training-engineers-of-tomorrow/), the partnership between Talan and EPF made me discover the role of a trainer.
+But we went further by proposing a long-term project to a group of 5th-year students.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_shared_expectations&#34;&gt;Shared expectations&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Before diving into professional life through the end-of-studies internship, students must confront the business world through a 5-month project.
+Between the school project and the real project, it is an opportunity to put into practice the acquired knowledge and discover the &amp;#34;real&amp;#34; work methods of a company.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Blockchain: Training the Engineers of Tomorrow</title>
       <link>https://alainnicolas.fr/en/blog/blockchain-training-engineers-of-tomorrow/</link>
       <pubDate>Sat, 18 Jan 2020 17:52:05 +0100</pubDate>
       <guid>https://alainnicolas.fr/en/blog/blockchain-training-engineers-of-tomorrow/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;For the past two years, I have had the opportunity and pleasure to work with students from EPF, a general engineering school where I graduated in 2015. Transitioning to the teaching side of things is no easy task, especially without prior experience, but returning to &amp;#34;my&amp;#34; school has greatly facilitated this change in perspective.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;figure style=&#34;text-align: center;&#34;&gt;&#xA;        &lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; src=&#34;https://alainnicolas.fr/fr/blog/blockchain-former-les-ingenieurs-de-demain/bc_epf_logo.png&#34; style=&#34;max-width: 100%; height: auto;&#34; width=&#34;1600&#34; height=&#34;632&#34; alt=&#34;EPF Logo&#34;&gt;&lt;figcaption&gt;&#xD;&#xA;        &lt;small&gt;&lt;/small&gt;&#xD;&#xA;    &lt;/figcaption&gt;&#xD;&#xA;&lt;/figure&gt;&#xD;&#xA;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;An engineering school has the heavy responsibility of keeping its curriculum up to date to prepare students as effectively as possible for their entry into the workforce.&#xA;That is why Talan has developed a partnership with EPF for a series of training programs on the theme of Blockchain for their 4th and 5th year students in the computer science field.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;For the past two years, I have had the opportunity and pleasure to work with students from EPF, a general engineering school where I graduated in 2015. Transitioning to the teaching side of things is no easy task, especially without prior experience, but returning to &amp;#34;my&amp;#34; school has greatly facilitated this change in perspective.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+        &lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; src=&#34;https://alainnicolas.fr/fr/blog/blockchain-former-les-ingenieurs-de-demain/bc_epf_logo.png&#34; style=&#34;max-width: 100%; height: auto;&#34; width=&#34;1600&#34; height=&#34;632&#34; alt=&#34;EPF Logo&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;An engineering school has the heavy responsibility of keeping its curriculum up to date to prepare students as effectively as possible for their entry into the workforce.
+That is why Talan has developed a partnership with EPF for a series of training programs on the theme of Blockchain for their 4th and 5th year students in the computer science field.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>What is Talan Coin?</title>
       <link>https://alainnicolas.fr/en/blog/what-is-talancoin/</link>
       <pubDate>Tue, 17 Oct 2017 15:39:11 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/blog/what-is-talancoin/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;em&gt;First presented on October 4 at the 1st Parliamentary Forum of the Blockchain, the virtual currency of the Talan group is about to enter the production phase.&#xA;An opportunity to present in detail the ins and outs of a project, and an initiative unlike any other: &lt;a href=&#34;https://talancoin.com&#34;&gt;Talan Coin&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; style=&#34;max-width: 100%; height: auto;&#34;&#xA;            sizes=&#34;(min-width: 35em) 720px, 100vw&#34;&#xA;            srcset=&#34;https://alainnicolas.fr/fr/blog/quest-ce-que-talancoin/talancoin_banner_hu_604603b061b77607.webp 500w, https://alainnicolas.fr/fr/blog/quest-ce-que-talancoin/talancoin_banner_hu_411fa5cdfcec19b8.webp 800w&#34;&#xA;            src=&#34;https://alainnicolas.fr/fr/blog/quest-ce-que-talancoin/talancoin_banner.jpg&#34;&#xA;            width=&#34;1024&#34;&#xA;            height=&#34;500&#34;&#xA;            alt=&#34;Talan Coin Banner&#34;&gt;&lt;figcaption&gt;&#xD;&#xA;        &lt;small&gt;Talan Coin Banner&lt;/small&gt;&#xD;&#xA;    &lt;/figcaption&gt;&#xD;&#xA;&lt;/figure&gt;&#xD;&#xA;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Blockchain, everyone talks about it, from mainstream media to the most innovative startups.&#xA;And yet, few are the ideas that go as far as the production phase.&#xA;That’s why Talan wanted to stand out and offer its employees a real application of this booming technology.&#xA;This is how the idea of an internal currency was born from the desire to unite the staff of an international group around a common sharing model.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;em&gt;First presented on October 4 at the 1st Parliamentary Forum of the Blockchain, the virtual currency of the Talan group is about to enter the production phase.
+An opportunity to present in detail the ins and outs of a project, and an initiative unlike any other: &lt;a href=&#34;https://talancoin.com&#34;&gt;Talan Coin&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; style=&#34;max-width: 100%; height: auto;&#34;
+            sizes=&#34;(min-width: 35em) 720px, 100vw&#34;
+            srcset=&#34;https://alainnicolas.fr/fr/blog/quest-ce-que-talancoin/talancoin_banner_hu_604603b061b77607.webp 500w, https://alainnicolas.fr/fr/blog/quest-ce-que-talancoin/talancoin_banner_hu_411fa5cdfcec19b8.webp 800w&#34;
+            src=&#34;https://alainnicolas.fr/fr/blog/quest-ce-que-talancoin/talancoin_banner.jpg&#34;
+            width=&#34;1024&#34;
+            height=&#34;500&#34;
+            alt=&#34;Talan Coin Banner&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;Talan Coin Banner&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Blockchain, everyone talks about it, from mainstream media to the most innovative startups.
+And yet, few are the ideas that go as far as the production phase.
+That’s why Talan wanted to stand out and offer its employees a real application of this booming technology.
+This is how the idea of an internal currency was born from the desire to unite the staff of an international group around a common sharing model.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

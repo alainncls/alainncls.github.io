@@ -1,3 +1,4 @@
 User-agent: *
+Disallow: /favicon/
 
-sitemap: https://alainnicolas.fr/sitemap.xml
+Sitemap: https://alainnicolas.fr/sitemap.xml

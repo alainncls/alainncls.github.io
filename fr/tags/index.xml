@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Liste des tags on Alain Nicolas</title>
+    <title>Alain Nicolas</title>
     <link>https://alainnicolas.fr/fr/tags/</link>
-    <description>Recent content in Liste des tags on Alain Nicolas</description>
-    <generator>Hugo</generator>
+    <description>En tant que Développeur Blockchain Fullstack, je souhaite maximiser la qualité du code de mes projets afin de toujours livrer de la valeur.</description>
     <language>fr</language>
+    <lastBuildDate>Fri, 20 Mar 2026 23:52:10 +0100</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Android</title>
@@ -215,7 +215,12 @@
       <link>https://alainnicolas.fr/fr/tags/insights/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/tags/insights/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://getinsights.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Insights.io&lt;/a&gt; est un concurrent de Google Analytics,&#xA;qui a la particularité d&amp;rsquo;être beaucoup moins invasif quant à la confidentialité des visiteurs des sites qui en sont&#xA;équipés.&lt;/p&gt;&#xA;&lt;p&gt;En ne déposant pas de cookie, il récupère moins d&amp;rsquo;informations, tout en conservant ce qui compte réellement : quelles&#xA;pages sont visitées, pendant combien de temps, etc. Cet outil permet donc de se passer des bannières &amp;ldquo;consentement&#xA;cookies&amp;rdquo; qui détériorent souvent un peu trop notre expérience du web.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://getinsights.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Insights.io&lt;/a&gt; est un concurrent de Google Analytics,
+qui a la particularité d&amp;rsquo;être beaucoup moins invasif quant à la confidentialité des visiteurs des sites qui en sont
+équipés.&lt;/p&gt;
+&lt;p&gt;En ne déposant pas de cookie, il récupère moins d&amp;rsquo;informations, tout en conservant ce qui compte réellement : quelles
+pages sont visitées, pendant combien de temps, etc. Cet outil permet donc de se passer des bannières &amp;ldquo;consentement
+cookies&amp;rdquo; qui détériorent souvent un peu trop notre expérience du web.&lt;/p&gt;</description>
     </item>
     <item>
       <title>IntelliJ IDEA</title>

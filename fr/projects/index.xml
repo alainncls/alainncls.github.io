@@ -1,200 +1,698 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projets réalisés on Alain Nicolas</title>
+    <title>Alain Nicolas</title>
     <link>https://alainnicolas.fr/fr/projects/</link>
-    <description>Recent content in Projets réalisés on Alain Nicolas</description>
-    <generator>Hugo</generator>
+    <description>En tant que Développeur Blockchain Fullstack, je souhaite maximiser la qualité du code de mes projets afin de toujours livrer de la valeur.</description>
     <language>fr</language>
+    <lastBuildDate>Fri, 20 Mar 2026 23:52:10 +0100</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/fr/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linea Developer Hub</title>
       <link>https://alainnicolas.fr/fr/projects/linea-developer-hub/</link>
       <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/linea-developer-hub/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;L’écosystème Linea connaît une croissance rapide, avec de nombreuses apps et protocoles déployés.&#xA;Pour accompagner cette expansion, Linea avait besoin d’un portail unifié permettant aux développeurs de gérer leur présence dans l’écosystème de manière autonome.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Linea Developer Hub&lt;/strong&gt; est né de ce besoin : un back-office self-service où les équipes de développement peuvent soumettre leurs applications, gérer leurs événements, lier leurs tokens et suivre leurs analytics.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_fonctionnalités_principales&#34;&gt;Fonctionnalités principales&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_soumission_dapps&#34;&gt;Soumission d’apps&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Un processus de soumission en plusieurs étapes permet aux développeurs d’enregistrer leurs applications :&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;L’écosystème Linea connaît une croissance rapide, avec de nombreuses apps et protocoles déployés.
+Pour accompagner cette expansion, Linea avait besoin d’un portail unifié permettant aux développeurs de gérer leur présence dans l’écosystème de manière autonome.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Linea Developer Hub&lt;/strong&gt; est né de ce besoin : un back-office self-service où les équipes de développement peuvent soumettre leurs applications, gérer leurs événements, lier leurs tokens et suivre leurs analytics.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_fonctionnalités_principales&#34;&gt;Fonctionnalités principales&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_soumission_dapps&#34;&gt;Soumission d’apps&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Un processus de soumission en plusieurs étapes permet aux développeurs d’enregistrer leurs applications :&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Linea Hub</title>
       <link>https://alainnicolas.fr/fr/projects/linea-hub/</link>
       <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/linea-hub/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Linea nécessitait une plateforme pour présenter son écosystème grandissant.&#xA;Au-delà d’un simple répertoire, l’objectif était de créer un hub d’engagement capable d’attirer et de retenir les utilisateurs grâce à des mécaniques de gamification.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Linea Hub&lt;/strong&gt; répond à ce besoin en combinant découverte d’applications, agrégation de données de marché et système de récompenses quotidiennes.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_fonctionnalités_principales&#34;&gt;Fonctionnalités principales&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_répertoire_dapps&#34;&gt;Répertoire d’apps&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Un catalogue complet des applications de l’écosystème Linea :&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;ulist&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Navigation par catégorie&lt;/strong&gt; : DeFi, NFT, Gaming, Infrastructure, etc.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fiches détaillées&lt;/strong&gt; : description, liens, contrats, statistiques&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Intégration analytics&lt;/strong&gt; : données d’utilisation via Dune Analytics&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Leaderboard&lt;/strong&gt; : classement des apps par popularité&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Linea nécessitait une plateforme pour présenter son écosystème grandissant.
+Au-delà d’un simple répertoire, l’objectif était de créer un hub d’engagement capable d’attirer et de retenir les utilisateurs grâce à des mécaniques de gamification.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Linea Hub&lt;/strong&gt; répond à ce besoin en combinant découverte d’applications, agrégation de données de marché et système de récompenses quotidiennes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_fonctionnalités_principales&#34;&gt;Fonctionnalités principales&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_répertoire_dapps&#34;&gt;Répertoire d’apps&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Un catalogue complet des applications de l’écosystème Linea :&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Navigation par catégorie&lt;/strong&gt; : DeFi, NFT, Gaming, Infrastructure, etc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Fiches détaillées&lt;/strong&gt; : description, liens, contrats, statistiques&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Intégration analytics&lt;/strong&gt; : données d’utilisation via Dune Analytics&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Leaderboard&lt;/strong&gt; : classement des apps par popularité&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Strava Segment Attestations</title>
       <link>https://alainnicolas.fr/fr/projects/strava-segment-attestations/</link>
       <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/strava-segment-attestations/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Et si vos performances sportives pouvaient devenir des preuves cryptographiques permanentes ?&#xA;Les achievements Strava restent aujourd’hui enfermés dans l’application, sans moyen de les prouver de manière vérifiable ailleurs.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Strava Segment Attestations&lt;/strong&gt; crée un pont entre le monde du sport et le Web3, permettant aux athlètes de transformer leurs segments Strava complétés en attestations onchain permanentes sur la blockchain Linea.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_proposition_de_valeur&#34;&gt;Proposition de valeur&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_pour_les_athlètes&#34;&gt;Pour les athlètes&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Permanence&lt;/strong&gt; : contrairement aux screenshots, les attestations sont immuables&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Et si vos performances sportives pouvaient devenir des preuves cryptographiques permanentes ?
+Les achievements Strava restent aujourd’hui enfermés dans l’application, sans moyen de les prouver de manière vérifiable ailleurs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Strava Segment Attestations&lt;/strong&gt; crée un pont entre le monde du sport et le Web3, permettant aux athlètes de transformer leurs segments Strava complétés en attestations onchain permanentes sur la blockchain Linea.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_proposition_de_valeur&#34;&gt;Proposition de valeur&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_pour_les_athlètes&#34;&gt;Pour les athlètes&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Permanence&lt;/strong&gt; : contrairement aux screenshots, les attestations sont immuables&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Discord Attestation</title>
       <link>https://alainnicolas.fr/fr/projects/discord-attestation/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/discord-attestation/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Dans l’écosystème Web3, l’identité numérique reste un défi majeur.&#xA;Comment prouver qui vous êtes sans compromettre votre vie privée ?&#xA;Comment lier vos identités sociales à votre wallet sans dépendre d’une autorité centrale ?&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Discord Attestation&lt;/strong&gt; répond à ce besoin en permettant aux utilisateurs de créer des preuves cryptographiques de leur identité Discord, stockées de manière permanente sur la blockchain Linea via le protocole &lt;a href=&#34;https://www.ver.ax/&#34;&gt;Verax&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_fonctionnalités_principales&#34;&gt;Fonctionnalités principales&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;L’application offre une expérience utilisateur fluide en trois étapes :&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Dans l’écosystème Web3, l’identité numérique reste un défi majeur.
+Comment prouver qui vous êtes sans compromettre votre vie privée ?
+Comment lier vos identités sociales à votre wallet sans dépendre d’une autorité centrale ?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Discord Attestation&lt;/strong&gt; répond à ce besoin en permettant aux utilisateurs de créer des preuves cryptographiques de leur identité Discord, stockées de manière permanente sur la blockchain Linea via le protocole &lt;a href=&#34;https://www.ver.ax/&#34;&gt;Verax&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_fonctionnalités_principales&#34;&gt;Fonctionnalités principales&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;L’application offre une expérience utilisateur fluide en trois étapes :&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Linea Proof-of-Humanity API</title>
       <link>https://alainnicolas.fr/fr/projects/linea-poh-api/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/linea-poh-api/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Les attaques Sybil représentent l’un des défis majeurs du Web3 : comment s’assurer qu’une adresse correspond à un humain unique et non à un bot ou à de multiples comptes contrôlés par la même personne ?&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Linea Proof-of-Humanity (PoH)&lt;/strong&gt; est une infrastructure permettant de vérifier qu’une adresse Ethereum appartient à un utilisateur humain vérifié, tout en préservant sa vie privée.&#xA;Le système s’appuie sur le protocole d’attestations Verax et offre une intégration onchain via des signatures EIP-712.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Les attaques Sybil représentent l’un des défis majeurs du Web3 : comment s’assurer qu’une adresse correspond à un humain unique et non à un bot ou à de multiples comptes contrôlés par la même personne ?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Linea Proof-of-Humanity (PoH)&lt;/strong&gt; est une infrastructure permettant de vérifier qu’une adresse Ethereum appartient à un utilisateur humain vérifié, tout en préservant sa vie privée.
+Le système s’appuie sur le protocole d’attestations Verax et offre une intégration onchain via des signatures EIP-712.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Proof of Audit</title>
       <link>https://alainnicolas.fr/fr/projects/proof-of-audit/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/proof-of-audit/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;L’industrie des audits de smart contracts souffre d’un problème de confiance : comment prouver qu’un contrat a réellement été audité ?&#xA;Les rapports PDF peuvent être falsifiés, les badges sur les sites web facilement copiés, et aucun standard ne permet de vérifier ces claims de manière indépendante.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Proof of Audit&lt;/strong&gt; transforme les audits traditionnels en preuves cryptographiques vérifiables, stockées de manière permanente sur la blockchain via le protocole &lt;a href=&#34;https://www.ver.ax/&#34;&gt;Verax&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;L’industrie des audits de smart contracts souffre d’un problème de confiance : comment prouver qu’un contrat a réellement été audité ?
+Les rapports PDF peuvent être falsifiés, les badges sur les sites web facilement copiés, et aucun standard ne permet de vérifier ces claims de manière indépendante.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Proof of Audit&lt;/strong&gt; transforme les audits traditionnels en preuves cryptographiques vérifiables, stockées de manière permanente sur la blockchain via le protocole &lt;a href=&#34;https://www.ver.ax/&#34;&gt;Verax&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Bunny Universe</title>
       <link>https://alainnicolas.fr/fr/projects/bunny-universe/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/bunny-universe/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_bunny_universe_enrichissement_de_lécosystème&#34;&gt;Bunny Universe : Enrichissement de l’écosystème&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Contacté par &lt;a href=&#34;https://x.com/supertramplens&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@Supertramp&lt;/a&gt; en décembre 2024, j’ai développé plusieurs outils pour enrichir l’expérience des membres du Bunny Universe, une communauté NFT populaire sur Linea.&#xA;Ces outils permettent d’améliorer l’interaction avec la collection et d’accéder à des données pertinentes.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Bunny Universe est une collection NFT majeure sur Linea.&#xA;En tant que développeur passionné par l’écosystème, j’ai créé plusieurs éléments pour enrichir l’expérience utilisateur et faciliter l’accès aux données de la collection.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_bunny_universe_enrichissement_de_lécosystème&#34;&gt;Bunny Universe : Enrichissement de l’écosystème&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Contacté par &lt;a href=&#34;https://x.com/supertramplens&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@Supertramp&lt;/a&gt; en décembre 2024, j’ai développé plusieurs outils pour enrichir l’expérience des membres du Bunny Universe, une communauté NFT populaire sur Linea.
+Ces outils permettent d’améliorer l’interaction avec la collection et d’accéder à des données pertinentes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Bunny Universe est une collection NFT majeure sur Linea.
+En tant que développeur passionné par l’écosystème, j’ai créé plusieurs éléments pour enrichir l’expérience utilisateur et faciliter l’accès aux données de la collection.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Linea Token API</title>
       <link>https://alainnicolas.fr/fr/projects/linea-token-api/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/linea-token-api/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Depuis quelques mois, on travaille sur une nouvelle brique pour les builders de l’écosystème Linea : une Token API.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;L’idée est simple : donner un accès facile, rapide et fiable à toutes les infos importantes des tokens ERC-20 sur Linea.&#xA;Prix, metadata, stats, etc.&#xA;Tout ce qu’il faut pour intégrer ça dans un dashboard, une dapp, un bot, un explorer ou autre.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;L’API est déjà utilisée dans le &lt;a href=&#34;https://linea.build/apps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea Hub&lt;/a&gt;, la porte d’entrée pour explorer tout l’écosystème, ainsi que dans &lt;a href=&#34;https://portfolio.metamask.io/explore/networks/linea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MetaMask Portfolio&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Depuis quelques mois, on travaille sur une nouvelle brique pour les builders de l’écosystème Linea : une Token API.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;L’idée est simple : donner un accès facile, rapide et fiable à toutes les infos importantes des tokens ERC-20 sur Linea.
+Prix, metadata, stats, etc.
+Tout ce qu’il faut pour intégrer ça dans un dashboard, une dapp, un bot, un explorer ou autre.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;L’API est déjà utilisée dans le &lt;a href=&#34;https://linea.build/apps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea Hub&lt;/a&gt;, la porte d’entrée pour explorer tout l’écosystème, ainsi que dans &lt;a href=&#34;https://portfolio.metamask.io/explore/networks/linea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MetaMask Portfolio&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>eFrogs Attestation</title>
       <link>https://alainnicolas.fr/fr/projects/efrogs-attestation/</link>
       <pubDate>Wed, 26 Feb 2025 18:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/efrogs-attestation/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_efrogs_attestation_prouvez_votre_appartenance_sur_linea&#34;&gt;eFrogs Attestation : prouvez votre appartenance sur Linea&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Vous possédez des eFrogs sur Linea et souhaitez prouver votre appartenance à cette incroyable communauté ?&#xA;Avec eFrogs Attestation, c’est désormais possible grâce à &lt;a href=&#34;https://ver.ax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verax&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;En avril 2024, ce projet a vu le jour lors d’un hackathon organisé par &lt;a href=&#34;https://x.com/LineaBuild&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt; et &lt;a href=&#34;https://x.com/efrogs_on_linea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt;.&#xA;Développé en collaboration avec &lt;a href=&#34;https://x.com/oriondoesdesign&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orion&lt;/a&gt;, il a remporté la deuxième place de la compétition.&#xA;Initialement conçu comme un prototype, le projet a évolué pour devenir une application fonctionnelle déployée sur le mainnet.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_efrogs_attestation_prouvez_votre_appartenance_sur_linea&#34;&gt;eFrogs Attestation : prouvez votre appartenance sur Linea&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Vous possédez des eFrogs sur Linea et souhaitez prouver votre appartenance à cette incroyable communauté ?
+Avec eFrogs Attestation, c’est désormais possible grâce à &lt;a href=&#34;https://ver.ax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verax&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;En avril 2024, ce projet a vu le jour lors d’un hackathon organisé par &lt;a href=&#34;https://x.com/LineaBuild&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt; et &lt;a href=&#34;https://x.com/efrogs_on_linea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt;.
+Développé en collaboration avec &lt;a href=&#34;https://x.com/oriondoesdesign&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orion&lt;/a&gt;, il a remporté la deuxième place de la compétition.
+Initialement conçu comme un prototype, le projet a évolué pour devenir une application fonctionnelle déployée sur le mainnet.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Snaps Permissionless Distribution</title>
       <link>https://alainnicolas.fr/fr/projects/permissionless-snaps-distribution/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/permissionless-snaps-distribution/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Depuis le lancement de la plateforme de MetaMask permettant la création et l’utilisation de &amp;#34;plugins&amp;#34; sur le portefeuille, ces &amp;#34;Snaps&amp;#34; doivent être validés par Consensys.&#xA;En effet, il s’agit de vérifier qu’ils respectent les règles de sécurité imposées, mais aussi les bonnes pratiques de développement et de marketing poussées par la plateforme.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Cette validation étant par définition totalement centralisée et reposant uniquement sur une entreprise, on peut y voir une opposition à la thèse de décentralisation et de liberté prônée par l’écosystème web3.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Depuis le lancement de la plateforme de MetaMask permettant la création et l’utilisation de &amp;#34;plugins&amp;#34; sur le portefeuille, ces &amp;#34;Snaps&amp;#34; doivent être validés par Consensys.
+En effet, il s’agit de vérifier qu’ils respectent les règles de sécurité imposées, mais aussi les bonnes pratiques de développement et de marketing poussées par la plateforme.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Cette validation étant par définition totalement centralisée et reposant uniquement sur une entreprise, on peut y voir une opposition à la thèse de décentralisation et de liberté prônée par l’écosystème web3.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Verax Attestation Registry</title>
       <link>https://alainnicolas.fr/fr/projects/verax-attestation-registry/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/verax-attestation-registry/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Le premier événement du &amp;#34;Linea Voyage&amp;#34;, une quête où les participants devaient découvrir l’écosystème des applications et protocoles déployés sur Linea a rencontré un engouement majeur.&#xA;À cela s’ajoute l’éventualité d’un airdrop sur ce même réseau.&#xA;De manière quasiment automatique, ces circonstances ont entraîné l’apparition de &amp;#34;sybils&amp;#34;, autrement dit de multiples comptes Ethereum possédés par une seule personne, dans le but de maximiser son exposition à un potentiel airdrop.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Le premier événement du &amp;#34;Linea Voyage&amp;#34;, une quête où les participants devaient découvrir l’écosystème des applications et protocoles déployés sur Linea a rencontré un engouement majeur.
+À cela s’ajoute l’éventualité d’un airdrop sur ce même réseau.
+De manière quasiment automatique, ces circonstances ont entraîné l’apparition de &amp;#34;sybils&amp;#34;, autrement dit de multiples comptes Ethereum possédés par une seule personne, dans le but de maximiser son exposition à un potentiel airdrop.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Lineaster</title>
       <link>https://alainnicolas.fr/fr/projects/lineaster/</link>
       <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/lineaster/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Dans le cadre du lancement de son réseau de type ZK-EVM, Consensys a souhaité organiser un événement pour inviter un maximum d’utilisateurs à interagir avec le réseau.&#xA;En effet, il s’agissait à la fois de faire connaitre celui-ci, et de tester sa capacité à supporter un grand nombre d’utilisateurs.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Mais pour faire venir un grand nombre de testeurs, il fallait leur donner une raison de venir.&#xA;C’est pourquoi, lors du &amp;#34;Testnet Voyage&amp;#34;, Consensys a choisi de compter sur des applications autour de la DeFi, mais aussi de l’identité avec le protocole ENS, ou encore le protocole Lens pour l’aspect social.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Dans le cadre du lancement de son réseau de type ZK-EVM, Consensys a souhaité organiser un événement pour inviter un maximum d’utilisateurs à interagir avec le réseau.
+En effet, il s’agissait à la fois de faire connaitre celui-ci, et de tester sa capacité à supporter un grand nombre d’utilisateurs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Mais pour faire venir un grand nombre de testeurs, il fallait leur donner une raison de venir.
+C’est pourquoi, lors du &amp;#34;Testnet Voyage&amp;#34;, Consensys a choisi de compter sur des applications autour de la DeFi, mais aussi de l’identité avec le protocole ENS, ou encore le protocole Lens pour l’aspect social.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Plateforme de prêt de cryptomonnaies</title>
       <link>https://alainnicolas.fr/fr/projects/crypto-lending/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/crypto-lending/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Pour des raisons de confidentialité, le nom de ce client ne peut pas être révélé.&#xA;Il s’agit d’une entreprise déjà largement installée dans le domaine du web3, souhaitant étendre sa portée.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Le projet consiste en la création d’une plateforme centralisée de prêt de cryptomonnaies, contre un collatéral fourni par les utilisateurs.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Il fallait donc créer une interface utilisateur suffisamment compréhensible et claire pour attirer le plus grand nombre, mais aussi fournir toutes les fonctionnalités standards dans ce type d’application.&#xA;Cette interface se décline aussi en une version &amp;#34;administrateur&amp;#34; pour paramétrer les cryptomonnaies disponibles en tant que collatéral ou à emprunter, les offres de prêts du moment, etc.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Pour des raisons de confidentialité, le nom de ce client ne peut pas être révélé.
+Il s’agit d’une entreprise déjà largement installée dans le domaine du web3, souhaitant étendre sa portée.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Le projet consiste en la création d’une plateforme centralisée de prêt de cryptomonnaies, contre un collatéral fourni par les utilisateurs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Il fallait donc créer une interface utilisateur suffisamment compréhensible et claire pour attirer le plus grand nombre, mais aussi fournir toutes les fonctionnalités standards dans ce type d’application.
+Cette interface se décline aussi en une version &amp;#34;administrateur&amp;#34; pour paramétrer les cryptomonnaies disponibles en tant que collatéral ou à emprunter, les offres de prêts du moment, etc.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Ce site</title>
       <link>https://alainnicolas.fr/fr/projects/ce-site/</link>
       <pubDate>Sat, 06 May 2023 15:00:28 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/ce-site/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Création de ce &lt;a href=&#34;https://alainnicolas.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;site&lt;/a&gt; pour me présenter et partager mes passions.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Ma première envie était de pouvoir montrer mes compétences de manière plus maîtrisée que sur LinkedIn par exemple.&#xA;De même, de manière à centraliser efficacement les articles que j’ai pu rédiger sur &lt;a href=&#34;https://alainncls.medium.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medium&lt;/a&gt; ou le &lt;a href=&#34;https://blog.talanlabs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog de Talan Labs&lt;/a&gt;, il me fallait un blog.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_solution_technique&#34;&gt;La solution technique&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_loutil&#34;&gt;L’outil&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Ce site est conçu grâce à un générateur de site statique, &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;, et hébergé gratuitement grâce au service &amp;#34;GitHub Pages&amp;#34;.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Création de ce &lt;a href=&#34;https://alainnicolas.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;site&lt;/a&gt; pour me présenter et partager mes passions.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Ma première envie était de pouvoir montrer mes compétences de manière plus maîtrisée que sur LinkedIn par exemple.
+De même, de manière à centraliser efficacement les articles que j’ai pu rédiger sur &lt;a href=&#34;https://alainncls.medium.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medium&lt;/a&gt; ou le &lt;a href=&#34;https://blog.talanlabs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog de Talan Labs&lt;/a&gt;, il me fallait un blog.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_la_solution_technique&#34;&gt;La solution technique&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_loutil&#34;&gt;L’outil&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Ce site est conçu grâce à un générateur de site statique, &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;, et hébergé gratuitement grâce au service &amp;#34;GitHub Pages&amp;#34;.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>RoxTheCasbah</title>
       <link>https://alainnicolas.fr/fr/projects/roxthecasbah/</link>
       <pubDate>Sat, 06 May 2023 15:00:28 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/roxthecasbah/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Création d’&lt;a href=&#34;https://roxthecasbah.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;un blog&lt;/a&gt; pour ma compagne, afin de partager sa passion pour le tricot et la couture.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_solution_technique&#34;&gt;La solution technique&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_la_première_version&#34;&gt;La première version&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;La première version du site utilisait &lt;a href=&#34;https://ghost.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ghost&lt;/a&gt;, une solution de blogging complète concurrente de &lt;a href=&#34;https://wordpress.com/fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;.&#xA;Basé sur un outil open-source et gratuit, le blog était hébergé sur une petite machine AWS.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_la_seconde_version&#34;&gt;La seconde version&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;En janvier 2021 j’ai fait le choix de basculer vers un générateur de site statique, &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;, afin de pouvoir héberger gratuitement les pages générées.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Création d’&lt;a href=&#34;https://roxthecasbah.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;un blog&lt;/a&gt; pour ma compagne, afin de partager sa passion pour le tricot et la couture.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_la_solution_technique&#34;&gt;La solution technique&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_la_première_version&#34;&gt;La première version&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;La première version du site utilisait &lt;a href=&#34;https://ghost.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ghost&lt;/a&gt;, une solution de blogging complète concurrente de &lt;a href=&#34;https://wordpress.com/fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;.
+Basé sur un outil open-source et gratuit, le blog était hébergé sur une petite machine AWS.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_la_seconde_version&#34;&gt;La seconde version&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;En janvier 2021 j’ai fait le choix de basculer vers un générateur de site statique, &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;, afin de pouvoir héberger gratuitement les pages générées.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Atelier 58</title>
       <link>https://alainnicolas.fr/fr/projects/atelier-58/</link>
       <pubDate>Sat, 18 Dec 2021 15:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/atelier-58/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Création du site vitrine du salon de coiffure &amp;#34;Atelier 58&amp;#34; à Paris.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_solution_technique&#34;&gt;La solution technique&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_loutil&#34;&gt;L’outil&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Ce site est conçu grâce à un générateur de site statique, &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Intégration du service &lt;a href=&#34;https://www.planity.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Planity&lt;/a&gt; pour la prise de rendez-vous.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Mise en place d’un suivi des statistiques de navigation via &lt;a href=&#34;https://getinsights.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Insights&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_le_thème&#34;&gt;Le thème&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Afin de gagner du temps, mais aussi de répondre au mieux aux besoins d’un tel commerce, je suis parti du thème &amp;#34;&lt;a href=&#34;https://github.com/zerostaticthemes/hugo-hero-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Hero Theme&lt;/a&gt;&amp;#34;.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Création du site vitrine du salon de coiffure &amp;#34;Atelier 58&amp;#34; à Paris.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_la_solution_technique&#34;&gt;La solution technique&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_loutil&#34;&gt;L’outil&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Ce site est conçu grâce à un générateur de site statique, &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Intégration du service &lt;a href=&#34;https://www.planity.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Planity&lt;/a&gt; pour la prise de rendez-vous.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Mise en place d’un suivi des statistiques de navigation via &lt;a href=&#34;https://getinsights.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Insights&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_le_thème&#34;&gt;Le thème&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Afin de gagner du temps, mais aussi de répondre au mieux aux besoins d’un tel commerce, je suis parti du thème &amp;#34;&lt;a href=&#34;https://github.com/zerostaticthemes/hugo-hero-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Hero Theme&lt;/a&gt;&amp;#34;.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Blog des Labs de Talan</title>
       <link>https://alainnicolas.fr/fr/projects/talan-blog-labs/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/talan-blog-labs/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Maintenance du &lt;a href=&#34;https://blog.talanlabs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog de Talan Labs&lt;/a&gt;, rédaction d’articles, avant une refonte complète en 2019/2020.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Le blog des Labs de Talan permet de partager les connaissances des collaborateurs de &lt;a href=&#34;https://talan.com/metiers/labs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talan Labs&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;figure style=&#34;text-align: center;&#34;&gt;&#xA;        &lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; src=&#34;https://alainnicolas.fr/fr/projects/talan-blog-labs/blog_banner.png&#34; style=&#34;max-width: 100%; height: auto;&#34; width=&#34;1200&#34; height=&#34;608&#34; alt=&#34;Aperçu du blog des Labs de Talan&#34;&gt;&lt;figcaption&gt;&#xD;&#xA;        &lt;small&gt;&lt;/small&gt;&#xD;&#xA;    &lt;/figcaption&gt;&#xD;&#xA;&lt;/figure&gt;&#xD;&#xA;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_solution_technique&#34;&gt;La solution technique&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_la_version_legacy&#34;&gt;La version &amp;#34;legacy&amp;#34;&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;La première version du site utilisait &lt;a href=&#34;https://wordpress.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;, solution qu’il n’est plus nécessaire de présenter.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_la_refonte&#34;&gt;La refonte&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Face à la difficulté de maintenir à jour un tel site, tout en garantissant sa sécurité, nous avons choisi de changer radicalement de technologie afin de réduire considérablement la surface d’attaque.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Maintenance du &lt;a href=&#34;https://blog.talanlabs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog de Talan Labs&lt;/a&gt;, rédaction d’articles, avant une refonte complète en 2019/2020.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Le blog des Labs de Talan permet de partager les connaissances des collaborateurs de &lt;a href=&#34;https://talan.com/metiers/labs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talan Labs&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+        &lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; src=&#34;https://alainnicolas.fr/fr/projects/talan-blog-labs/blog_banner.png&#34; style=&#34;max-width: 100%; height: auto;&#34; width=&#34;1200&#34; height=&#34;608&#34; alt=&#34;Aperçu du blog des Labs de Talan&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_la_solution_technique&#34;&gt;La solution technique&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_la_version_legacy&#34;&gt;La version &amp;#34;legacy&amp;#34;&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;La première version du site utilisait &lt;a href=&#34;https://wordpress.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;, solution qu’il n’est plus nécessaire de présenter.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_la_refonte&#34;&gt;La refonte&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Face à la difficulté de maintenir à jour un tel site, tout en garantissant sa sécurité, nous avons choisi de changer radicalement de technologie afin de réduire considérablement la surface d’attaque.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>BNP CIB - Blockchain-as-a-Service</title>
       <link>https://alainnicolas.fr/fr/projects/bnp-blockchain/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/bnp-blockchain/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;En tant qu’acteur majeur du secteur bancaire, BNP Paribas se doit de rester à la pointe des technologies disponibles.&#xA;C’est ainsi que les technologies blockchain et DLT se sont imposées comme incontournables.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Comme de nombreuses grandes entreprises, la BNP est découpée en plusieurs entités qui peuvent toutes participer à un même projet, ce qui n’est pas sans soulever des challenges autour de la collaboration.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Pour permettre à toutes les entités de la BNP d’expérimenter sur la blockchain avant de facilement rejoindre un consortium décentralisé, il fallait rendre accessible des technologies que nous pouvons qualifier d’exotiques.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;En tant qu’acteur majeur du secteur bancaire, BNP Paribas se doit de rester à la pointe des technologies disponibles.
+C’est ainsi que les technologies blockchain et DLT se sont imposées comme incontournables.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Comme de nombreuses grandes entreprises, la BNP est découpée en plusieurs entités qui peuvent toutes participer à un même projet, ce qui n’est pas sans soulever des challenges autour de la collaboration.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Pour permettre à toutes les entités de la BNP d’expérimenter sur la blockchain avant de facilement rejoindre un consortium décentralisé, il fallait rendre accessible des technologies que nous pouvons qualifier d’exotiques.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Coface</title>
       <link>https://alainnicolas.fr/fr/projects/coface/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/coface/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Coface est un acteur majeur de l’assurance-crédit.&#xA;De manière à toujours rester compétitif et gagner de nouvelles parts de marchés, l’entreprise a besoin de proposer régulièrement de nouveaux produits et solutions logicielles à ses clients.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Optimisation et évolution d’une application web (Cofanet Policy Master &amp;amp; Cofanet Policy Master Administration) à destination de clients payants.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Pour cela, il fallait envisager un refactoring technique de l’architecture projet et la refonte des fonctionnalités majeures de l’application.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Coface est un acteur majeur de l’assurance-crédit.
+De manière à toujours rester compétitif et gagner de nouvelles parts de marchés, l’entreprise a besoin de proposer régulièrement de nouveaux produits et solutions logicielles à ses clients.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Optimisation et évolution d’une application web (Cofanet Policy Master &amp;amp; Cofanet Policy Master Administration) à destination de clients payants.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Pour cela, il fallait envisager un refactoring technique de l’architecture projet et la refonte des fonctionnalités majeures de l’application.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>e-Paye</title>
       <link>https://alainnicolas.fr/fr/projects/epaye/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/epaye/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;e-Paye édite des logiciels dédiés au SIRH : paie, coffre-fort numérique, gestion des RH, gestion des entretiens, etc.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Parmi les modules d’e-Paye, celui permettant la génération des fiches de paye est particulièrement important et complexe.&#xA;En effet, il doit prendre en compte la législation parfois changeante, mais aussi être capable de générer un grand nombre de fiches de paye en une durée restreinte.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_stack_technique&#34;&gt;La stack technique&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_côté_client&#34;&gt;Côté client&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;JavaScript, HTML5, CSS3, jQuery, Ajax&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;e-Paye édite des logiciels dédiés au SIRH : paie, coffre-fort numérique, gestion des RH, gestion des entretiens, etc.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Parmi les modules d’e-Paye, celui permettant la génération des fiches de paye est particulièrement important et complexe.
+En effet, il doit prendre en compte la législation parfois changeante, mais aussi être capable de générer un grand nombre de fiches de paye en une durée restreinte.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_la_stack_technique&#34;&gt;La stack technique&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_côté_client&#34;&gt;Côté client&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;JavaScript, HTML5, CSS3, jQuery, Ajax&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>EDF Commerce - Évangélisation craftsmanship</title>
       <link>https://alainnicolas.fr/fr/projects/edf/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/edf/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;La Direction Numérique d’EDF Commerce a une équipe dédiée à la réalisation de PoC pour l’ensemble des métiers du groupe.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_mission&#34;&gt;La mission&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;La mission consiste à évangéliser sur les notions de craftsmanship et industrialiser les bonnes pratiques à mettre en place.&#xA;C’est ainsi que j’ai pu initier la mise en place des premiers pipelines CI/CD via GitLab et Jenkins, mais aussi pousser l’utilisation de SonarQube pour le suivi de qualité du code ou celle de Nexus pour y déposer les artefacts générés.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;La Direction Numérique d’EDF Commerce a une équipe dédiée à la réalisation de PoC pour l’ensemble des métiers du groupe.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_la_mission&#34;&gt;La mission&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;La mission consiste à évangéliser sur les notions de craftsmanship et industrialiser les bonnes pratiques à mettre en place.
+C’est ainsi que j’ai pu initier la mise en place des premiers pipelines CI/CD via GitLab et Jenkins, mais aussi pousser l’utilisation de SonarQube pour le suivi de qualité du code ou celle de Nexus pour y déposer les artefacts générés.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>FuturMaster - Calibrate Model</title>
       <link>https://alainnicolas.fr/fr/projects/futurmaster-calibrate-model/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/futurmaster-calibrate-model/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Éditeur de logiciels dédiés à la gestion de la supply chain, FuturMaster a fait appel à Talan Labs pour renforcer ses équipes de développement et accélérer la refonte de sa suite d’outils.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;C’est ainsi que j’ai fait partie de la première squad agile, composée de 3 développeurs, 1 designer et 1 Scrum Master.&#xA;Nous étions chargés de la refonte du module &lt;em&gt;Calibrate Model&lt;/em&gt; qui vise à afficher l’historique de vente d’un produit et la simulation de ses ventes futures.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Éditeur de logiciels dédiés à la gestion de la supply chain, FuturMaster a fait appel à Talan Labs pour renforcer ses équipes de développement et accélérer la refonte de sa suite d’outils.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;C’est ainsi que j’ai fait partie de la première squad agile, composée de 3 développeurs, 1 designer et 1 Scrum Master.
+Nous étions chargés de la refonte du module &lt;em&gt;Calibrate Model&lt;/em&gt; qui vise à afficher l’historique de vente d’un produit et la simulation de ses ventes futures.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>FuturMaster - Master Data</title>
       <link>https://alainnicolas.fr/fr/projects/futurmaster-master-data/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/futurmaster-master-data/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Éditeur de logiciels dédiés à la gestion de la supply chain, FuturMaster a fait appel à Talan Labs pour renforcer ses équipes de développement et accélérer la refonte de sa suite d’outils.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Suite au succès de l’intervention de la première squad de Talan Labs chez FuturMaster sur le projet &lt;a href=&#34;https://alainnicolas.fr/fr/projects/futurmaster-calibrate-model/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calibrate Model&lt;/a&gt;, nous nous sommes lancés dans la refonte du module &lt;em&gt;Master Data&lt;/em&gt;, chargé de centraliser le référentiel de données qui alimentent les autres modules de la suite logicielle.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Éditeur de logiciels dédiés à la gestion de la supply chain, FuturMaster a fait appel à Talan Labs pour renforcer ses équipes de développement et accélérer la refonte de sa suite d’outils.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Suite au succès de l’intervention de la première squad de Talan Labs chez FuturMaster sur le projet &lt;a href=&#34;https://alainnicolas.fr/fr/projects/futurmaster-calibrate-model/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calibrate Model&lt;/a&gt;, nous nous sommes lancés dans la refonte du module &lt;em&gt;Master Data&lt;/em&gt;, chargé de centraliser le référentiel de données qui alimentent les autres modules de la suite logicielle.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Gefco - Opteam</title>
       <link>https://alainnicolas.fr/fr/projects/gefco/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/gefco/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Gefco est un acteur incontournable de la logistique et notamment du transport de pièces automobiles.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Développement d’un système de génération de plannings sous contraintes.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_stack_technique&#34;&gt;La stack technique&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_client_lourd&#34;&gt;Client lourd&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Java Swing&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_base_de_données&#34;&gt;Base de données&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;OracleDB&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_client&#34;&gt;Le client&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Gefco est un acteur incontournable de la logistique et notamment du transport de pièces automobiles.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_projet&#34;&gt;Le projet&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Développement d’un système de génération de plannings sous contraintes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_la_stack_technique&#34;&gt;La stack technique&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_client_lourd&#34;&gt;Client lourd&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Java Swing&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_base_de_données&#34;&gt;Base de données&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;OracleDB&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Share2gether</title>
       <link>https://alainnicolas.fr/fr/projects/share2gether/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/share2gether/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Share2Gether, vise à créer une solution d’organisation d’événements, à l’image de ce que propose &lt;a href=&#34;https://www.meetup.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meetup.com&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;J’ai eu l’occasion de partager plus en détails cette expérience dans un &lt;a href=&#34;https://alainnicolas.fr/fr/blog/blockchain-projet-scolaire-monde-entreprise/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article dédié&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_stack_technique&#34;&gt;La stack technique&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_côté_client&#34;&gt;Côté client&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Le front est une application Vue.js qui communique avec les smart-contracts déployés sur la blockchain grâce à la librairie web3.js.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_côté_blockchain&#34;&gt;Côté blockchain&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Les smart-contracts écrits en Solidity sont déployés sur une blockchain Ethereum.&#xA;Utilisation des contrats standards fournis par OpenZeppelin.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Share2Gether, vise à créer une solution d’organisation d’événements, à l’image de ce que propose &lt;a href=&#34;https://www.meetup.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meetup.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;J’ai eu l’occasion de partager plus en détails cette expérience dans un &lt;a href=&#34;https://alainnicolas.fr/fr/blog/blockchain-projet-scolaire-monde-entreprise/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article dédié&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_la_stack_technique&#34;&gt;La stack technique&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_côté_client&#34;&gt;Côté client&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Le front est une application Vue.js qui communique avec les smart-contracts déployés sur la blockchain grâce à la librairie web3.js.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_côté_blockchain&#34;&gt;Côté blockchain&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Les smart-contracts écrits en Solidity sont déployés sur une blockchain Ethereum.
+Utilisation des contrats standards fournis par OpenZeppelin.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Talan Coin</title>
       <link>https://alainnicolas.fr/fr/projects/talan-talancoin/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/talan-talancoin/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;,&amp;#34;NPM&amp;#34; == Le contexte&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Comme toutes les entreprises, Talan cherche à catalyser la collaboration en son sein.&#xA;De plus, Talan souhaite renforcer son unité en tant que groupe malgré des entités distinctes et une répartition sur 4 continents et développer une horizontalité bien loin des hiérarchies verticales classiques.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Une monnaie interne, commune à tous les collaborateurs, peu importe leur localisation ou leur rôle hiérarchique, permet de trouver un point commun entre tous les acteurs de l’entreprise.&#xA;C’est aussi une manière de permettre à tous de mieux échanger, y compris entre équipes distinctes, affirmant ainsi une hiérarchie horizontale.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;,&amp;#34;NPM&amp;#34; == Le contexte&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Comme toutes les entreprises, Talan cherche à catalyser la collaboration en son sein.
+De plus, Talan souhaite renforcer son unité en tant que groupe malgré des entités distinctes et une répartition sur 4 continents et développer une horizontalité bien loin des hiérarchies verticales classiques.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Une monnaie interne, commune à tous les collaborateurs, peu importe leur localisation ou leur rôle hiérarchique, permet de trouver un point commun entre tous les acteurs de l’entreprise.
+C’est aussi une manière de permettre à tous de mieux échanger, y compris entre équipes distinctes, affirmant ainsi une hiérarchie horizontale.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>VINCI Construction Terrassement - VCoin</title>
       <link>https://alainnicolas.fr/fr/projects/vct-vcoin/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/vct-vcoin/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Après le succès de &lt;a href=&#34;https://alainnicolas.fr/fr/projects/talan-talancoin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talan Coin&lt;/a&gt;, le groupe VINCI a souhaité expérimenter avec sa propre version de l’application.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;C’est ainsi que nous avons instancié l’application VCoin, avec quelques spécificités la démarquant de Talan Coin.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_la_stack_technique&#34;&gt;La stack technique&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_côté_client&#34;&gt;Côté client&lt;/h3&gt;&#xA;&lt;div class=&#34;ulist&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Application iOS native&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Application Android native&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Applications web Angular :&lt;/p&gt;&#xA;&lt;div class=&#34;ulist&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Dashboard de suivi statistique et d’administration&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Boutique d’objets et services payables en Talan Coins&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Client desktop (non mis en production)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Après le succès de &lt;a href=&#34;https://alainnicolas.fr/fr/projects/talan-talancoin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talan Coin&lt;/a&gt;, le groupe VINCI a souhaité expérimenter avec sa propre version de l’application.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;C’est ainsi que nous avons instancié l’application VCoin, avec quelques spécificités la démarquant de Talan Coin.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_la_stack_technique&#34;&gt;La stack technique&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_côté_client&#34;&gt;Côté client&lt;/h3&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Application iOS native&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Application Android native&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Applications web Angular :&lt;/p&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Dashboard de suivi statistique et d’administration&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Boutique d’objets et services payables en Talan Coins&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Client desktop (non mis en production)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
