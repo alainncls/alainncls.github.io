@@ -5,8 +5,24 @@
     <link>https://alainnicolas.fr/fr/</link>
     <description>En tant que Développeur Blockchain Fullstack, je souhaite maximiser la qualité du code de mes projets afin de toujours livrer de la valeur.</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 10 Apr 2026 11:00:54 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 10:11:56 +0200</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quand la sécurité s&#39;effondre par manque de maintenance</title>
+      <link>https://alainnicolas.fr/fr/blog/quand-la-securite-s-effondre-par-manque-de-maintenance/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/fr/blog/quand-la-securite-s-effondre-par-manque-de-maintenance/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Quand la vulnérabilité React2Shell CVE-2025-55182 a été rendue publique le 3 décembre 2025, beaucoup d’équipes ont paniqué.
+Pas parce que l’exploit était particulièrement sophistiqué, mais parce qu’elles ont immédiatement compris le vrai coût.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Des dizaines d’applications étaient concernées, chacune figée sur sa propre version de React ou Next.js, parfois même liée à un runtime Node spécifique.
+Certaines n’avaient pas été touchées depuis des mois.
+D’autres depuis des années.
+Avant d’appliquer le moindre correctif, le premier problème n’était pas la sécurité.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>La fin du développeur junior ?</title>
       <link>https://alainnicolas.fr/fr/blog/la-fin-du-developpeur-junior/</link>

@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alainnicolas.fr/fr/blog/quand-la-securite-s-effondre-par-manque-de-maintenance/</loc>
+    <lastmod>2026-04-11T10:09:16+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alainnicolas.fr/en/blog/when-security-fails-because-maintenance-did/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alainnicolas.fr/fr/blog/quand-la-securite-s-effondre-par-manque-de-maintenance/"
+                />
+  </url><url>
     <loc>https://alainnicolas.fr/fr/blog/la-fin-du-developpeur-junior/</loc>
     <lastmod>2026-01-06T21:45:18+01:00</lastmod>
     <xhtml:link

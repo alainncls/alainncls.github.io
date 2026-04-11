@@ -5,8 +5,24 @@
     <link>https://alainnicolas.fr/en/blog/</link>
     <description>As a Fullstack Blockchain Developer at Consensys, I want to maximize the quality of the code of my projects in order to always deliver value.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Apr 2026 11:00:55 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 10:11:57 +0200</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When security fails because maintenance did</title>
+      <link>https://alainnicolas.fr/en/blog/when-security-fails-because-maintenance-did/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0200</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/when-security-fails-because-maintenance-did/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;When the React2Shell vulnerability CVE-2025-55182 was disclosed on December 3 2025, many teams panicked.
+Not because the exploit was particularly sophisticated, but because they immediately understood the real cost.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Dozens of applications were involved, each frozen on its own version of React or Next.js, sometimes even tied to a specific Node runtime.
+Some had not been touched in months.
+Others in years.
+Before applying any fix, the first problem was not security.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>The Junior Path Is Disappearing</title>
       <link>https://alainnicolas.fr/en/blog/junior-developer-path-disappearing/</link>

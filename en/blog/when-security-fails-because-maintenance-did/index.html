@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><title>When security fails because maintenance did | Alain Nicolas</title>
+
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0"/>
+    <meta name="description" content="The React2Shell vulnerability panicked many teams. Not because of the exploit itself, but because their apps hadn&#39;t been maintained in months. The real threat is …">
+    <meta name="author" content="Alain Nicolas"><meta name="robots" content="index,follow,max-image-preview:large">
+    <meta name="theme-color" content="#0071db">
+    <meta property="og:title" content="When security fails because maintenance did | Alain Nicolas" />
+<meta property="og:description" content="The React2Shell vulnerability panicked many teams. Not because of the exploit itself, but because their apps hadn&#39;t been maintained in months. The real threat is …" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://alainnicolas.fr/en/blog/when-security-fails-because-maintenance-did/" /><meta property="og:image" content="https://alainnicolas.fr/fr/blog/quand-la-securite-s-effondre-par-manque-de-maintenance/cover_hu_91b7bb63bfe01d02.jpeg"/>
+<meta property="og:image:secure_url" content="https://alainnicolas.fr/fr/blog/quand-la-securite-s-effondre-par-manque-de-maintenance/cover_hu_91b7bb63bfe01d02.jpeg"/>
+<meta property="og:image:alt" content="When security fails because maintenance did"/>
+<meta property="og:image:type" content="image/jpeg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2026-04-11T00:00:00+02:00" />
+<meta property="article:modified_time" content="2026-04-11T10:09:16+02:00" />
+<meta property="og:locale" content="en" />
+<meta property="og:locale:alternate" content="fr" />
+<meta property="og:site_name" content="Alain Nicolas" />
+
+    <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://alainnicolas.fr/fr/blog/quand-la-securite-s-effondre-par-manque-de-maintenance/cover_hu_91b7bb63bfe01d02.jpeg"/>
+<meta name="twitter:image:alt" content="When security fails because maintenance did"/>
+
+<meta name="twitter:title" content="When security fails because maintenance did | Alain Nicolas" />
+<meta name="twitter:description" content="The React2Shell vulnerability panicked many teams. Not because of the exploit itself, but because their apps hadn&#39;t been maintained in months. The real threat is …"/><meta name="twitter:site" content="@Alain_Ncls"/>
+<meta name="twitter:creator" content="@Alain_Ncls"/>
+    <link rel="alternate" hreflang="fr" href="https://alainnicolas.fr/fr/blog/quand-la-securite-s-effondre-par-manque-de-maintenance/"><link rel="alternate" hreflang="en" href="https://alainnicolas.fr/en/blog/when-security-fails-because-maintenance-did/"><link rel="alternate" hreflang="x-default" href="https://alainnicolas.fr/fr/blog/quand-la-securite-s-effondre-par-manque-de-maintenance/">
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@id":"https://alainnicolas.fr/en/#person","@type":"Person","email":"mailto:alain.nicolas.epf@gmail.com","homeLocation":"Paris","image":"https://alainnicolas.fr/profile.webp","jobTitle":"Fullstack Blockchain Developer","name":"Alain Nicolas","sameAs":["https://www.linkedin.com/in/alainnicolas/","https://github.com/alainncls","https://x.com/Alain_Ncls"],"url":"https://alainnicolas.fr/en/"},{"@id":"https://alainnicolas.fr/en/#website","@type":"WebSite","description":"As a Fullstack Blockchain Developer at Consensys, I want to maximize the quality of the code of my projects in order to always deliver value.","inLanguage":"en","name":"Alain Nicolas","publisher":{"@id":"https://alainnicolas.fr/en/#person"},"url":"https://alainnicolas.fr/en/"},{"@id":"https://alainnicolas.fr/en/blog/when-security-fails-because-maintenance-did/#webpage","@type":"WebPage","description":"The React2Shell vulnerability panicked many teams. Not because of the exploit itself, but because their apps hadn\u0026#39;t been maintained in months. The real threat is …","inLanguage":"en","isPartOf":{"@id":"https://alainnicolas.fr/en/#website"},"name":"When security fails because maintenance did | Alain Nicolas","url":"https://alainnicolas.fr/en/blog/when-security-fails-because-maintenance-did/"},{"@id":"https://alainnicolas.fr/en/blog/when-security-fails-because-maintenance-did/#breadcrumb","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":"https://alainnicolas.fr/en/","name":"Alain Nicolas","position":1},{"@type":"ListItem","item":"https://alainnicolas.fr/en/blog/","name":"Blog posts","position":2},{"@type":"ListItem","name":"When security fails because maintenance did","position":3}]},{"@id":"https://alainnicolas.fr/en/blog/when-security-fails-because-maintenance-did/#article","@type":"BlogPosting","author":{"@id":"https://alainnicolas.fr/en/#person"},"dateModified":"2026-04-11T10:09:16+02:00","datePublished":"2026-04-11T00:00:00+02:00","description":"The React2Shell vulnerability panicked many teams. Not because of the exploit itself, but because their apps hadn\u0026#39;t been maintained in months. The real threat is …","headline":"When security fails because maintenance did","image":["https://alainnicolas.fr/fr/blog/quand-la-securite-s-effondre-par-manque-de-maintenance/cover_hu_91b7bb63bfe01d02.jpeg"],"inLanguage":"en","mainEntityOfPage":{"@id":"https://alainnicolas.fr/en/blog/when-security-fails-because-maintenance-did/#webpage"},"publisher":{"@id":"https://alainnicolas.fr/en/#person"},"url":"https://alainnicolas.fr/en/blog/when-security-fails-because-maintenance-did/"}]}</script>
+
+
+    
+        <link rel="preload" as="style" href="/css/site.min.b859c363686688d54e7d9eba5128fe4326afefff6607677654c0a2a74b6d7049.css" integrity="sha256-uFnDY2hmiNVOfZ66USj+Qyav7/9mB2d2VMCip0ttcEk=" crossorigin="anonymous">
+        <link rel="stylesheet" href="/css/site.min.b859c363686688d54e7d9eba5128fe4326afefff6607677654c0a2a74b6d7049.css" integrity="sha256-uFnDY2hmiNVOfZ66USj+Qyav7/9mB2d2VMCip0ttcEk=" crossorigin="anonymous">
+    
+
+    
+
+    <link rel="preconnect" href="https://fonts.bunny.net" crossorigin>
+    <link rel="stylesheet" href="https://fonts.bunny.net/css2?family=Saira+Extra+Condensed:wght@500;700&family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap">
+
+    <link rel="icon" type="image/png" sizes="96x96" href="https://alainnicolas.fr/favicon/favicon-light.png" media="(prefers-color-scheme: light)">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://alainnicolas.fr/favicon/favicon-dark.png" media="(prefers-color-scheme: dark)">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://alainnicolas.fr/favicon/favicon-light.png">
+
+    
+        <link rel="canonical" href="https://alainnicolas.fr/en/blog/when-security-fails-because-maintenance-did/">
+    
+
+    
+
+    
+            <script>
+                window.addEventListener('load', function () {
+                    const loadInsights = function () {
+                        const script = document.createElement('script');
+                        script.src = '/js/insights-js.umd.min.min.a990468e17b7c594c99a7c0624d88f8380ae2539aa497f2052aa95cb7bed7cb6.js';
+                        script.integrity = 'sha256-qZBGjhe3xZTJmnwGJNiPg4CuJTmqSX8gUqqVy3vtfLY=';
+                        script.crossOrigin = 'anonymous';
+                        script.onload = function () {
+                            if (window.insights) {
+                                insights.init('VyUSH_qBfglm_GxG');
+                                insights.trackPages();
+                            }
+                        };
+                        document.head.appendChild(script);
+                    };
+
+                    if ('requestIdleCallback' in window) {
+                        requestIdleCallback(loadInsights);
+                    } else {
+                        setTimeout(loadInsights, 1);
+                    }
+                });
+            </script>
+        
+    
+
+    
+    
+    
+</head>
+<body id="page-top">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav" aria-label="Primary navigation">
+  <a class="navbar-brand js-scroll-trigger" href="/en/#page-top">
+    <span class="d-block d-lg-none">Alain Nicolas</span>
+    <span class="d-none d-lg-block">
+      
+      
+      
+      <img loading="eager" fetchpriority="high" decoding="async" class="img-fluid img-profile rounded-circle mx-auto mb-2" src="/profile_hu_5a69d70a634f85b7.webp" alt="Profile picture" width="400" height="400">
+    </span>
+  </a>
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/en/#about">About</a>
+      </li>
+      
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/en/#blog">Blog</a>
+      </li>
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/en/#skills">Skills</a>
+      </li>
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/en/#projects">Portfolio</a>
+      </li>
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/en/#experience">Experience</a>
+      </li>
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/en/#education">Education</a>
+      </li>
+      
+      
+        
+        
+          
+          <li class="nav-item">
+            <a href="/fr/blog/quand-la-securite-s-effondre-par-manque-de-maintenance/" aria-label="fr"><img src="https://alainnicolas.fr/fr.png" alt="fr" height="25" width="25"/></a>
+          </li>
+          
+        
+          
+        
+      
+    </ul>
+  </div>
+</nav>
+
+
+    <main class="container-fluid p-0">
+        
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    
+
+
+
+
+
+<li class="breadcrumb-item">
+  
+  <a href="https://alainnicolas.fr/en/"> Homepage </a>
+  
+</li>
+
+
+<li class="breadcrumb-item">
+  
+  <a href="https://alainnicolas.fr/en/blog/"> Blog post </a>
+  
+</li>
+
+
+<li class="breadcrumb-item active" aria-current="page">
+  
+  <span> When security fails because maintenance did </span>
+  
+</li>
+
+  </ol>
+</nav>
+
+
+
+
+<article>
+<section class="p-3 p-lg-5 d-flex d-column">
+  <div class="my-auto">
+    <div class="row post-content">
+      <div class="col-lg-8 offset-lg-2">
+        <h1 class="mb-0"><span class="text-primary">When security fails because maintenance did</span></h1>
+        
+        
+        <p class="text-primary date">
+          <time datetime="2026-04-11">11 April 2026</time>
+        </p>
+        
+        
+        <div class="paragraph">
+<p>When the React2Shell vulnerability CVE-2025-55182 was disclosed on December 3 2025, many teams panicked.
+Not because the exploit was particularly sophisticated, but because they immediately understood the real cost.</p>
+</div>
+<div class="paragraph">
+<p>Dozens of applications were involved, each frozen on its own version of React or Next.js, sometimes even tied to a specific Node runtime.
+Some had not been touched in months.
+Others in years.
+Before applying any fix, the first problem was not security.</p>
+</div>
+<div class="paragraph">
+<p>It was visibility.</p>
+</div>
+<div class="paragraph">
+<p>What is actually running in production today.
+Which containers are outdated.
+Which images were built once, pushed to a registry, and never revisited.
+Still deployed.
+Still exposed.</p>
+</div>
+<div class="paragraph">
+<figure style="text-align: center;"><img loading="eager" fetchpriority="high" decoding="async" style="max-width: 100%; height: auto;"
+            sizes="(min-width: 35em) 720px, 100vw"
+            srcset="/fr/blog/quand-la-securite-s-effondre-par-manque-de-maintenance/exploring_debt_hu_e26b1c7d94c01789.webp 500w, /fr/blog/quand-la-securite-s-effondre-par-manque-de-maintenance/exploring_debt_hu_8ff537a8d5382717.webp 800w, /fr/blog/quand-la-securite-s-effondre-par-manque-de-maintenance/exploring_debt_hu_3fed54d82c54bdec.webp 1200w"
+            src="/fr/blog/quand-la-securite-s-effondre-par-manque-de-maintenance/exploring_debt_hu_3fed54d82c54bdec.webp"
+            width="1536"
+            height="1024"
+            alt="Tech debt exploration"><figcaption>
+        <small></small>
+    </figcaption>
+</figure>
+
+</div>
+<div class="sect1">
+<h2 id="_the_invisible_problem">The invisible problem</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>In my case, the update took seconds.
+Not because I am smarter, but because the tooling and the maintenance discipline were already in place.</p>
+</div>
+<div class="paragraph">
+<p>All the critical applications I own live in monorepos, with shared dependencies and centralized upgrades.
+One change, one pull request, one coordinated deployment, and the patch was applied everywhere almost immediately.</p>
+</div>
+<div class="paragraph">
+<p>That difference looks small on paper.
+In practice, it completely changes how you react under pressure.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_the_other_side_of_the_story">The other side of the story</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>I have also been on the other side.
+Opening a project nobody touched in years, yet still serving real users.</p>
+</div>
+<div class="paragraph">
+<p>Docker images measured in gigabytes.
+Tests that no longer pass, or worse, tests that nobody really trusts anymore.
+A release process that exists only in someone’s memory, and that person left a long time ago.</p>
+</div>
+<div class="paragraph">
+<p>Before fixing the reported vulnerability, you first uncover a long list of other dependencies that also need urgent updates.
+At that point, the CVE is not the scary part anymore.</p>
+</div>
+<div class="paragraph">
+<p>The maintenance debt is.</p>
+</div>
+<div class="paragraph">
+<figure style="text-align: center;"><img loading="lazy" fetchpriority="auto" decoding="async" style="max-width: 100%; height: auto;"
+            sizes="(min-width: 35em) 720px, 100vw"
+            srcset="/fr/blog/quand-la-securite-s-effondre-par-manque-de-maintenance/lost_in_debt_hu_287c3a704113601f.webp 500w, /fr/blog/quand-la-securite-s-effondre-par-manque-de-maintenance/lost_in_debt_hu_8de7513dfd3b12b0.webp 800w, /fr/blog/quand-la-securite-s-effondre-par-manque-de-maintenance/lost_in_debt_hu_330fd4ab6fbf6808.webp 1200w"
+            src="/fr/blog/quand-la-securite-s-effondre-par-manque-de-maintenance/lost_in_debt_hu_330fd4ab6fbf6808.webp"
+            width="1536"
+            height="1024"
+            alt="Lost in tech debt"><figcaption>
+        <small></small>
+    </figcaption>
+</figure>
+
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_same_pattern_every_time">Same pattern, every time</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>We saw the same thing again recently with critical Node.js patches.
+Different ecosystem, same outcome.
+Teams scrambling, not because the fixes are hard, but because upgrading safely has become painful.</p>
+</div>
+<div class="paragraph">
+<p>Maintained applications change everything.
+Development stays fluid.
+Migrations do not pile up.
+Upgrades stop feeling like traumatic events.</p>
+</div>
+<div class="paragraph">
+<p>Security improves as a direct side effect.</p>
+</div>
+<div class="paragraph">
+<p>When a vulnerability drops, you are not fighting your own stack first.
+You can focus on the issue itself.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_what_security_really_means">What security really means</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Security is not only cryptography, permissions, or audits.
+It is also maintenance.
+Fresh dependencies.
+Fresh images.
+Reproducible deployments.</p>
+</div>
+<div class="paragraph">
+<p>When something breaks, you want to react.
+Not excavate.</p>
+</div>
+<div class="paragraph">
+<p>React2Shell was a brutal reminder.
+The longer you let your code age, the more exposed your users become.
+Investing in maintenance is not busy work.
+It is one of the most effective ways to protect real people.</p>
+</div>
+<div class="paragraph">
+<p>I have definitely had to dig through years old code under pressure.
+And I am sure I am not the only one.</p>
+</div>
+</div>
+</div>
+
+        <ul class="tags">
+  
+  <li>
+    
+<a class="tag " href="https://alainnicolas.fr/en/tags/ia/">
+  <i aria-hidden="true" class="fas fa-robot tech-icon tech-icon--small"></i>
+  AI
+</a>
+
+
+  </li>
+  
+  <li>
+    
+<a class="tag " href="https://alainnicolas.fr/en/tags/security/">
+  <i aria-hidden="true" class="fas fa-shield-alt tech-icon tech-icon--small"></i>
+  Security
+</a>
+
+
+  </li>
+  
+</ul>
+
+      </div>
+    </div>
+    
+
+
+
+<h2>You might also be interested in</h2>
+<div class="row">
+  
+  <div class="col-md-4 mb-4 d-flex align-items-stretch">
+    <div class="card"><div class="card-media">
+    <a class="card-media__link" href="/en/blog/junior-developer-path-disappearing/">
+      <img alt="The Junior Path Is Disappearing"
+           class="card-media__image"
+           decoding="async"
+           height="360"
+           loading="lazy"
+           sizes="(min-width: 768px) 33vw, 100vw"
+           src="/fr/blog/la-fin-du-developpeur-junior/cover_hu_5205d5cf738765a8.webp"
+           srcset="/fr/blog/la-fin-du-developpeur-junior/cover_hu_5205d5cf738765a8.webp 640w, /fr/blog/la-fin-du-developpeur-junior/cover_hu_d8f697264163481d.webp 1280w"
+           width="640">
+    </a>
+  </div>
+  
+
+  <div class="card-body">
+    <h3 class="card-title"><a href="/en/blog/junior-developer-path-disappearing/">The Junior Path Is Disappearing</a></h3>
+    
+    
+    <time class="card-subtitle text-muted">6 January 2026
+    </time>
+    
+    <p class="card-text">With LLMs generating usable code, juniors are not being replaced by AI. The real shift: from writing code to owning systems.</p>
+    <a href="/en/blog/junior-developer-path-disappearing/">Read more...</a>
+  </div>
+
+  
+  
+  <div class="card-footer">
+    <ul class="tags">
+  
+  <li>
+    
+<a class="tag " href="https://alainnicolas.fr/en/tags/ia/">
+  <i aria-hidden="true" class="fas fa-robot tech-icon tech-icon--small"></i>
+  AI
+</a>
+
+
+  </li>
+  
+</ul>
+
+  </div>
+  
+  
+</div>
+
+  </div>
+  
+  <div class="col-md-4 mb-4 d-flex align-items-stretch">
+    <div class="card"><div class="card-media">
+    <a class="card-media__link" href="/en/projects/linea-developer-hub/">
+      <img alt="Linea Developer Hub"
+           class="card-media__image"
+           decoding="async"
+           height="360"
+           loading="lazy"
+           sizes="(min-width: 768px) 33vw, 100vw"
+           src="/fr/projects/linea-developer-hub/cover_hu_50278884ed757d68.png"
+           srcset="/fr/projects/linea-developer-hub/cover_hu_50278884ed757d68.png 640w, /fr/projects/linea-developer-hub/cover_hu_a85d453adfb47072.png 1280w"
+           width="640">
+    </a>
+  </div>
+  
+
+  <div class="card-body">
+    <h3 class="card-title"><a href="/en/projects/linea-developer-hub/">Linea Developer Hub</a></h3>
+    
+    
+    <time class="card-subtitle text-muted">3 January 2026
+    </time>
+    
+    <p class="card-text">Self-service portal for Linea ecosystem developers: app submission, event management, token linking, and analytics.</p>
+    <a href="/en/projects/linea-developer-hub/">Read more...</a>
+  </div>
+
+  
+  
+  <div class="card-footer">
+    <ul class="tags">
+  
+  <li>
+    
+<a class="tag " href="https://alainnicolas.fr/en/tags/linea/">
+  <img alt="" aria-hidden="true" class="tag-icon" decoding="async" height="14" src="/img/logos/linea.svg" width="14">
+  Linea
+</a>
+
+
+  </li>
+  
+  <li>
+    
+<a class="tag " href="https://alainnicolas.fr/en/tags/next.js/">
+  <img alt="" aria-hidden="true" class="tag-icon" decoding="async" height="14" src="/img/tech/nextdotjs.svg" width="14">
+  Next.js
+</a>
+
+
+  </li>
+  
+  <li>
+    
+<a class="tag " href="https://alainnicolas.fr/en/tags/nestjs/">
+  <img alt="" aria-hidden="true" class="tag-icon" decoding="async" height="14" src="/img/tech/nestjs.svg" width="14">
+  NestJS
+</a>
+
+
+  </li>
+  
+  <li>
+    
+<a class="tag " href="https://alainnicolas.fr/en/tags/postgresql/">
+  <img alt="" aria-hidden="true" class="tag-icon" decoding="async" height="14" src="/img/tech/postgresql.svg" width="14">
+  PostgreSQL
+</a>
+
+
+  </li>
+  
+  <li>
+    
+<a class="tag " href="https://alainnicolas.fr/en/tags/web3auth/">
+  <img alt="" aria-hidden="true" class="tag-icon" decoding="async" height="14" src="/img/logos/web3auth.svg" width="14">
+  Web3Auth
+</a>
+
+
+  </li>
+  
+  <li>
+    
+<a class="tag " href="https://alainnicolas.fr/en/tags/typescript/">
+  <img alt="" aria-hidden="true" class="tag-icon" decoding="async" height="14" src="/img/tech/typescript.svg" width="14">
+  TypeScript
+</a>
+
+
+  </li>
+  
+</ul>
+
+  </div>
+  
+  
+</div>
+
+  </div>
+  
+  <div class="col-md-4 mb-4 d-flex align-items-stretch">
+    <div class="card"><div class="card-media">
+    <a class="card-media__link" href="/en/projects/linea-hub/">
+      <img alt="Linea Hub"
+           class="card-media__image"
+           decoding="async"
+           height="360"
+           loading="lazy"
+           sizes="(min-width: 768px) 33vw, 100vw"
+           src="/fr/projects/linea-hub/cover_hu_368ec299e1918d95.png"
+           srcset="/fr/projects/linea-hub/cover_hu_368ec299e1918d95.png 640w, /fr/projects/linea-hub/cover_hu_578f4bcf5d6bf454.png 1280w"
+           width="640">
+    </a>
+  </div>
+  
+
+  <div class="card-body">
+    <h3 class="card-title"><a href="/en/projects/linea-hub/">Linea Hub</a></h3>
+    
+    
+    <time class="card-subtitle text-muted">3 January 2026
+    </time>
+    
+    <p class="card-text">Central discovery and engagement platform for the Linea ecosystem: app directory, events, tokens, and Daily Spin game with crypto rewards.</p>
+    <a href="/en/projects/linea-hub/">Read more...</a>
+  </div>
+
+  
+  
+  <div class="card-footer">
+    <ul class="tags">
+  
+  <li>
+    
+<a class="tag " href="https://alainnicolas.fr/en/tags/linea/">
+  <img alt="" aria-hidden="true" class="tag-icon" decoding="async" height="14" src="/img/logos/linea.svg" width="14">
+  Linea
+</a>
+
+
+  </li>
+  
+  <li>
+    
+<a class="tag " href="https://alainnicolas.fr/en/tags/next.js/">
+  <img alt="" aria-hidden="true" class="tag-icon" decoding="async" height="14" src="/img/tech/nextdotjs.svg" width="14">
+  Next.js
+</a>
+
+
+  </li>
+  
+  <li>
+    
+<a class="tag " href="https://alainnicolas.fr/en/tags/nestjs/">
+  <img alt="" aria-hidden="true" class="tag-icon" decoding="async" height="14" src="/img/tech/nestjs.svg" width="14">
+  NestJS
+</a>
+
+
+  </li>
+  
+  <li>
+    
+<a class="tag " href="https://alainnicolas.fr/en/tags/solidity/">
+  <img alt="" aria-hidden="true" class="tag-icon" decoding="async" height="14" src="/img/tech/solidity.svg" width="14">
+  Solidity
+</a>
+
+
+  </li>
+  
+  <li>
+    
+<a class="tag " href="https://alainnicolas.fr/en/tags/postgresql/">
+  <img alt="" aria-hidden="true" class="tag-icon" decoding="async" height="14" src="/img/tech/postgresql.svg" width="14">
+  PostgreSQL
+</a>
+
+
+  </li>
+  
+  <li>
+    
+<a class="tag " href="https://alainnicolas.fr/en/tags/typescript/">
+  <img alt="" aria-hidden="true" class="tag-icon" decoding="async" height="14" src="/img/tech/typescript.svg" width="14">
+  TypeScript
+</a>
+
+
+  </li>
+  
+</ul>
+
+  </div>
+  
+  
+</div>
+
+  </div>
+  
+</div>
+
+
+
+
+  </div>
+</section>
+</article>
+
+    </main>
+
+    <footer class="text-center text-lg-start">
+        <div class="text-center p-3">
+            <div class="fw-light"><a href="https://alainnicolas.fr/">Alain Nicolas</a> &copy; 2020-2026 - All rights reserved</div>
+            <div class="fw-light">Built with <a href='https://gohugo.io/' target='_blank' rel='noopener noreferrer'>Hugo</a> and largely inspired by the <a href='https://github.com/eddiewebb/hugo-resume' target='_blank' rel='noopener noreferrer'>Hugo Resume</a> theme</div>
+        </div>
+    </footer>
+
+    
+        <script src="/js/site.min.8eadd577bb86a7a3fe00852eea445f899d89c44262e90db15b0b8c3362132922.js" integrity="sha256-jq3Vd7uGp6P+AIUu6kRfiZ2JxEJi6Q2xWwuMM2ITKSI=" crossorigin="anonymous" defer></script>
+    
+
+    
+
+    
+    
+</body>
+</html>
