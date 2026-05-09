@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "read-portfolio",
+      "type": "skill-md",
+      "description": "Read, summarize, cite, and navigate Alain Nicolas's portfolio and technical blog.",
+      "url": "/.well-known/agent-skills/read-portfolio/SKILL.md",
+      "digest": "sha256:5036ccbd7c4273b2b2df7abb9003c9a1266a75408a2c1b87e1cf61b83ef89556"
+    }
+  ]
+}

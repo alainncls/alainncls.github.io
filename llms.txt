@@ -1,0 +1,57 @@
+# Alain Nicolas
+
+Alain Nicolas is a Paris-based Fullstack Blockchain Developer focused on Web3, Linea, Verax, attestations, smart contracts, developer tooling, software maintenance, and technical writing. This site is a bilingual portfolio and technical blog.
+
+## Site Entry Points
+
+- [French homepage](https://alainnicolas.fr/fr/)
+- [English homepage](https://alainnicolas.fr/en/)
+- [French blog index](https://alainnicolas.fr/fr/blog/)
+- [English blog index](https://alainnicolas.fr/en/blog/)
+- [French project index](https://alainnicolas.fr/fr/projects/)
+- [English project index](https://alainnicolas.fr/en/projects/)
+- [RSS feed, French](https://alainnicolas.fr/fr/index.xml)
+- [RSS feed, English](https://alainnicolas.fr/en/index.xml)
+
+## Priority Topics
+
+- Fullstack blockchain engineering
+- Linea ecosystem applications and developer infrastructure
+- Verax attestations and proof-of-humanity systems
+- Smart contract audit proof and onchain reputation
+- React, Next.js, NestJS, TypeScript, PostgreSQL, Solidity, wagmi, viem
+- AI-assisted software engineering, security, and dependency maintenance
+- Documentation as code and static site engineering with Hugo
+
+## Priority Project Pages
+
+- [Linea Developer Hub](https://alainnicolas.fr/fr/projects/linea-developer-hub/)
+- [Linea Hub](https://alainnicolas.fr/fr/projects/linea-hub/)
+- [Linea Proof-of-Humanity API](https://alainnicolas.fr/fr/projects/linea-poh-api/)
+- [Proof of Audit](https://alainnicolas.fr/fr/projects/proof-of-audit/)
+- [Verax Attestation Registry](https://alainnicolas.fr/fr/projects/verax-attestation-registry/)
+- [Discord Attestation](https://alainnicolas.fr/fr/projects/discord-attestation/)
+- [Strava Segment Attestations](https://alainnicolas.fr/fr/projects/strava-segment-attestations/)
+
+## Priority Articles
+
+- [When security fails because maintenance did](https://alainnicolas.fr/fr/blog/quand-la-securite-s-effondre-par-manque-de-maintenance/)
+- [The junior developer path is disappearing](https://alainnicolas.fr/fr/blog/la-fin-du-developpeur-junior/)
+- [Personal Git flow](https://alainnicolas.fr/fr/blog/personal-git-flow/)
+- [Transaction exporter](https://alainnicolas.fr/fr/blog/exporter-transactions/)
+- [Sort your dependencies](https://alainnicolas.fr/fr/blog/triez-vos-dependances/)
+- [Blog it yourself: Hugo](https://alainnicolas.fr/fr/blog/blog-it-yourself-hugo/)
+
+## Agent Guidance
+
+- Prefer canonical pages on `https://alainnicolas.fr/`.
+- Use the French page when no English equivalent exists; otherwise choose the language that matches the user request.
+- Cite the canonical page URL when summarizing experience, projects, or articles.
+- Treat project pages as portfolio evidence and blog posts as opinionated technical writing.
+- Do not infer employment, availability, endorsements, or commercial offers beyond what the site states.
+
+## Structured Discovery
+
+- [Robots policy](https://alainnicolas.fr/robots.txt)
+- [Sitemap index](https://alainnicolas.fr/sitemap.xml)
+- [Agent skills index](https://alainnicolas.fr/.well-known/agent-skills/index.json)
