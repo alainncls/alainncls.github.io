@@ -5,7 +5,7 @@
     <link>https://alainnicolas.fr/en/blog/</link>
     <description>As a Fullstack Blockchain Developer at Consensys, I want to maximize the quality of the code of my projects in order to always deliver value.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 09 May 2026 09:16:18 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 23:52:25 +0200</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/en/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>When security fails because maintenance did</title>
@@ -139,7 +139,7 @@ So I built &lt;strong&gt;Transaction Exporter&lt;/strong&gt;, a simple Node.js s
 &lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;I recently spent some time with the &lt;a href=&#34;https://bunnyuniverse.xyz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bunny Universe&lt;/a&gt; community, where this question came up a lot.
+&lt;p&gt;I recently spent some time with the &lt;a href=&#34;https://bunnyuniverse.xyz&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Bunny Universe&lt;/a&gt; community, where this question came up a lot.
 Each Bunny is unique, but their traits (fur color, accessories, background, etc.) make some rarer than others.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
@@ -171,18 +171,18 @@ Of course, this is not financial advice.
       <pubDate>Sat, 11 Jan 2025 16:54:16 +0200</pubDate>
       <guid>https://alainnicolas.fr/en/blog/attest-nfts-efrogs-linea-verax/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Do you own &lt;a href=&#34;https://efrogs.eth.limo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt; on &lt;a href=&#34;https://linea.build&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt;?
+&lt;p&gt;Do you own &lt;a href=&#34;https://efrogs.eth.limo/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;eFrogs&lt;/a&gt; on &lt;a href=&#34;https://linea.build&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Linea&lt;/a&gt;?
 Do you want to prove you’re part of this amazing community?&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Now you can, thanks to &lt;a href=&#34;https://ver.ax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verax&lt;/a&gt; on &lt;a href=&#34;https://efrogs.alainnicolas.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;efrogs.alainnicolas.fr&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Now you can, thanks to &lt;a href=&#34;https://ver.ax&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Verax&lt;/a&gt; on &lt;a href=&#34;https://efrogs.alainnicolas.fr&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;efrogs.alainnicolas.fr&lt;/a&gt;!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;sect1&#34;&gt;
 &lt;h2 id=&#34;_project_origins&#34;&gt;Project origins&lt;/h2&gt;
 &lt;div class=&#34;sectionbody&#34;&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;In April 2024, I built this project in collaboration with my friend &lt;a href=&#34;https://x.com/oriondoesdesign&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orion&lt;/a&gt;.
-Together, we won second place in the hackathon organized by &lt;a href=&#34;https://x.com/LineaBuild&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt; and &lt;a href=&#34;https://x.com/efrogs_on_linea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt; 🐸.&lt;/p&gt;
+&lt;p&gt;In April 2024, I built this project in collaboration with my friend &lt;a href=&#34;https://x.com/oriondoesdesign&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Orion&lt;/a&gt;.
+Together, we won second place in the hackathon organized by &lt;a href=&#34;https://x.com/LineaBuild&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Linea&lt;/a&gt; and &lt;a href=&#34;https://x.com/efrogs_on_linea&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;eFrogs&lt;/a&gt; 🐸.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;At the time, it was just a simple prototype.
@@ -285,7 +285,7 @@ Your blog then becomes an extension of your brain, capturing everything you can 
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/blog/blog-it-yourself-my-experience/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;As we discussed in the &lt;a href=&#34;https://alainnicolas.fr/en/blog/blog-it-yourself-what-holds-us-back/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous article&lt;/a&gt;, there are many obstacles that prevent us from writing articles.
+&lt;p&gt;As we discussed in the &lt;a href=&#34;https://alainnicolas.fr/en/blog/blog-it-yourself-what-holds-us-back/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;previous article&lt;/a&gt;, there are many obstacles that prevent us from writing articles.
 Here, I share my experience on how to overcome them.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
@@ -305,7 +305,7 @@ Keep in mind that what works for me may not work for everyone…​&lt;/p&gt;
       <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/blog/blog-it-yourself-what-holds-us-back/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;You have a beautiful blog, perhaps thanks to the &lt;a href=&#34;https://alainnicolas.fr/en/blog/blog-it-yourself-hugo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous article&lt;/a&gt;, but you struggle to write articles for it?
+&lt;p&gt;You have a beautiful blog, perhaps thanks to the &lt;a href=&#34;https://alainnicolas.fr/en/blog/blog-it-yourself-hugo&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;previous article&lt;/a&gt;, but you struggle to write articles for it?
 It’s normal…​ There are numerous and real obstacles.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
@@ -360,7 +360,7 @@ Strange, since the most recent ones seem to correspond to my username and show m
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/blog/blog-it-yourself-ghost/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;I mentioned it in my &lt;a href=&#34;https://alainnicolas.fr/en/blog/blog-it-yourself-the-choice&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article&lt;/a&gt; about choosing a blog platform, the first choice for creating the blog &lt;a href=&#34;https://roxthecasbah.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RoxTheCasbah&lt;/a&gt; was Ghost.&lt;/p&gt;
+&lt;p&gt;I mentioned it in my &lt;a href=&#34;https://alainnicolas.fr/en/blog/blog-it-yourself-the-choice&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt; about choosing a blog platform, the first choice for creating the blog &lt;a href=&#34;https://roxthecasbah.com&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;RoxTheCasbah&lt;/a&gt; was Ghost.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;So here’s an experience report on the installation, configuration, and usage of Ghost, which presents itself as an alternative to WordPress, simpler, lighter, and more modern.&lt;/p&gt;
@@ -379,13 +379,13 @@ Let’s focus on the free and open-source version of the tool, to be self-hosted
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/blog/blog-it-yourself-the-choice/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;When my partner came up with the idea of creating &lt;a href=&#34;https://roxthecasbah.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a blog&lt;/a&gt; to share her passions, the question of technical choice quickly arose.
+&lt;p&gt;When my partner came up with the idea of creating &lt;a href=&#34;https://roxthecasbah.com/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;a blog&lt;/a&gt; to share her passions, the question of technical choice quickly arose.
 Among developers (or &amp;#34;geeks,&amp;#34; as some would say), we couldn’t avoid the debate…​&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Yes, for years and for a good while longer, anyone looking to create a website quickly is likely to turn to &lt;a href=&#34;https://wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;.
+&lt;p&gt;Yes, for years and for a good while longer, anyone looking to create a website quickly is likely to turn to &lt;a href=&#34;https://wordpress.com/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;WordPress&lt;/a&gt;.
 Simply because the platform has proven itself over a long period and is by far the most widely used.
-More than 40% of currently active websites are based on WordPress (source : &lt;a href=&#34;https://kinsta.com/fr/part-de-marche-de-wordpress/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kinsta&lt;/a&gt;).
+More than 40% of currently active websites are based on WordPress (source : &lt;a href=&#34;https://kinsta.com/fr/part-de-marche-de-wordpress/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Kinsta&lt;/a&gt;).
 That’s simply enormous…​&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
@@ -423,7 +423,7 @@ Firstly, because avoiding Google is always a good idea, and secondly, because it
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0200</pubDate>
       <guid>https://alainnicolas.fr/en/blog/make-documentation-great-again-bonus/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;After the &lt;a href=&#34;../make-documentation-great-again-part-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;general presentation of Spring REST Docs&lt;/a&gt;, I propose to go further by exploring small improvements that will make all the difference!&lt;/p&gt;
+&lt;p&gt;After the &lt;a href=&#34;../make-documentation-great-again-part-2/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;general presentation of Spring REST Docs&lt;/a&gt;, I propose to go further by exploring small improvements that will make all the difference!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;We will continue to base ourselves on my demonstration project available on GitHub: &lt;a href=&#34;https://github.com/alainncls/demo-spring-rest-docs&#34;&gt;demo-spring-rest-docs&lt;/a&gt;.&lt;/p&gt;
@@ -442,7 +442,7 @@ But that’s not the best way to make it available to API consumers, we can do b
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0200</pubDate>
       <guid>https://alainnicolas.fr/en/blog/make-documentation-great-again-part-2/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;We have previously seen a &lt;a href=&#34;../make-documentation-great-again-part-1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;presentation of the AsciiDoc language&lt;/a&gt; and the benefits of &amp;#34;Documentation as Code&amp;#34;.&lt;/p&gt;
+&lt;p&gt;We have previously seen a &lt;a href=&#34;../make-documentation-great-again-part-1/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;presentation of the AsciiDoc language&lt;/a&gt; and the benefits of &amp;#34;Documentation as Code&amp;#34;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;However, it is possible to make the documentation writing process even easier!

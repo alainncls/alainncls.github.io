@@ -5,7 +5,7 @@
     <link>https://alainnicolas.fr/en/</link>
     <description>As a Fullstack Blockchain Developer at Consensys, I want to maximize the quality of the code of my projects in order to always deliver value.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 09 May 2026 09:16:18 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 23:52:25 +0200</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>When security fails because maintenance did</title>
@@ -216,7 +216,7 @@ PDF reports can be forged, website badges easily copied, and no standard exists 
 &lt;h2 id=&#34;_bunny_universe_ecosystem_enhancement&#34;&gt;Bunny Universe: Ecosystem enhancement&lt;/h2&gt;
 &lt;div class=&#34;sectionbody&#34;&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Contacted by &lt;a href=&#34;https://x.com/supertramplens&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@Supertramp&lt;/a&gt; in December 2024, I developed several tools to enhance the experience of Bunny Universe members, a popular NFT community on Linea.
+&lt;p&gt;Contacted by &lt;a href=&#34;https://x.com/supertramplens&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;@Supertramp&lt;/a&gt; in December 2024, I developed several tools to enhance the experience of Bunny Universe members, a popular NFT community on Linea.
 These tools improve interaction with the collection and give access to relevant data.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -243,7 +243,7 @@ Prices, metadata, stats, etc.
 Everything you need to plug into a dashboard, a dapp, a bot, an explorer, or anything else.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;The API is already live in &lt;a href=&#34;https://linea.build/apps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea Hub&lt;/a&gt;, the entry point to explore the Linea ecosystem, and in &lt;a href=&#34;https://portfolio.metamask.io/explore/networks/linea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MetaMask Portfolio&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The API is already live in &lt;a href=&#34;https://linea.build/apps&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Linea Hub&lt;/a&gt;, the entry point to explore the Linea ecosystem, and in &lt;a href=&#34;https://portfolio.metamask.io/explore/networks/linea&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;MetaMask Portfolio&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -310,7 +310,7 @@ Colleagues turned into friends, and I’m forever grateful for the memories we c
 &lt;div class=&#34;sectionbody&#34;&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Do you own eFrogs on Linea and want to prove your membership in this amazing community?
-With eFrogs Attestation, you can now do so using &lt;a href=&#34;https://ver.ax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verax&lt;/a&gt;.&lt;/p&gt;
+With eFrogs Attestation, you can now do so using &lt;a href=&#34;https://ver.ax&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Verax&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -318,8 +318,8 @@ With eFrogs Attestation, you can now do so using &lt;a href=&#34;https://ver.ax&
 &lt;h2 id=&#34;_project_context&#34;&gt;Project Context&lt;/h2&gt;
 &lt;div class=&#34;sectionbody&#34;&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;In April 2024, this project was created during a hackathon hosted by &lt;a href=&#34;https://x.com/LineaBuild&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt; and &lt;a href=&#34;https://x.com/efrogs_on_linea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt;.
-Developed in collaboration with &lt;a href=&#34;https://x.com/oriondoesdesign&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orion&lt;/a&gt;, it won second place in the competition.
+&lt;p&gt;In April 2024, this project was created during a hackathon hosted by &lt;a href=&#34;https://x.com/LineaBuild&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Linea&lt;/a&gt; and &lt;a href=&#34;https://x.com/efrogs_on_linea&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;eFrogs&lt;/a&gt;.
+Developed in collaboration with &lt;a href=&#34;https://x.com/oriondoesdesign&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Orion&lt;/a&gt;, it won second place in the competition.
 Initially built as a prototype, the project has evolved into a fully functional app deployed on the mainnet.&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
@@ -381,7 +381,7 @@ So I built &lt;strong&gt;Transaction Exporter&lt;/strong&gt;, a simple Node.js s
 &lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;I recently spent some time with the &lt;a href=&#34;https://bunnyuniverse.xyz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bunny Universe&lt;/a&gt; community, where this question came up a lot.
+&lt;p&gt;I recently spent some time with the &lt;a href=&#34;https://bunnyuniverse.xyz&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Bunny Universe&lt;/a&gt; community, where this question came up a lot.
 Each Bunny is unique, but their traits (fur color, accessories, background, etc.) make some rarer than others.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
@@ -413,18 +413,18 @@ Of course, this is not financial advice.
       <pubDate>Sat, 11 Jan 2025 16:54:16 +0200</pubDate>
       <guid>https://alainnicolas.fr/en/blog/attest-nfts-efrogs-linea-verax/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Do you own &lt;a href=&#34;https://efrogs.eth.limo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt; on &lt;a href=&#34;https://linea.build&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt;?
+&lt;p&gt;Do you own &lt;a href=&#34;https://efrogs.eth.limo/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;eFrogs&lt;/a&gt; on &lt;a href=&#34;https://linea.build&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Linea&lt;/a&gt;?
 Do you want to prove you’re part of this amazing community?&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Now you can, thanks to &lt;a href=&#34;https://ver.ax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verax&lt;/a&gt; on &lt;a href=&#34;https://efrogs.alainnicolas.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;efrogs.alainnicolas.fr&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Now you can, thanks to &lt;a href=&#34;https://ver.ax&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Verax&lt;/a&gt; on &lt;a href=&#34;https://efrogs.alainnicolas.fr&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;efrogs.alainnicolas.fr&lt;/a&gt;!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;sect1&#34;&gt;
 &lt;h2 id=&#34;_project_origins&#34;&gt;Project origins&lt;/h2&gt;
 &lt;div class=&#34;sectionbody&#34;&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;In April 2024, I built this project in collaboration with my friend &lt;a href=&#34;https://x.com/oriondoesdesign&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orion&lt;/a&gt;.
-Together, we won second place in the hackathon organized by &lt;a href=&#34;https://x.com/LineaBuild&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt; and &lt;a href=&#34;https://x.com/efrogs_on_linea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt; 🐸.&lt;/p&gt;
+&lt;p&gt;In April 2024, I built this project in collaboration with my friend &lt;a href=&#34;https://x.com/oriondoesdesign&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Orion&lt;/a&gt;.
+Together, we won second place in the hackathon organized by &lt;a href=&#34;https://x.com/LineaBuild&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Linea&lt;/a&gt; and &lt;a href=&#34;https://x.com/efrogs_on_linea&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;eFrogs&lt;/a&gt; 🐸.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;At the time, it was just a simple prototype.
@@ -512,7 +512,7 @@ This interface also comes in an &amp;#34;administrator&amp;#34; version to set t
 &lt;h2 id=&#34;_the_context&#34;&gt;The context&lt;/h2&gt;
 &lt;div class=&#34;sectionbody&#34;&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Creation of a blog for my partner, &lt;a href=&#34;https://roxthecasbah.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RoxTheCasbah&lt;/a&gt;, to share her passion for knitting and sewing.&lt;/p&gt;
+&lt;p&gt;Creation of a blog for my partner, &lt;a href=&#34;https://roxthecasbah.com/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;RoxTheCasbah&lt;/a&gt;, to share her passion for knitting and sewing.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -522,14 +522,14 @@ This interface also comes in an &amp;#34;administrator&amp;#34; version to set t
 &lt;div class=&#34;sect2&#34;&gt;
 &lt;h3 id=&#34;_the_first_version&#34;&gt;The first version&lt;/h3&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;The first version of the site used &lt;a href=&#34;https://ghost.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ghost&lt;/a&gt;, a complete blogging solution competing with &lt;a href=&#34;https://wordpress.com/fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;.
+&lt;p&gt;The first version of the site used &lt;a href=&#34;https://ghost.org/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Ghost&lt;/a&gt;, a complete blogging solution competing with &lt;a href=&#34;https://wordpress.com/fr/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;WordPress&lt;/a&gt;.
 Based on an open-source and free tool, the blog was hosted on a small AWS machine.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&#34;sect2&#34;&gt;
 &lt;h3 id=&#34;_the_second_version&#34;&gt;The second version&lt;/h3&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;In January 2021, I chose to switch to a static site generator, &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;, in order to be able to host the generated pages for free.&lt;/p&gt;
+&lt;p&gt;In January 2021, I chose to switch to a static site generator, &lt;a href=&#34;https://gohugo.io/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;, in order to be able to host the generated pages for free.&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -541,11 +541,11 @@ Based on an open-source and free tool, the blog was hosted on a small AWS machin
 &lt;h2 id=&#34;_context&#34;&gt;Context&lt;/h2&gt;
 &lt;div class=&#34;sectionbody&#34;&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Creation of this &lt;a href=&#34;https://alainnicolas.fr/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;site&lt;/a&gt; to introduce myself and share my passions.&lt;/p&gt;
+&lt;p&gt;Creation of this &lt;a href=&#34;https://alainnicolas.fr/en/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;site&lt;/a&gt; to introduce myself and share my passions.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;My first desire was to showcase my skills in a more controlled way than, for example, on LinkedIn.
-Similarly, in order to efficiently centralize the articles I have written on &lt;a href=&#34;https://alainncls.medium.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medium&lt;/a&gt; or &lt;a href=&#34;https://blog.talanlabs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talan Labs&amp;#39; blog&lt;/a&gt;, I needed a blog.&lt;/p&gt;
+Similarly, in order to efficiently centralize the articles I have written on &lt;a href=&#34;https://alainncls.medium.com/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Medium&lt;/a&gt; or &lt;a href=&#34;https://blog.talanlabs.com/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Talan Labs&amp;#39; blog&lt;/a&gt;, I needed a blog.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -555,7 +555,7 @@ Similarly, in order to efficiently centralize the articles I have written on &lt
 &lt;div class=&#34;sect2&#34;&gt;
 &lt;h3 id=&#34;_the_tool&#34;&gt;The Tool&lt;/h3&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;This site is designed using a static site generator, &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;, and hosted for free thanks to &amp;#34;GitHub Pages&amp;#34; service.&lt;/p&gt;
+&lt;p&gt;This site is designed using a static site generator, &lt;a href=&#34;https://gohugo.io/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;, and hosted for free thanks to &amp;#34;GitHub Pages&amp;#34; service.&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -654,7 +654,7 @@ Your blog then becomes an extension of your brain, capturing everything you can 
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/blog/blog-it-yourself-my-experience/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;As we discussed in the &lt;a href=&#34;https://alainnicolas.fr/en/blog/blog-it-yourself-what-holds-us-back/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous article&lt;/a&gt;, there are many obstacles that prevent us from writing articles.
+&lt;p&gt;As we discussed in the &lt;a href=&#34;https://alainnicolas.fr/en/blog/blog-it-yourself-what-holds-us-back/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;previous article&lt;/a&gt;, there are many obstacles that prevent us from writing articles.
 Here, I share my experience on how to overcome them.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
@@ -674,7 +674,7 @@ Keep in mind that what works for me may not work for everyone…​&lt;/p&gt;
       <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/blog/blog-it-yourself-what-holds-us-back/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;You have a beautiful blog, perhaps thanks to the &lt;a href=&#34;https://alainnicolas.fr/en/blog/blog-it-yourself-hugo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous article&lt;/a&gt;, but you struggle to write articles for it?
+&lt;p&gt;You have a beautiful blog, perhaps thanks to the &lt;a href=&#34;https://alainnicolas.fr/en/blog/blog-it-yourself-hugo&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;previous article&lt;/a&gt;, but you struggle to write articles for it?
 It’s normal…​ There are numerous and real obstacles.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
@@ -729,7 +729,7 @@ Strange, since the most recent ones seem to correspond to my username and show m
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/blog/blog-it-yourself-ghost/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;I mentioned it in my &lt;a href=&#34;https://alainnicolas.fr/en/blog/blog-it-yourself-the-choice&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article&lt;/a&gt; about choosing a blog platform, the first choice for creating the blog &lt;a href=&#34;https://roxthecasbah.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RoxTheCasbah&lt;/a&gt; was Ghost.&lt;/p&gt;
+&lt;p&gt;I mentioned it in my &lt;a href=&#34;https://alainnicolas.fr/en/blog/blog-it-yourself-the-choice&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt; about choosing a blog platform, the first choice for creating the blog &lt;a href=&#34;https://roxthecasbah.com&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;RoxTheCasbah&lt;/a&gt; was Ghost.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;So here’s an experience report on the installation, configuration, and usage of Ghost, which presents itself as an alternative to WordPress, simpler, lighter, and more modern.&lt;/p&gt;
@@ -759,13 +759,13 @@ Let’s explore the tools and techniques of writing.&lt;/p&gt;
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/blog/blog-it-yourself-the-choice/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;When my partner came up with the idea of creating &lt;a href=&#34;https://roxthecasbah.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a blog&lt;/a&gt; to share her passions, the question of technical choice quickly arose.
+&lt;p&gt;When my partner came up with the idea of creating &lt;a href=&#34;https://roxthecasbah.com/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;a blog&lt;/a&gt; to share her passions, the question of technical choice quickly arose.
 Among developers (or &amp;#34;geeks,&amp;#34; as some would say), we couldn’t avoid the debate…​&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Yes, for years and for a good while longer, anyone looking to create a website quickly is likely to turn to &lt;a href=&#34;https://wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;.
+&lt;p&gt;Yes, for years and for a good while longer, anyone looking to create a website quickly is likely to turn to &lt;a href=&#34;https://wordpress.com/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;WordPress&lt;/a&gt;.
 Simply because the platform has proven itself over a long period and is by far the most widely used.
-More than 40% of currently active websites are based on WordPress (source : &lt;a href=&#34;https://kinsta.com/fr/part-de-marche-de-wordpress/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kinsta&lt;/a&gt;).
+More than 40% of currently active websites are based on WordPress (source : &lt;a href=&#34;https://kinsta.com/fr/part-de-marche-de-wordpress/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Kinsta&lt;/a&gt;).
 That’s simply enormous…​&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
@@ -816,25 +816,25 @@ Firstly, because avoiding Google is always a good idea, and secondly, because it
 &lt;div class=&#34;sect2&#34;&gt;
 &lt;h3 id=&#34;_tools&#34;&gt;Tools&lt;/h3&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;This site is designed using a static site generator, &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This site is designed using a static site generator, &lt;a href=&#34;https://gohugo.io/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Integration of the &lt;a href=&#34;https://www.planity.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Planity&lt;/a&gt; service for making appointments.&lt;/p&gt;
+&lt;p&gt;Integration of the &lt;a href=&#34;https://www.planity.com/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Planity&lt;/a&gt; service for making appointments.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Implementation of navigation statistics tracking via &lt;a href=&#34;https://getinsights.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Insights&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Implementation of navigation statistics tracking via &lt;a href=&#34;https://getinsights.io/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Insights&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&#34;sect2&#34;&gt;
 &lt;h3 id=&#34;_theme&#34;&gt;Theme&lt;/h3&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;In order to save time, but also to best meet the needs of such a business, I started from the theme &amp;#34;&lt;a href=&#34;https://github.com/zerostaticthemes/hugo-hero-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Hero Theme&lt;/a&gt;&amp;#34;.&lt;/p&gt;
+&lt;p&gt;In order to save time, but also to best meet the needs of such a business, I started from the theme &amp;#34;&lt;a href=&#34;https://github.com/zerostaticthemes/hugo-hero-theme&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Hugo Hero Theme&lt;/a&gt;&amp;#34;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&#34;sect2&#34;&gt;
 &lt;h3 id=&#34;_hosting&#34;&gt;Hosting&lt;/h3&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;This site is hosted via &lt;a href=&#34;https://netlify.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Netlify&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This site is hosted via &lt;a href=&#34;https://netlify.com&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Netlify&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -843,7 +843,7 @@ Firstly, because avoiding Google is always a good idea, and secondly, because it
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0200</pubDate>
       <guid>https://alainnicolas.fr/en/blog/make-documentation-great-again-bonus/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;After the &lt;a href=&#34;../make-documentation-great-again-part-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;general presentation of Spring REST Docs&lt;/a&gt;, I propose to go further by exploring small improvements that will make all the difference!&lt;/p&gt;
+&lt;p&gt;After the &lt;a href=&#34;../make-documentation-great-again-part-2/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;general presentation of Spring REST Docs&lt;/a&gt;, I propose to go further by exploring small improvements that will make all the difference!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;We will continue to base ourselves on my demonstration project available on GitHub: &lt;a href=&#34;https://github.com/alainncls/demo-spring-rest-docs&#34;&gt;demo-spring-rest-docs&lt;/a&gt;.&lt;/p&gt;
@@ -1007,7 +1007,7 @@ We were tasked with the redesign of the &lt;em&gt;Calibrate Model&lt;/em&gt; mod
 &lt;h2 id=&#34;_project&#34;&gt;Project&lt;/h2&gt;
 &lt;div class=&#34;sectionbody&#34;&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Following the success of the first Talan Labs squad’s intervention at FuturMaster on the &lt;a href=&#34;https://alainnicolas.fr/en/projects/futurmaster-calibrate-model/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calibrate Model&lt;/a&gt; project, we embarked on the revamp of the &lt;em&gt;Master Data&lt;/em&gt; module, which centralizes the data repository that feeds the other software suite modules.&lt;/p&gt;
+&lt;p&gt;Following the success of the first Talan Labs squad’s intervention at FuturMaster on the &lt;a href=&#34;https://alainnicolas.fr/en/projects/futurmaster-calibrate-model/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Calibrate Model&lt;/a&gt; project, we embarked on the revamp of the &lt;em&gt;Master Data&lt;/em&gt; module, which centralizes the data repository that feeds the other software suite modules.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;In parallel with the development of functional &lt;em&gt;user stories&lt;/em&gt;, there are many technical topics to consider, such as a reflection on the future database best suited to the specifics of the objects to be manipulated.&lt;/p&gt;
@@ -1061,10 +1061,10 @@ We were tasked with the redesign of the &lt;em&gt;Calibrate Model&lt;/em&gt; mod
 &lt;h2 id=&#34;_context&#34;&gt;Context&lt;/h2&gt;
 &lt;div class=&#34;sectionbody&#34;&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Share2Gether aims to create an event organization solution, similar to what &lt;a href=&#34;https://www.meetup.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meetup.com&lt;/a&gt; offers.&lt;/p&gt;
+&lt;p&gt;Share2Gether aims to create an event organization solution, similar to what &lt;a href=&#34;https://www.meetup.com/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Meetup.com&lt;/a&gt; offers.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;I had the opportunity to share more details about this experience in a &lt;a href=&#34;https://alainnicolas.fr/en/blog/blockchain-from-a-school-project-to-the-business-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dedicated article&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I had the opportunity to share more details about this experience in a &lt;a href=&#34;https://alainnicolas.fr/en/blog/blockchain-from-a-school-project-to-the-business-world/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;dedicated article&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1110,10 +1110,10 @@ It is also a way to allow everyone to better exchange, including between distinc
 &lt;h2 id=&#34;_context&#34;&gt;Context&lt;/h2&gt;
 &lt;div class=&#34;sectionbody&#34;&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Maintenance of the &lt;a href=&#34;https://blog.talanlabs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talan Labs blog&lt;/a&gt;, writing articles, before a complete overhaul in 2019/2020.&lt;/p&gt;
+&lt;p&gt;Maintenance of the &lt;a href=&#34;https://blog.talanlabs.com/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Talan Labs blog&lt;/a&gt;, writing articles, before a complete overhaul in 2019/2020.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;The Talan Labs blog allows for sharing the knowledge of &lt;a href=&#34;https://talan.com/metiers/labs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talan Labs&lt;/a&gt; employees.&lt;/p&gt;
+&lt;p&gt;The Talan Labs blog allows for sharing the knowledge of &lt;a href=&#34;https://talan.com/metiers/labs/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Talan Labs&lt;/a&gt; employees.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;figure style=&#34;text-align: center;&#34;&gt;
@@ -1131,7 +1131,7 @@ It is also a way to allow everyone to better exchange, including between distinc
 &lt;div class=&#34;sect2&#34;&gt;
 &lt;h3 id=&#34;_legacy_version&#34;&gt;Legacy version&lt;/h3&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;The first version of the site used &lt;a href=&#34;https://wordpress.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;, a well-known solution.&lt;/p&gt;
+&lt;p&gt;The first version of the site used &lt;a href=&#34;https://wordpress.org/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;WordPress&lt;/a&gt;, a well-known solution.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&#34;sect2&#34;&gt;
@@ -1149,7 +1149,7 @@ It is also a way to allow everyone to better exchange, including between distinc
 &lt;h2 id=&#34;_the_context&#34;&gt;The Context&lt;/h2&gt;
 &lt;div class=&#34;sectionbody&#34;&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;After the success of &lt;a href=&#34;https://alainnicolas.fr/en/projects/talan-talancoin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talan Coin&lt;/a&gt;, the VINCI group wanted to experiment with its own version of the application.&lt;/p&gt;
+&lt;p&gt;After the success of &lt;a href=&#34;https://alainnicolas.fr/en/projects/talan-talancoin/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Talan Coin&lt;/a&gt;, the VINCI group wanted to experiment with its own version of the application.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;This is how we instantiated the VCoin application, with some specific features setting it apart from Talan Coin.&lt;/p&gt;
@@ -1191,7 +1191,7 @@ It is also a way to allow everyone to better exchange, including between distinc
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0200</pubDate>
       <guid>https://alainnicolas.fr/en/blog/make-documentation-great-again-part-2/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;We have previously seen a &lt;a href=&#34;../make-documentation-great-again-part-1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;presentation of the AsciiDoc language&lt;/a&gt; and the benefits of &amp;#34;Documentation as Code&amp;#34;.&lt;/p&gt;
+&lt;p&gt;We have previously seen a &lt;a href=&#34;../make-documentation-great-again-part-1/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;presentation of the AsciiDoc language&lt;/a&gt; and the benefits of &amp;#34;Documentation as Code&amp;#34;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;However, it is possible to make the documentation writing process even easier!
@@ -1364,7 +1364,7 @@ This is how the idea of an internal currency was born from the desire to unite t
       <pubDate>Wed, 16 Nov 2016 09:00:23 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/series/java-ee-new-direction/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Perhaps for you the summer 2016 series was &lt;a href=&#34;https://www.netflix.com/fr/title/80057281&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stranger Things&lt;/a&gt;, but in the vast world of Java, a completely different series with multiple twists and turns has attracted all attention.
+&lt;p&gt;Perhaps for you the summer 2016 series was &lt;a href=&#34;https://www.netflix.com/fr/title/80057281&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Stranger Things&lt;/a&gt;, but in the vast world of Java, a completely different series with multiple twists and turns has attracted all attention.
 Acquisition, rebellion, and polls, dive into the revolution of Java EE!&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>

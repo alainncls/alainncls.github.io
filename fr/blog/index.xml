@@ -5,7 +5,7 @@
     <link>https://alainnicolas.fr/fr/blog/</link>
     <description>En tant que Développeur Blockchain Fullstack, je souhaite maximiser la qualité du code de mes projets afin de toujours livrer de la valeur.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 09 May 2026 09:16:17 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 23:52:23 +0200</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/fr/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quand la sécurité s&#39;effondre par manque de maintenance</title>
@@ -139,7 +139,7 @@ J’ai donc créé &lt;strong&gt;Transaction Exporter&lt;/strong&gt;, un petit s
 &lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;J’ai récemment passé du temps avec la communauté &lt;a href=&#34;https://bunnyuniverse.xyz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bunny Universe&lt;/a&gt;, où cette question revenait souvent.
+&lt;p&gt;J’ai récemment passé du temps avec la communauté &lt;a href=&#34;https://bunnyuniverse.xyz&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Bunny Universe&lt;/a&gt;, où cette question revenait souvent.
 Chaque Bunny est unique, mais ses traits (couleur de fourrure, accessoires, arrière-plan, etc.) rendent certains plus rares que d’autres.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
@@ -171,18 +171,18 @@ Bien sûr, ceci n’est pas un conseil financier.
       <pubDate>Sat, 11 Jan 2025 16:54:16 +0200</pubDate>
       <guid>https://alainnicolas.fr/fr/blog/attestez-nfts-efrogs-linea-verax/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Vous possédez des &lt;a href=&#34;https://efrogs.eth.limo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt; sur &lt;a href=&#34;https://linea.build&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt; ?
+&lt;p&gt;Vous possédez des &lt;a href=&#34;https://efrogs.eth.limo/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;eFrogs&lt;/a&gt; sur &lt;a href=&#34;https://linea.build&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Linea&lt;/a&gt; ?
 Vous souhaitez prouver que vous appartenez à cette incroyable communauté ?&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;C’est désormais possible grâce à &lt;a href=&#34;https://ver.ax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verax&lt;/a&gt; sur &lt;a href=&#34;https://efrogs.alainnicolas.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;efrogs.alainnicolas.fr&lt;/a&gt; !&lt;/p&gt;
+&lt;p&gt;C’est désormais possible grâce à &lt;a href=&#34;https://ver.ax&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Verax&lt;/a&gt; sur &lt;a href=&#34;https://efrogs.alainnicolas.fr&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;efrogs.alainnicolas.fr&lt;/a&gt; !&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;sect1&#34;&gt;
 &lt;h2 id=&#34;_origine_du_projet&#34;&gt;Origine du projet&lt;/h2&gt;
 &lt;div class=&#34;sectionbody&#34;&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;En avril 2024, j’ai développé ce projet en collaboration avec mon ami &lt;a href=&#34;https://x.com/oriondoesdesign&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orion&lt;/a&gt;.
-Ensemble, nous avons remporté la deuxième place lors de l’hackathon organisé par &lt;a href=&#34;https://x.com/LineaBuild&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea&lt;/a&gt; et &lt;a href=&#34;https://x.com/efrogs_on_linea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eFrogs&lt;/a&gt; 🐸.&lt;/p&gt;
+&lt;p&gt;En avril 2024, j’ai développé ce projet en collaboration avec mon ami &lt;a href=&#34;https://x.com/oriondoesdesign&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Orion&lt;/a&gt;.
+Ensemble, nous avons remporté la deuxième place lors de l’hackathon organisé par &lt;a href=&#34;https://x.com/LineaBuild&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Linea&lt;/a&gt; et &lt;a href=&#34;https://x.com/efrogs_on_linea&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;eFrogs&lt;/a&gt; 🐸.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;À l’époque, ce n’était qu’un simple prototype.
@@ -272,7 +272,7 @@ Votre blog devient alors une extension de votre cerveau, pour noter tout ce que 
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/blog/blog-it-yourself-mon-experience/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Nous l’avons vu dans l’&lt;a href=&#34;https://alainnicolas.fr/fr/blog/blog-it-yourself-ce-qui-nous-bloque/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article précédent&lt;/a&gt;, les blocages sont nombreux pour nous empêcher de rédiger des articles.
+&lt;p&gt;Nous l’avons vu dans l’&lt;a href=&#34;https://alainnicolas.fr/fr/blog/blog-it-yourself-ce-qui-nous-bloque/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;article précédent&lt;/a&gt;, les blocages sont nombreux pour nous empêcher de rédiger des articles.
 Je vous partage ici mon expérience pour les combattre.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
@@ -293,7 +293,7 @@ Voici quelques conseils que je tente de suivre et que j’essaye de transmettre.
       <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/blog/blog-it-yourself-ce-qui-nous-bloque/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Vous avez un beau blog, peut-être grâce à l’&lt;a href=&#34;https://alainnicolas.fr/fr/blog/blog-it-yourself-hugo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article précédent&lt;/a&gt;, et vous peinez à y écrire des articles ?&lt;br/&gt;
+&lt;p&gt;Vous avez un beau blog, peut-être grâce à l’&lt;a href=&#34;https://alainnicolas.fr/fr/blog/blog-it-yourself-hugo&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;article précédent&lt;/a&gt;, et vous peinez à y écrire des articles ?&lt;br/&gt;
 C’est normal…​ Les blocages sont nombreux et réels.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
@@ -316,7 +316,7 @@ Ce fameux &amp;#34;Syndrome de l’Imposteur&amp;#34;…​&lt;/p&gt;
       <guid>https://alainnicolas.fr/fr/blog/blog-it-yourself-hugo/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;J’évoquais le choix et l’utilisation de Ghost comme outil de blogging.
-Après 18 mois d’exploitation, pour les raisons évoquées à la fin de l’&lt;a href=&#34;https://alainnicolas.fr/fr/blog/blog-it-yourself-ghost&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article précédent&lt;/a&gt;, j’ai décidé de changer de plateforme.
+Après 18 mois d’exploitation, pour les raisons évoquées à la fin de l’&lt;a href=&#34;https://alainnicolas.fr/fr/blog/blog-it-yourself-ghost&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;article précédent&lt;/a&gt;, j’ai décidé de changer de plateforme.
 Et puis aussi parce qu’après les 12 mois gratuits de l’instance AWS il fallait bien payer, même si cela reste des petites sommes.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;sect1&#34;&gt;
@@ -349,7 +349,7 @@ Ne nous étendons pas sur la honte que l’on peut ressentir en jetant un œil s
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/blog/blog-it-yourself-ghost/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Je l’évoquais dans mon &lt;a href=&#34;https://alainnicolas.fr/fr/blog/blog-it-yourself-choix&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article&lt;/a&gt; relatif au choix d’un blog, le premier choix pour créer le blog &lt;a href=&#34;https://roxthecasbah.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RoxTheCasbah&lt;/a&gt; s’est porté sur &lt;a href=&#34;https://ghost.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ghost&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Je l’évoquais dans mon &lt;a href=&#34;https://alainnicolas.fr/fr/blog/blog-it-yourself-choix&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt; relatif au choix d’un blog, le premier choix pour créer le blog &lt;a href=&#34;https://roxthecasbah.com&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;RoxTheCasbah&lt;/a&gt; s’est porté sur &lt;a href=&#34;https://ghost.org&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Ghost&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;C’est ainsi que je vous propose un retour d’expérience sur l’installation, le paramétrage et l’utilisation de Ghost, qui se présente comme une alternative à WordPress, plus simple, plus légère et plus moderne.&lt;/p&gt;
@@ -368,13 +368,13 @@ Concentrons-nous sur la version gratuite et open-source de l’outil, à héberg
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/blog/blog-it-yourself-choix/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Lorsque l’idée de créer &lt;a href=&#34;https://roxthecasbah.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;un blog&lt;/a&gt; pour partager ses passions est venue à ma compagne, la question du choix technique s’est très vite posée.
+&lt;p&gt;Lorsque l’idée de créer &lt;a href=&#34;https://roxthecasbah.com/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;un blog&lt;/a&gt; pour partager ses passions est venue à ma compagne, la question du choix technique s’est très vite posée.
 Entre développeurs (&amp;#34;geeks&amp;#34; diront certains), on ne pouvait pas échapper au débat…​&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Alors oui, depuis des années et pour encore un bon moment, celui qui veut créer son site rapidement a de fortes chances de se tourner vers &lt;a href=&#34;https://wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;.
+&lt;p&gt;Alors oui, depuis des années et pour encore un bon moment, celui qui veut créer son site rapidement a de fortes chances de se tourner vers &lt;a href=&#34;https://wordpress.com/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;WordPress&lt;/a&gt;.
 Tout simplement parce que la plateforme a fait ses preuves depuis longtemps et est de loin la plus utilisée.
-Plus de 40% des sites actuellement en ligne sont basés sur WordPress (source : &lt;a href=&#34;https://kinsta.com/fr/part-de-marche-de-wordpress/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kinsta&lt;/a&gt;).
+Plus de 40% des sites actuellement en ligne sont basés sur WordPress (source : &lt;a href=&#34;https://kinsta.com/fr/part-de-marche-de-wordpress/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Kinsta&lt;/a&gt;).
 C’est tout simplement énorme…​&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
@@ -412,10 +412,10 @@ Tout d’abord parce que se passer de Google est toujours une bonne idée, ensui
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0200</pubDate>
       <guid>https://alainnicolas.fr/fr/blog/make-documentation-great-again-bonus/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Après la &lt;a href=&#34;../make-documentation-great-again-part-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;présentation générale de Spring REST Docs&lt;/a&gt;, je vous propose d’aller un peu plus loin en nous penchant sur des petites améliorations qui feront toute la différence !&lt;/p&gt;
+&lt;p&gt;Après la &lt;a href=&#34;../make-documentation-great-again-part-2/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;présentation générale de Spring REST Docs&lt;/a&gt;, je vous propose d’aller un peu plus loin en nous penchant sur des petites améliorations qui feront toute la différence !&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Nous continuerons de nous baser sur mon &lt;a href=&#34;https://github.com/alainncls/demo-spring-rest-docs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;projet de démonstration&lt;/a&gt; disponible sur GitHub.&lt;/p&gt;
+&lt;p&gt;Nous continuerons de nous baser sur mon &lt;a href=&#34;https://github.com/alainncls/demo-spring-rest-docs&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;projet de démonstration&lt;/a&gt; disponible sur GitHub.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;sect1&#34;&gt;
 &lt;h2 id=&#34;_exposer_automagiquement_la_documentation&#34;&gt;Exposer &amp;#34;automagiquement&amp;#34; la documentation&lt;/h2&gt;
@@ -431,7 +431,7 @@ Mais ce n’est pas le meilleur moyen de la rendre disponible aux consommateurs 
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0200</pubDate>
       <guid>https://alainnicolas.fr/fr/blog/make-documentation-great-again-part-2/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Nous avons vu précédemment une &lt;a href=&#34;../make-documentation-great-again-part-1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;présentation du langage AsciiDoc&lt;/a&gt; et des avantages de la &amp;#34;Documentation as Code&amp;#34;.&lt;/p&gt;
+&lt;p&gt;Nous avons vu précédemment une &lt;a href=&#34;../make-documentation-great-again-part-1/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;présentation du langage AsciiDoc&lt;/a&gt; et des avantages de la &amp;#34;Documentation as Code&amp;#34;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Il est néanmoins possible de faciliter encore plus la rédaction de la documentation !
@@ -488,7 +488,7 @@ Dans l’idéal, ce fichier contient la documentation minimale du projet, les in
       <pubDate>Wed, 04 Mar 2020 07:18:05 +0100</pubDate>
       <guid>https://alainnicolas.fr/fr/blog/blockchain-projet-scolaire-monde-entreprise/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Comme je l’ai déjà évoqué dans un &lt;a href=&#34;https://alainnicolas.fr/fr/blog/blockchain-former-les-ingenieurs-de-demain/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post précédent&lt;/a&gt;, le partenariat entre Talan et l’EPF m’a fait découvrir le rôle du formateur.
+&lt;p&gt;Comme je l’ai déjà évoqué dans un &lt;a href=&#34;https://alainnicolas.fr/fr/blog/blockchain-former-les-ingenieurs-de-demain/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;post précédent&lt;/a&gt;, le partenariat entre Talan et l’EPF m’a fait découvrir le rôle du formateur.
 Mais nous sommes allés plus loin, en proposant un projet sur le long terme à un groupe d’étudiants de 5ème année.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;sect1&#34;&gt;
@@ -526,7 +526,7 @@ C’est ainsi que Talan a développé un partenariat avec l’EPF, pour un cycle
       <pubDate>Mon, 15 Apr 2019 16:22:37 +0200</pubDate>
       <guid>https://alainnicolas.fr/fr/blog/r3-corda-limites/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Nous avons vu la &lt;a href=&#34;https://alainnicolas.fr/fr/blog/r3-corda-presentation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;présentation&lt;/a&gt; des grands principes de Corda, le DLT (Distributed Ledger Technology) développé par le consortium R3. Utilisé en très grande majorité par des banques, Corda semble répondre à de nombreux besoins non assouvis par les blockchains publiques.
+&lt;p&gt;Nous avons vu la &lt;a href=&#34;https://alainnicolas.fr/fr/blog/r3-corda-presentation/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;présentation&lt;/a&gt; des grands principes de Corda, le DLT (Distributed Ledger Technology) développé par le consortium R3. Utilisé en très grande majorité par des banques, Corda semble répondre à de nombreux besoins non assouvis par les blockchains publiques.
 Nous allons désormais tâcher d’explorer les limites de Corda.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
@@ -606,7 +606,7 @@ L’Asseth est une association organisant notamment des meetups, connus comme é
 &lt;h2 id=&#34;_les_speakers&#34;&gt;Les speakers&lt;/h2&gt;
 &lt;div class=&#34;sectionbody&#34;&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;50 blockchainers ont fait le déplacement pour profiter de la présence de Philippe Honigman et Nicolas Danjean, fondateurs de la startup &lt;a href=&#34;https://www.democratieouverte.org/innovateur/projet-tribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tribute&lt;/a&gt;.
+&lt;p&gt;50 blockchainers ont fait le déplacement pour profiter de la présence de Philippe Honigman et Nicolas Danjean, fondateurs de la startup &lt;a href=&#34;https://www.democratieouverte.org/innovateur/projet-tribute/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Tribute&lt;/a&gt;.
 Tribute a pour but d’aider les organisations au sens large (associations, entreprises, etc.) à développer leur réseau de contributeurs, notamment via des systèmes de récompenses et d’incentives.&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
@@ -616,11 +616,11 @@ Tribute a pour but d’aider les organisations au sens large (associations, entr
       <pubDate>Tue, 13 Feb 2018 12:05:59 +0100</pubDate>
       <guid>https://alainnicolas.fr/fr/blog/meetup-asseth-janvier/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Vendredi 19 janvier 2018 avait lieu le &lt;a href=&#34;https://www.meetup.com/blockchains/events/244926359/?_locale=fr-FR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;meetup&lt;/a&gt; de &lt;a href=&#34;https://www.ethereum-france.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;l’Asseth (Association Ethereum française)&lt;/a&gt;, sponsorisé et hébergé par Talan Labs.
+&lt;p&gt;Vendredi 19 janvier 2018 avait lieu le &lt;a href=&#34;https://www.meetup.com/blockchains/events/244926359/?_locale=fr-FR&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;meetup&lt;/a&gt; de &lt;a href=&#34;https://www.ethereum-france.com/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;l’Asseth (Association Ethereum française)&lt;/a&gt;, sponsorisé et hébergé par Talan Labs.
 Il s’agit de l’un des &lt;strong&gt;rassemblements les plus importants autour de la blockchain&lt;/strong&gt; en France.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Au programme de la soirée : une présentation du projet &lt;a href=&#34;https://colony.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Colony&lt;/a&gt; par &lt;a href=&#34;https://x.com/mathsguy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aron Fischer&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Au programme de la soirée : une présentation du projet &lt;a href=&#34;https://colony.io/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Colony&lt;/a&gt; par &lt;a href=&#34;https://x.com/mathsguy&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Aron Fischer&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;sect1&#34;&gt;
 &lt;h2 id=&#34;_le_speaker&#34;&gt;Le speaker&lt;/h2&gt;
@@ -649,8 +649,8 @@ Et peut-être vous êtes-vous dits que c’était compliqué…​ Des technolog
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Mais ça, c’était avant !
-Il y a au moins un outil qui sort du lot : &lt;a href=&#34;https://www.trufflesuite.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Truffle&lt;/a&gt;.
-Framework de développement sur Ethereum créé par &lt;a href=&#34;https://consensys.io/ethereum/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Consensys&lt;/a&gt;, il se présente tout simplement comme le couteau suisse Ethereum.
+Il y a au moins un outil qui sort du lot : &lt;a href=&#34;https://www.trufflesuite.com/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Truffle&lt;/a&gt;.
+Framework de développement sur Ethereum créé par &lt;a href=&#34;https://consensys.io/ethereum/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Consensys&lt;/a&gt;, il se présente tout simplement comme le couteau suisse Ethereum.
 Truffle permet de compiler du Solidity (le langage des smart contracts Ethereum), tester des &lt;em&gt;smart contracts&lt;/em&gt;, les déployer, gérer différents environnements…​&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
@@ -667,7 +667,7 @@ Il s’agit là d’un événement majeur affectant la sécurité de nombreux sy
 &lt;h2 id=&#34;_quest_ce_que_la_fonction_de_hachage_sha_1&#34;&gt;Qu’est-ce que la fonction de « hachage » SHA-1 ?&lt;/h2&gt;
 &lt;div class=&#34;sectionbody&#34;&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;SHA-1 (&lt;a href=&#34;https://fr.wikipedia.org/wiki/SHA-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Secure Hash Algorithm&lt;/a&gt;) est une fonction de « hachage » cryptographique.&lt;/p&gt;
+&lt;p&gt;SHA-1 (&lt;a href=&#34;https://fr.wikipedia.org/wiki/SHA-1&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Secure Hash Algorithm&lt;/a&gt;) est une fonction de « hachage » cryptographique.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Il s’agit d’un algorithme qui associe à une donnée de taille quelconque, une image de taille fixe.
@@ -711,10 +711,10 @@ Globalement, elles apportent une meilleure expérience pour l’utilisateur, rar
       <pubDate>Thu, 16 Nov 2017 16:10:55 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/blog/meetup-asseth-devcon3-talan-ethereum/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Lundi 13 novembre 2017 avait lieu le &lt;a href=&#34;https://www.meetup.com/blockchains/events/244926359/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;meetup&lt;/a&gt; de &lt;a href=&#34;https://www.ethereum-france.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;l’Asseth (Association Ethereum française).&lt;/a&gt; Sponsorisé et hébergé par Talan Labs, il s’agit de l’un des rassemblements les plus importants autour de la blockchain en France.&lt;/p&gt;
+&lt;p&gt;Lundi 13 novembre 2017 avait lieu le &lt;a href=&#34;https://www.meetup.com/blockchains/events/244926359/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;meetup&lt;/a&gt; de &lt;a href=&#34;https://www.ethereum-france.com/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;l’Asseth (Association Ethereum française).&lt;/a&gt; Sponsorisé et hébergé par Talan Labs, il s’agit de l’un des rassemblements les plus importants autour de la blockchain en France.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Au programme de la soirée : le débriefing de la &lt;a href=&#34;https://blog.ethereum.org/2017/11/16/devcon3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Devcon3&lt;/a&gt;, la conférence annuelle des développeurs &lt;a href=&#34;https://ethereum.org/foundation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ethereum&lt;/a&gt; qui avait lieu début novembre, à Cancún au Mexique.&lt;/p&gt;
+&lt;p&gt;Au programme de la soirée : le débriefing de la &lt;a href=&#34;https://blog.ethereum.org/2017/11/16/devcon3/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Devcon3&lt;/a&gt;, la conférence annuelle des développeurs &lt;a href=&#34;https://ethereum.org/foundation&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Ethereum&lt;/a&gt; qui avait lieu début novembre, à Cancún au Mexique.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; style=&#34;max-width: 100%; height: auto;&#34;
@@ -736,7 +736,7 @@ Globalement, elles apportent une meilleure expérience pour l’utilisateur, rar
       <pubDate>Tue, 24 Oct 2017 09:21:37 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/blog/humantalks-talan/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Mardi 10 octobre 2017, Talan accueillait un &lt;a href=&#34;https://www.meetup.com/fr-FR/HumanTalks-Paris/events/243915056/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;« meetup » des « HumanTalks »&lt;/a&gt;, que nous vous avions présenté &lt;a href=&#34;https://alainnicolas.fr/fr/blog/presentation-meetup-human-talks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;il y a quelques mois&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Mardi 10 octobre 2017, Talan accueillait un &lt;a href=&#34;https://www.meetup.com/fr-FR/HumanTalks-Paris/events/243915056/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;« meetup » des « HumanTalks »&lt;/a&gt;, que nous vous avions présenté &lt;a href=&#34;https://alainnicolas.fr/fr/blog/presentation-meetup-human-talks/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;il y a quelques mois&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Au programme de la soirée : 4 « talks » de qualité sur des sujets plus ou moins techniques, un public de près de 70 personnes, principalement des développeurs, mais aussi des designers UX et des responsables des Ressources Humaines.&lt;/p&gt;
@@ -745,7 +745,7 @@ Globalement, elles apportent une meilleure expérience pour l’utilisateur, rar
 &lt;h2 id=&#34;_1er_talk_mythes_et_légendes_de_lux&#34;&gt;1er talk : Mythes et Légendes de l’UX&lt;/h2&gt;
 &lt;div class=&#34;sectionbody&#34;&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Présenté par &lt;a href=&#34;https://www.linkedin.com/in/marc-wabnitz-0135ba24/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marc Wabnitz&lt;/a&gt;, UX designer chez Talan Labs, ce talk présentait 7 idées reçues autour de l’expérience utilisateur.&lt;/p&gt;
+&lt;p&gt;Présenté par &lt;a href=&#34;https://www.linkedin.com/in/marc-wabnitz-0135ba24/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Marc Wabnitz&lt;/a&gt;, UX designer chez Talan Labs, ce talk présentait 7 idées reçues autour de l’expérience utilisateur.&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -818,7 +818,7 @@ Et puis l’an dernier, tout a changé…​&lt;/p&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Depuis plusieurs mois la communauté Java est en émoi.
 Oracle semble se désintéresser de Java EE.
-Au terme d’une saga résumée &lt;a href=&#34;https://alainnicolas.fr/fr/blog/java-ee-nouvelle-orientation-bonne-nouvelle/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;en novembre&lt;/a&gt;, c’est finalement lors de la grande conférence annuelle JavaOne que l’entreprise annonce une nouvelle feuille de route pour Java EE, ainsi que le lancement d’un sondage visant à mieux cerner les aspirations et attentes de la communauté.&lt;/p&gt;
+Au terme d’une saga résumée &lt;a href=&#34;https://alainnicolas.fr/fr/blog/java-ee-nouvelle-orientation-bonne-nouvelle/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;en novembre&lt;/a&gt;, c’est finalement lors de la grande conférence annuelle JavaOne que l’entreprise annonce une nouvelle feuille de route pour Java EE, ainsi que le lancement d’un sondage visant à mieux cerner les aspirations et attentes de la communauté.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;sect1&#34;&gt;
 &lt;h2 id=&#34;_présentation_du_sondage_oracle&#34;&gt;Présentation du sondage Oracle&lt;/h2&gt;
@@ -837,7 +837,7 @@ Il est intéressant de noter que la France semble ne pas avoir beaucoup répondu
       <guid>https://alainnicolas.fr/fr/blog/presentation-meetup-human-talks/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Parce que la vie d’un développeur ce n’est pas qu’un quotidien routinier face à un écran rempli de code, il est parfois important d’élargir ses idées et de se confronter au travail et aux passions d’autres acteurs de la communauté.
-C’est ainsi que je vous propose aujourd’hui de découvrir un meetup, les &lt;a href=&#34;http://humantalks.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Human Talks&lt;/a&gt;.&lt;/p&gt;
+C’est ainsi que je vous propose aujourd’hui de découvrir un meetup, les &lt;a href=&#34;http://humantalks.com&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Human Talks&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Mais au fait, qu’est-ce qu’un meetup ?&lt;/p&gt;
@@ -860,7 +860,7 @@ C’est ainsi que je vous propose aujourd’hui de découvrir un meetup, les &lt
       <pubDate>Wed, 16 Nov 2016 09:00:23 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/blog/java-ee-nouvelle-orientation-bonne-nouvelle/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Peut-être que pour vous la série de l’été était &lt;a href=&#34;https://www.netflix.com/fr/title/80057281&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stranger Things&lt;/a&gt;, la petite pépite aux couleurs années 80-90 de Netflix.
+&lt;p&gt;Peut-être que pour vous la série de l’été était &lt;a href=&#34;https://www.netflix.com/fr/title/80057281&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Stranger Things&lt;/a&gt;, la petite pépite aux couleurs années 80-90 de Netflix.
 Mais dans le vaste monde du Java, une toute autre série aux multiples rebondissements a retenu toutes les attentions.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
