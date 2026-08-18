@@ -5,7 +5,7 @@
     <link>https://alainnicolas.fr/fr/blog/</link>
     <description>En tant que Développeur Blockchain Fullstack, je souhaite maximiser la qualité du code de mes projets afin de toujours livrer de la valeur.</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 05 Aug 2026 23:56:34 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 23:28:14 +0200</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/fr/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quand la sécurité s&#39;effondre par manque de maintenance</title>
@@ -606,7 +606,7 @@ L’Asseth est une association organisant notamment des meetups, connus comme é
 &lt;h2 id=&#34;_les_speakers&#34;&gt;Les speakers&lt;/h2&gt;
 &lt;div class=&#34;sectionbody&#34;&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;50 blockchainers ont fait le déplacement pour profiter de la présence de Philippe Honigman et Nicolas Danjean, fondateurs de la startup &lt;a href=&#34;https://www.democratieouverte.org/innovateur/projet-tribute/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Tribute&lt;/a&gt;.
+&lt;p&gt;50 blockchainers ont fait le déplacement pour profiter de la présence de Philippe Honigman et Nicolas Danjean, fondateurs de la startup Tribute.
 Tribute a pour but d’aider les organisations au sens large (associations, entreprises, etc.) à développer leur réseau de contributeurs, notamment via des systèmes de récompenses et d’incentives.&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
@@ -650,7 +650,8 @@ Et peut-être vous êtes-vous dits que c’était compliqué…​ Des technolog
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Mais ça, c’était avant !
 Il y a au moins un outil qui sort du lot : &lt;a href=&#34;https://www.trufflesuite.com/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Truffle&lt;/a&gt;.
-Framework de développement sur Ethereum créé par &lt;a href=&#34;https://consensys.io/ethereum/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Consensys&lt;/a&gt;, il se présente tout simplement comme le couteau suisse Ethereum.
+Framework de développement sur Ethereum créé par Consensys, Truffle se présente tout simplement comme le couteau suisse Ethereum.
+Le projet, ainsi que Ganache, est désormais &lt;a href=&#34;https://github.com/ConsenSys-archive/ganache&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;archivé sur GitHub&lt;/a&gt; à la suite de l’&lt;a href=&#34;https://consensys.io/blog/consensys-announces-the-sunset-of-truffle-and-ganache-and-new-hardhat&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;annonce de sa dépréciation par Consensys&lt;/a&gt;.
 Truffle permet de compiler du Solidity (le langage des smart contracts Ethereum), tester des &lt;em&gt;smart contracts&lt;/em&gt;, les déployer, gérer différents environnements…​&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
@@ -755,7 +756,7 @@ Globalement, elles apportent une meilleure expérience pour l’utilisateur, rar
       <guid>https://alainnicolas.fr/fr/blog/quest-ce-que-talancoin/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;&lt;em&gt;Présentée pour la première fois le 4 octobre au 1er Forum Parlementaire de la Blockchain, la monnaie virtuelle du groupe Talan est en passe de rentrer en phase de production.
-L’occasion de présenter en détails les tenants et les aboutissants d’un projet et d’une initiative pas comme les autres : &lt;a href=&#34;https://talancoin.com&#34;&gt;Talan Coin&lt;/a&gt; !&lt;/em&gt;&lt;/p&gt;
+L’occasion de présenter en détails les tenants et les aboutissants d’un projet et d’une initiative pas comme les autres : &lt;a href=&#34;https://web.archive.org/web/20260420162533/https://talancoin.com/&#34;&gt;Talan Coin&lt;/a&gt; !&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; style=&#34;max-width: 100%; height: auto;&#34;
