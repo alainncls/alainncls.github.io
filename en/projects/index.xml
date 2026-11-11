@@ -5,7 +5,7 @@
     <link>https://alainnicolas.fr/en/projects/</link>
     <description>As a Fullstack Blockchain Developer at Consensys, I want to maximize the quality of the code of my projects in order to always deliver value.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 10:51:19 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 23:23:20 +0100</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/en/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linea Developer Hub</title>
@@ -31,6 +31,59 @@ To support this expansion, Linea needed a unified portal allowing developers to 
 &lt;h3 id=&#34;_app_submission&#34;&gt;App Submission&lt;/h3&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;A multi-step submission process allows developers to register their applications:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;General Information&lt;/strong&gt;: name, description, category, links&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Technical Details&lt;/strong&gt;: deployed contracts, Etherscan verification&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Media&lt;/strong&gt;: logo, screenshots, banners&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Validation&lt;/strong&gt;: review by the Linea team before publication&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_event_management&#34;&gt;Event Management&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Builders can:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Create event listings with all metadata&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Associate events with their apps&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Manage dates, locations, and registration links&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Track visibility and engagement&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_token&#34;&gt;Token&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;A dedicated interface for linking a token to an existing app and integrating its data into the &lt;a href=&#34;https://github.com/Consensys/linea-token-list&#34;&gt;Linea Token List&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_analytics_dashboard&#34;&gt;Analytics Dashboard&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Comprehensive dashboard offering app viewing statistics and engagement metrics.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -73,6 +126,106 @@ Beyond a simple directory, the goal was to create an engagement hub capable of a
 &lt;p&gt;&lt;strong&gt;Leaderboard&lt;/strong&gt;: apps ranked by popularity&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_token_hub&#34;&gt;Token Hub&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Token data aggregation on Linea:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Simplified Swap&lt;/strong&gt;: integration with LI.FI&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Market Data&lt;/strong&gt;: market cap, volume, 24h change&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;History&lt;/strong&gt;: price charts across different periods&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_daily_spin_game&#34;&gt;Daily Spin Game&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;The heart of user engagement: a daily game with real crypto rewards.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect3&#34;&gt;
+&lt;h4 id=&#34;_principle&#34;&gt;Principle&lt;/h4&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Every day, users can spin a wheel to win crypto rewards (ETH, USDC, partner tokens).&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect3&#34;&gt;
+&lt;h4 id=&#34;_technical_architecture&#34;&gt;Technical Architecture&lt;/h4&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;The system uses an innovative architecture guaranteeing fairness:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;SpinGame Smart Contract&lt;/strong&gt;: Manages rewards and draws&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;VRF&lt;/strong&gt;: Verifiable onchain random number generation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;GenerateRandom Contract&lt;/strong&gt;: Contract responsible for generating random numbers&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Alchemy Webhooks&lt;/strong&gt;: Real-time transaction monitoring&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect3&#34;&gt;
+&lt;h4 id=&#34;_game_flow&#34;&gt;Game Flow&lt;/h4&gt;
+&lt;div class=&#34;olist arabic&#34;&gt;
+&lt;ol class=&#34;arabic&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;User clicks &amp;#34;Spin&amp;#34; and submits their transaction&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;SpinGame&lt;/code&gt; contract registers the request&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Randomness Generator service listens to events and initiates a transaction to the &lt;code&gt;GenerateRandom&lt;/code&gt; contract&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;GenerateRandom&lt;/code&gt; contract generates a random number and calls &lt;code&gt;SpinGame&lt;/code&gt; contract via a callback&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;SpinGame&lt;/code&gt; contract callback determines the prize&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;User claims their potential reward via a transaction&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect3&#34;&gt;
+&lt;h4 id=&#34;_security_guarantees&#34;&gt;Security Guarantees&lt;/h4&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Provable Fairness&lt;/strong&gt;: VRF guarantees randomness&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Transparency&lt;/strong&gt;: all draws verifiable onchain&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Daily Limit&lt;/strong&gt;: one free spin per wallet per day&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ability to Earn More Spins&lt;/strong&gt;: certain actions (e.g., providing liquidity on Aave) allow earning additional spins&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -102,6 +255,34 @@ Strava achievements remain locked within the app today, with no way to prove the
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;&lt;strong&gt;Verification&lt;/strong&gt;: anyone can verify the authenticity of your performances&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Portability&lt;/strong&gt;: your achievements follow your wallet, not an app&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Ownership&lt;/strong&gt;: you own your athletic credentials&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Composability&lt;/strong&gt;: usable in any Web3 application&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_for_the_web3_ecosystem&#34;&gt;For the Web3 Ecosystem&lt;/h3&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Proof of Physical Activity&lt;/strong&gt;: a new primitive for proving human engagement&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sybil Resistance&lt;/strong&gt;: completing segments requires real physical effort&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Real Credentials&lt;/strong&gt;: authentic achievements for gaming and DAOs&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -127,6 +308,40 @@ How do you link your social identities to your wallet without relying on a centr
 &lt;div class=&#34;sectionbody&#34;&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;The application offers a smooth user experience in three steps:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;olist arabic&#34;&gt;
+&lt;ol class=&#34;arabic&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Discord Login&lt;/strong&gt;: user authenticates via OAuth 2.0&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Wallet Connection&lt;/strong&gt;: Ethereum address is linked to Discord identity&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Attestation Creation&lt;/strong&gt;: an onchain proof is generated and stored&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_attested_data&#34;&gt;Attested Data&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Each attestation contains:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The unique Discord identifier for the server&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The Discord server name&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;This information is encoded according to a standardized Verax schema and signed via EIP-712 to guarantee authenticity.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -169,6 +384,31 @@ PDF reports can be forged, website badges easily copied, and no standard exists 
 &lt;p&gt;Information asymmetry hurts investors&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_the_solution&#34;&gt;The Solution&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;An onchain attestation that permanently links:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;olist arabic&#34;&gt;
+&lt;ol class=&#34;arabic&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The Auditor&lt;/strong&gt; — Identified by their Ethereum address&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The Code&lt;/strong&gt; — GitHub repository URL&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The Version&lt;/strong&gt; — Audited commit hash&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The Contract&lt;/strong&gt; — Deployed smart contract address&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -191,6 +431,21 @@ These tools improve interaction with the collection and give access to relevant 
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Bunny Universe is a major NFT collection on Linea.
 As a developer passionate about the ecosystem, I created several components to improve user experience and make the collection’s data more accessible.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;admonitionblock note&#34;&gt;
+&lt;table&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td class=&#34;icon&#34;&gt;
+&lt;div class=&#34;title&#34;&gt;ℹ️&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&#34;content&#34;&gt;
+I am not affiliated with the Bunny Universe team.
+This project is a personal contribution to the ecosystem and is obviously not financial advice.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -224,6 +479,8 @@ Everything you need to plug into a dashboard, a dapp, a bot, an explorer, or any
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;&lt;strong&gt;Linea Proof-of-Humanity (PoH)&lt;/strong&gt; is an infrastructure for verifying that an Ethereum address belongs to a verified human user while preserving their privacy.
 The system relies on the Verax attestation protocol and offers onchain integration via EIP-712 signatures.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -247,6 +504,8 @@ With eFrogs Attestation, you can now do so using &lt;a href=&#34;https://ver.ax&
 &lt;p&gt;In April 2024, this project was created during a hackathon hosted by &lt;a href=&#34;https://x.com/LineaBuild&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Linea&lt;/a&gt; and &lt;a href=&#34;https://x.com/efrogs_on_linea&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;eFrogs&lt;/a&gt;.
 Developed in collaboration with &lt;a href=&#34;https://x.com/oriondoesdesign&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Orion&lt;/a&gt;, it won second place in the competition.
 Initially built as a prototype, the project has evolved into a fully functional app deployed on the mainnet.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -263,6 +522,11 @@ Indeed, it is necessary to verify that they respect the imposed security rules, 
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;This validation being totally centralized and relying only on a company, one can see an opposition to the thesis of decentralization and freedom advocated by the web3 ecosystem.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;This is how the idea of experimenting with the decentralized distribution of these plugins was born.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -277,6 +541,14 @@ Indeed, it is necessary to verify that they respect the imposed security rules, 
 &lt;p&gt;The first event of the &amp;#34;Linea Voyage&amp;#34;, a quest where participants had to discover the ecosystem of applications and protocols deployed on Linea, met with major enthusiasm.
 Added to this is the possibility of an airdrop on the same network.
 Almost automatically, these circumstances led to the appearance of &amp;#34;sybils&amp;#34;, in other words, multiple Ethereum accounts owned by a single person, to maximize their exposure to a potential airdrop.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;To guarantee a form of equity in the distribution of rewards (only NFTs so far), Linea wanted to set up a system to limit participation to one account per person.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;From a fairly simple use case, many features were imagined, leading to the birth of the &amp;#34;Linea Attestation Registry&amp;#34;, quickly named &amp;#34;Verax&amp;#34;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -294,6 +566,8 @@ Indeed, it was both about making it known, and testing its ability to support a 
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;But to bring a large number of testers, they needed a reason to come.
 That’s why, during the &amp;#34;Testnet Voyage&amp;#34;, Consensys chose to rely on applications around DeFi, but also identity with the ENS protocol, or the Lens protocol for the social aspect.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -319,6 +593,11 @@ They are a company already well established in the web3 domain, looking to expan
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Therefore, it was necessary to create a user interface that is understandable and clear enough to attract the largest number, but also to provide all the standard features in this type of application.
 This interface also comes in an &amp;#34;administrator&amp;#34; version to set the cryptocurrencies available as collateral or to borrow, the current loan offers, etc.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;As the platform is centralized, it does not rely on smart contracts, but on a backend capable of managing loans, user profiles, etc.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -348,6 +627,12 @@ Based on an open-source and free tool, the blog was hosted on a small AWS machin
 &lt;h3 id=&#34;_the_second_version&#34;&gt;The second version&lt;/h3&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;In January 2021, I chose to switch to a static site generator, &lt;a href=&#34;https://gohugo.io/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;, in order to be able to host the generated pages for free.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;The blog is thus deployed and hosted thanks to the free service GitHub Pages.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -374,6 +659,23 @@ Similarly, in order to efficiently centralize the articles I have written on &lt
 &lt;h3 id=&#34;_the_tool&#34;&gt;The Tool&lt;/h3&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;This site is designed using a static site generator, &lt;a href=&#34;https://gohugo.io/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;, and hosted for free thanks to &amp;#34;GitHub Pages&amp;#34; service.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_the_theme&#34;&gt;The Theme&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Starting from a blank page is neither easy nor particularly motivating for a personal project, so I chose to start from a theme.
+Indeed, the Hugo site offers many &lt;a href=&#34;https://themes.gohugo.io/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;themes&lt;/a&gt;.
+That’s why I chose the one developed by &lt;a href=&#34;https://webbinaro.dev/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Eddie Webbinaro&lt;/a&gt;: &lt;a href=&#34;https://github.com/eddiewebb/hugo-resume&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;hugo resume&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_hosting&#34;&gt;Hosting&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;This site is hosted using the free GitHub Pages service.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -414,6 +716,9 @@ Similarly, in order to efficiently centralize the articles I have written on &lt
 &lt;h3 id=&#34;_hosting&#34;&gt;Hosting&lt;/h3&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;This site is hosted via &lt;a href=&#34;https://netlify.com&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Netlify&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -438,6 +743,11 @@ This is how blockchain and DLT technologies have become essential.&lt;/p&gt;
 &lt;div class=&#34;sectionbody&#34;&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;To allow all BNP entities to experiment on the blockchain before easily joining a decentralized consortium, it was necessary to make accessible technologies that we can qualify as exotic.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;This is how our challenge was to make it possible to create entire networks of nodes in a cloud environment with just one click.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -462,6 +772,11 @@ In order to remain competitive and gain new market share, the company needs to r
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;To achieve this, a technical refactoring of the project architecture and a redesign of the major features of the application were needed.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;In addition to the technical aspects, I had the opportunity to accompany the transition to Agile mode (Scrum) throughout the project, as well as to weigh in on the design decisions to be implemented.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -506,6 +821,9 @@ Indeed, it must take into account sometimes changing legislation, but also be ab
 &lt;p&gt;Java 8&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -527,6 +845,11 @@ Indeed, it must take into account sometimes changing legislation, but also be ab
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;The mission is to evangelize on the concepts of craftsmanship and industrialize the best practices to be implemented.
 This is how I was able to initiate the implementation of the first CI/CD pipelines via GitLab and Jenkins, but also push the use of SonarQube for code quality monitoring and Nexus for depositing generated artifacts.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;As an example, I had the opportunity to create a Spring Boot microservice capable of depositing encrypted files in an on-premises S3 bucket with key retrieval from a Vault, while offering different levels of automated testing.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -548,6 +871,8 @@ This is how I was able to initiate the implementation of the first CI/CD pipelin
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;That’s how I became part of the first agile squad, made up of 3 developers, 1 designer and 1 Scrum Master.
 We were tasked with the redesign of the &lt;em&gt;Calibrate Model&lt;/em&gt; module, which aims to display the sales history of a product and simulate its future sales.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -571,6 +896,8 @@ We were tasked with the redesign of the &lt;em&gt;Calibrate Model&lt;/em&gt; mod
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;In parallel with the development of functional &lt;em&gt;user stories&lt;/em&gt;, there are many technical topics to consider, such as a reflection on the future database best suited to the specifics of the objects to be manipulated.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -642,6 +969,9 @@ We were tasked with the redesign of the &lt;em&gt;Calibrate Model&lt;/em&gt; mod
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Smart contracts written in Solidity are deployed on an Ethereum blockchain.
 Standard contracts provided by OpenZeppelin are used.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -659,6 +989,24 @@ In addition, Talan wishes to strengthen its unity as a group despite distinct en
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;An internal currency, common to all employees regardless of their location or hierarchical role, makes it possible to find a common point among all the actors in the company.
 It is also a way to allow everyone to better exchange, including between distinct teams, thus affirming a horizontal hierarchy.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;More details in the &lt;a href=&#34;https://alainnicolas.fr/en/blog/what-is-talancoin/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt; that I dedicated to Talan Coin.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; style=&#34;max-width: 100%; height: auto;&#34;
+            sizes=&#34;(min-width: 35em) 720px, 100vw&#34;
+            srcset=&#34;https://alainnicolas.fr/fr/projects/talan-talancoin/talancoin_banner_hu_6f5de1b9dd0552e2.webp 500w, https://alainnicolas.fr/fr/projects/talan-talancoin/talancoin_banner_hu_8e6e4c7fac2fed44.webp 800w&#34;
+            src=&#34;https://alainnicolas.fr/fr/projects/talan-talancoin/talancoin_banner.jpg&#34;
+            width=&#34;1024&#34;
+            height=&#34;500&#34;
+            alt=&#34;Talan Coin banner&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -698,6 +1046,15 @@ It is also a way to allow everyone to better exchange, including between distinc
 &lt;h3 id=&#34;_overhaul&#34;&gt;Overhaul&lt;/h3&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Given the difficulty of keeping such a site up to date while ensuring its security, we chose to radically change the technology to significantly reduce the attack surface.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;By moving to a static site generator, &lt;a href=&#34;https://gohugo.io/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;, the generated HTML pages are deployed and hosted for free via GitHub Pages.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;To make the blog GDPR compliant, I had the opportunity to implement the &lt;a href=&#34;https://tarteaucitron.io&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;tarteaucitron&lt;/a&gt; tool, which manages visitor consent for cookies used by the site (Google Analytics and Disqus).&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -743,6 +1100,31 @@ It is also a way to allow everyone to better exchange, including between distinc
 &lt;p&gt;Desktop client (not in production)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_back_end&#34;&gt;Back End&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Spring Boot services based on Java 8, serving as an interface between the blockchain and mobile clients.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_blockchain&#34;&gt;Blockchain&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Ethereum with a PoA (Clique) consensus and smart contracts in Solidity.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_database&#34;&gt;Database&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;MongoDB to store transactions and access them more quickly.
+Reconstructible from data stored on the blockchain.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>

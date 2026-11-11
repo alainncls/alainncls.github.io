@@ -5,7 +5,7 @@
     <link>https://alainnicolas.fr/en/blog/</link>
     <description>As a Fullstack Blockchain Developer at Consensys, I want to maximize the quality of the code of my projects in order to always deliver value.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 10:51:19 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 23:23:20 +0100</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/en/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>When security fails because maintenance did</title>
@@ -62,6 +62,13 @@ So I’m sharing it here in case it helps someone else.&lt;/p&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;I always start from the &lt;code&gt;main&lt;/code&gt; branch.
 I create a feature branch with a clear name:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;listingblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;pre class=&#34;highlight&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;git checkout -b feat/my-feature&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -126,6 +133,15 @@ So I built &lt;strong&gt;Transaction Exporter&lt;/strong&gt;, a simple Node.js s
 &lt;p&gt;Run: &lt;code&gt;npm run fetch &amp;lt;address&amp;gt; &amp;lt;handle&amp;gt;&lt;/code&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;No fuss, no complex setup.
+Just quick access to your transactions.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Check it out: &lt;a href=&#34;https://github.com/alainncls/transaction-exporter&#34;&gt;GitHub Repo&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -187,6 +203,24 @@ Together, we won second place in the hackathon organized by &lt;a href=&#34;http
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;At the time, it was just a simple prototype.
 But after a few months, it was time to finalise and launch a mainnet version.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;The result is here: &lt;a href=&#34;https://efrogs.alainnicolas.fr&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;efrogs.alainnicolas.fr&lt;/a&gt;, which allows you to verify your ownership of an eFrog NFT using &lt;a href=&#34;https://ver.ax&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Verax&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://efrogs.alainnicolas.fr&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;&lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; style=&#34;max-width: 100%; height: auto;&#34;
+            sizes=&#34;(min-width: 35em) 720px, 100vw&#34;
+            srcset=&#34;https://alainnicolas.fr/fr/blog/attestez-nfts-efrogs-linea-verax/cover_hu_b25ff62c28ea80af.webp 500w, https://alainnicolas.fr/fr/blog/attestez-nfts-efrogs-linea-verax/cover_hu_86b9ab49b86cd672.webp 800w, https://alainnicolas.fr/fr/blog/attestez-nfts-efrogs-linea-verax/cover_hu_3b62cc7e3839c7cb.webp 1200w&#34;
+            src=&#34;https://alainnicolas.fr/fr/blog/attestez-nfts-efrogs-linea-verax/cover_hu_3b62cc7e3839c7cb.webp&#34;
+            width=&#34;1600&#34;
+            height=&#34;900&#34;
+            alt=&#34;Background of the app showing a pond at sunset&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -259,6 +293,27 @@ And that’s where the &lt;strong&gt;sort-package-json&lt;/strong&gt; package co
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;It allows you to sort the &lt;code&gt;package.json&lt;/code&gt; file alphabetically based on package names.
 This ensures consistency in the order of dependencies, making the file more readable and maintainable.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; style=&#34;max-width: 100%; height: auto;&#34;
+            sizes=&#34;(min-width: 35em) 720px, 100vw&#34;
+            srcset=&#34;https://alainnicolas.fr/fr/blog/triez-vos-dependances/broom_hu_8259f218930fb85f.webp 500w, https://alainnicolas.fr/fr/blog/triez-vos-dependances/broom_hu_78f1c4925044e97c.webp 800w, https://alainnicolas.fr/fr/blog/triez-vos-dependances/broom_hu_bae302d04eb0cfe4.webp 1200w&#34;
+            src=&#34;https://alainnicolas.fr/fr/blog/triez-vos-dependances/broom_hu_bae302d04eb0cfe4.webp&#34;
+            width=&#34;1600&#34;
+            height=&#34;1067&#34;
+            alt=&#34;Illustration of a broom&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;In addition to dependencies, which are sorted by default if you’ve only installed them via command line (&lt;code&gt;npm install XXX&lt;/code&gt;), sort-package-json also sorts other fields in the file, such as author, project name, version, etc.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;For this purpose, the package utilizes predefined rules defined &lt;a href=&#34;https://github.com/keithamus/sort-package-json/blob/HEAD/defaultRules.md&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -277,6 +332,34 @@ But don’t forget, your blog is primarily YOUR blog.&lt;/p&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;I believe it’s an excellent way to take ownership of your blog while increasing the publishing frequency: every time you learn something, you should write a post about it.
 Your blog then becomes an extension of your brain, capturing everything you can never seem to remember.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; style=&#34;max-width: 100%; height: auto;&#34;
+            sizes=&#34;(min-width: 35em) 720px, 100vw&#34;
+            srcset=&#34;https://alainnicolas.fr/fr/blog/blog-it-yourself-aller-plus-loin/forget_hu_a3276d16b6d5304f.webp 500w, https://alainnicolas.fr/fr/blog/blog-it-yourself-aller-plus-loin/forget_hu_ff372ae8601a6157.webp 800w, https://alainnicolas.fr/fr/blog/blog-it-yourself-aller-plus-loin/forget_hu_c641596f3d0eaea4.webp 1200w&#34;
+            src=&#34;https://alainnicolas.fr/fr/blog/blog-it-yourself-aller-plus-loin/forget_hu_c641596f3d0eaea4.webp&#34;
+            width=&#34;1600&#34;
+            height=&#34;1083&#34;
+            alt=&#34;Illustration of a reminder note&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;For example, if you frequently search for &amp;#34;How to center a div in CSS,&amp;#34; it’s probably time to note it down on your site, and the answer will always be readily available.
+And who knows, you might even remember the solution along the way!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;The same goes for commands you constantly forget.
+What’s the order of parameters for the &lt;code&gt;cp&lt;/code&gt; command again?
+In short, you get my point: you can transform your blog into a kind of reminder list.
+Just be careful not to completely abandon more in-depth articles that appeal to a different audience.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;In any case, it’s an excellent way to combat a lack of inspiration, maintain the pace you’ve set for yourself, and keep your SEO up to date by regularly updating your site!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -318,6 +401,35 @@ Let me share the three main reasons I’ve heard for not writing articles.&lt;/p
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Clearly the main reason that prevents all of us from getting started.
 The infamous &amp;#34;Imposter Syndrome&amp;#34;…​&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; style=&#34;max-width: 100%; height: auto;&#34;
+            sizes=&#34;(min-width: 35em) 720px, 100vw&#34;
+            srcset=&#34;https://alainnicolas.fr/fr/blog/blog-it-yourself-ce-qui-nous-bloque/tall_ride_hu_1b1f8312c8bd1b6c.webp 500w, https://alainnicolas.fr/fr/blog/blog-it-yourself-ce-qui-nous-bloque/tall_ride_hu_f6beedfaef9be210.webp 800w, https://alainnicolas.fr/fr/blog/blog-it-yourself-ce-qui-nous-bloque/tall_ride_hu_890a610caaf2d5cc.webp 1200w&#34;
+            src=&#34;https://alainnicolas.fr/fr/blog/blog-it-yourself-ce-qui-nous-bloque/tall_ride_hu_890a610caaf2d5cc.webp&#34;
+            width=&#34;1500&#34;
+            height=&#34;1032&#34;
+            alt=&#34;You must be this tall to ride&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;I used to believe it was reserved for the more junior developers among us, but the truth is…​ not at all!
+How do I know?
+Firstly, because I still feel it, and secondly, because I regularly hear experienced developers talk about it.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;So the issue lies not in actual experience but in the perception of it!
+And that’s important to note!
+It simply means that there is no perfect moment in one’s career to start writing an article, and that you, too, can do it.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Furthermore, it’s essential to realize that the perspectives of a junior developer and a senior developer are different enough that both can express themselves without invalidating each other.
+If you still had doubts, there is room for everyone on the internet…​&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -338,6 +450,36 @@ And also because after the free 12 months of the AWS instance, it was necessary 
 WordPress or Ghost are software that expose a website along with writing and administration tools.
 In contrast, Hugo is just a site generator.
 It takes a theme and a list of content and generates HTML pages …​ that’s it!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;In other words, all the creation, management, and writing of the site is done on the owner’s computer.
+In return, the generated pages do not require an API or any server to feed them.
+So, the site is not &amp;#34;hackable&amp;#34; as such.
+It all depends on how these HTML pages are hosted, of course.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+        &lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; src=&#34;https://alainnicolas.fr/fr/blog/blog-it-yourself-hugo/logo_hugo.png&#34; style=&#34;max-width: 100%; height: auto;&#34; width=&#34;1200&#34; height=&#34;328&#34; alt=&#34;Hugo Logo&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Whereas WordPress and Ghost provide real-time publishing of the modifications that are made and thus lose the previous version, Hugo simplifies things greatly: it is very easy to version the &amp;#34;text&amp;#34; files that make it up, via Git.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Therefore, you can version the site’s content (blog posts, etc.), as well as the site’s theme itself.
+This allows you to revert back after an unfortunate update, for example, without having to remember the 36 modified options in a WordPress installation.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;It should be noted that there are dozens of static site generators with different characteristics, written in different languages, etc.
+I invite you to check the list on the [JAMStack website](&lt;a class=&#34;bare&#34; href=&#34;https://jamstack.org/generators/&#34;&gt;https://jamstack.org/generators/&lt;/a&gt;) (and also learn about JAMStack, although it is not precisely the topic here).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Among its direct competitors (Jekyll and Gatsby), Hugo stands out by a small margin in terms of GitHub stars, if that is an important indicator when making your choice…​&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -371,6 +513,23 @@ Strange, since the most recent ones seem to correspond to my username and show m
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Let’s leave aside the paid version of Ghost that offers hosting by the company, and thus minimal configuration for the user.
 Let’s focus on the free and open-source version of the tool, to be self-hosted.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Because there’s never a bad occasion to learn something, we chose to host the blog on a free AWS instance to avoid any unnecessary cost while waiting to know the site’s traffic.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+        &lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; src=&#34;https://alainnicolas.fr/fr/blog/blog-it-yourself-ghost/aws_ec2.png&#34; style=&#34;max-width: 100%; height: auto;&#34; width=&#34;528&#34; height=&#34;353&#34; alt=&#34;AWS Offer&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;AWS Offer&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Indeed, AWS offers a free version for one year of one of the smallest machines on its EC2 service.
+The specifications of this machine generally meet the prerequisites recommended by Ghost in its documentation, so we didn’t go any further!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -415,6 +574,24 @@ Nevertheless, let’s try to improve ourselves regularly…​&lt;/p&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;To start the year 2022, I have decided to do without Google Analytics to track visits to my site.
 Firstly, because avoiding Google is always a good idea, and secondly, because it is possible to achieve almost the same results without tracking our visitors.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;I mentioned it in &lt;a href=&#34;https://alainnicolas.fr/en/blog/easily-make-your-website-gdpr-compliant&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;an article&lt;/a&gt; in October, to comply with GDPR and obtain consent from our visitors to be tracked, we ourselves must consent to implementing a system (such as a popover or banner), which is not only restrictive but also degrades the user experience.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;lazy&#34; fetchpriority=&#34;auto&#34; decoding=&#34;async&#34; style=&#34;max-width: 100%; height: auto;&#34;
+            sizes=&#34;(min-width: 35em) 720px, 100vw&#34;
+            srcset=&#34;https://alainnicolas.fr/fr/blog/adieu-google/cameras_hu_a15d114480290d34.webp 500w, https://alainnicolas.fr/fr/blog/adieu-google/cameras_hu_e52f2b8ca4a7a5d6.webp 800w, https://alainnicolas.fr/fr/blog/adieu-google/cameras_hu_9e531123f46fd572.webp 1200w&#34;
+            src=&#34;https://alainnicolas.fr/fr/blog/adieu-google/cameras_hu_9e531123f46fd572.webp&#34;
+            width=&#34;1600&#34;
+            height=&#34;1076&#34;
+            alt=&#34;Smile, you&amp;#39;re being tracked&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;Smile, you&amp;#39;re being tracked&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -434,6 +611,46 @@ Firstly, because avoiding Google is always a good idea, and secondly, because it
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;As we have seen, we are now able to generate an HTML page containing the documentation of our API.
 But that’s not the best way to make it available to API consumers, we can do better than that!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;And what better place than the Spring Boot application itself?
+For that, some configuration is required, thanks to the Maven plugin &lt;code&gt;maven-resources-plugin&lt;/code&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;listingblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;pre class=&#34;highlight&#34;&gt;&lt;code class=&#34;language-xml&#34; data-lang=&#34;xml&#34;&gt;            &amp;lt;plugin&amp;gt;
+                &amp;lt;artifactId&amp;gt;maven-resources-plugin&amp;lt;/artifactId&amp;gt;
+                &amp;lt;executions&amp;gt;
+                    &amp;lt;execution&amp;gt;
+                        &amp;lt;id&amp;gt;copy-resources&amp;lt;/id&amp;gt;
+                        &amp;lt;phase&amp;gt;prepare-package&amp;lt;/phase&amp;gt;
+                        &amp;lt;goals&amp;gt;
+                            &amp;lt;goal&amp;gt;copy-resources&amp;lt;/goal&amp;gt;
+                        &amp;lt;/goals&amp;gt;
+                        &amp;lt;configuration&amp;gt;
+                            &amp;lt;outputDirectory&amp;gt;${project.build.outputDirectory}/static/docs/&amp;lt;/outputDirectory&amp;gt;
+                            &amp;lt;resources&amp;gt;
+                                &amp;lt;resource&amp;gt;
+                                    &amp;lt;directory&amp;gt;${project.build.directory}/generated-docs&amp;lt;/directory&amp;gt;
+                                &amp;lt;/resource&amp;gt;
+                            &amp;lt;/resources&amp;gt;
+                        &amp;lt;/configuration&amp;gt;
+                    &amp;lt;/execution&amp;gt;
+                &amp;lt;/executions&amp;gt;
+            &amp;lt;/plugin&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;This code copies the contents of the &lt;code&gt;target/generated-docs&lt;/code&gt; directory to a &lt;code&gt;target/static-docs/docs&lt;/code&gt; directory.
+In other words, the generated HTML page is placed in a somewhat special directory, since &lt;code&gt;static&lt;/code&gt; is automatically served by Spring.
+If you want to learn more about this feature, Baeldung has a dedicated page: &lt;a href=&#34;https://www.baeldung.com/&#34;&gt;Baeldung&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;With this configuration, if you build the application (&lt;code&gt;mvn package&lt;/code&gt;), you will get a JAR file that you can launch (&lt;code&gt;java -jar demo-spring-rest-docs-0.0.1-SNAPSHOT.jar&lt;/code&gt;).
+The API will be exposed, but the documentation will also be accessible at &lt;a href=&#34;http://localhost:8080/docs/index.html&#34;&gt;http://localhost:8080/docs/index.html&lt;/a&gt;.
+So as soon as the application is deployed somewhere, its documentation will be present!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -470,6 +687,60 @@ It’s normal, it looks so much more professional…​ And it’s also about re
 &lt;p&gt;It is a small, fairly simple file that is placed in our browser when we visit certain websites.
 It is used, among other things, to identify us during our next visit.&lt;br/&gt;
 This can sometimes be quite useful: the website can anticipate our display preferences, for example.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;But when an advertising network shared by multiple websites tracks our behavior from one site to another, for example, to offer us advertisements on Amazon related to our Facebook pages…​ the practical aspect fades behind the frightening aspect.&lt;br/&gt;
+Our personal data is no longer personal, even though we haven’t been asked for our consent.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;To combat this trend, the GDPR requires obtaining the consent of users before processing their personal data.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; style=&#34;max-width: 100%; height: auto;&#34;
+            sizes=&#34;(min-width: 35em) 720px, 100vw&#34;
+            srcset=&#34;https://alainnicolas.fr/fr/blog/mettez-facilement-site-conformite-rgpd/cookies_hu_9524c516a3cd62b8.webp 500w, https://alainnicolas.fr/fr/blog/mettez-facilement-site-conformite-rgpd/cookies_hu_3fa92877e134053e.webp 800w, https://alainnicolas.fr/fr/blog/mettez-facilement-site-conformite-rgpd/cookies_hu_7cdb46f73f335667.webp 1200w&#34;
+            src=&#34;https://alainnicolas.fr/fr/blog/mettez-facilement-site-conformite-rgpd/cookies_hu_7cdb46f73f335667.webp&#34;
+            width=&#34;1600&#34;
+            height=&#34;1067&#34;
+            alt=&#34;Cookies&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_gdpr_a_quick_reminder&#34;&gt;GDPR: a quick reminder&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;The General Data Protection Regulation (GDPR) is a European Parliament regulation aimed at improving the protection of individuals&amp;#39; data, in particular by holding data processors accountable.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;It also grants more powers to authorities such as the CNIL (French Data Protection Authority), which is responsible for enforcing European directives transposed into French law.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_the_consequence&#34;&gt;The consequence&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;One direct consequence of this is quite visible when browsing the Internet: we are constantly asked for our consent regarding cookies.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;And often, it’s hard to ignore the question…​&lt;br/&gt;
+Invasive banners, pop-ups in the foreground, all means are used to divert our attention from the information we want to access.
+By improving the privacy of our data, the GDPR has also significantly deteriorated our web browsing experience.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+        &lt;img loading=&#34;lazy&#34; fetchpriority=&#34;auto&#34; decoding=&#34;async&#34; src=&#34;https://alainnicolas.fr/fr/blog/mettez-facilement-site-conformite-rgpd/cookie-monster.gif&#34; style=&#34;max-width: 100%; height: auto;&#34; width=&#34;356&#34; height=&#34;200&#34; alt=&#34;Cookie Monster&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;em&gt;The GDPR is not limited to cookie consent, but the goal here is not to list all the ins and outs of an 80-page+ &lt;a href=&#34;https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&amp;amp;from=EN&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;legal text&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -491,6 +762,28 @@ It’s time to switch to &amp;#34;Documentation as Code&amp;#34;!&lt;/p&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;The most basic example of &amp;#34;Documentation as Code&amp;#34; is the traditional &lt;code&gt;README.md&lt;/code&gt; file at the root of every project.
 Ideally, this file contains the minimal documentation for the project, installation instructions, and perhaps a description of the main features.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;In reality, this file is too often neglected and rarely kept up to date.
+And that’s a shame!
+Since it’s part of your project, it’s versioned, and there’s no need to open a new tool to change the documentation (we see you, Confluence or SharePoint!).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;And you’ve probably noticed that by default, it’s a &lt;code&gt;.md&lt;/code&gt; file, which means it’s written in Markdown, a language that allows you to format text using tags (define a title, bold text, etc.).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+        &lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; src=&#34;https://alainnicolas.fr/fr/blog/make-documentation-great-again-part-1/logo_markdown.png&#34; style=&#34;max-width: 100%; height: auto;&#34; width=&#34;1200&#34; height=&#34;738&#34; alt=&#34;Markdown logo&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;Markdown logo&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;The huge advantage: a human can read it without feeling like they’re reading code (useful for non-technical stakeholders of a project), but your IDE or GitHub can also display it as a nicely presented HTML page.
+Very convenient for making your documentation available to the public.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -508,6 +801,27 @@ But we went further by proposing a long-term project to a group of 5th-year stud
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Before diving into professional life through the end-of-studies internship, students must confront the business world through a 5-month project.
 Between the school project and the real project, it is an opportunity to put into practice the acquired knowledge and discover the &amp;#34;real&amp;#34; work methods of a company.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; style=&#34;max-width: 100%; height: auto;&#34;
+            sizes=&#34;(min-width: 35em) 720px, 100vw&#34;
+            srcset=&#34;https://alainnicolas.fr/fr/blog/blockchain-projet-scolaire-monde-entreprise/bc_epf_salle_3_hu_e274d799b9a4013a.webp 500w, https://alainnicolas.fr/fr/blog/blockchain-projet-scolaire-monde-entreprise/bc_epf_salle_3_hu_12f4aa044ca4ee2d.webp 800w, https://alainnicolas.fr/fr/blog/blockchain-projet-scolaire-monde-entreprise/bc_epf_salle_3_hu_6a91e19ef8938e7a.webp 1200w&#34;
+            src=&#34;https://alainnicolas.fr/fr/blog/blockchain-projet-scolaire-monde-entreprise/bc_epf_salle_3_hu_6a91e19ef8938e7a.webp&#34;
+            width=&#34;1600&#34;
+            height=&#34;900&#34;
+            alt=&#34;Promo 2020 in their room @ Talan — 10/16/2019&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;Promo 2020 in their room @ Talan — 10/16/2019&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Obviously, these pedagogical expectations interested us because it allows us to face the challenges raised by a blockchain project, which we don’t always have time to implement otherwise.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;For this, we needed to move away from a purely academic project, in other words, a &amp;#34;disposable&amp;#34; one, and focus on a subject that would engage both our teams and the students.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>

@@ -5,7 +5,7 @@
     <link>https://alainnicolas.fr/fr/blog/</link>
     <description>En tant que Développeur Blockchain Fullstack, je souhaite maximiser la qualité du code de mes projets afin de toujours livrer de la valeur.</description>
     <language>fr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 10:51:17 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 23:23:19 +0100</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/fr/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quand la sécurité s&#39;effondre par manque de maintenance</title>
@@ -62,6 +62,13 @@ Du coup je la partage ici, en espérant que ça puisse servir.&lt;/p&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Je pars toujours de la branche &lt;code&gt;main&lt;/code&gt;.
 Je crée une branche de feature avec un nom clair :&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;listingblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;pre class=&#34;highlight&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;git checkout -b feat/ma-feature&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -126,6 +133,14 @@ J’ai donc créé &lt;strong&gt;Transaction Exporter&lt;/strong&gt;, un petit s
 &lt;p&gt;Lancez : &lt;code&gt;npm run fetch &amp;lt;address&amp;gt; &amp;lt;handle&amp;gt;&lt;/code&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Un outil simple, sans prise de tête, pour accéder rapidement à vos transactions.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;À découvrir ici : &lt;a href=&#34;https://github.com/alainncls/transaction-exporter&#34;&gt;GitHub Repo&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -187,6 +202,24 @@ Ensemble, nous avons remporté la deuxième place lors de l’hackathon organis�
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;À l’époque, ce n’était qu’un simple prototype.
 Mais après quelques mois, il était temps de finaliser et de lancer une version sur le mainnet.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Le résultat est là : &lt;a href=&#34;https://efrogs.alainnicolas.fr&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;efrogs.alainnicolas.fr&lt;/a&gt;, qui vous permet de vérifier que vous possédez un NFT eFrog via &lt;a href=&#34;https://ver.ax&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Verax&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://efrogs.alainnicolas.fr&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;&lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; style=&#34;max-width: 100%; height: auto;&#34;
+            sizes=&#34;(min-width: 35em) 720px, 100vw&#34;
+            srcset=&#34;https://alainnicolas.fr/fr/blog/attestez-nfts-efrogs-linea-verax/cover_hu_b25ff62c28ea80af.webp 500w, https://alainnicolas.fr/fr/blog/attestez-nfts-efrogs-linea-verax/cover_hu_86b9ab49b86cd672.webp 800w, https://alainnicolas.fr/fr/blog/attestez-nfts-efrogs-linea-verax/cover_hu_3b62cc7e3839c7cb.webp 1200w&#34;
+            src=&#34;https://alainnicolas.fr/fr/blog/attestez-nfts-efrogs-linea-verax/cover_hu_3b62cc7e3839c7cb.webp&#34;
+            width=&#34;1600&#34;
+            height=&#34;900&#34;
+            alt=&#34;Arrière-plan de l&amp;#39;application, représentant une marre au coucher du soleil&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -246,6 +279,8 @@ Le fichier &lt;code&gt;package.json&lt;/code&gt; liste toutes les dépendances e
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Lorsque l’on travaille sur un projet en équipe, il est important que le fichier &lt;code&gt;package.json&lt;/code&gt; soit maintenu de manière cohérente.
 Et c’est là que le package &lt;strong&gt;sort-package-json&lt;/strong&gt; entre en jeu.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -264,6 +299,34 @@ Sans pour autant perdre de vue que votre blog est avant tout VOTRE blog.&lt;/p&g
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Je trouve que c’est un excellent moyen de s’approprier son blog tout en accélérant la cadence de publication : à chaque fois que l’on apprend quelque chose, on devrait en tirer un post.
 Votre blog devient alors une extension de votre cerveau, pour noter tout ce que vous n’arrivez jamais à retenir.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; style=&#34;max-width: 100%; height: auto;&#34;
+            sizes=&#34;(min-width: 35em) 720px, 100vw&#34;
+            srcset=&#34;https://alainnicolas.fr/fr/blog/blog-it-yourself-aller-plus-loin/forget_hu_a3276d16b6d5304f.webp 500w, https://alainnicolas.fr/fr/blog/blog-it-yourself-aller-plus-loin/forget_hu_ff372ae8601a6157.webp 800w, https://alainnicolas.fr/fr/blog/blog-it-yourself-aller-plus-loin/forget_hu_c641596f3d0eaea4.webp 1200w&#34;
+            src=&#34;https://alainnicolas.fr/fr/blog/blog-it-yourself-aller-plus-loin/forget_hu_c641596f3d0eaea4.webp&#34;
+            width=&#34;1600&#34;
+            height=&#34;1083&#34;
+            alt=&#34;Illustration d&amp;#39;un pense-bête&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Par exemple, si vous cherchez très régulièrement &amp;#34;Comment centrer une div en CSS&amp;#34;, il serait peut-être temps de le noter sur votre site, la réponse viendra toujours plus rapidement.
+Et peut-être même que vous retiendrez la solution au passage !&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Idem avec les commandes que vous oubliez tout le temps.
+Quel est l’ordre des paramètres de la commande &lt;code&gt;cp&lt;/code&gt; déjà ?
+Bref, vous avez compris mon point : vous pouvez transformer votre blog en une sorte de liste de pense-bêtes.
+Attention à ne pas arrêter totalement les articles plus approfondis qui attirent une autre typologie de lecteurs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Dans tous les cas, c’est un très bon moyen de combattre le manque d’inspiration, de tenir le rythme que vous vous êtes fixé, mais aussi de conserver votre référencement en mettant régulièrement à jour votre site !&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -307,6 +370,35 @@ Je vous propose les trois raisons principales que j’ai entendues pour ne pas �
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Clairement la raison principale qui nous empêche tous de nous lancer.
 Ce fameux &amp;#34;Syndrome de l’Imposteur&amp;#34;…​&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; style=&#34;max-width: 100%; height: auto;&#34;
+            sizes=&#34;(min-width: 35em) 720px, 100vw&#34;
+            srcset=&#34;https://alainnicolas.fr/fr/blog/blog-it-yourself-ce-qui-nous-bloque/tall_ride_hu_1b1f8312c8bd1b6c.webp 500w, https://alainnicolas.fr/fr/blog/blog-it-yourself-ce-qui-nous-bloque/tall_ride_hu_f6beedfaef9be210.webp 800w, https://alainnicolas.fr/fr/blog/blog-it-yourself-ce-qui-nous-bloque/tall_ride_hu_890a610caaf2d5cc.webp 1200w&#34;
+            src=&#34;https://alainnicolas.fr/fr/blog/blog-it-yourself-ce-qui-nous-bloque/tall_ride_hu_890a610caaf2d5cc.webp&#34;
+            width=&#34;1500&#34;
+            height=&#34;1032&#34;
+            alt=&#34;You must be this tall to ride&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;J’ai longtemps cru que c’était réservé aux plus juniors d’entre nous, mais force est de constater que …​ pas du tout !
+Et comment je le sais ?
+Déjà parce que je le ressens toujours, et ensuite parce que j’en entends régulièrement parler par des développeurs beaucoup plus expérimentés que moi.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Donc le souci n’est pas dans l’expérience réelle, mais dans le ressenti de celle-ci !
+Et ça, c’est important !
+Cela veut tout simplement dire qu’il n’y a pas un moment dans une carrière qui serait meilleur qu’un autre pour écrire un article et que, vous aussi, vous pouvez le faire.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Et pour aller plus loin, il faut aussi se dire que les points de vue d’un développeur junior et d’un développeur senior sont suffisamment éloignés pour que les deux puissent s’exprimer, sans que l’un invalide l’autre.
+Si vous en doutiez encore, il y a de la place pour tout le monde sur internet…​&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -327,6 +419,36 @@ Et puis aussi parce qu’après les 12 mois gratuits de l’instance AWS il fall
 WordPress ou Ghost sont des logiciels qui exposent un site ainsi que des outils de rédaction et d’administration.
 À l’inverse, Hugo n’est qu’un générateur de sites.
 À partir d’un thème et d’une liste de contenus, il va générer des pages HTML …​ et c’est tout !&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Autrement dit, toute la création, la gestion et la rédaction du site se font sur l’ordinateur de son propriétaire.
+En contrepartie, les pages générées n’ont pas besoin d’une API ou d’un quelconque serveur pour les alimenter.
+Donc le site n’est pas &amp;#34;piratable&amp;#34; en tant que tel.
+Tout dépendra de la manière d’héberger ces pages HTML évidemment.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+        &lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; src=&#34;https://alainnicolas.fr/fr/blog/blog-it-yourself-hugo/logo_hugo.png&#34; style=&#34;max-width: 100%; height: auto;&#34; width=&#34;1200&#34; height=&#34;328&#34; alt=&#34;Logo Hugo&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Là où WordPress et Ghost assurent la mise en ligne en direct des modifications qui sont faites et perdent donc la version précédente, Hugo simplifie grandement les choses : il est très facile de versionner les fichiers &amp;#34;texte&amp;#34; qui le composent, via Git.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;On peut donc versionner le contenu du site (les articles du blog, etc.), mais aussi le thème du site en lui-même.
+Ce qui permet de revenir en arrière après une mise à jour malheureuse par exemple, sans avoir à retrouver les 36 options modifiées sur un WordPress.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;À noter qu’il existe des dizaines de générateurs de sites statiques, avec des caractéristiques différentes, écrits dans des langages différents, etc.
+Je vous invite à consulter la liste &lt;a href=&#34;https://jamstack.org/generators/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;sur le site de la JAMStack&lt;/a&gt; (et au passage à vous renseigner sur la JAMStack, même si ce n’est pas précisément le sujet ici).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Parmi ses concurrents directs (Jekyll et Gatsby), Hugo ressort d’une courte tête en nombre d’étoiles sur GitHub, si tant est que ce soit un indicateur important au moment de faire son choix…​&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -360,6 +482,23 @@ Ne nous étendons pas sur la honte que l’on peut ressentir en jetant un œil s
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Laissons de côté la version payante de Ghost qui propose un hébergement par l’entreprise, et donc un minimum de paramétrage pour l’utilisateur.
 Concentrons-nous sur la version gratuite et open-source de l’outil, à héberger soi-même.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Parce qu’il n’y a jamais de mauvaise occasion d’apprendre quelque chose, nous avons choisi d’héberger le blog sur une instance AWS gratuite pour ne pas engendrer le moindre coût alors jugé inutile dans l’attente de connaître la fréquentation du site.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+        &lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; src=&#34;https://alainnicolas.fr/fr/blog/blog-it-yourself-ghost/aws_ec2.png&#34; style=&#34;max-width: 100%; height: auto;&#34; width=&#34;528&#34; height=&#34;353&#34; alt=&#34;Offre AWS&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;Offre AWS&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;AWS propose en effet une version gratuite pendant un an d’une des plus petites machines sur son service EC2. &lt;br/&gt;
+Les spécifications de cette machine répondent globalement aux prérequis recommandés par Ghost dans sa documentation, nous ne sommes pas allés plus loin !&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -404,6 +543,24 @@ Néanmoins, essayons de nous améliorer régulièrement…​&lt;/p&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Pour commencer l’année 2022, j’ai décidé de me passer de Google Analytics pour suivre les visites de mon site.
 Tout d’abord parce que se passer de Google est toujours une bonne idée, ensuite parce qu’il est possible de faire presque aussi bien sans traquer ses visiteurs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Je l’évoquais dans &lt;a href=&#34;https://alainnicolas.fr/fr/blog/mettez-facilement-site-conformite-rgpd&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;un article&lt;/a&gt; en octobre dernier, pour respecter le RGPD et recueillir le consentement de ses visiteurs à être pistés, nous devons nous-mêmes consentir à mettre en place un système (type popover ou bannière), contraignant en plus de dégrader l’expérience utilisateur.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;lazy&#34; fetchpriority=&#34;auto&#34; decoding=&#34;async&#34; style=&#34;max-width: 100%; height: auto;&#34;
+            sizes=&#34;(min-width: 35em) 720px, 100vw&#34;
+            srcset=&#34;https://alainnicolas.fr/fr/blog/adieu-google/cameras_hu_a15d114480290d34.webp 500w, https://alainnicolas.fr/fr/blog/adieu-google/cameras_hu_e52f2b8ca4a7a5d6.webp 800w, https://alainnicolas.fr/fr/blog/adieu-google/cameras_hu_9e531123f46fd572.webp 1200w&#34;
+            src=&#34;https://alainnicolas.fr/fr/blog/adieu-google/cameras_hu_9e531123f46fd572.webp&#34;
+            width=&#34;1600&#34;
+            height=&#34;1076&#34;
+            alt=&#34;Souriez, vous êtes traqués&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;Souriez, vous êtes traqués&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -423,6 +580,46 @@ Tout d’abord parce que se passer de Google est toujours une bonne idée, ensui
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Nous l’avons vu : nous sommes désormais capables de générer une page HTML contenant la documentation de notre API.
 Mais ce n’est pas le meilleur moyen de la rendre disponible aux consommateurs de l’API, nous pouvons faire mieux que ça !&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Et quel meilleur emplacement que l’application Spring Boot en elle-même ?
+Pour cela, il faut un peu de paramétrage, grâce au plugin Maven &lt;code&gt;maven-resources-plugin&lt;/code&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;listingblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;pre class=&#34;highlight&#34;&gt;&lt;code class=&#34;language-xml&#34; data-lang=&#34;xml&#34;&gt;            &amp;lt;plugin&amp;gt;
+                &amp;lt;artifactId&amp;gt;maven-resources-plugin&amp;lt;/artifactId&amp;gt;
+                &amp;lt;executions&amp;gt;
+                    &amp;lt;execution&amp;gt;
+                        &amp;lt;id&amp;gt;copy-resources&amp;lt;/id&amp;gt;
+                        &amp;lt;phase&amp;gt;prepare-package&amp;lt;/phase&amp;gt;
+                        &amp;lt;goals&amp;gt;
+                            &amp;lt;goal&amp;gt;copy-resources&amp;lt;/goal&amp;gt;
+                        &amp;lt;/goals&amp;gt;
+                        &amp;lt;configuration&amp;gt;
+                            &amp;lt;outputDirectory&amp;gt;${project.build.outputDirectory}/static/docs/&amp;lt;/outputDirectory&amp;gt;
+                            &amp;lt;resources&amp;gt;
+                                &amp;lt;resource&amp;gt;
+                                    &amp;lt;directory&amp;gt;${project.build.directory}/generated-docs&amp;lt;/directory&amp;gt;
+                                &amp;lt;/resource&amp;gt;
+                            &amp;lt;/resources&amp;gt;
+                        &amp;lt;/configuration&amp;gt;
+                    &amp;lt;/execution&amp;gt;
+                &amp;lt;/executions&amp;gt;
+            &amp;lt;/plugin&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Ce code permet de copier le contenu du répertoire &lt;code&gt;target/generated-docs&lt;/code&gt; dans un répertoire &lt;code&gt;target/static-docs/docs&lt;/code&gt;.
+Autrement dit la page HTML générée dans un dossier un peu particulier, puisque &lt;code&gt;static&lt;/code&gt; est automatiquement servi par Spring.
+Si vous voulez en savoir plus sur cette caractéristique, &lt;a href=&#34;https://www.baeldung.com/&#34;&gt;Baeldung&lt;/a&gt; a évidemment une &lt;a href=&#34;https://www.baeldung.com/spring-mvc-static-resources&#34;&gt;page dédiée&lt;/a&gt; !&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Avec cette configuration, si vous lancez la construction de l’application (&lt;code&gt;mvn package&lt;/code&gt;), vous obtenez un fichier JAR qu’il suffit de lancer (&lt;code&gt;java -jar demo-spring-rest-docs-0.0.1-SNAPSHOT.jar&lt;/code&gt;).
+L’API est alors exposée, mais aussi la documentation, accessible sur &lt;a href=&#34;http://localhost:8080/docs/index.html&#34;&gt;http://localhost:8080/docs/index.html&lt;/a&gt;.
+Donc dès que l’application sera déployée quelque part, sa documentation sera présente !&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -459,6 +656,60 @@ C’est normal, ça fait tellement plus sérieux…​ Et puis, c’est aussi ç
 &lt;p&gt;C’est un petit fichier assez simple déposé dans notre navigateur lorsque nous visitons certains sites.
 Notamment pour nous identifier lors de la prochaine visite.&lt;br/&gt;
 Ce qui peut parfois se révéler assez pratique : le site peut ainsi connaître à l’avance nos préférences d’affichage par exemple.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Mais lorsqu’une régie publicitaire commune à plusieurs sites se permet de tracer nos habitudes d’un site à l’autre, par exemple pour nous proposer des publicités sur Amazon en rapport avec nos pages Facebook suivies …​ l’aspect pratique s’efface derrière l’aspect effrayant.&lt;br/&gt;
+Nos données personnelles ne sont plus personnelles, alors même que l’on ne nous a pas demandé notre avis.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;C’est pour combattre cette dérive que le RGPD demande de recueillir le consentement des utilisateurs avant d’exploiter leurs données personnelles.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; style=&#34;max-width: 100%; height: auto;&#34;
+            sizes=&#34;(min-width: 35em) 720px, 100vw&#34;
+            srcset=&#34;https://alainnicolas.fr/fr/blog/mettez-facilement-site-conformite-rgpd/cookies_hu_9524c516a3cd62b8.webp 500w, https://alainnicolas.fr/fr/blog/mettez-facilement-site-conformite-rgpd/cookies_hu_3fa92877e134053e.webp 800w, https://alainnicolas.fr/fr/blog/mettez-facilement-site-conformite-rgpd/cookies_hu_7cdb46f73f335667.webp 1200w&#34;
+            src=&#34;https://alainnicolas.fr/fr/blog/mettez-facilement-site-conformite-rgpd/cookies_hu_7cdb46f73f335667.webp&#34;
+            width=&#34;1600&#34;
+            height=&#34;1067&#34;
+            alt=&#34;Cookies&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_rgpd_rappel_rapide&#34;&gt;RGPD : rappel rapide&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Le règlement général sur la protection des données est un texte du Parlement européen qui a pour but d’améliorer la protection des données des personnes, notamment en responsabilisant les acteurs du traitement de ces données.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Il donne par ailleurs plus de pouvoirs aux autorités comme la CNIL, en charge de faire respecter les directives européennes transposées en droit français.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_la_conséquence&#34;&gt;La conséquence&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Il en résulte une conséquence directe assez visible lorsque l’on navigue sur Internet : notre consentement autour des cookies est demandé à tout bout de champ.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Et bien souvent la question est difficile à ignorer…​&lt;br/&gt;
+Bandeau envahissant, popup au premier plan, tous les moyens sont bons pour détourner notre attention de l’information que l’on veut consulter.
+En améliorant la confidentialité de nos données, le RGPD a aussi considérablement détérioré notre expérience du web.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+        &lt;img loading=&#34;lazy&#34; fetchpriority=&#34;auto&#34; decoding=&#34;async&#34; src=&#34;https://alainnicolas.fr/fr/blog/mettez-facilement-site-conformite-rgpd/cookie-monster.gif&#34; style=&#34;max-width: 100%; height: auto;&#34; width=&#34;356&#34; height=&#34;200&#34; alt=&#34;Cookie Monster&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;em&gt;Le RGPD ne se résume pas qu’au consentement autour des cookies, mais l’objectif ici n’est pas de lister les tenants et les aboutissants d’un &lt;a href=&#34;https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32016R0679&amp;amp;from=FR&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;texte de loi de plus de 80 pages&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -480,6 +731,28 @@ Il est temps de passer à la &amp;#34;Documentation as Code&amp;#34; !&lt;/p&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;L’exemple le plus trivial de &amp;#34;Documentation as Code&amp;#34; est le traditionnel fichier &lt;code&gt;README.md&lt;/code&gt; à la racine de tous les projets.
 Dans l’idéal, ce fichier contient la documentation minimale du projet, les instructions d’installation et peut-être même un descriptif des principales fonctionnalités.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Dans les faits, ce fichier est bien trop souvent négligé et rarement remis à jour.
+Et c’est bien dommage !
+Comme il fait partie de votre projet, il est versionné et il n’y a pas besoin d’ouvrir un nouvel outil pour changer la documentation (Confluence ou SharePoint, on vous voit !).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Et puis vous avez remarqué, par défaut, c’est un fichier &lt;code&gt;.md&lt;/code&gt;, autrement dit en Markdown, un langage qui permet de formater du texte via des balises (définir un titre, mettre en gras, etc.).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+        &lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; src=&#34;https://alainnicolas.fr/fr/blog/make-documentation-great-again-part-1/logo_markdown.png&#34; style=&#34;max-width: 100%; height: auto;&#34; width=&#34;1200&#34; height=&#34;738&#34; alt=&#34;Logo Markdown&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;Logo Markdown&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;L’énorme avantage : un humain peut le lire sans avoir le sentiment de lire du code (utile pour les parties prenantes non techniques d’un projet), mais en plus votre IDE ou GitHub peuvent l’afficher comme une page HTML bien présentée.
+Très pratique pour mettre à disposition du public votre documentation.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -497,6 +770,27 @@ Mais nous sommes allés plus loin, en proposant un projet sur le long terme à u
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Avant le grand saut dans la vie active en passant par le stage de fin d’études, les étudiants doivent se confronter au monde de l’entreprise au travers d’un projet de 5 mois.
 Entre le projet scolaire et le projet réel, il s’agit là de mettre en pratique les connaissances acquises, mais aussi de découvrir les « vraies » méthodes de travail de l’entreprise.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; style=&#34;max-width: 100%; height: auto;&#34;
+            sizes=&#34;(min-width: 35em) 720px, 100vw&#34;
+            srcset=&#34;https://alainnicolas.fr/fr/blog/blockchain-projet-scolaire-monde-entreprise/bc_epf_salle_3_hu_e274d799b9a4013a.webp 500w, https://alainnicolas.fr/fr/blog/blockchain-projet-scolaire-monde-entreprise/bc_epf_salle_3_hu_12f4aa044ca4ee2d.webp 800w, https://alainnicolas.fr/fr/blog/blockchain-projet-scolaire-monde-entreprise/bc_epf_salle_3_hu_6a91e19ef8938e7a.webp 1200w&#34;
+            src=&#34;https://alainnicolas.fr/fr/blog/blockchain-projet-scolaire-monde-entreprise/bc_epf_salle_3_hu_6a91e19ef8938e7a.webp&#34;
+            width=&#34;1600&#34;
+            height=&#34;900&#34;
+            alt=&#34;Promo 2020 dans sa salle @ Talan — 16/10/2019&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;Promo 2020 dans sa salle @ Talan — 16/10/2019&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Évidemment, ces attentes pédagogiques ne pouvaient que nous intéresser, puisque cela nous permet de nous frotter nous-mêmes aux problématiques soulevées par un projet blockchain tel que nous n’avons pas toujours le temps de mettre en place le reste du temps.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Pour cela, il nous fallait nous éloigner d’un projet trop scolaire, autrement dit « jetable », pour nous concentrer sur un sujet à même de mobiliser aussi bien nos équipes que les étudiants.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -543,6 +837,38 @@ Nous allons désormais tâcher d’explorer les limites de Corda.&lt;/p&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;À question directe …​ réponse directe : non.
 &lt;strong&gt;Corda n’est pas une blockchain.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Ok, mais, pourquoi ?
+Tout simplement parce que le registre Corda n’est pas stocké sous forme de blocs, donc pas de chaîne de blocs possible.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Mais alors, si ce n’est pas une blockchain, ce n’est pas intéressant ?
+C’est beaucoup plus compliqué que ça…​&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Certes, ces deux dernières années, le mot ‘blockchain’ fait le buzz, y compris dans les médias généralistes, notamment suite à l’envol de la valeur de certaines crypto-monnaies.
+Pour autant, pour l’immense majorité des entreprises et tout particulièrement des banques, tout ce qui touche aux crypto-monnaies est bien loin de leurs intérêts premiers, et on parle plus volontiers de DLT (&lt;strong&gt;Distributed Ledger Technologies&lt;/strong&gt;).
+Les DLT forment un ensemble de technologies qui englobent les blockchains, bien plus large que simplement Bitcoin ou Ethereum.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Pour autant, la communication autour de Corda, principalement par le consortium R3, a entretenu un certain flou sur la question depuis les origines.
+Et ce flou perdure !
+Lorsque l’on se rend sur le &lt;a href=&#34;https://www.corda.net/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;site officiel de Corda&lt;/a&gt;, la baseline du logo est claire :&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+        &lt;img loading=&#34;lazy&#34; fetchpriority=&#34;auto&#34; decoding=&#34;async&#34; src=&#34;https://alainnicolas.fr/fr/blog/r3-corda-limites/corda_limites_blockchain.png&#34; style=&#34;max-width: 100%; height: auto;&#34; width=&#34;830&#34; height=&#34;388&#34; alt=&#34;Capture d’écran du site corda.net&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;Capture d’écran du site corda.net&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Pour autant, la polémique ne date pas d’hier, puisque déjà en 2017 R3 publiait &lt;a href=&#34;https://www.r3.com/blog/when-is-blockchain-not-a-blockchain/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;un post&lt;/a&gt; sur son blog pour expliquer que le problème est plus de l’ordre de la sémantique que de l’architecture.
+Il semblerait donc que le terme de ‘blockchain’ soit ici utilisé comme un raccourci pour ‘DLT’, avec une composante marketing indéniable. #buzzword&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -574,6 +900,49 @@ Nous allons commencer par détailler ces problématiques.&lt;/p&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Les blockchains classiques telles qu’Ethereum proposent un registre complet distribué entre tous les participants (les ‘nœuds’).
 Or, pour des raisons de compétition voire de régulation, il est difficilement envisageable de donner accès à toutes les transactions réalisées par une entreprise à ses concurrents directs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_risque_de_non_finalité&#34;&gt;Risque de non-finalité&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;R3 considère que le protocole PoW (&lt;em&gt;Proof of Work&lt;/em&gt;) utilisé par Bitcoin ne répond pas au besoin de ‘finalité’ requis par les entreprises.
+En effet, pour entériner une transaction dans le registre, il faut attendre le travail des mineurs, et même si la transaction est ajoutée à un bloc, rien ne permet de s’assurer définitivement qu’un fork n’aura pas lieu.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_pseudonymat_des_participants&#34;&gt;Pseudonymat des participants&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Si l’inscription sur un réseau tel qu’Ethereum est très facile, par exemple en créant son portefeuille via &lt;a href=&#34;https://www.myetherwallet.com&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;MyEtherWallet&lt;/a&gt;, à aucun moment dans le processus il n’est demandé de fournir son identité.
+Alors, anonymat complet ?
+Non, pas complètement.
+À travers des pratiques de crawling on peut assez aisément relier de nombreuses adresses de portefeuilles à des individus précis.
+On parle de ‘pseudonymat’.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Lorsque l’on parle d’échanges entre des entreprises, il est évident qu’elles doivent savoir à tout moment à qui elles ont affaire.
+Plutôt que de masquer l’identité des participants, il faut bien au contraire identifier fortement les entités qui traitent sur le réseau.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_faible_scalabilité&#34;&gt;Faible scalabilité&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;On recense plusieurs milliards de transactions de type ‘paiement’ dans le monde chaque jour.
+À l’inverse, Bitcoin ne traite qu’environ 300 000 transactions dans une journée.
+Pour qu’un système actuel puisse être remplacé par un système blockchain, il faut que ce dernier puisse absorber autant de transactions.
+Ce critère est d’autant plus important en entreprise que la rapidité de transfert est parfois indispensable (par opposition de la moyenne actuelle de 19 secondes par bloc sur Ethereum).&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_faible_productivité_et_lenteur_dintégration&#34;&gt;Faible productivité et lenteur d’intégration&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Si les technologies et langages exotiques comme Solidity (pour Ethereum) sont loin de rebuter les startups, il est clair qu’un grand compte (une grande banque, un assureur, etc.) aura plus de mal à accepter l’ajout d’une brique d’un nouveau format dans son système d’information.
+De plus, il est aujourd’hui plus facile de recruter des développeurs Java que Solidity…​&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Pénurie des talents et standardisation du SI poussent les entreprises à privilégier des technologies déjà éprouvées plutôt que les nouveautés encore mal maîtrisées voire interdites par les experts de la sécurité.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -591,6 +960,11 @@ Au programme : 2 présentations pour une soirée bien remplie !&lt;/p&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;&lt;strong&gt;Jean-René Krasucki&lt;/strong&gt; et &lt;strong&gt;Thibault Verbiest&lt;/strong&gt; présentaient leur création : une application permettant d’acheter des livres en Ether, mais aussi en une vingtaine de tokens ERC20.&lt;br/&gt;
 Partant du principe que le milieu de l’édition a tout d’une &amp;#34;boîte noire&amp;#34;, ils ont créé une ÐApp qui rend transparente la répartition du prix d’achat d’un livre entre les différents acteurs (éditeurs, auteur, ayant-droits, illustrateurs, etc.).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Les premières ventes vont bientôt avoir lieu, rendez-vous sur &lt;a href=&#34;https://web.archive.org/web/20210619203753/http://cryptobooks.club/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;CryptoBooks.club&lt;/a&gt; !&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -608,6 +982,21 @@ L’Asseth est une association organisant notamment des meetups, connus comme é
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;50 blockchainers ont fait le déplacement pour profiter de la présence de Philippe Honigman et Nicolas Danjean, fondateurs de la startup Tribute.
 Tribute a pour but d’aider les organisations au sens large (associations, entreprises, etc.) à développer leur réseau de contributeurs, notamment via des systèmes de récompenses et d’incentives.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;&lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; style=&#34;max-width: 100%; height: auto;&#34;
+            sizes=&#34;(min-width: 35em) 720px, 100vw&#34;
+            
+            src=&#34;https://alainnicolas.fr/fr/blog/meetup-lasseth-recoit-tribute/tribute_logo.jpg&#34;
+            width=&#34;400&#34;
+            height=&#34;400&#34;
+            alt=&#34;Logo Tribute&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -636,6 +1025,8 @@ Il s’agit de l’un des &lt;strong&gt;rassemblements les plus importants autou
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Plus de 70 &lt;strong&gt;« blockchainers »&lt;/strong&gt; se sont déplacés pour profiter de la présence d’Aron Fischer, core dev Ethereum.
 Docteur en mathématiques (université de New York), Aron Fischer contribue à Casper et surtout à Swarm, le système de partage de fichiers décentralisé de la fondation Ethereum.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -676,6 +1067,16 @@ En quelque sorte, une empreinte de la donnée d’entrée.
 Le calcul de cette empreinte est à sens unique : il est possible de calculer l’empreinte d’une donnée, mais pas de retrouver la donnée depuis l’empreinte.
 Cela signifie donc qu’il est impossible de revenir en arrière une fois la donnée hachée.
 De plus, une fonction de hachage doit assigner UNE empreinte unique : 2 données d’entrée ne peuvent pas avoir la même empreinte.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;C’est ainsi qu’un message « haché » par SHA-1 change radicalement de signature, même avec une modification mineure.
+Par exemple le mot &amp;#34;TalanLabs&amp;#34; devient &lt;code&gt;499dfc6db8ca1f785724cd88ffef5f471e874156&lt;/code&gt; une fois « haché ».
+En revanche, &amp;#34;Talanlabs&amp;#34; devient &lt;code&gt;25f51e7cbd92b575adf321cc3b149e76d48e2431&lt;/code&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;SHA-1 a été conçue par la puissante NSA, autrement dit l’agence nationale de la sécurité des États-Unis, en remplacement de SHA-0 (sortie en 1993) qui était compromise.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -692,6 +1093,30 @@ Globalement, elles apportent une meilleure expérience pour l’utilisateur, rar
 &lt;div class=&#34;sectionbody&#34;&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Le système de mise à jour a lui aussi été modifié avec le passage à Windows 10, puisqu’il est désormais plus contrôlable par l’utilisateur (les mises à jour se font d’elles-mêmes).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Et c’est désormais officiel, Microsoft a intégré la publicité au sein de son explorateur de fichiers.
+Autrement dit, lorsque vous naviguez dans le contenu de votre PC, vous pouvez rencontrer de la publicité.
+Actuellement centrée sur l’outil OneDrive (stockage dans le cloud développé par Microsoft), nous pouvons craindre que cette fonctionnalité intéresse très vite les agences publicitaires, en leur offrant un nouveau terrain de jeu.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+        &lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; src=&#34;https://alainnicolas.fr/fr/blog/windows-10-publicite-explorateur/windows10.png&#34; style=&#34;max-width: 100%; height: auto;&#34; width=&#34;1024&#34; height=&#34;576&#34; alt=&#34;Publicité dans l&amp;#39;explorateur de fichiers Windows&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;Publicité dans l&amp;#39;explorateur de fichiers Windows&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Alors, pour ou contre la publicité au sein même de votre ordinateur ?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;La question ne se pose pas trop, disons-le !
+Un ordinateur coûte cher, un système d’exploitation comme Windows aussi.
+Nul doute que dans un contexte professionnel il est difficile d’imaginer des publicités intrusives à ce point.
+Et quid des lois définissant l’abus de position dominante ?&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -747,6 +1172,15 @@ Globalement, elles apportent une meilleure expérience pour l’utilisateur, rar
 &lt;div class=&#34;sectionbody&#34;&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Présenté par &lt;a href=&#34;https://www.linkedin.com/in/marc-wabnitz-0135ba24/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Marc Wabnitz&lt;/a&gt;, UX designer chez Talan Labs, ce talk présentait 7 idées reçues autour de l’expérience utilisateur.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;On dit souvent que les utilisateurs ne lisent pas ce qui est écrit sur une page web, mais c’est faux.
+De la même manière, on a tendance à croire qu’en copiant les géants du web comme Facebook ou Google, un site sera réussi, mais il n’en est rien.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;En 7 points bien ciblés, Marc a su nous convaincre d’aller plus loin que certains lieux communs trop souvent associés à l’UX.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -806,6 +1240,14 @@ Et puis l’an dernier, tout a changé…​&lt;/p&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Les annonces autour de la nouvelle version majeure d’AngularJS, désormais appelée Angular 2, surprennent.
+C’est en fait un nouveau framework qui se profile, une nouvelle approche, une nouvelle manière de penser.
+Et évidemment cette nouvelle version n’est pas rétro-compatible avec la précédente…​ Nous n’entrerons pas ici dans les détails qui ont poussé l’équipe a totalement ré-écrire le framework, mais une chose est sûre, un projet en AngularJS n’est pas directement transposable en Angular 2 sans un effort de développement, voire parfois une remise à zéro du projet.
+Ce qui n’est pas sans poser des problèmes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -829,6 +1271,21 @@ Au terme d’une saga résumée &lt;a href=&#34;https://alainnicolas.fr/fr/blog/
 L’entreprise californienne est passée par un sondage pour mieux comprendre ses utilisateurs, mais aussi pour valider les choix déjà faits.
 Après 2 mois, ce sont 1693 personnes qui ont soumis leurs réponses.
 Il est intéressant de noter que la France semble ne pas avoir beaucoup répondu au formulaire comme l’illustre la carte de l’Europe des réponses fournie par Oracle dans son rapport exhaustif…​&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+        &lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; src=&#34;https://alainnicolas.fr/fr/blog/resultats-sondage-java-ee/sondage_europe.png&#34; style=&#34;max-width: 100%; height: auto;&#34; width=&#34;1200&#34; height=&#34;602&#34; alt=&#34;Réponses au sondage en Europe&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;Réponses au sondage en Europe&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;De manière à mieux décrire les participants au sondage, Oracle y fait figurer leurs années d’expérience.
+Et avec près de 50 % des sondés ayant plus de 8 ans d’expérience en Java EE, nous pouvons raisonnablement considérer que ceux-ci possèdent le recul nécessaire à une bonne maîtrise de l’environnement.
+De plus, avec plus de la moitié des participants ayant déjà développé des micro-services, le sondage reflète la réalité du travail des développeurs de l’écosystème Java actuel.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -853,6 +1310,26 @@ C’est ainsi que je vous propose aujourd’hui de découvrir un meetup, les &lt
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;C’est avant tout un événement de réseautage, autour d’un intérêt commun.
+Il en existe dans tous les domaines, comme le sport, les langues ou l’engagement politique, dans le monde entier.
+En effet, le site &lt;a href=&#34;https://www.meetup.com/fr-FR/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Meetup.com&lt;/a&gt;, qui fait office de référence mondiale, recense plus de 23 millions d’utilisateurs dans 180 pays.
+Quels que soient vos centres d’intérêt, vous êtes obligés de trouver votre bonheur parmi leurs plus de 200 000 groupes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Événements incontournables au sein des communautés de développeurs, les meetups permettent de rencontrer ses pairs, de lier de nouvelles relations, mais aussi de découvrir des nouvelles technologies, voire des domaines jusqu’alors inconnus.
+Bref, les meetups ouvrent l’esprit et étendent notre champ de réflexion, facilitant une veille technologique pas toujours aisée avec un emploi à plein temps.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+        &lt;img loading=&#34;lazy&#34; fetchpriority=&#34;auto&#34; decoding=&#34;async&#34; src=&#34;https://alainnicolas.fr/fr/blog/presentation-meetup-human-talks/meetup_logo_humantalks.png&#34; style=&#34;max-width: 100%; height: auto;&#34; width=&#34;720&#34; height=&#34;400&#34; alt=&#34;Logo HumanTalks&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -873,6 +1350,26 @@ Mais dans le vaste monde du Java, une toute autre série aux multiples rebondiss
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;L’entreprise Sun est fondée en 1982, et lance Java en 1995. Un programme en Java peut s’exécuter tel quel (ou presque) sur toutes les plateformes (Windows, UNIX, etc.), est plus sécurisé qu’en C++, adapté à la programmation distribuée, supporte le multi-threading, etc.
 Très vite, Java prend son essor, pour toutes ses caractéristiques, révolutionnaires pour l’époque.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+        &lt;img loading=&#34;eager&#34; fetchpriority=&#34;high&#34; decoding=&#34;async&#34; src=&#34;https://alainnicolas.fr/fr/blog/java-ee-nouvelle-orientation-bonne-nouvelle/jee_logo.png&#34; style=&#34;max-width: 100%; height: auto;&#34; width=&#34;647&#34; height=&#34;276&#34; alt=&#34;Logo Java EE&#34;&gt;&lt;figcaption&gt;
+        &lt;small&gt;Logo Java EE&lt;/small&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;La spécification de Java, ‘orientée entreprise’, J2EE 1.2, sort en 1999 et continue d’évoluer jusqu’à la version Java EE 7 publiée en 2013. Mais entre temps, Oracle a racheté Sun.
+Pour rappel, Oracle c’est 110 milliards de chiffre d’affaires, et des produits ultra-répandus comme Oracle Database ou Weblogic.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Les craintes de la communauté Open Source sont vite confirmées, Oracle abandonnant par exemple le développement d’OpenSolaris (un système d’exploitation de Sun).
+L’open n’est pas la priorité d’Oracle, et l’on commence à craindre pour Java.
+Le procès intenté par Oracle à Google pour son utilisation de Java dans Android laisse à penser que le monde du Java va se refermer sur lui-même et que sa communauté va se réduire.
+En mai 2016, la Cour Suprême des États-Unis se prononce en faveur de Google, jugeant que son utilisation de Java est licite.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
