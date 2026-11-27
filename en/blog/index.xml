@@ -3,10 +3,43 @@
   <channel>
     <title>Alain Nicolas</title>
     <link>https://alainnicolas.fr/en/blog/</link>
-    <description>As a Fullstack Blockchain Developer at Consensys, I want to maximize the quality of the code of my projects in order to always deliver value.</description>
+    <description>Alain Nicolas, Fullstack Tech Lead on the Lineth team at Consensys. Linea and Verax projects, privacy on Ethereum, and AI in software engineering.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 16:41:19 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 22:41:54 +0100</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to verify a Verax attestation on Linea</title>
+      <link>https://alainnicolas.fr/en/blog/verify-verax-attestation-linea/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0100</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/verify-verax-attestation-linea/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;A Verax attestation records a claim about a subject onchain. To use that claim in an application, check who issued it, what its schema means, which subject it covers, and whether it is still valid. The same checks apply to Proof of Humanity and Proof of Audit. The rules for accepting each claim are different.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_what_to_verify_in_the_registry&#34;&gt;What to verify in the registry&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;olist arabic&#34;&gt;
+&lt;ol class=&#34;arabic&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Network and registry.&lt;/strong&gt; Use the registry for the chain on which the attestation was issued. Resolve the attestation ID in that registry. Verax publishes &lt;a href=&#34;https://docs.ver.ax/developer-guides/networks-and-addresses&#34;&gt;contract addresses for its supported networks&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Issuer and portal.&lt;/strong&gt; Check &lt;code&gt;attester&lt;/code&gt; and &lt;code&gt;portal&lt;/code&gt; against the addresses your application trusts for this use case. A portal can apply its own validation modules. A registered schema alone says nothing about who may issue a claim that your application should accept.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Schema and subject.&lt;/strong&gt; Match &lt;code&gt;schemaId&lt;/code&gt; before decoding &lt;code&gt;attestationData&lt;/code&gt;. Interpret &lt;code&gt;subject&lt;/code&gt; with the encoding defined by the integration. It is a byte string and can identify a wallet, a contract, or another attestation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Current status.&lt;/strong&gt; Reject a revoked or expired attestation. A zero &lt;code&gt;expirationDate&lt;/code&gt; means there is no expiry. If &lt;code&gt;replacedBy&lt;/code&gt; is set, resolve the new record and apply the same checks before accepting it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Read the contract state when your decision depends on whether an attestation is valid now. Use the explorer or subgraph to find records. For reproducible checks, record the chain ID, the block number, and the attestation ID. See the &lt;a href=&#34;https://docs.ver.ax/core-concepts/attestations&#34;&gt;Verax attestation data model&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>When security fails because maintenance did</title>
       <link>https://alainnicolas.fr/en/blog/when-security-fails-because-maintenance-did/</link>

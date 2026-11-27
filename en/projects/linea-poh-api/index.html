@@ -4,11 +4,12 @@
 
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0"/>
-    <meta name="description" content="Privacy-preserving human identity verification infrastructure: multi-tier API, Sybil resistance, and EIP-712 signatures for smart contracts.">
-    <meta name="author" content="Alain Nicolas"><meta name="robots" content="index,follow,max-image-preview:large">
+    <meta name="description" content="Engineering case study of Linea Proof of Humanity: the original multi-provider API, Verax attestations, EIP-712 signing, and the move to PoH V2.">
+    <meta name="author" content="Alain Nicolas">
+    <meta name="robots" content="index,follow,max-image-preview:large">
     <meta name="theme-color" content="#0071db">
     <meta property="og:title" content="Linea Proof-of-Humanity API | Project | Alain Nicolas" />
-<meta property="og:description" content="Privacy-preserving human identity verification infrastructure: multi-tier API, Sybil resistance, and EIP-712 signatures for smart contracts." />
+<meta property="og:description" content="Engineering case study of Linea Proof of Humanity: the original multi-provider API, Verax attestations, EIP-712 signing, and the move to PoH V2." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://alainnicolas.fr/en/projects/linea-poh-api/" /><meta property="og:image" content="https://alainnicolas.fr/fr/projects/linea-poh-api/cover_hu_ca8b6b754f7d88a9.jpg"/>
 <meta property="og:image:secure_url" content="https://alainnicolas.fr/fr/projects/linea-poh-api/cover_hu_ca8b6b754f7d88a9.jpg"/>
@@ -17,7 +18,7 @@
 <meta property="og:image:width" content="1200"/>
 <meta property="og:image:height" content="630"/><meta property="article:section" content="projects" />
 <meta property="article:published_time" content="2025-06-01T00:00:00+00:00" />
-<meta property="article:modified_time" content="2026-08-18T23:27:55+02:00" />
+<meta property="article:modified_time" content="2026-11-27T22:40:04+01:00" />
 <meta property="og:locale" content="en" />
 <meta property="og:locale:alternate" content="fr" />
 <meta property="og:site_name" content="Alain Nicolas" />
@@ -27,10 +28,10 @@
 <meta name="twitter:image:alt" content="Linea Proof-of-Humanity API"/>
 
 <meta name="twitter:title" content="Linea Proof-of-Humanity API | Project | Alain Nicolas" />
-<meta name="twitter:description" content="Privacy-preserving human identity verification infrastructure: multi-tier API, Sybil resistance, and EIP-712 signatures for smart contracts."/><meta name="twitter:site" content="@Alain_Ncls"/>
+<meta name="twitter:description" content="Engineering case study of Linea Proof of Humanity: the original multi-provider API, Verax attestations, EIP-712 signing, and the move to PoH V2."/><meta name="twitter:site" content="@Alain_Ncls"/>
 <meta name="twitter:creator" content="@Alain_Ncls"/>
     <link rel="alternate" hreflang="fr" href="https://alainnicolas.fr/fr/projects/linea-poh-api/"><link rel="alternate" hreflang="en" href="https://alainnicolas.fr/en/projects/linea-poh-api/"><link rel="alternate" hreflang="x-default" href="https://alainnicolas.fr/fr/projects/linea-poh-api/">
-    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@id":"https://alainnicolas.fr/en/#person","@type":"Person","email":"mailto:alain.nicolas.epf@gmail.com","homeLocation":"Paris","image":"https://alainnicolas.fr/profile.webp","jobTitle":"Fullstack Blockchain Developer","name":"Alain Nicolas","sameAs":["https://www.linkedin.com/in/alainnicolas/","https://github.com/alainncls","https://x.com/Alain_Ncls"],"url":"https://alainnicolas.fr/en/"},{"@id":"https://alainnicolas.fr/en/#website","@type":"WebSite","description":"As a Fullstack Blockchain Developer at Consensys, I want to maximize the quality of the code of my projects in order to always deliver value.","inLanguage":"en","name":"Alain Nicolas","publisher":{"@id":"https://alainnicolas.fr/en/#person"},"url":"https://alainnicolas.fr/en/"},{"@id":"https://alainnicolas.fr/en/projects/linea-poh-api/#webpage","@type":"WebPage","description":"Privacy-preserving human identity verification infrastructure: multi-tier API, Sybil resistance, and EIP-712 signatures for smart contracts.","inLanguage":"en","isPartOf":{"@id":"https://alainnicolas.fr/en/#website"},"name":"Linea Proof-of-Humanity API | Project | Alain Nicolas","url":"https://alainnicolas.fr/en/projects/linea-poh-api/"},{"@id":"https://alainnicolas.fr/en/projects/linea-poh-api/#breadcrumb","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":"https://alainnicolas.fr/en/","name":"Alain Nicolas","position":1},{"@type":"ListItem","item":"https://alainnicolas.fr/en/projects/","name":"Projects","position":2},{"@type":"ListItem","name":"Linea Proof-of-Humanity API","position":3}]},{"@id":"https://alainnicolas.fr/en/projects/linea-poh-api/#project","@type":"CreativeWork","author":{"@id":"https://alainnicolas.fr/en/#person"},"dateModified":"2026-08-18T23:27:55+02:00","datePublished":"2025-06-01T00:00:00Z","description":"Privacy-preserving human identity verification infrastructure: multi-tier API, Sybil resistance, and EIP-712 signatures for smart contracts.","headline":"Linea Proof-of-Humanity API","image":["https://alainnicolas.fr/fr/projects/linea-poh-api/cover_hu_ca8b6b754f7d88a9.jpg"],"inLanguage":"en","mainEntityOfPage":{"@id":"https://alainnicolas.fr/en/projects/linea-poh-api/#webpage"},"sameAs":"https://docs.linea.build/network/how-to/verify-users-with-proof-of-humanity","url":"https://alainnicolas.fr/en/projects/linea-poh-api/"}]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@id":"https://alainnicolas.fr/fr/#person","@type":"Person","email":"mailto:alain.nicolas.epf@gmail.com","homeLocation":"Paris","image":"https://alainnicolas.fr/profile.webp","jobTitle":"Fullstack Tech Lead","name":"Alain Nicolas","sameAs":["https://www.linkedin.com/in/alainnicolas/","https://github.com/alainncls","https://x.com/Alain_Ncls"],"url":"https://alainnicolas.fr/fr/"},{"@id":"https://alainnicolas.fr/#website","@type":"WebSite","inLanguage":["fr","en"],"name":"Alain Nicolas","publisher":{"@id":"https://alainnicolas.fr/fr/#person"},"url":"https://alainnicolas.fr/"},{"@id":"https://alainnicolas.fr/en/projects/linea-poh-api/#webpage","@type":"WebPage","breadcrumb":{"@id":"https://alainnicolas.fr/en/projects/linea-poh-api/#breadcrumb"},"description":"Engineering case study of Linea Proof of Humanity: the original multi-provider API, Verax attestations, EIP-712 signing, and the move to PoH V2.","inLanguage":"en","isPartOf":{"@id":"https://alainnicolas.fr/#website"},"name":"Linea Proof-of-Humanity API | Project | Alain Nicolas","url":"https://alainnicolas.fr/en/projects/linea-poh-api/"},{"@id":"https://alainnicolas.fr/en/projects/linea-poh-api/#breadcrumb","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":"https://alainnicolas.fr/en/","name":"Alain Nicolas","position":1},{"@type":"ListItem","item":"https://alainnicolas.fr/en/projects/","name":"Projects","position":2},{"@type":"ListItem","name":"Linea Proof-of-Humanity API","position":3}]},{"@id":"https://alainnicolas.fr/en/projects/linea-poh-api/#project","@type":"CreativeWork","author":{"@id":"https://alainnicolas.fr/fr/#person"},"dateModified":"2026-11-27T22:40:04+01:00","datePublished":"2025-06-01T00:00:00Z","description":"Engineering case study of Linea Proof of Humanity: the original multi-provider API, Verax attestations, EIP-712 signing, and the move to PoH V2.","headline":"Linea Proof-of-Humanity API","image":["https://alainnicolas.fr/fr/projects/linea-poh-api/cover_hu_ca8b6b754f7d88a9.jpg"],"inLanguage":"en","mainEntityOfPage":{"@id":"https://alainnicolas.fr/en/projects/linea-poh-api/#webpage"},"sameAs":"https://docs.linea.build/network/how-to/verify-users-with-proof-of-humanity","url":"https://alainnicolas.fr/en/projects/linea-poh-api/"}]}</script>
 
 
     
@@ -349,20 +350,23 @@
         
         
         
-        <div class="sect1">
-<h2 id="_project_context">Project Context</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>Sybil attacks represent one of Web3’s major challenges: how do you ensure that an address corresponds to a unique human and not a bot or multiple accounts controlled by the same person?</p>
+        <div class="paragraph">
+<p>Linea Proof of Humanity (PoH) lets applications check whether an Ethereum address meets Linea’s proof-of-personhood criteria. This case study covers the original multi-provider design, based on the <a href="/en/projects/verax-attestation-registry/">Verax registry</a> and EIP-712 signatures for smart contract verification.</p>
 </div>
-<div class="paragraph">
-<p><strong>Linea Proof-of-Humanity (PoH)</strong> is an infrastructure for verifying that an Ethereum address belongs to a verified human user while preserving their privacy.
-The system relies on the Verax attestation protocol and offers onchain integration via EIP-712 signatures.</p>
-</div>
-</div>
+<div class="admonitionblock note">
+<table>
+<tbody><tr>
+<td class="icon">
+<div class="title">Note</div>
+</td>
+<td class="content">
+Linea retired the multi-provider model. PoH V2 uses a single Sumsub attestation in Verax. For current endpoints and the verifier contract, see the <a href="https://docs.linea.build/network/how-to/verify-users-with-proof-of-humanity">official Linea integration guide</a>.
+</td>
+</tr>
+</tbody></table>
 </div>
 <div class="sect1">
-<h2 id="_system_architecture">System Architecture</h2>
+<h2 id="_original_architecture">Original Architecture</h2>
 <div class="sectionbody">
 <div class="paragraph">
 <p>The PoH infrastructure consists of two main APIs:</p>
@@ -375,7 +379,7 @@ The system relies on the Verax attestation protocol and offers onchain integrati
 <div class="sect3">
 <h4 id="_tier_system">Tier System</h4>
 <div class="paragraph">
-<p>PoH status is calculated using a tiered system:</p>
+<p>PoH V1 used a tiered system:</p>
 </div>
 <div class="ulist">
 <ul>
@@ -402,7 +406,7 @@ The system relies on the Verax attestation protocol and offers onchain integrati
 </div>
 </div>
 <div class="sect3">
-<h4 id="_main_endpoints">Main Endpoints</h4>
+<h4 id="_api_endpoints_during_the_transition">API Endpoints During the Transition</h4>
 <div class="listingblock">
 <div class="content">
 <pre class="highlight"><code>GET /poh/:address     # v1 verification (multi-issuer)
@@ -437,7 +441,7 @@ POST /poh/batch       # Batch verification</code></pre>
 <p>If verified, an EIP-712 signature is generated</p>
 </li>
 <li>
-<p>The signature can be submitted to any smart contract</p>
+<p>The user submits the signature to a compatible smart contract</p>
 </li>
 </ol>
 </div>
@@ -459,10 +463,10 @@ POST /poh/batch       # Batch verification</code></pre>
 </div>
 </div>
 <div class="sect1">
-<h2 id="_onchain_integration">onchain Integration</h2>
+<h2 id="_onchain_integration">Onchain Integration</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>Smart contracts can verify PoH status in a trustless manner.</p>
+<p>A smart contract can validate the EIP-712 signature onchain against a trusted signer. The signature authenticates the signer’s claim about an address’s PoH status.</p>
 </div>
 </div>
 </div>
@@ -541,24 +545,9 @@ POST /poh/batch       # Batch verification</code></pre>
 <p><a href="https://linea.build/hub?action=profil/">PoH Portal</a></p>
 </li>
 <li>
-<p><a href="https://docs.linea.build/get-started/how-to/verify-users-with-proof-of-humanity">PoH Documentation</a></p>
-</li>
-<li>
-<p><a href="https://docs.linea.build/network/how-to/verify-users-with-proof-of-humanity">Proof of Humanity guide on Linea</a></p>
+<p><a href="https://docs.linea.build/network/how-to/verify-users-with-proof-of-humanity">Linea PoH V2 integration guide</a></p>
 </li>
 </ul>
-</div>
-<div class="admonitionblock note">
-<table>
-<tbody><tr>
-<td class="icon">
-<div class="title">Note</div>
-</td>
-<td class="content">
-Linea PoH represents a cornerstone of Linea’s identity infrastructure, enabling the building of Sybil-resistant Web3 applications while respecting user privacy.
-</td>
-</tr>
-</tbody></table>
 </div>
 </div>
 </div>

@@ -4,7 +4,7 @@
 
 Use this skill to read, summarize, cite, and navigate the portfolio and technical blog at `https://alainnicolas.fr`.
 
-The site covers Alain Nicolas's work as a Fullstack Blockchain Developer, with emphasis on Linea, Verax, onchain attestations, smart contract tooling, web applications, AI-assisted engineering, security, and software maintenance.
+Alain Nicolas is a Fullstack Tech Lead on the Lineth team at Consensys. He focuses on AI and privacy in the Linea institutional stack and also serves as Head of AI. The portfolio includes case studies on Linea, Verax, onchain attestations, and smart contract tooling.
 
 ## When to Use It
 

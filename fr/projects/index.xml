@@ -3,9 +3,9 @@
   <channel>
     <title>Alain Nicolas</title>
     <link>https://alainnicolas.fr/fr/projects/</link>
-    <description>En tant que Développeur Blockchain Fullstack, je souhaite maximiser la qualité du code de mes projets afin de toujours livrer de la valeur.</description>
+    <description>Alain Nicolas, Tech Lead Fullstack chez Consensys dans l’équipe Lineth. Projets Linea et Verax, confidentialité sur Ethereum et IA appliquée au développement.</description>
     <language>fr</language>
-    <lastBuildDate>Sun, 22 Nov 2026 16:41:18 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 22:41:53 +0100</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/fr/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linea Developer Hub</title>
@@ -349,17 +349,20 @@ Comment lier vos identités sociales à votre wallet sans dépendre d’une auto
       <link>https://alainnicolas.fr/fr/projects/linea-poh-api/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/linea-poh-api/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;
-&lt;h2 id=&#34;_contexte_du_projet&#34;&gt;Contexte du projet&lt;/h2&gt;
-&lt;div class=&#34;sectionbody&#34;&gt;
-&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Les attaques Sybil représentent l’un des défis majeurs du Web3 : comment s’assurer qu’une adresse correspond à un humain unique et non à un bot ou à de multiples comptes contrôlés par la même personne ?&lt;/p&gt;
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Linea Proof of Humanity (PoH) permet aux applications de vérifier si une adresse Ethereum satisfait les critères de preuve d’humanité de Linea. Cette étude présente l’architecture historique à plusieurs fournisseurs, fondée sur le &lt;a href=&#34;https://alainnicolas.fr/fr/projects/verax-attestation-registry/&#34;&gt;registre Verax&lt;/a&gt; et les signatures EIP-712 pour la vérification dans les smart contracts.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;&lt;strong&gt;Linea Proof-of-Humanity (PoH)&lt;/strong&gt; est une infrastructure permettant de vérifier qu’une adresse Ethereum appartient à un utilisateur humain vérifié, tout en préservant sa vie privée.
-Le système s’appuie sur le protocole d’attestations Verax et offre une intégration onchain via des signatures EIP-712.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+&lt;div class=&#34;admonitionblock note&#34;&gt;
+&lt;table&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td class=&#34;icon&#34;&gt;
+&lt;div class=&#34;title&#34;&gt;Note&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&#34;content&#34;&gt;
+Linea a retiré le modèle multi-fournisseurs. PoH V2 utilise une seule attestation Sumsub dans Verax. Les endpoints actuels et le contrat de vérification figurent dans le &lt;a href=&#34;https://docs.linea.build/network/how-to/verify-users-with-proof-of-humanity&#34;&gt;guide d’intégration officiel de Linea&lt;/a&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -375,7 +378,7 @@ Le système s’appuie sur le protocole d’attestations Verax et offre une int�
 Les rapports PDF peuvent être falsifiés, les badges sur les sites web facilement copiés, et aucun standard ne permet de vérifier ces claims de manière indépendante.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;&lt;strong&gt;Proof of Audit&lt;/strong&gt; transforme les audits traditionnels en preuves cryptographiques vérifiables, stockées de manière permanente sur la blockchain via le protocole &lt;a href=&#34;https://www.ver.ax/&#34;&gt;Verax&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Proof of Audit&lt;/strong&gt; utilise le &lt;a href=&#34;https://alainnicolas.fr/fr/projects/verax-attestation-registry/&#34;&gt;registre Verax&lt;/a&gt; pour enregistrer une attestation d’audit onchain. Elle relie l’adresse Ethereum de l’auditeur, le dépôt GitHub, le hash du commit audité et l’adresse du contrat déployé. Les utilisateurs peuvent vérifier qui a émis l’attestation et quelle version du code elle couvre.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
@@ -485,21 +488,10 @@ En effet, il s’agit de vérifier qu’ils respectent les règles de sécurité
       <link>https://alainnicolas.fr/fr/projects/verax-attestation-registry/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/fr/projects/verax-attestation-registry/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;
-&lt;h2 id=&#34;_le_contexte&#34;&gt;Le contexte&lt;/h2&gt;
-&lt;div class=&#34;sectionbody&#34;&gt;
-&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Le premier événement du &amp;#34;Linea Voyage&amp;#34;, une quête où les participants devaient découvrir l’écosystème des applications et protocoles déployés sur Linea a rencontré un engouement majeur.
-À cela s’ajoute l’éventualité d’un airdrop sur ce même réseau.
-De manière quasiment automatique, ces circonstances ont entraîné l’apparition de &amp;#34;sybils&amp;#34;, autrement dit de multiples comptes Ethereum possédés par une seule personne, dans le but de maximiser son exposition à un potentiel airdrop.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Afin de garantir une forme d’équité dans la répartition des récompenses (uniquement des NFTs jusque-là), Linea a souhaité mettre en place un système permettant de limiter la participation à un seul compte par personne, autant que possible.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;D’un cas d’usage assez simple, de très nombreuses fonctionnalités ont été imaginées, jusqu’à donner naissance au &amp;#34;Linea Attestation Registry&amp;#34;, très vite nommé &amp;#34;Verax&amp;#34;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Verax est un registre public d’attestations pour les chaînes EVM. Les applications y publient des déclarations que d’autres applications peuvent lire et réutiliser.
+Sur Linea, l’&lt;a href=&#34;https://alainnicolas.fr/fr/projects/linea-poh-api/&#34;&gt;API Proof of Humanity&lt;/a&gt; utilise les attestations Verax pour déterminer si une adresse satisfait ses critères de vérification. &lt;a href=&#34;https://alainnicolas.fr/fr/projects/proof-of-audit/&#34;&gt;Proof of Audit&lt;/a&gt; les utilise pour consigner la version du code et le smart contract examinés par un auditeur. La &lt;a href=&#34;https://docs.ver.ax/&#34;&gt;documentation officielle de Verax&lt;/a&gt; présente les contrats, les outils et les étapes d’intégration actuels.
+Pour intégrer une attestation dans une application, voir le &lt;a href=&#34;https://alainnicolas.fr/fr/blog/verifier-attestation-verax-linea/&#34;&gt;guide de vérification des attestations Verax sur Linea&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
     <item>

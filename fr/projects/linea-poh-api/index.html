@@ -4,11 +4,12 @@
 
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0"/>
-    <meta name="description" content="Infrastructure de vérification d&#39;identité humaine préservant la vie privée : API multi-tier, résistance Sybil et signatures EIP-712 pour smart contracts.">
-    <meta name="author" content="Alain Nicolas"><meta name="robots" content="index,follow,max-image-preview:large">
+    <meta name="description" content="Étude technique de Linea Proof of Humanity : API historique multi-fournisseurs, attestations Verax, signatures EIP-712 et passage à PoH V2.">
+    <meta name="author" content="Alain Nicolas">
+    <meta name="robots" content="index,follow,max-image-preview:large">
     <meta name="theme-color" content="#0071db">
     <meta property="og:title" content="Linea Proof-of-Humanity API | Projet | Alain Nicolas" />
-<meta property="og:description" content="Infrastructure de vérification d&#39;identité humaine préservant la vie privée : API multi-tier, résistance Sybil et signatures EIP-712 pour smart contracts." />
+<meta property="og:description" content="Étude technique de Linea Proof of Humanity : API historique multi-fournisseurs, attestations Verax, signatures EIP-712 et passage à PoH V2." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://alainnicolas.fr/fr/projects/linea-poh-api/" /><meta property="og:image" content="https://alainnicolas.fr/fr/projects/linea-poh-api/cover_hu_ca8b6b754f7d88a9.jpg"/>
 <meta property="og:image:secure_url" content="https://alainnicolas.fr/fr/projects/linea-poh-api/cover_hu_ca8b6b754f7d88a9.jpg"/>
@@ -17,7 +18,7 @@
 <meta property="og:image:width" content="1200"/>
 <meta property="og:image:height" content="630"/><meta property="article:section" content="projects" />
 <meta property="article:published_time" content="2026-01-02T00:00:00+00:00" />
-<meta property="article:modified_time" content="2026-08-18T23:27:55+02:00" />
+<meta property="article:modified_time" content="2026-11-27T22:40:04+01:00" />
 <meta property="og:locale" content="fr" />
 <meta property="og:locale:alternate" content="en" />
 <meta property="og:site_name" content="Alain Nicolas" />
@@ -27,10 +28,10 @@
 <meta name="twitter:image:alt" content="Linea Proof-of-Humanity API"/>
 
 <meta name="twitter:title" content="Linea Proof-of-Humanity API | Projet | Alain Nicolas" />
-<meta name="twitter:description" content="Infrastructure de vérification d&#39;identité humaine préservant la vie privée : API multi-tier, résistance Sybil et signatures EIP-712 pour smart contracts."/><meta name="twitter:site" content="@Alain_Ncls"/>
+<meta name="twitter:description" content="Étude technique de Linea Proof of Humanity : API historique multi-fournisseurs, attestations Verax, signatures EIP-712 et passage à PoH V2."/><meta name="twitter:site" content="@Alain_Ncls"/>
 <meta name="twitter:creator" content="@Alain_Ncls"/>
     <link rel="alternate" hreflang="fr" href="https://alainnicolas.fr/fr/projects/linea-poh-api/"><link rel="alternate" hreflang="en" href="https://alainnicolas.fr/en/projects/linea-poh-api/"><link rel="alternate" hreflang="x-default" href="https://alainnicolas.fr/fr/projects/linea-poh-api/">
-    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@id":"https://alainnicolas.fr/fr/#person","@type":"Person","email":"mailto:alain.nicolas.epf@gmail.com","homeLocation":"Paris","image":"https://alainnicolas.fr/profile.webp","jobTitle":"Développeur Blockchain Fullstack","name":"Alain Nicolas","sameAs":["https://www.linkedin.com/in/alainnicolas/","https://github.com/alainncls","https://x.com/Alain_Ncls"],"url":"https://alainnicolas.fr/fr/"},{"@id":"https://alainnicolas.fr/fr/#website","@type":"WebSite","description":"En tant que Développeur Blockchain Fullstack, je souhaite maximiser la qualité du code de mes projets afin de toujours livrer de la valeur.","inLanguage":"fr","name":"Alain Nicolas","publisher":{"@id":"https://alainnicolas.fr/fr/#person"},"url":"https://alainnicolas.fr/fr/"},{"@id":"https://alainnicolas.fr/fr/projects/linea-poh-api/#webpage","@type":"WebPage","description":"Infrastructure de vérification d\u0026#39;identité humaine préservant la vie privée : API multi-tier, résistance Sybil et signatures EIP-712 pour smart contracts.","inLanguage":"fr","isPartOf":{"@id":"https://alainnicolas.fr/fr/#website"},"name":"Linea Proof-of-Humanity API | Projet | Alain Nicolas","url":"https://alainnicolas.fr/fr/projects/linea-poh-api/"},{"@id":"https://alainnicolas.fr/fr/projects/linea-poh-api/#breadcrumb","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":"https://alainnicolas.fr/fr/","name":"Alain Nicolas","position":1},{"@type":"ListItem","item":"https://alainnicolas.fr/fr/projects/","name":"Projets réalisés","position":2},{"@type":"ListItem","name":"Linea Proof-of-Humanity API","position":3}]},{"@id":"https://alainnicolas.fr/fr/projects/linea-poh-api/#project","@type":"CreativeWork","author":{"@id":"https://alainnicolas.fr/fr/#person"},"dateModified":"2026-08-18T23:27:55+02:00","datePublished":"2026-01-02T00:00:00Z","description":"Infrastructure de vérification d\u0026#39;identité humaine préservant la vie privée : API multi-tier, résistance Sybil et signatures EIP-712 pour smart contracts.","headline":"Linea Proof-of-Humanity API","image":["https://alainnicolas.fr/fr/projects/linea-poh-api/cover_hu_ca8b6b754f7d88a9.jpg"],"inLanguage":"fr","mainEntityOfPage":{"@id":"https://alainnicolas.fr/fr/projects/linea-poh-api/#webpage"},"sameAs":"https://docs.linea.build/network/how-to/verify-users-with-proof-of-humanity","url":"https://alainnicolas.fr/fr/projects/linea-poh-api/"}]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@id":"https://alainnicolas.fr/fr/#person","@type":"Person","email":"mailto:alain.nicolas.epf@gmail.com","homeLocation":"Paris","image":"https://alainnicolas.fr/profile.webp","jobTitle":"Tech Lead Fullstack","name":"Alain Nicolas","sameAs":["https://www.linkedin.com/in/alainnicolas/","https://github.com/alainncls","https://x.com/Alain_Ncls"],"url":"https://alainnicolas.fr/fr/"},{"@id":"https://alainnicolas.fr/#website","@type":"WebSite","inLanguage":["fr","en"],"name":"Alain Nicolas","publisher":{"@id":"https://alainnicolas.fr/fr/#person"},"url":"https://alainnicolas.fr/"},{"@id":"https://alainnicolas.fr/fr/projects/linea-poh-api/#webpage","@type":"WebPage","breadcrumb":{"@id":"https://alainnicolas.fr/fr/projects/linea-poh-api/#breadcrumb"},"description":"Étude technique de Linea Proof of Humanity : API historique multi-fournisseurs, attestations Verax, signatures EIP-712 et passage à PoH V2.","inLanguage":"fr","isPartOf":{"@id":"https://alainnicolas.fr/#website"},"name":"Linea Proof-of-Humanity API | Projet | Alain Nicolas","url":"https://alainnicolas.fr/fr/projects/linea-poh-api/"},{"@id":"https://alainnicolas.fr/fr/projects/linea-poh-api/#breadcrumb","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":"https://alainnicolas.fr/fr/","name":"Alain Nicolas","position":1},{"@type":"ListItem","item":"https://alainnicolas.fr/fr/projects/","name":"Projets réalisés","position":2},{"@type":"ListItem","name":"Linea Proof-of-Humanity API","position":3}]},{"@id":"https://alainnicolas.fr/fr/projects/linea-poh-api/#project","@type":"CreativeWork","author":{"@id":"https://alainnicolas.fr/fr/#person"},"dateModified":"2026-11-27T22:40:04+01:00","datePublished":"2026-01-02T00:00:00Z","description":"Étude technique de Linea Proof of Humanity : API historique multi-fournisseurs, attestations Verax, signatures EIP-712 et passage à PoH V2.","headline":"Linea Proof-of-Humanity API","image":["https://alainnicolas.fr/fr/projects/linea-poh-api/cover_hu_ca8b6b754f7d88a9.jpg"],"inLanguage":"fr","mainEntityOfPage":{"@id":"https://alainnicolas.fr/fr/projects/linea-poh-api/#webpage"},"sameAs":"https://docs.linea.build/network/how-to/verify-users-with-proof-of-humanity","url":"https://alainnicolas.fr/fr/projects/linea-poh-api/"}]}</script>
 
 
     
@@ -349,20 +350,23 @@
         
         
         
-        <div class="sect1">
-<h2 id="_contexte_du_projet">Contexte du projet</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>Les attaques Sybil représentent l’un des défis majeurs du Web3 : comment s’assurer qu’une adresse correspond à un humain unique et non à un bot ou à de multiples comptes contrôlés par la même personne ?</p>
+        <div class="paragraph">
+<p>Linea Proof of Humanity (PoH) permet aux applications de vérifier si une adresse Ethereum satisfait les critères de preuve d’humanité de Linea. Cette étude présente l’architecture historique à plusieurs fournisseurs, fondée sur le <a href="/fr/projects/verax-attestation-registry/">registre Verax</a> et les signatures EIP-712 pour la vérification dans les smart contracts.</p>
 </div>
-<div class="paragraph">
-<p><strong>Linea Proof-of-Humanity (PoH)</strong> est une infrastructure permettant de vérifier qu’une adresse Ethereum appartient à un utilisateur humain vérifié, tout en préservant sa vie privée.
-Le système s’appuie sur le protocole d’attestations Verax et offre une intégration onchain via des signatures EIP-712.</p>
-</div>
-</div>
+<div class="admonitionblock note">
+<table>
+<tbody><tr>
+<td class="icon">
+<div class="title">Note</div>
+</td>
+<td class="content">
+Linea a retiré le modèle multi-fournisseurs. PoH V2 utilise une seule attestation Sumsub dans Verax. Les endpoints actuels et le contrat de vérification figurent dans le <a href="https://docs.linea.build/network/how-to/verify-users-with-proof-of-humanity">guide d’intégration officiel de Linea</a>.
+</td>
+</tr>
+</tbody></table>
 </div>
 <div class="sect1">
-<h2 id="_architecture_du_système">Architecture du système</h2>
+<h2 id="_architecture_historique">Architecture historique</h2>
 <div class="sectionbody">
 <div class="paragraph">
 <p>L’infrastructure PoH se compose de deux APIs principales :</p>
@@ -375,12 +379,12 @@ Le système s’appuie sur le protocole d’attestations Verax et offre une int�
 <div class="sect3">
 <h4 id="_système_de_tiers">Système de tiers</h4>
 <div class="paragraph">
-<p>Le statut PoH est calculé selon un système de niveaux :</p>
+<p>PoH V1 calculait le statut selon deux niveaux :</p>
 </div>
 <div class="ulist">
 <ul>
 <li>
-<p><strong>Tier 1 (Haute confiance)</strong> : Vérification robustes, type KYC</p>
+<p><strong>Tier 1 (Haute confiance)</strong> : Vérification de type KYC</p>
 </li>
 <li>
 <p><strong>Tier 2 (Confiance modérée)</strong> : Attestations sociales/réputation</p>
@@ -402,7 +406,7 @@ Le système s’appuie sur le protocole d’attestations Verax et offre une int�
 </div>
 </div>
 <div class="sect3">
-<h4 id="_endpoints_principaux">Endpoints principaux</h4>
+<h4 id="_endpoints_pendant_la_transition">Endpoints pendant la transition</h4>
 <div class="listingblock">
 <div class="content">
 <pre class="highlight"><code>GET /poh/:address     # Vérification v1 (multi-issuer)
@@ -437,7 +441,7 @@ POST /poh/batch       # Vérification par lot</code></pre>
 <p>Si vérifié, une signature EIP-712 est générée</p>
 </li>
 <li>
-<p>La signature peut être soumise à n’importe quel smart contract</p>
+<p>L’utilisateur transmet la signature à un smart contract compatible</p>
 </li>
 </ol>
 </div>
@@ -462,7 +466,7 @@ POST /poh/batch       # Vérification par lot</code></pre>
 <h2 id="_intégration_onchain">Intégration onchain</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>Les smart contracts peuvent vérifier le statut PoH de manière trustless.</p>
+<p>Un smart contract peut vérifier la signature EIP-712 onchain à partir d’un signataire de confiance. La signature authentifie la déclaration du signataire sur le statut PoH de l’adresse.</p>
 </div>
 </div>
 </div>
@@ -541,24 +545,9 @@ POST /poh/batch       # Vérification par lot</code></pre>
 <p><a href="https://linea.build/hub?action=profil/">PoH Portal</a></p>
 </li>
 <li>
-<p><a href="https://docs.linea.build/get-started/how-to/verify-users-with-proof-of-humanity">Documentation PoH</a></p>
-</li>
-<li>
-<p><a href="https://docs.linea.build/network/how-to/verify-users-with-proof-of-humanity">Guide Proof of Humanity sur Linea</a></p>
+<p><a href="https://docs.linea.build/network/how-to/verify-users-with-proof-of-humanity">Guide d’intégration Linea PoH V2</a></p>
 </li>
 </ul>
-</div>
-<div class="admonitionblock note">
-<table>
-<tbody><tr>
-<td class="icon">
-<div class="title">Note</div>
-</td>
-<td class="content">
-Linea PoH représente une pièce maîtresse de l’infrastructure d’identité de Linea, permettant de construire des applications Web3 résistantes aux Sybil tout en respectant la vie privée des utilisateurs.
-</td>
-</tr>
-</tbody></table>
 </div>
 </div>
 </div>

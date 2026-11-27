@@ -1,11 +1,11 @@
 # Alain Nicolas
 
-Alain Nicolas is a Paris-based Fullstack Blockchain Developer focused on Web3, Linea, Verax, attestations, smart contracts, developer tooling, software maintenance, and technical writing. This site is a bilingual portfolio and technical blog.
+Alain Nicolas is a Fullstack Tech Lead on the Lineth team at Consensys. He focuses on AI and privacy in the Linea institutional stack and also serves as Head of AI. This site is his French and English portfolio and technical blog.
 
 ## Site Entry Points
 
-- [French homepage](https://alainnicolas.fr/fr/)
-- [English homepage](https://alainnicolas.fr/en/)
+- [French profile](https://alainnicolas.fr/fr/): Current role, experience, and selected projects.
+- [English profile](https://alainnicolas.fr/en/): Current role, experience, and selected projects.
 - [French blog index](https://alainnicolas.fr/fr/blog/)
 - [English blog index](https://alainnicolas.fr/en/blog/)
 - [French project index](https://alainnicolas.fr/fr/projects/)
@@ -15,7 +15,7 @@ Alain Nicolas is a Paris-based Fullstack Blockchain Developer focused on Web3, L
 
 ## Priority Topics
 
-- Fullstack blockchain engineering
+- Fullstack blockchain engineering and privacy on Ethereum
 - Linea ecosystem applications and developer infrastructure
 - Verax attestations and proof-of-humanity systems
 - Smart contract audit proof and onchain reputation
@@ -25,15 +25,22 @@ Alain Nicolas is a Paris-based Fullstack Blockchain Developer focused on Web3, L
 
 ## Priority Project Pages
 
-- [Linea Developer Hub](https://alainnicolas.fr/fr/projects/linea-developer-hub/)
+- [Linea Developer Hub (FR)](https://alainnicolas.fr/fr/projects/linea-developer-hub/): Self-service portal for Linea developers to submit apps and manage events and tokens.
+- [Linea Developer Hub (EN)](https://alainnicolas.fr/en/projects/linea-developer-hub/): Portal features and technical architecture.
 - [Linea Hub](https://alainnicolas.fr/fr/projects/linea-hub/)
-- [Linea Proof-of-Humanity API](https://alainnicolas.fr/fr/projects/linea-poh-api/)
-- [Proof of Audit](https://alainnicolas.fr/fr/projects/proof-of-audit/)
-- [Verax Attestation Registry](https://alainnicolas.fr/fr/projects/verax-attestation-registry/)
+- [Linea Proof of Humanity API (FR)](https://alainnicolas.fr/fr/projects/linea-poh-api/): Verax attestations and EIP-712 signatures for Proof of Humanity checks on Linea.
+- [Linea Proof of Humanity API (EN)](https://alainnicolas.fr/en/projects/linea-poh-api/): Original verification tiers, signature flow, and the move to PoH V2.
+- [Proof of Audit (FR)](https://alainnicolas.fr/fr/projects/proof-of-audit/): Onchain attestations that link an auditor, a commit, and a deployed smart contract.
+- [Proof of Audit (EN)](https://alainnicolas.fr/en/projects/proof-of-audit/): Attestation schema and verification flow.
+- [Verax Attestation Registry (FR)](https://alainnicolas.fr/fr/projects/verax-attestation-registry/): Public attestation registry for EVM chains.
+- [Verax Attestation Registry (EN)](https://alainnicolas.fr/en/projects/verax-attestation-registry/): Smart contracts, indexers, SDK, and explorer.
 - [Discord Attestation](https://alainnicolas.fr/fr/projects/discord-attestation/)
 - [Strava Segment Attestations](https://alainnicolas.fr/fr/projects/strava-segment-attestations/)
 
 ## Priority Articles
+
+- [Verify a Verax attestation on Linea (EN)](https://alainnicolas.fr/en/blog/verify-verax-attestation-linea/): Issuer, schema, revocation, and trust checks for PoH and audit attestations.
+- [Vérifier une attestation Verax sur Linea (FR)](https://alainnicolas.fr/fr/blog/verifier-attestation-verax-linea/): Guide de vérification pour les intégrateurs.
 
 - [When security fails because maintenance did](https://alainnicolas.fr/fr/blog/quand-la-securite-s-effondre-par-manque-de-maintenance/)
 - [The junior developer path is disappearing](https://alainnicolas.fr/fr/blog/la-fin-du-developpeur-junior/)

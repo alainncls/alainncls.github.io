@@ -3,10 +3,43 @@
   <channel>
     <title>Alain Nicolas</title>
     <link>https://alainnicolas.fr/en/</link>
-    <description>As a Fullstack Blockchain Developer at Consensys, I want to maximize the quality of the code of my projects in order to always deliver value.</description>
+    <description>Alain Nicolas, Fullstack Tech Lead on the Lineth team at Consensys. Linea and Verax projects, privacy on Ethereum, and AI in software engineering.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 16:41:19 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 22:41:54 +0100</lastBuildDate>
     <atom:link href="https://alainnicolas.fr/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to verify a Verax attestation on Linea</title>
+      <link>https://alainnicolas.fr/en/blog/verify-verax-attestation-linea/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0100</pubDate>
+      <guid>https://alainnicolas.fr/en/blog/verify-verax-attestation-linea/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;A Verax attestation records a claim about a subject onchain. To use that claim in an application, check who issued it, what its schema means, which subject it covers, and whether it is still valid. The same checks apply to Proof of Humanity and Proof of Audit. The rules for accepting each claim are different.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_what_to_verify_in_the_registry&#34;&gt;What to verify in the registry&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;olist arabic&#34;&gt;
+&lt;ol class=&#34;arabic&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Network and registry.&lt;/strong&gt; Use the registry for the chain on which the attestation was issued. Resolve the attestation ID in that registry. Verax publishes &lt;a href=&#34;https://docs.ver.ax/developer-guides/networks-and-addresses&#34;&gt;contract addresses for its supported networks&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Issuer and portal.&lt;/strong&gt; Check &lt;code&gt;attester&lt;/code&gt; and &lt;code&gt;portal&lt;/code&gt; against the addresses your application trusts for this use case. A portal can apply its own validation modules. A registered schema alone says nothing about who may issue a claim that your application should accept.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Schema and subject.&lt;/strong&gt; Match &lt;code&gt;schemaId&lt;/code&gt; before decoding &lt;code&gt;attestationData&lt;/code&gt;. Interpret &lt;code&gt;subject&lt;/code&gt; with the encoding defined by the integration. It is a byte string and can identify a wallet, a contract, or another attestation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Current status.&lt;/strong&gt; Reject a revoked or expired attestation. A zero &lt;code&gt;expirationDate&lt;/code&gt; means there is no expiry. If &lt;code&gt;replacedBy&lt;/code&gt; is set, resolve the new record and apply the same checks before accepting it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Read the contract state when your decision depends on whether an attestation is valid now. Use the explorer or subgraph to find records. For reproducible checks, record the chain ID, the block number, and the attestation ID. See the &lt;a href=&#34;https://docs.ver.ax/core-concepts/attestations&#34;&gt;Verax attestation data model&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>When security fails because maintenance did</title>
       <link>https://alainnicolas.fr/en/blog/when-security-fails-because-maintenance-did/</link>
@@ -393,56 +426,7 @@ How do you link your social identities to your wallet without relying on a centr
 PDF reports can be forged, website badges easily copied, and no standard exists to verify these claims independently.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;&lt;strong&gt;Proof of Audit&lt;/strong&gt; transforms traditional audits into verifiable cryptographic proofs, permanently stored on the blockchain via the &lt;a href=&#34;https://www.ver.ax/&#34;&gt;Verax&lt;/a&gt; protocol.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;sect1&#34;&gt;
-&lt;h2 id=&#34;_the_problem_solved&#34;&gt;The Problem Solved&lt;/h2&gt;
-&lt;div class=&#34;sectionbody&#34;&gt;
-&lt;div class=&#34;sect2&#34;&gt;
-&lt;h3 id=&#34;_current_situation&#34;&gt;Current Situation&lt;/h3&gt;
-&lt;div class=&#34;ulist&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Protocols display &amp;#34;Audited by X&amp;#34; with no onchain proof&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;PDF reports can be modified or misrepresented&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;No standard way to verify an audit occurred&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Fake audit firms proliferate&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Information asymmetry hurts investors&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;sect2&#34;&gt;
-&lt;h3 id=&#34;_the_solution&#34;&gt;The Solution&lt;/h3&gt;
-&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;An onchain attestation that permanently links:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;olist arabic&#34;&gt;
-&lt;ol class=&#34;arabic&#34;&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;The Auditor&lt;/strong&gt; — Identified by their Ethereum address&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;The Code&lt;/strong&gt; — GitHub repository URL&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;The Version&lt;/strong&gt; — Audited commit hash&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;The Contract&lt;/strong&gt; — Deployed smart contract address&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Proof of Audit&lt;/strong&gt; uses the &lt;a href=&#34;https://alainnicolas.fr/en/projects/verax-attestation-registry/&#34;&gt;Verax registry&lt;/a&gt; to record an audit claim onchain. The record links the auditor’s Ethereum address, the GitHub repository, the audited commit hash, and the deployed contract address. Users can check who issued the claim and which code it covers.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
@@ -506,15 +490,115 @@ Everything you need to plug into a dashboard, a dapp, a bot, an explorer, or any
       <link>https://alainnicolas.fr/en/projects/linea-poh-api/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/projects/linea-poh-api/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;
-&lt;h2 id=&#34;_project_context&#34;&gt;Project Context&lt;/h2&gt;
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Linea Proof of Humanity (PoH) lets applications check whether an Ethereum address meets Linea’s proof-of-personhood criteria. This case study covers the original multi-provider design, based on the &lt;a href=&#34;https://alainnicolas.fr/en/projects/verax-attestation-registry/&#34;&gt;Verax registry&lt;/a&gt; and EIP-712 signatures for smart contract verification.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;admonitionblock note&#34;&gt;
+&lt;table&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td class=&#34;icon&#34;&gt;
+&lt;div class=&#34;title&#34;&gt;Note&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&#34;content&#34;&gt;
+Linea retired the multi-provider model. PoH V2 uses a single Sumsub attestation in Verax. For current endpoints and the verifier contract, see the &lt;a href=&#34;https://docs.linea.build/network/how-to/verify-users-with-proof-of-humanity&#34;&gt;official Linea integration guide&lt;/a&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_original_architecture&#34;&gt;Original Architecture&lt;/h2&gt;
 &lt;div class=&#34;sectionbody&#34;&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Sybil attacks represent one of Web3’s major challenges: how do you ensure that an address corresponds to a unique human and not a bot or multiple accounts controlled by the same person?&lt;/p&gt;
+&lt;p&gt;The PoH infrastructure consists of two main APIs:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_poh_api_off_chain_verification&#34;&gt;PoH API: Off-chain Verification&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;The verification API aggregates Verax attestations to determine an address’s PoH status.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect3&#34;&gt;
+&lt;h4 id=&#34;_tier_system&#34;&gt;Tier System&lt;/h4&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;PoH V1 used a tiered system:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tier 1 (High Trust)&lt;/strong&gt;: KYC-like verification&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tier 2 (Moderate Trust)&lt;/strong&gt;: Social/reputation attestations&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;&lt;strong&gt;Linea Proof-of-Humanity (PoH)&lt;/strong&gt; is an infrastructure for verifying that an Ethereum address belongs to a verified human user while preserving their privacy.
-The system relies on the Verax attestation protocol and offers onchain integration via EIP-712 signatures.&lt;/p&gt;
+&lt;p&gt;To be considered &amp;#34;PoH verified&amp;#34;, an address must have:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1 Tier 1 attestation, AND&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 Tier 2 attestation&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect3&#34;&gt;
+&lt;h4 id=&#34;_api_endpoints_during_the_transition&#34;&gt;API Endpoints During the Transition&lt;/h4&gt;
+&lt;div class=&#34;listingblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;pre class=&#34;highlight&#34;&gt;&lt;code&gt;GET /poh/:address     # v1 verification (multi-issuer)
+GET /poh/v2/:address  # v2 verification (Sumsub only)
+POST /poh/batch       # Batch verification&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect3&#34;&gt;
+&lt;h4 id=&#34;_flagging_system&#34;&gt;Flagging System&lt;/h4&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;A database of suspicious addresses is maintained to ensure the system’s integrity. It is based on community reports and deeper analyses provided notably by Nansen.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_poh_signer_api_bridge_to_onchain&#34;&gt;PoH Signer API: Bridge to onchain&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;This API generates EIP-712 signatures enabling smart contracts to verify PoH status.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect3&#34;&gt;
+&lt;h4 id=&#34;_signing_flow&#34;&gt;Signing Flow&lt;/h4&gt;
+&lt;div class=&#34;olist arabic&#34;&gt;
+&lt;ol class=&#34;arabic&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;User requests a signature for their address&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;API verifies PoH status via the PoH API&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If verified, an EIP-712 signature is generated&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The user submits the signature to a compatible smart contract&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect3&#34;&gt;
+&lt;h4 id=&#34;_signature_security&#34;&gt;Signature Security&lt;/h4&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Web3Signer&lt;/strong&gt;: private key securely stored&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Domain binding&lt;/strong&gt;: signature bound to contract and chainId&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
@@ -750,21 +834,10 @@ Indeed, it is necessary to verify that they respect the imposed security rules, 
       <link>https://alainnicolas.fr/en/projects/verax-attestation-registry/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://alainnicolas.fr/en/projects/verax-attestation-registry/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;
-&lt;h2 id=&#34;_the_context&#34;&gt;The context&lt;/h2&gt;
-&lt;div class=&#34;sectionbody&#34;&gt;
-&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;The first event of the &amp;#34;Linea Voyage&amp;#34;, a quest where participants had to discover the ecosystem of applications and protocols deployed on Linea, met with major enthusiasm.
-Added to this is the possibility of an airdrop on the same network.
-Almost automatically, these circumstances led to the appearance of &amp;#34;sybils&amp;#34;, in other words, multiple Ethereum accounts owned by a single person, to maximize their exposure to a potential airdrop.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;To guarantee a form of equity in the distribution of rewards (only NFTs so far), Linea wanted to set up a system to limit participation to one account per person.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;From a fairly simple use case, many features were imagined, leading to the birth of the &amp;#34;Linea Attestation Registry&amp;#34;, quickly named &amp;#34;Verax&amp;#34;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Verax is a public attestation registry for EVM chains. Applications use it to publish claims that other applications can read and reuse.
+On Linea, the &lt;a href=&#34;https://alainnicolas.fr/en/projects/linea-poh-api/&#34;&gt;Proof of Humanity API&lt;/a&gt; uses Verax attestations to determine whether an address meets its verification criteria. &lt;a href=&#34;https://alainnicolas.fr/en/projects/proof-of-audit/&#34;&gt;Proof of Audit&lt;/a&gt; uses them to record which code version and smart contract an auditor reviewed. The &lt;a href=&#34;https://docs.ver.ax/&#34;&gt;official Verax documentation&lt;/a&gt; covers the current contracts, tools, and integration steps.
+For application integration, see the &lt;a href=&#34;https://alainnicolas.fr/en/blog/verify-verax-attestation-linea/&#34;&gt;guide to verifying Verax attestations on Linea&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
