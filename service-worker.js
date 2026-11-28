@@ -1,4 +1,4 @@
-const ASSET_CACHE = "portfolio-assets-v1";
+const ASSET_CACHE = "portfolio-assets-v2";
 const STATIC_CACHE = "portfolio-static-v1";
 const CACHE_NAMES = new Set([ASSET_CACHE, STATIC_CACHE]);
 const FINGERPRINTED_ASSET_PATTERN = /^\/(?:css|js)\/[^/]+\.[a-f0-9]{64}\.(?:css|js)$/;

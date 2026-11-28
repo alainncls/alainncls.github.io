@@ -1,0 +1,1 @@
+"serviceWorker"in navigator&&window.addEventListener("load",()=>{navigator.serviceWorker.register("/service-worker.js?v=portfolio-assets-v2",{scope:"/",updateViaCache:"none"}).catch(()=>{})})
