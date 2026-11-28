@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "sourceSha": "108fa327e7b7bee837ae8371848e746369190ae6",
-  "outputSha256": "1e989dc7dedab2cea5a9ca27919119090d2ccec01d4ccaca3bbb172f0718b069",
-  "releaseTag": "publish-108fa327e7b7-1e989dc7",
+  "sourceSha": "18e15bf0384195fafcbaef3b8815ebfe5067d733",
+  "outputSha256": "026bcc546e617f59f26abeb68898fbd6b066778cb5bc44f5e08d1013c2917d5e",
+  "releaseTag": "publish-18e15bf03841-026bcc54",
   "generatedFiles": [
     ".nojekyll",
     ".well-known/agent-skills/index.json",
@@ -13,7 +13,7 @@
     "404.html",
     "CNAME",
     "baby-yoda.webp",
-    "css/site.min.2b4b86de727ced36543e605ef3d78893f193310d836cb59926f896aa9046ee0d.css",
+    "css/site.min.b8070b353cfb6f61411434d8ebeca741a74f04f208a0b297e256c80d93c31da8.css",
     "en.png",
     "en/404.html",
     "en/blog/attest-nfts-efrogs-linea-verax/index.html",
